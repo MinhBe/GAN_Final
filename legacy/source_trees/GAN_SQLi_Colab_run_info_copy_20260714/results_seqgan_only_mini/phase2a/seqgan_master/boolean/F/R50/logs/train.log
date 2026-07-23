@@ -1,0 +1,51 @@
+
+[1/3] pretrain G
+G epoch=1/15 loss=4.3925
+G epoch=2/15 loss=3.6276
+G epoch=3/15 loss=3.1288
+G epoch=4/15 loss=2.9792
+G epoch=5/15 loss=2.8430
+G epoch=6/15 loss=2.7387
+G epoch=7/15 loss=2.5897
+G epoch=8/15 loss=2.5125
+G epoch=9/15 loss=2.4169
+G epoch=10/15 loss=2.3146
+G epoch=11/15 loss=2.2344
+G epoch=12/15 loss=2.1580
+G epoch=13/15 loss=2.0673
+G epoch=14/15 loss=2.0479
+G epoch=15/15 loss=1.9651
+
+[2/3] pretrain D
+D step=1/8 epoch=1/2 loss=0.8874 l2=0.2000 label_smoothing=0.000
+D step=1/8 epoch=2/2 loss=0.7334 l2=0.2000 label_smoothing=0.000
+D step=2/8 epoch=1/2 loss=0.6426 l2=0.2000 label_smoothing=0.000
+D step=2/8 epoch=2/2 loss=0.5753 l2=0.2000 label_smoothing=0.000
+D step=3/8 epoch=1/2 loss=0.5110 l2=0.2000 label_smoothing=0.000
+D step=3/8 epoch=2/2 loss=0.4233 l2=0.2000 label_smoothing=0.000
+D step=4/8 epoch=1/2 loss=0.3745 l2=0.2000 label_smoothing=0.000
+D step=4/8 epoch=2/2 loss=0.3243 l2=0.2000 label_smoothing=0.000
+D step=5/8 epoch=1/2 loss=0.2774 l2=0.2000 label_smoothing=0.000
+D step=5/8 epoch=2/2 loss=0.2245 l2=0.2000 label_smoothing=0.000
+D step=6/8 epoch=1/2 loss=0.1984 l2=0.2000 label_smoothing=0.000
+D step=6/8 epoch=2/2 loss=0.1754 l2=0.2000 label_smoothing=0.000
+D step=7/8 epoch=1/2 loss=0.1646 l2=0.2000 label_smoothing=0.000
+D step=7/8 epoch=2/2 loss=0.1392 l2=0.2000 label_smoothing=0.000
+D step=8/8 epoch=1/2 loss=0.1413 l2=0.2000 label_smoothing=0.000
+D step=8/8 epoch=2/2 loss=0.1200 l2=0.2000 label_smoothing=0.000
+
+[3/3] adversarial
+generator_reward_mode=off reward_alpha=1.000 d_steps=3 d_epochs=1
+D step=1/3 epoch=1/1 loss=0.1440 l2=0.2000 label_smoothing=0.000
+D step=2/3 epoch=1/1 loss=0.1310 l2=0.2000 label_smoothing=0.000
+D step=3/3 epoch=1/1 loss=0.1151 l2=0.2000 label_smoothing=0.000
+ADV epoch=1/6 g_loss=0.0779 d_loss=0.1300 reward=0.0339 reward_var=0.0037 unique=1.0000
+D step=1/3 epoch=1/1 loss=0.1185 l2=0.2000 label_smoothing=0.000
+D step=2/3 epoch=1/1 loss=0.1019 l2=0.2000 label_smoothing=0.000
+D step=3/3 epoch=1/1 loss=0.0905 l2=0.2000 label_smoothing=0.000
+ADV epoch=2/6 g_loss=0.1017 d_loss=0.1036 reward=0.0456 reward_var=0.0104 unique=1.0000
+D step=1/3 epoch=1/1 loss=0.0979 l2=0.2000 label_smoothing=0.000
+D step=2/3 epoch=1/1 loss=0.0896 l2=0.2000 label_smoothing=0.000
+D step=3/3 epoch=1/1 loss=0.0838 l2=0.2000 label_smoothing=0.000
+ADV epoch=3/6 g_loss=0.0228 d_loss=0.0904 reward=0.0114 reward_var=0.0010 unique=1.0000
+saved 200 raw samples to /content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_seqgan_only_mini/phase2a/seqgan_master/boolean/F/R50/generated_payloads.csv

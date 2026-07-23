@@ -1,0 +1,72 @@
+{
+  "phase": "phase2b",
+  "selected": 49,
+  "completed": [
+    {
+      "run_id": "phase2b__seqgan_master__boolean__D__R100",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_phase2b_phase3/phase2b/shard_001.stdout.log"
+    },
+    {
+      "run_id": "phase2b__seqgan_master__boolean__D__R20",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_phase2b_phase3/phase2b/shard_002.stdout.log"
+    },
+    {
+      "run_id": "phase2b__seqgan_master__boolean__D__R200",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_phase2b_phase3/phase2b/shard_003.stdout.log"
+    }
+  ],
+  "failed": [],
+  "running": [
+    "phase2b__seqgan_master__boolean__D__R10",
+    "phase2b__seqgan_master__boolean__D__R50"
+  ],
+  "pending": [
+    "phase2b__seqgan_master__boolean__D__R500",
+    "phase2b__seqgan_master__boolean__D__Rfull",
+    "phase2b__seqgan_master__boolean__E__R10",
+    "phase2b__seqgan_master__boolean__E__R100",
+    "phase2b__seqgan_master__boolean__E__R20",
+    "phase2b__seqgan_master__boolean__E__R200",
+    "phase2b__seqgan_master__boolean__E__R50",
+    "phase2b__seqgan_master__boolean__E__R500",
+    "phase2b__seqgan_master__boolean__E__Rfull",
+    "phase2b__seqgan_master__error__B__R100",
+    "phase2b__seqgan_master__error__B__R20",
+    "phase2b__seqgan_master__error__B__R200",
+    "phase2b__seqgan_master__error__B__R50",
+    "phase2b__seqgan_master__error__B__R500",
+    "phase2b__seqgan_master__error__B__Rfull",
+    "phase2b__seqgan_master__error__D__R100",
+    "phase2b__seqgan_master__error__D__R200",
+    "phase2b__seqgan_master__error__D__R50",
+    "phase2b__seqgan_master__error__D__R500",
+    "phase2b__seqgan_master__error__D__Rfull",
+    "phase2b__seqgan_master__time__A__R100",
+    "phase2b__seqgan_master__time__A__R20",
+    "phase2b__seqgan_master__time__A__R200",
+    "phase2b__seqgan_master__time__A__R50",
+    "phase2b__seqgan_master__time__A__R500",
+    "phase2b__seqgan_master__time__A__Rfull",
+    "phase2b__seqgan_master__time__D__R100",
+    "phase2b__seqgan_master__time__D__R200",
+    "phase2b__seqgan_master__time__D__R50",
+    "phase2b__seqgan_master__time__D__R500",
+    "phase2b__seqgan_master__time__D__Rfull",
+    "phase2b__seqgan_master__union__D__R100",
+    "phase2b__seqgan_master__union__D__R20",
+    "phase2b__seqgan_master__union__D__R200",
+    "phase2b__seqgan_master__union__D__R50",
+    "phase2b__seqgan_master__union__D__R500",
+    "phase2b__seqgan_master__union__D__Rfull",
+    "phase2b__seqgan_master__union__F__R10",
+    "phase2b__seqgan_master__union__F__R100",
+    "phase2b__seqgan_master__union__F__R20",
+    "phase2b__seqgan_master__union__F__R200",
+    "phase2b__seqgan_master__union__F__R50",
+    "phase2b__seqgan_master__union__F__R500",
+    "phase2b__seqgan_master__union__F__Rfull"
+  ]
+}

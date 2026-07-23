@@ -1,0 +1,21 @@
+{
+  "method": "smote",
+  "dataset": "data/prepared/phase2a/boolean/B/attack_train.csv",
+  "family": "boolean",
+  "seed": 88,
+  "config": "medium",
+  "n_train_attack": 312,
+  "n_samples_requested": 200,
+  "n_samples_generated": 200,
+  "n_unique_generated_payloads": 133,
+  "input_family_counts": {
+    "boolean": 312
+  },
+  "output_family_counts": {
+    "boolean": 200
+  },
+  "k_neighbors": 5,
+  "feature_count": 70,
+  "duplicates_preserved": true,
+  "stop_reason": "completed"
+}

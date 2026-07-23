@@ -1,0 +1,569 @@
+Folder PATH listing for volume 65aminh@gmail.com - Google Drive
+Volume serial number is 000000DC 1983:1116
+H:.
+¦   output.txt
+¦   
++---boolean
+¦   +---D
+¦   ¦   +---R10
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           train.log
+¦   ¦   ¦           
+¦   ¦   +---R100
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   quality_metrics.json
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   rf_metrics.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           quality.log
+¦   ¦   ¦           train.log
+¦   ¦   ¦           rf.log
+¦   ¦   ¦           
+¦   ¦   +---R20
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   quality_metrics.json
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   rf_metrics.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           quality.log
+¦   ¦   ¦           train.log
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           rf.log
+¦   ¦   ¦           
+¦   ¦   +---R200
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   quality_metrics.json
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   rf_metrics.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           train.log
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           quality.log
+¦   ¦   ¦           rf.log
+¦   ¦   ¦           
+¦   ¦   +---R50
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           train.log
+¦   ¦   ¦           
+¦   ¦   +---R500
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   quality_metrics.json
+¦   ¦   ¦   ¦   rf_metrics.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           quality.log
+¦   ¦   ¦           train.log
+¦   ¦   ¦           rf.log
+¦   ¦   ¦           
+¦   ¦   +---Rfull
+¦   ¦       ¦   run_manifest.json
+¦   ¦       ¦   
+¦   ¦       +---logs
+¦   +---E
+¦       +---R10
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       +---R20
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       +---R50
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   generated_payloads.csv
+¦       ¦   ¦   discriminator.pt
+¦       ¦   ¦   generated_feature_vectors.csv
+¦       ¦   ¦   generator.pt
+¦       ¦   ¦   tokenizer.json
+¦       ¦   ¦   training_metadata.json
+¦       ¦   ¦   quality_metrics.json
+¦       ¦   ¦   rf_metrics.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       ¦           epoch_metrics.csv
+¦       ¦           quality.log
+¦       ¦           train.log
+¦       ¦           rf.log
+¦       ¦           
+¦       +---R100
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   training_metadata.json
+¦       ¦   ¦   generated_feature_vectors.csv
+¦       ¦   ¦   tokenizer.json
+¦       ¦   ¦   generator.pt
+¦       ¦   ¦   generated_payloads.csv
+¦       ¦   ¦   discriminator.pt
+¦       ¦   ¦   quality_metrics.json
+¦       ¦   ¦   rf_metrics.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       ¦           epoch_metrics.csv
+¦       ¦           train.log
+¦       ¦           quality.log
+¦       ¦           rf.log
+¦       ¦           
+¦       +---R500
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   training_metadata.json
+¦       ¦   ¦   generated_payloads.csv
+¦       ¦   ¦   tokenizer.json
+¦       ¦   ¦   generated_feature_vectors.csv
+¦       ¦   ¦   discriminator.pt
+¦       ¦   ¦   generator.pt
+¦       ¦   ¦   quality_metrics.json
+¦       ¦   ¦   rf_metrics.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       ¦           epoch_metrics.csv
+¦       ¦           train.log
+¦       ¦           quality.log
+¦       ¦           rf.log
+¦       ¦           
+¦       +---R200
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   generated_feature_vectors.csv
+¦       ¦   ¦   generated_payloads.csv
+¦       ¦   ¦   generator.pt
+¦       ¦   ¦   tokenizer.json
+¦       ¦   ¦   training_metadata.json
+¦       ¦   ¦   discriminator.pt
+¦       ¦   ¦   quality_metrics.json
+¦       ¦   ¦   rf_metrics.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       ¦           epoch_metrics.csv
+¦       ¦           train.log
+¦       ¦           quality.log
+¦       ¦           rf.log
+¦       ¦           
+¦       +---Rfull
+¦           ¦   run_manifest.json
+¦           ¦   
+¦           +---logs
++---error
+¦   +---D
+¦   ¦   +---R50
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   quality_metrics.json
+¦   ¦   ¦   ¦   rf_metrics.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           quality.log
+¦   ¦   ¦           train.log
+¦   ¦   ¦           rf.log
+¦   ¦   ¦           
+¦   ¦   +---R100
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   quality_metrics.json
+¦   ¦   ¦   ¦   rf_metrics.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           train.log
+¦   ¦   ¦           quality.log
+¦   ¦   ¦           rf.log
+¦   ¦   ¦           
+¦   ¦   +---R200
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   quality_metrics.json
+¦   ¦   ¦   ¦   rf_metrics.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           train.log
+¦   ¦   ¦           quality.log
+¦   ¦   ¦           rf.log
+¦   ¦   ¦           
+¦   ¦   +---R500
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   quality_metrics.json
+¦   ¦   ¦   ¦   rf_metrics.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           quality.log
+¦   ¦   ¦           train.log
+¦   ¦   ¦           rf.log
+¦   ¦   ¦           
+¦   ¦   +---Rfull
+¦   ¦       ¦   run_manifest.json
+¦   ¦       ¦   
+¦   ¦       +---logs
+¦   +---B
+¦       +---R500
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   training_metadata.json
+¦       ¦   ¦   tokenizer.json
+¦       ¦   ¦   generator.pt
+¦       ¦   ¦   generated_feature_vectors.csv
+¦       ¦   ¦   generated_payloads.csv
+¦       ¦   ¦   discriminator.pt
+¦       ¦   ¦   quality_metrics.json
+¦       ¦   ¦   rf_metrics.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       ¦           epoch_metrics.csv
+¦       ¦           quality.log
+¦       ¦           train.log
+¦       ¦           rf.log
+¦       ¦           
+¦       +---Rfull
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       +---R50
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       +---R200
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   generated_payloads.csv
+¦       ¦   ¦   quality_metrics.json
+¦       ¦   ¦   tokenizer.json
+¦       ¦   ¦   generator.pt
+¦       ¦   ¦   generated_feature_vectors.csv
+¦       ¦   ¦   training_metadata.json
+¦       ¦   ¦   discriminator.pt
+¦       ¦   ¦   rf_metrics.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       ¦           epoch_metrics.csv
+¦       ¦           quality.log
+¦       ¦           train.log
+¦       ¦           rf.log
+¦       ¦           
+¦       +---R20
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       +---R100
+¦           ¦   run_manifest.json
+¦           ¦   
+¦           +---logs
++---time
+¦   +---A
+¦   ¦   +---R100
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   quality_metrics.json
+¦   ¦   ¦   ¦   rf_metrics.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           train.log
+¦   ¦   ¦           quality.log
+¦   ¦   ¦           rf.log
+¦   ¦   ¦           
+¦   ¦   +---R50
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   quality_metrics.json
+¦   ¦   ¦   ¦   rf_metrics.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           quality.log
+¦   ¦   ¦           train.log
+¦   ¦   ¦           rf.log
+¦   ¦   ¦           
+¦   ¦   +---R200
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   quality_metrics.json
+¦   ¦   ¦   ¦   rf_metrics.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           train.log
+¦   ¦   ¦           quality.log
+¦   ¦   ¦           rf.log
+¦   ¦   ¦           
+¦   ¦   +---Rfull
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   +---R500
+¦   ¦   ¦   ¦   run_manifest.json
+¦   ¦   ¦   ¦   generated_payloads.csv
+¦   ¦   ¦   ¦   training_metadata.json
+¦   ¦   ¦   ¦   generated_feature_vectors.csv
+¦   ¦   ¦   ¦   tokenizer.json
+¦   ¦   ¦   ¦   generator.pt
+¦   ¦   ¦   ¦   discriminator.pt
+¦   ¦   ¦   ¦   quality_metrics.json
+¦   ¦   ¦   ¦   rf_metrics.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           epoch_metrics.csv
+¦   ¦   ¦           train.log
+¦   ¦   ¦           quality.log
+¦   ¦   ¦           rf.log
+¦   ¦   ¦           
+¦   ¦   +---R20
+¦   ¦       ¦   run_manifest.json
+¦   ¦       ¦   
+¦   ¦       +---logs
+¦   +---D
+¦       +---R500
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   tokenizer.json
+¦       ¦   ¦   training_metadata.json
+¦       ¦   ¦   discriminator.pt
+¦       ¦   ¦   generated_feature_vectors.csv
+¦       ¦   ¦   generated_payloads.csv
+¦       ¦   ¦   generator.pt
+¦       ¦   ¦   quality_metrics.json
+¦       ¦   ¦   rf_metrics.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       ¦           epoch_metrics.csv
+¦       ¦           train.log
+¦       ¦           quality.log
+¦       ¦           rf.log
+¦       ¦           
+¦       +---Rfull
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       +---R50
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   discriminator.pt
+¦       ¦   ¦   generated_feature_vectors.csv
+¦       ¦   ¦   generator.pt
+¦       ¦   ¦   generated_payloads.csv
+¦       ¦   ¦   tokenizer.json
+¦       ¦   ¦   training_metadata.json
+¦       ¦   ¦   quality_metrics.json
+¦       ¦   ¦   rf_metrics.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       ¦           epoch_metrics.csv
+¦       ¦           train.log
+¦       ¦           quality.log
+¦       ¦           rf.log
+¦       ¦           
+¦       +---R200
+¦       ¦   ¦   run_manifest.json
+¦       ¦   ¦   discriminator.pt
+¦       ¦   ¦   generated_payloads.csv
+¦       ¦   ¦   generator.pt
+¦       ¦   ¦   generated_feature_vectors.csv
+¦       ¦   ¦   tokenizer.json
+¦       ¦   ¦   training_metadata.json
+¦       ¦   ¦   quality_metrics.json
+¦       ¦   ¦   rf_metrics.json
+¦       ¦   ¦   
+¦       ¦   +---logs
+¦       ¦           epoch_metrics.csv
+¦       ¦           quality.log
+¦       ¦           train.log
+¦       ¦           rf.log
+¦       ¦           
+¦       +---R100
+¦           ¦   run_manifest.json
+¦           ¦   training_metadata.json
+¦           ¦   generated_payloads.csv
+¦           ¦   generator.pt
+¦           ¦   generated_feature_vectors.csv
+¦           ¦   tokenizer.json
+¦           ¦   discriminator.pt
+¦           ¦   quality_metrics.json
+¦           ¦   rf_metrics.json
+¦           ¦   
+¦           +---logs
+¦                   epoch_metrics.csv
+¦                   train.log
+¦                   quality.log
+¦                   rf.log
+¦                   
++---union
+    +---D
+    ¦   +---R100
+    ¦   ¦   ¦   run_manifest.json
+    ¦   ¦   ¦   
+    ¦   ¦   +---logs
+    ¦   +---R20
+    ¦   ¦   ¦   run_manifest.json
+    ¦   ¦   ¦   
+    ¦   ¦   +---logs
+    ¦   +---Rfull
+    ¦   ¦   ¦   run_manifest.json
+    ¦   ¦   ¦   
+    ¦   ¦   +---logs
+    ¦   +---R500
+    ¦   ¦   ¦   run_manifest.json
+    ¦   ¦   ¦   generator.pt
+    ¦   ¦   ¦   generated_payloads.csv
+    ¦   ¦   ¦   training_metadata.json
+    ¦   ¦   ¦   tokenizer.json
+    ¦   ¦   ¦   discriminator.pt
+    ¦   ¦   ¦   generated_feature_vectors.csv
+    ¦   ¦   ¦   quality_metrics.json
+    ¦   ¦   ¦   rf_metrics.json
+    ¦   ¦   ¦   
+    ¦   ¦   +---logs
+    ¦   ¦           epoch_metrics.csv
+    ¦   ¦           train.log
+    ¦   ¦           quality.log
+    ¦   ¦           rf.log
+    ¦   ¦           
+    ¦   +---R200
+    ¦   ¦   ¦   run_manifest.json
+    ¦   ¦   ¦   tokenizer.json
+    ¦   ¦   ¦   generator.pt
+    ¦   ¦   ¦   generated_feature_vectors.csv
+    ¦   ¦   ¦   discriminator.pt
+    ¦   ¦   ¦   training_metadata.json
+    ¦   ¦   ¦   generated_payloads.csv
+    ¦   ¦   ¦   quality_metrics.json
+    ¦   ¦   ¦   rf_metrics.json
+    ¦   ¦   ¦   
+    ¦   ¦   +---logs
+    ¦   ¦           epoch_metrics.csv
+    ¦   ¦           train.log
+    ¦   ¦           quality.log
+    ¦   ¦           rf.log
+    ¦   ¦           
+    ¦   +---R50
+    ¦       ¦   run_manifest.json
+    ¦       ¦   
+    ¦       +---logs
+    +---F
+        +---R100
+        ¦   ¦   run_manifest.json
+        ¦   ¦   
+        ¦   +---logs
+        +---R20
+        ¦   ¦   run_manifest.json
+        ¦   ¦   
+        ¦   +---logs
+        +---Rfull
+        ¦   ¦   run_manifest.json
+        ¦   ¦   
+        ¦   +---logs
+        +---R500
+        ¦   ¦   run_manifest.json
+        ¦   ¦   generator.pt
+        ¦   ¦   generated_payloads.csv
+        ¦   ¦   tokenizer.json
+        ¦   ¦   training_metadata.json
+        ¦   ¦   discriminator.pt
+        ¦   ¦   generated_feature_vectors.csv
+        ¦   ¦   quality_metrics.json
+        ¦   ¦   rf_metrics.json
+        ¦   ¦   
+        ¦   +---logs
+        ¦           epoch_metrics.csv
+        ¦           train.log
+        ¦           quality.log
+        ¦           rf.log
+        ¦           
+        +---R50
+        ¦   ¦   run_manifest.json
+        ¦   ¦   
+        ¦   +---logs
+        +---R200
+        ¦   ¦   run_manifest.json
+        ¦   ¦   generated_feature_vectors.csv
+        ¦   ¦   discriminator.pt
+        ¦   ¦   training_metadata.json
+        ¦   ¦   tokenizer.json
+        ¦   ¦   quality_metrics.json
+        ¦   ¦   generated_payloads.csv
+        ¦   ¦   generator.pt
+        ¦   ¦   rf_metrics.json
+        ¦   ¦   
+        ¦   +---logs
+        ¦           epoch_metrics.csv
+        ¦           train.log
+        ¦           quality.log
+        ¦           rf.log
+        ¦           
+        +---R10
+            ¦   run_manifest.json
+            ¦   
+            +---logs

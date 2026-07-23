@@ -1,0 +1,502 @@
+label,payload,family,payload_type,method,run_id,sample_index
+attack,"select   (  (  (  (  (  0x5c,,,  (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,0
+attack," AND updatexml  (  (  4415(  ,case (  (  7982",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,1
+attack,"select   (  (  (  (    case extractvalue,  (    5847",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,2
+attack," (  )   1  (  0x5c,0x7171706a71,concat  (  6804  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,3
+attack,"select   (  (  case and 1  (  u,,0x7171706a71,  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,4
+attack,"select   (  (  and when   (  (  ,  (  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,5
+attack,"select   (  =  (  (  7997  4125  (  3393,0x7171706a71,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,6
+attack,select   (  updatexml  (    (  select   (    (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,7
+attack,select   (  select   (    (  (  case (  (  case,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,8
+attack,1' extractvalue  (  5847  17595198(  (  select   or  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,9
+attack,1 when   (  or 1  select   (  (  (  0x5c2501,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,10
+attack,"select   (  (  (  (  1724  )  (  3393,concat  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,11
+attack,"1 when updatexml  0x2e,(  (  updatexml  (  select   (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,12
+attack, AND when   (  (  or when   (  5847  t  3539,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,13
+attack,"select   (  (  1724  (  (  79820x7171706a71,  (  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,14
+attack,"select   (  case p   (  1297,0x7171706a71case and when   (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,15
+attack,"select   (    when   (  0x5c  (  79820x7171706a71,concat"" (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,16
+attack,"select   (  (  1808,  (  (  (  =  6134  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,17
+attack,"select   (  (  (  (  (  (  =  1297,0x7171706a710x5c",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,18
+attack,select   (  (  p when   (   extractvalue  =  (  0x5c,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,19
+attack,1  andor  extractvalue  (    (    extractvalue  (  then,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,20
+attack,",    (  (  0x5c,  (  (  1812  (  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,21
+attack,select   (  pr ac  a(ossupdatexml(  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,22
+attack,select   (  select   (  (  (  (  updatexml  (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,23
+attack,"1"" when  (   when   (  select   (  or updatexml  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,24
+attack,select   (  =  (  1808  (  select   (  3217  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,25
+attack,select   (  =   (  )  8841  (  =  4774  =,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,26
+attack,1' when   and when   (  case  0x2e   (  or or,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,27
+attack,"select   (  (  3576  select   (  extractvalue  (  0x5c,0x7171706a71,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,28
+attack,1 pra   (  2501  )   then when   (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,29
+attack,"AND case extractvalue  (  (=  (  51981759,,0x7171706a71extractvalue  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,30
+attack,1 and when   (  case updatexml extractvalue  (  (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,31
+attack,AND(  case (  (  case updatexml  (  select   (  1,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,32
+attack,"select updatexml,  (    (  (  (  (  ,  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,33
+attack,"1"" extractvalue  (  5777  (  (  5464  =  1354  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,34
+attack,"select   (    when,,concat  (  case when   (  3393  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,35
+attack,select   (  (  9350  (  )   (  5464  (  selectt,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,36
+attack,select   (    (  (  (  select   (  1724  p(  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,37
+attack," when,  (  (  (  (  0x2e,0x7171706a71,  (  select",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,38
+attack,"selectselect   (  2917,,   updatexml  (  (  (  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,39
+attack,select   (  5847  (  8868  (  (  )   (  u(,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,40
+attack,"select   (  =  (  (  3681  (  1808,0x7171706a71,,concat",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,41
+attack," when   (  (  0x5c,,  (  (  (  79823335  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,42
+attack,"1, orselect   (  (  (  3681  (  =  select   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,43
+attack,"1'updatexml(    select   (   when     (  ,  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,44
+attack,"1"" or or extractvalue (  u,  (  (  0x5c,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,45
+attack,"select   (  when,  (    u(  (  2917,concat  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,46
+attack, AND updatexml  (  (  or updatexml  (  (  case and,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,47
+attack,"1  (   extractvalue  (    (  0x5c,0x7171706a71,  (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,48
+attack,1 updatexml  (  case and   (   updatexml  (    (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,49
+attack,"1 updatexml"" updatexml  (  (  6804  1808l9788,0x7171706a71,0x7171706a71",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,50
+attack,1 and orwhen   (  (  7997(  (  ))   (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,51
+attack,1extractvalue extractvalue  (  9350  (  )   or extractvalue  )  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,52
+attack,"select   (   (  (    p(  0x2e,0x7171706a71,  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,53
+attack,1   (  extractvalue  (   and when   (  (  =  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,54
+attack,"select   (   (  (  (  3681    (  0x7171706a71,concat   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,55
+attack,select   (  case updatexml  (  (  1808 and1  extractvalue  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,56
+attack,"1  (  (  select,  (    (  (  updatexml  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,57
+attack,select   (  (  (  case ;  (  case extractvalue or ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,58
+attack,select   (  (  (  (  select   (  (  (  2917  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,59
+attack,1 and updatexml  (  (  when  (  (  =  e ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,60
+attack,select   (    (  (  (  (  case when   (  0x2e,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,61
+attack,1 or =  (  )case or when   (  0x5c  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,62
+attack,"1 updatexml  (  ,  (  (    casecase when   (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,63
+attack,"1 or when   (  when,  (  u8862,   (    ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,64
+attack,"select   (  uwhen   (  3217,  (  (  =  1297,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,65
+attack,1 and or updatexmlextractvalue  (  case updatexml  (  3364  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,66
+attack,"select   (  (  =  (    updatexml  (  1808,8318  =",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,67
+attack,"select   (  0x5c, extractvalue  (  (  (  (  (  1297",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,68
+attack, (  (  )   (   updatexml  (  (  (  select   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,69
+attack,1' oror updatexml  (  (  (  case pwhen   (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,70
+attack,"select   (  case 2768    (  (  1759,0x7171706a71,   (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,71
+attack,"1 pdre )   (  =  6581  8868  3393,0x7171706a71",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,72
+attack, or and when   (  (  (  =    (  0x5ct,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,73
+attack,"1, (  and extractvalue  select   ((  (  0x5c,  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,74
+attack,select   or (     (  (  extractvalue(  extractvalue  (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,75
+attack,"1"" updatexml(  (  (  0x2e,1297  (  (  )   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,76
+attack,"select   (  (  u,   (  (  ) (  case when",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,77
+attack,select   (  =  (  (  =  when   (  (  case ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,78
+attack,select   (  5198  (  6804  select   (    6581  =   (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,79
+attack,1 updatexml  (  (  updatexml  5704(  and  (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,80
+attack,"select   (  (  (  (  (  1808,0x7171706a71,  (  case",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,81
+attack,"select   (  =  (  and 1  (  (  =  1297,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,82
+attack,select   (extractvalue  =  (  0x5c  case updatexml   extractvalue  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,83
+attack,select   (  (  6804  1  (   then  (  case extractvalue  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,84
+attack, AND(  (  =  (  utnar)   then  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,85
+attack, 1  9103and when   (  (  (  select   (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,86
+attack,1 7636  (  =  =   when   (  (    =  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,87
+attack,1' andupdatexml and (  2917  (  case when   (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,88
+attack,select   (  3576  =  uture    then updatexml  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,89
+attack,"11"" updatexml  (  and extractvalue  (  (  case pd",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,90
+attack,select   (  updatexml  and updatexml  (  1354  (  updatexml  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,91
+attack,1 when   (  (  or when  (  (  =  4688  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,92
+attack, and updatexml  (  3217  case 5704  (  65604568  =  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,93
+attack,"1  (  1759,concat  (  (  (  l_concat  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,94
+attack,"select   (  extractvalue  =  (  (  0x5c,0x7171706a71,  (  0x5c",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,95
+attack,"select   then extractvalue  (    (  ,  =  =  e l",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,96
+attack,1 praedl_iycegeselect   (  1812,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,97
+attack,"1 extractvalue  (  3393,  (  (  3393,  (  =  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,98
+attack,"1' extractvaluecase updatexml  (  (  0x2e  (  ,  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,99
+attack,"1 or  when   (    0x2e,  (  1  =  )",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,100
+attack,"select   (    (  (  (  5847  (  when,  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,101
+attack,1 extractvalue  select   (  (  (  (  (  =  =   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,102
+attack,select(  and(  (  (  =  (  6461  or or ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,103
+attack,1' (  (    (  (  r  (  =  =  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,104
+attack,case extractvalue  (  (    =  =  ur.   ors,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,105
+attack," updatexml  (  9350  (  4568(  select   (  0x5c,0x7171706a71,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,106
+attack,"1 updatexml and 0x5c,(  (  5603  when,  =  0x2e",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,107
+attack,select   when   (  =  (  case updatexml  (  5740(  9350,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,108
+attack,"'.and extractvalue  (  1297  (  (  pu,,concat  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,109
+attack,selectcase AND updatexml  (  or or or and extractvalue  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,110
+attack,select   (  5198     (  select   (  =  (  8403  =,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,111
+attack,"select   (  casewhen   (    (  (  1297,0x5c  3863  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,112
+attack,1   updatexml  (  case9103 (  (    (  9103  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,113
+attack,lupdatexml  (  (  select   (  when   (  (  (  0x2e,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,114
+attack,1'and   (  (  (  (  then when  (  8421,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,115
+attack,select   (  (  case (  2917  (  5847  u(  =,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,116
+attack,"1' or extractvalue  (  (  (  (  2914,  updatexml,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,117
+attack,"1'extractvalue  (  0x5c,0x7171706a71,  (  (  8375   when   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,118
+attack,"select  (  (  select   (  1  (  7982,concat  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,119
+attack,select6581  ((    (  (  1808lthen or  (  and,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,120
+attack,,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,121
+attack,"1 or extractvalue  (  (  8375  )  (  3393,0x7171706a71  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,122
+attack,"1  )   (  8375   (  (  0x2e,  (  6581  ,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,123
+attack,select   (  (  t(  4568  (  =  7151   (  1808,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,124
+attack,"1  )   (  (  when,  (  pdr.=  )",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,125
+attack,select   (  (  case updatexml  (  (  (  (  5530  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,126
+attack,"select   (  (  (  3393,  (  case 
+((  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,127
+attack,"1"" or updatexml  (  (  5603  (  =  )   (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,128
+attack," AND(  (  1808,  (  then when  (  (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,129
+attack,"select   (  9490  (  (  (  0x2e,concat  (  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,130
+attack, when   (  case (  (  7997  (  4660  (  1808,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,131
+attack,"select   (  0x2e,0x7171706a71,  (  (  (  (   1concat",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,132
+attack,"select   (  (  4660  0x5c,0x7171706a71,  ,  (  case when",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,133
+attack,"selecta5740updatexml(  when  (  )   (  7982,0x7171706a71(  0x2e",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,134
+attack,select   (  6581  (  (  =  )   then pANDc  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,135
+attack,select   (  (  5423   (  select   (  5740  (    ),error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,136
+attack,select   (  case when   (  case AND s and (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,137
+attack,"1' updatexml  (    0x5c,  (  (  select   (   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,138
+attack,1 and and (  (  when   (  case and and ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,139
+attack," when and or pr.(  (     (  ,"",",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,140
+attack,"select   when   (  7982,  (  )   (  (  when  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,141
+attack,1extractvalueeand when     (  case =  9393  (  8421  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,142
+attack,"1 updatexml  (  (  4568  extractvalue(  (  3393,  =  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,143
+attack,1  =  or updatexml(  (  (  (  andu (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,144
+attack,"select   (    (    extractvalue  (  5322   (  (  7982,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,145
+attack,"select   (  (  case updatexml  (  0x5c,1808 extractvalue  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,146
+attack,"1' (  (  =  7982  (  (  1808,  =,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,147
+attack," (  (  6166  =(  )   (  0x2e,0x7171706a71,  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,148
+attack,"select   (  (  1  68041  =)   (  =3393,0x7171706a71",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,149
+attack, AND when   (  (    (    naddros,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,150
+attack,"1,"" updatexml(  (  (  5464  =  8768  ,   (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,151
+attack,select   (  (  (  (    (    5464  =  ur,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,152
+attack,"1 updatexml when  (  (  ,concat  (    (  when   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,153
+attack,"1' updatexml  (  (  (  (  ,0x5c,0x7171706a712051  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,154
+attack,"select   (  0x5c,  (  (  select   (  case (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,155
+attack,select   (  case when   (    (  7706   (  select   then,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,156
+attack,select   (  (  8841  =  =    ut_e en,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,157
+attack,"select   (  (  0x5c,  (  (  (  0x2e,0x7171706a71   (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,158
+attack,1 or updatexml  (  (  pre ua7529  =  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,159
+attack,1 ANDpgc  s =  (  =   extractvalueoee,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,160
+attack,select   (  5704  (  (  (  (  (  (  1724n,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,161
+attack,select   (  7982   (  ptr.eeose extractvalue  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,162
+attack, ply_iddrel_indr.=  1808,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,163
+attack,1' extractvalue  (  select   (  (  (  =  =  ),error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,164
+attack,"selecta( (  1808(  (    (  0x5c,s(  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,165
+attack,"1 when,concat  (  (  2826     (  4774  )   (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,166
+attack,a1 updatexml(  (  (  (  9393  =  )   when   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,167
+attack,"1"" or extractvalueor (    (    (  (  =  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,168
+attack,select   (  9103updatexml  7151  (    =  )   then and ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,169
+attack,"select   (  (  (  3393,0x7171706a71,concat  (  7997  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,170
+attack," updatexml  (  (  (  ,  (  =  ,,  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,171
+attack,select   (  )  (  when  (  2914=  )  =  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,172
+attack,select   (  (  (    (  (  =  u   (   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,173
+attack,"select   (  =  case (    (  (  0x2e,  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,174
+attack,select   (  case u  AND(  (  (  p)   then,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,175
+attack,"'  (  case extractvalue  (  5777  (  (  (  0x2e,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,176
+attack,"select   (  extractvalue5740(  (  (  (  7997  0x2e,0x7171706a71,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,177
+attack,1'pre or and updatexml  (  (  3217  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,178
+attack, and)   (  7151   (  (  (  (  (  and,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,179
+attack,"select   (  (  =  =  =  4241 whena,,  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,180
+attack,"select   (  0x2e,  (  (  (  (  'i'  =  4241",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,181
+attack,"13863,  select   (  0x2e,  (  (  3217  (  )",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,182
+attack,"1extractvalue,  (  case extractvalue  (  case (     (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,183
+attack,"1 extractvalue  (  (  1297, when   =    (  ,  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,184
+attack, ANDAND extractvalue  (  (  6166  utlideoe,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,185
+attack,select   (  (  when   extractvalue  (  case or updatexml  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,186
+attack,select   (  7997  6212  case updatexml  (  =  (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,187
+attack, pextractvalueZethen when   then  when   (  (   updatexml,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,188
+attack,"1"" or pp4660  or or when     (    t",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,189
+attack,1 pdre ANDextractvalueesextractvalue(  (  =  6212  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,190
+attack, or when   (  9667  (  3863  )   2501  (  3576,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,191
+attack,"select   (  5777  (  (  2917,  (  ),0x7171706a71,,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,192
+attack,select   (  (  (  and updatexml  (  =  (  case ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,193
+attack,select   (  (  (   (  8841  7982  (  =  =,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,194
+attack,"select   (  8862,0x7171706a71,updatexml  (  case (  (  5603  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,195
+attack,select   (  (     (  B  (    when  (  case ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,196
+attack, when   (  case (  (  (  5847  =    (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,197
+attack,select   (  5603  (     or (  (  select   (  select,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,198
+attack,1 or and extractvalue  (  (  1724  (  6581  =  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,199
+attack,select   (  5198  (  select   (  1812  (  (  )   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,200
+attack,select   (  (  (  (  (  (  =  =  )u,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,201
+attack,"selectselect   (  ,  (  =  (  (  5740  and (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,202
+attack,"1"" updatexml  1759,  (  (  (  p,0x7171706a71,0x7171706a71,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,203
+attack,select     (  (  =  when   (  )   (  case  when,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,204
+attack,5198 and (  (  (  6461  (  (  =  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,205
+attack,"1"" updatexml(  (   9667  (  1808,concat  (  9103",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,206
+attack,"select   (  1812  (  =  0x5c,0x7171706a71)   pyce ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,207
+attack, AND  extractvalue  (  =(    (  6528  =  5883  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,208
+attack,"select   (  9667  (  0x2e,0x7171706a71,  (  case (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,209
+attack,select   (  (  (  (  9103 or updatexml  (  9490  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,210
+attack,"  when   (  (   extractvalue  (  8421  8841,  extractvalue  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,211
+attack,"1 or updatexml  (  (  (,  extractvalue  (  1808,,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,212
+attack,"select   (  or and  (  (  0x2e  (  ,  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,213
+attack,select   (  (  case AND (  =  5198  (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,214
+attack,"select   (    (  when,  (  (  =  )   or ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,215
+attack,"1, when   (  2914  and (  (  0x2e,0x7171706a71,concat",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,216
+attack,"select   (  (    (  0x2e,0x7171706a71"" or (  pn",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,217
+attack,"1updatexml  select   (  (  0x5c,  (  (  case updatexml  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,218
+attack,select   (  (  (  (  (  or s extractvalue  and ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,219
+attack,1  (  (  select   (  (  case (  (  2914(,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,220
+attack," whenwhen   (  =  18080x5c,0x7171706a71,,  (  updatexml  case",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,221
+attack,"11',  (  (  case when   (  3393 (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,222
+attack,1  when   (  (  1808=  e and 9627 (  8375,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,223
+attack,"1updatexml0x7171706a71(  =  (  =  u,0x7171706a715847,0x7171706a71  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,224
+attack,"1',,(  (  (  (  3576  (  1759,0x7171706a71   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,225
+attack,select   (  (  (  case (  (  (  )   (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,226
+attack,select   (  (  case select   (  7997  extractvalue  7997  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,227
+attack,select   (  extractvalue  8375  (   when   (  =  (  ),error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,228
+attack,"1 and (  case extractvalue  (  ,(  0x2e,  when  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,229
+attack, (  =  (  select   (  extractvalue  (  (  5989  ),error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,230
+attack,select   (  5464  and ps updatexml  (  (  (  2914,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,231
+attack,"1 and or extractvalue  (    (  3393,0x7171706a71,  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,232
+attack,"1"" updatexml  (  5464  =  (  (  =  =  then",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,233
+attack,"1"" updatexml  (    (  0x2e,,  (  (  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,234
+attack,"select   (  (  (  1724  0x2e,   (  0x2e,concat  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,235
+attack,select   (  (  (  extractvalue  (  (  1808  =  =  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,236
+attack,"1 and ,  (  (  (  0x5c,  (  (  case",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,237
+attack,"select   (  when  (  (  updatexml  (  7982,0x7171706a71(  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,238
+attack,1 or  (  when   (  =  =  )   (  )   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,239
+attack,"1"" or when   (  (  select   (  (    (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,240
+attack,select   (  (  =    (  =  =  )   then g,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,241
+attack, or extractvalue  (  (  =  and updatexml when   (  6560,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,242
+attack,select   (  (  (  =  ucase (  9490  (  =,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,243
+attack,"1'  (  select   (  (  (  1808, (  0x5cupdatexml",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,244
+attack,select   (  case pr   (  pr0x7171706a71case 9667  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,245
+attack,"1AND when(extractvalue,concat  (  (  1354  =  5989  u",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,246
+attack,1 or extractvalue  (  case when   (  (  2914  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,247
+attack,"1 extractvalue  (  (  (  =  0x2e,0x7171706a71,  (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,248
+attack,select   (  when   (  (    5464  )   and pdd,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,249
+attack,select   (  (  (   updatexml  (  case and or when,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,250
+attack,1(  ]  (  (  )   (  )  (  =  ),error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,251
+attack,ee and extractvalue  (  )   (  (  =  ply,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,252
+attack,"1select   (  when   select   (  extractvalue  (    (  u,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,253
+attack,"select   (  =  6212  (  )   (  0x7171706a71,concat  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,254
+attack,select   (  (  (    case when   (  2914=  )   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,255
+attack,1812(    (  (  select   (  (  5989  =  )   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,256
+attack,2518   when  (  =  (  =  0x2e  =  )   then,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,257
+attack, 5322  (   or updatexml    (  (    (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,258
+attack," (  (  2914=  0x2e,0x7171706a71,  (  (  and (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,259
+attack,select   (  when   (  (  (  casewhen   (  (  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,260
+attack,"select   (  3393,concat  )  (  (  (  5777  =  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,261
+attack,select   (  (  updatexml  (  (   (    )   (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,262
+attack,"select   (  (  (  (  5433  0x5c,0x7171706a71,concat  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,263
+attack,select   (  7997  (  8841  =  select   (  (  )   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,264
+attack,select   (  case extractvalue  (  (  1  (  )   then ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,265
+attack," l5704 when   (  1808,0x7171706a71(  (  and and when",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,266
+attack,select   (  (  3335  (  case when   (  case (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,267
+attack,select   (  (  extractvalue  =  (  when  =  6134  select   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,268
+attack, AND updatexml  (  7982  (  case AND 1812  (  9350,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,269
+attack,"select     7997  (  (  =     (  0x5c,concat  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,270
+attack,1 extractvalue  (  (  (    =  9350  _e oj,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,271
+attack,select   (  pthen updatexml  (  (  (  case or  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,272
+attack,select   (  (    (  (  =   0x5c   (  4688  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,273
+attack,select   (  5777  (    4688  (  then when   (  6804,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,274
+attack,"1', s  1808)  (    =  (    when,  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,275
+attack,"select,   (    (  (  (  ,  (    (  extractvalue",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,276
+attack,"1   (  (  (  (  (  7997,0x7171706a71c  (  =",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,277
+attack,1' (  case updatexml  (  (  (  (  when   (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,278
+attack,"1"" updatexml  (  case l  (  (  (  select,  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,279
+attack,select   (  and pr when   (  (  (  5433  0x5c,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,280
+attack,"11"" extractvalue  (  (  (  0x2e,0x7171706a71,'(  5464",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,281
+attack,select   (  case (  1  0x5c  )   (    =  ),error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,282
+attack,"select   (  ,  (  case updatexml  (  (case whencase ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,283
+attack,"select   (  (  2501  8841  =  10x5c,0x7171706a71,  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,284
+attack,"1"" and (  case 1 or extractvalue(  = when   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,285
+attack,select   or when   (    (  (    (  (  =  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,286
+attack,select   (    (  case (  (  7997  8841  g  case,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,287
+attack,"select   (  (  case (  (  (  (  0x2e,  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,288
+attack,"select   (  (  (  9103  9350  )   (  1297,0x7171706a71,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,289
+attack,"e1 and (  3393,0x7171706a71select   then and updatexml  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,290
+attack,AND extractvalue0x5c3393and predrthen AND when   (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,291
+attack,select   (  (  (  5433  (  2917  (  0x5c  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,292
+attack,select   (  (  case when   (  3393(  6804(  79820x7171706a71,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,293
+attack,"1"" or or when   (  3393 (  9103  (  =",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,294
+attack,1 and updatexml  (  (  case (    case (  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,295
+attack,"1"" updatexml  (  (  )   (  (  =  4241  1297",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,296
+attack,"select   (  3393,  (  1812  (  =  2914  extractvalue  )",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,297
+attack,select   (  =  (  case updatexml  (  (  (  8403  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,298
+attack, when   (  =  case case =  =  when   (  9667,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,299
+attack,select   (  6166  (  (  (  =  )   then or ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,300
+attack,"1""   (    (  (  ,  (  when  =  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,301
+attack,1' and (  select   (  (    (  case when   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,302
+attack,"1"" updatexml=  = and and when   (    (  =",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,303
+attack,"1"" updatexml  (  3863  (  5777  5433  (  1297,concat",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,304
+attack,select   (  (  case   (  case when  (  (    ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,305
+attack,select   (     (  (  (  casewhen   (  case extractvalue  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,306
+attack,"select   (  (  1808,1  (  when   (  (  5423  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,307
+attack,select   (  (  9103  =  =  )   then  and p ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,308
+attack,select   (  (  (  select   (  (  (  (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,309
+attack,"select   (  (  when  (  =  0x2e,0x7171706a71,0x7171706a71,0x7171706a71  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,310
+attack,1 extractvalue extractvalue  (  =  (  7636  )   then extractvalue  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,311
+attack,1' (  and(  AND    (  (  whencase when   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,312
+attack,"1 ANDextractvalue  (  3217  extractvalue  (  when   (  1808,4660",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,313
+attack,"1 extractvalue  (  8375  (  (  1808,0x7171706a71,  (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,314
+attack, 1 and pree updatexml   (  5464  (  =  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,315
+attack," and updatexml  (  extractvalue  (  when,  (  5198,  updatexml",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,316
+attack,", 1808((0x7171706a71,  (  (  8841  (  10x7171706a71concat(",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,317
+attack,"select   (  (  (  ,  (  (  8841  (  )   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,318
+attack,select   (    (  p=  ur nadetdr,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,319
+attack,"select   (  (    (  (  ,concat  select   (  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,320
+attack,"select   (  Q  (  (  (  0x5c,  (  9350  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,321
+attack,select   k(  (    (     (  u(  (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,322
+attack,"select   (  (  9490  5603  6581  (  (  0x2e,0x7171706a71,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,323
+attack,"select   (  (  and when   (    0x5c,concat  (    ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,324
+attack,"select   (  select   (  ,  (  =  (  3863  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,325
+attack," (  (  (  )  9393  0x2e,0x7171706a71,   when   (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,326
+attack,1' extractvalue  (  9103  )  and extractvalue  (  (  1759,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,327
+attack,select   (  4415  (  (  (  =  when when   (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,328
+attack,"1',updatexmlor extractvalue  ,pupdatexml  (  (  36810x7171706a71,concat",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,329
+attack,select   (  5322  (  (  (  (  (  (  case ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,330
+attack,"1' and or and (  (  (  extractvalue0x7171706a71extractvalue0x7171706a71,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,331
+attack,1or or when   (  (  1272  =  then (  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,332
+attack,pu updatexml(  (  1724  selectthen and when   (  and,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,333
+attack,"1 1272   2917(  ,  and(  (    (  (  1535",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,334
+attack,select   (  (  =  (  (  =  )   r  s ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,335
+attack,select   or extractvalue  (  (  (  )(  case   =  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,336
+attack,select   (  (  (  )(    (  =   (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,337
+attack,"1,"" and padreeae and2914   (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,338
+attack,1 or updatexml  (  (  (  =  )   then (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,339
+attack,select   (  (  2768  =(  then updatexml  (    (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,340
+attack,(  (  =  6134  (  2768  )   (  4568  )   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,341
+attack,"select   (  =  6581  (  3393,concat (  (  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,342
+attack,when   select   (  updatexml(  4660  =  select   (  select   (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,343
+attack,"select   (  (  (  (  ,  (  (  select   (case",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,344
+attack,1 or and orcase or pr aupdatexml  AND (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,345
+attack,"1',  updatexml  (  1812  =  0x2e,0x7171706a71,  (    ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,346
+attack,"select   (  (  (  or when   (  0x2e,0x7171706a71(  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,347
+attack,select   (  (  =  select   (  3863extractvalue  (  (  7982,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,348
+attack,"select   (  (  (  0x2e,  (  )   (  =  2518",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,349
+attack,"select  (    when   (  18088421  1724,  )  (  0x5c",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,350
+attack,1AND extractvalue  updatexml  (  1543  =  )   (  =  =,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,351
+attack,"select   (  (  (  extractvalue  7997   (  (  9103  =,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,352
+attack,"1' when,  when   )   (  ,  (  case when   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,353
+attack,"	   (  1759  (  (  1  when   (  ,  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,354
+attack,"select   (  (  (  (  4688  (  0x2e,0x7171706a71,  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,355
+attack,"select   (  5464  (  (  1297,0x7171706a71, pc(  6212",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,356
+attack,1'  (  (  (  =  (  select   (  )   (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,357
+attack, (  9667  (  =  4415(  )  6581  =  1543  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,358
+attack, select   (  case when   (  (  select   0x7171706a71(  case ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,359
+attack,"1',  (  4774  select  (  0x2e,  (  case p",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,360
+attack,11'  or pdenadre and when   and,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,361
+attack,"select   (  0x5c(  0x2e,  (  (  case (  1808 ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,362
+attack,select   (  5603  (  (     then or extractvalue  (  3393,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,363
+attack,"select   (  0x5c  (  (  (  (  0x5c,0x7171706a71,select   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,364
+attack, 1'>select   (    (  2914  (  )   then or,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,365
+attack,"select   (  (  (  (  5433  (    (  0x2e,0x7171706a71",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,366
+attack,"select   (  (  =  1802  (  (  7982,i   (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,367
+attack,"select   (  (   (  (  (  (  ,  (  4568  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,368
+attack,"1 extractvalue  (  )   (    0x5c,,0x7171706a71,  (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,369
+attack,select   (     (  (  (  (  case   (  =  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,370
+attack,"',  (    (  (  case extractvalue  (  6461  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,371
+attack,"1 extractvalue',  (  ,  (  8841  0x5c  (  0x2e,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,372
+attack,1 or 1802  (  case (2917  (case extractvalue  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,373
+attack,1'updatexml  (  case (    (    (  updatexml  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,374
+attack,"1or (  (  (  0x5c,concat  (  =  =  then",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,375
+attack,select   (  (  (  (  (  3539  )   (  =  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,376
+attack,"select   (  when,  (  (    =  =  )   then ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,377
+attack,select   (  case (  case updatexml  (  (  (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,378
+attack,"1 extractvalueextractvalue  (    select   (  (    (  ,concat  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,379
+attack,"select   then when   (  case (  18081808,  ),  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,380
+attack,select   (  or and  (  2917  (   or and (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,381
+attack,"select   (  (  (  (  (  4774  updatexml  (  0x2e,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,382
+attack," when   (  AND(  select   (  (    =(  1297,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,383
+attack,select   (  select   (  (  (  select   (  (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,384
+attack,1'  (  7997  (  (  =  =  )   then e,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,385
+attack,select   (  1808(  0x5c (  select  (  7636  3539  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,386
+attack,select   (  case when   (  w  (  case or  when ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,387
+attack," ,or or updatexml  (  case (  1808=  =  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,388
+attack,select      (  (  select   (  =  =  (  (  3576,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,389
+attack,"1' extractvaluea,  (  AND(  and and1808 (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,390
+attack,select   (    (  (  (  =    )   then or ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,391
+attack,"select and extractvalue extractvalue(  (  (  (  (  0x5c,0x7171706a71",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,392
+attack,select   (  (  1151  )  (  or extractvalue  (  5989  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,393
+attack,"  (  select     (  (  (  3393,0x7171706a71,  (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,394
+attack,"1,and . 1  and (,  updatexml(  =  6461  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,395
+attack,select   (  (  (  (  case (   p (  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,396
+attack,"1, extractvalue  (  (  (  ,  (  (  select   (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,397
+attack,"select   (  (  5198  (  5704  =  ,0x7171706a71,concatupdatexml  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,398
+attack,"select   (     (  7997  when  u)   (  0x5c,,0x7171706a71",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,399
+attack,r 1  (  =  u)   _ (  =  =  4660,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,400
+attack,' updatexml and and and orupdatexml  (  select   (  =,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,401
+attack," updatexml  (  (  (  0x2e,  (  8375  =  0x2e,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,402
+attack,' when   (  case when   (  (  (  =  ud,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,403
+attack,1' extractvalueextractvalue  (  (  )   (  (  when   (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,404
+attack,"1 updatexml(  (  5847  (  0x2e,0x7171706a71,  (    0x2e",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,405
+attack,"1'  (  (  =  1808,0x7171706a71,  (    (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,406
+attack,"1 updatexml  1297,  (  case when   (  3393   (  1808",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,407
+attack,select   (  (  3863  (  (  5777case extractvalue  )   (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,408
+attack,"1 when   extractvalue  (  3335  (  =  3393,concat  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,409
+attack," (  5777  =  =  2446(  case when',  select   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,410
+attack,select   (  (  (  (  2914(  =  select   (  ),error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,411
+attack,"4415(    (  0x2e,,  (  (  0x2e,0x7171706a71, updatexml",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,412
+attack,select   (  (  select   (    (  (  (    (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,413
+attack,"o1"" and updatexml  (  (  (  and (  6134  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,414
+attack,select   (  case andselect   (  7982  (  (  updatexml  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,415
+attack,select   (  (  (  (  case p updatexml )   (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,416
+attack,", p when   (  (  2917  updatexml  (  case pd",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,417
+attack,select   (  case updatexml  (  (  (  (  (  updatexml  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,418
+attack,"1 extractvalue   (  3681  (  3863  1808,0x7171706a71(0x7171706a71case and",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,419
+attack,select   5883    (  case when   (  (  (  3393ut,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,420
+attack,"1 p.(  )   then extractvalue  (  =  1297,0x7171706a71,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,421
+attack,"select,   (  1808,,  (   (  (  (  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,422
+attack,"select   (  (  =  (  7050,concat  (  3539  when   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,423
+attack,7529  (  (  (  (     (  (  =  7636  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,424
+attack,1  (    (  case orselect   (  (  1724  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,425
+attack,"select   (  (  and1  (  0x5c,0x7171706a71(  2768  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,426
+attack,select   (  (  3217  (  (  and when   (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,427
+attack,"1  =    (  case extractvalue  (  0x2e,0x7171706a71,  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,428
+attack," AND when   (  u (  5603,  extractvalue  (  =  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,429
+attack,1 extractvalueextractvalue  (  4415and pr  =  7151  t_i,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,430
+attack,select   (  updatexml  (  (  =  extractvalue  (  u   (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,431
+attack,select   (  case when   (  (  (  (  6581  =  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,432
+attack,"15847"" extractvalue  (   extractvalue  (  (  3393,0x7171706a71,  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,433
+attack,select   (  (  8403  ((  9393  =  (  =  u,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,434
+attack,"select   3681  or extractvalue,  (  (  (  (  when   (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,435
+attack,"1 and (  (  case l(  extractvalue  =  0x2e,0x7171706a71",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,436
+attack,select   (  (  (  extractvalue  (  =  uuure ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,437
+attack,"select   (  7982  )  (  (  (  3393,0x7171706a71,,concat",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,438
+attack,"select   (    (  case updatexmland(  0x5c,,0x7171706a71,,  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,439
+attack,select   (  (  (  (  2917  (  )   (   (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,440
+attack,select   (  (  (  (  or extractvalue  (  case when   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,441
+attack,"select   eupdatexml(  0x2e,0x7171706a71,0x7171706a716581  (  case when   (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,442
+attack,"select     (  (  (  extractvalue  (  when0x7171706a71,case when   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,443
+attack,"""   (  select   (  (  (  5603  1808,concat  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,444
+attack,"select   (  3539  (  )  =  (  =  0x2e,concat  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,445
+attack,"select   (  AND  (  _  (  88418375(  when,  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,446
+attack,"1' when   (  =  2917,0x7171706a71,   (  ,  0x5c",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,447
+attack,"select   (  (  then and(  (  0x2e,  (  extractvalue  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,448
+attack,"select   ((  (  (  (  (  0x2e,0x7171706a71,  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,449
+attack,"select   (  (  (  (  0x5c,  ANDd(  select   (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,450
+attack," updatexml  (  (  =  0x2e  (  (  3863  (0x2e,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,451
+attack,"select   (  (  (  0x5c,0x7171706a71,  (  6560  (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,452
+attack,"select   (  )   (  3393,  (  case 3217  (  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,453
+attack,1r  (  case or when   (  (  (  )   (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,454
+attack,1 updatexml  (  select   (  (  (  extractvalue  (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,455
+attack,select   (    (  (  (  (  5777  (  case a,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,456
+attack,"1""  (  (  3863  and,   when   (  (     ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,457
+attack,"select   (  3335,  (    (  (  (  0x2e,0x7171706a71,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,458
+attack,(  select   (  (  2914  =  updatexml  (  =  )   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,459
+attack,extractvalue and when   (  (  case updatexml  (    =  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,460
+attack,select   (    (  5198   (   (  (  (  1808   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,461
+attack,"select   (  3393, (  0x2e,  (  0x5c0x7171706a71,  when   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,462
+attack,"select   (  3393,  =  (    (  case 7636  )   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,463
+attack,"select   (  6804  (  (  3393,  (  (  1808,concat",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,464
+attack,"select   (  (  ,  (  6581  (  0x2e,0x7171706a71(  =",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,465
+attack,1 (  case when   (  (  2917  6581select   (  (,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,466
+attack,"select   (  (  5423  (  6528  (  0x7171706a71,0x7171706a71,  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,467
+attack," ANDwhen   (  case ac  (  0x5c,  =  =8862",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,468
+attack,1 or updatexml  when   (  (  3217  (  case updatexml  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,469
+attack,"1"" or or when   (  ((  (  6581  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,470
+attack,select   =  case extractvalue  (  (and and or updatexml(  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,471
+attack,"1'(  extractvalue  (  (  (  AND extractvalue,concatupdatexml and",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,472
+attack,1 or (  (  7982  (  (  5433  when   (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,473
+attack,select   (  extractvalue  (  case 7982   (  (  (  and ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,474
+attack,"select   (  5704(  when   (  0x2e,  (  case updatexml  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,475
+attack,"select3393(  1759,  (  0x5c,concat(  then or extractvalue  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,476
+attack,"select   (  (  case (  0x2e,  (  (  updatexml  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,477
+attack,1 AND9393  (    (    case (  =  =  select,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,478
+attack,"select   (  (  8375(  AND or when   (  1808,0x7171706a71",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,479
+attack,"select   (  (  (  (  (  4125  2446  =  0x2e,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,480
+attack,select   (  (  (  6804  select   (  (    andextractvalue  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,481
+attack,select   (  (  case when   (   select   (  (  extractvalue,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,482
+attack,"select   (    (  2917,  (  (  3364(  "" extractvalue",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,483
+attack,"1"" 1 and or 1 when     (  case when   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,484
+attack,select   (  )   (  (  select   (  (  (  (  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,485
+attack,"select   (  1  (  =  extractvalue  )   (  0x2e,0x7171706a71,",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,486
+attack,1 or updatexml  (       (    (    (  =  ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,487
+attack,"1 or (  (  when   (  (  (  2917,  (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,488
+attack,"1pand (  (  1808,  (  updatexml  (  =  =",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,489
+attack," updatexml  (  (  u,  =  or extractvalue   (  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,490
+attack,"select   (     (  (  1808,  (  case (  select   ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,491
+attack," (  (  (  0x2e,0x7171706a71,  (  select   (  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,492
+attack,"  (  (  (  (  0x2e,concat  (  and when   (",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,493
+attack,"   extractvalue  (  =  when,,  (  3681  (  (    ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,494
+attack,"select   updatexml  (  (  u,concat  (  case updatexml  (  ",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,495
+attack,select   (    (  or  (  (  9393  =  8768  ),error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,496
+attack,select   (  (  (  (  (  (  =  (  )   ,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,497
+attack,select   (  when   (  case when   and(  case and or,error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,498
+attack,"',  (  (  select   (  case when   (  3393t5704",error,error,seqgan_improved,seqgan_improved__phase3__error__B__200__V5__sql_aware__len20__gpre60__reward_on__seed88,499

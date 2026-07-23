@@ -1,0 +1,130 @@
+{
+  "phase": "phase2a",
+  "method": "seqgan_master",
+  "selected": 24,
+  "completed": [
+    {
+      "run_id": "phase2a__seqgan_master__boolean__A__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_000.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__boolean__B__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_001.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__boolean__C__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_002.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__boolean__D__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_003.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__boolean__E__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_004.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__boolean__F__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_005.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__error__A__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_006.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__error__B__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_007.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__error__C__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_008.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__error__D__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_009.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__error__E__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_010.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__error__F__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_011.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__time__A__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_012.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__time__B__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_013.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__time__C__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_014.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__time__D__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_015.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__time__E__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_016.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__time__F__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_017.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__union__C__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_020.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__union__A__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_018.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__union__D__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_021.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__union__E__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_022.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__union__B__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_019.stdout.log"
+    },
+    {
+      "run_id": "phase2a__seqgan_master__union__F__R50",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_only/phase2a/shard_023.stdout.log"
+    }
+  ],
+  "failed": [],
+  "running": [],
+  "pending": []
+}

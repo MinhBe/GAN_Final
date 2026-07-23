@@ -1,0 +1,29 @@
+{
+  "method": "ctgan",
+  "dataset": "data/prepared/phase2b/error/D/Rfull/attack_train.csv",
+  "family": "error",
+  "seed": 88,
+  "config": "medium",
+  "device": "cpu",
+  "n_train_attack": 1036,
+  "n_samples_requested": 500,
+  "n_samples_generated": 500,
+  "n_unique_generated_payloads": 194,
+  "input_family_counts": {
+    "error": 1036
+  },
+  "output_family_counts": {
+    "error": 500
+  },
+  "epochs": 25,
+  "batch_size": 500,
+  "z_dim": 128,
+  "hidden_dim": 256,
+  "pac": 10,
+  "critic_steps": 5,
+  "output_dim": 171,
+  "condition_dim": 2,
+  "retrieval_method": "nearest_attack_euclidean",
+  "duplicates_preserved": true,
+  "stop_reason": "completed"
+}

