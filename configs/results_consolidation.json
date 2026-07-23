@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "destination": "results",
+  "max_file_bytes": 95000000,
+  "sources": [
+    {
+      "id": "current_result",
+      "mode": "direct",
+      "path": "result"
+    },
+    {
+      "id": "current_result1",
+      "mode": "direct",
+      "path": "result1"
+    },
+    {
+      "id": "final_export_20260716_102308",
+      "mode": "direct",
+      "path": "result 2/result-20260716T102308Z-1-001/result"
+    },
+    {
+      "id": "final_export_20260716_102317",
+      "mode": "direct",
+      "path": "result 2/result-20260716T102317Z-1-001/result"
+    },
+    {
+      "id": "final_export_20260716_102326",
+      "mode": "direct",
+      "path": "result 2/result-20260716T102326Z-1-001/result"
+    },
+    {
+      "id": "final_export_20260716_102410",
+      "mode": "direct",
+      "path": "result 2/result-20260716T102410Z-1-001/result"
+    },
+    {
+      "id": "final_export_20260716_102425",
+      "mode": "direct",
+      "path": "result 2/result-20260716T102425Z-1-001/result"
+    },
+    {
+      "id": "final_export_20260716_102441",
+      "mode": "direct",
+      "path": "result 2/result-20260716T102441Z-1-001/result"
+    },
+    {
+      "id": "profile_historical_phase1",
+      "mode": "profile",
+      "profile": "historical_phase1_colab",
+      "path": "legacy/source_trees/GAN_SQLi_Colab/results"
+    },
+    {
+      "id": "profile_mini_cpu20",
+      "mode": "profile",
+      "profile": "mini_cpu20_phase1_2a",
+      "path": "legacy/source_trees/GAN_SQLi_Colab/results_cpu20_phase1_2a"
+    },
+    {
+      "id": "profile_phase2b_baselines_cpu",
+      "mode": "profile",
+      "profile": "phase2b_smote_gan_ctgan_cpu",
+      "path": "legacy/source_trees/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu"
+    },
+    {
+      "id": "profile_seqgan_mini",
+      "mode": "profile",
+      "profile": "seqgan_only_mini",
+      "path": "legacy/source_trees/GAN_SQLi_Colab/results_seqgan_only_mini"
+    },
+    {
+      "id": "profile_seqgan_medium",
+      "mode": "profile",
+      "profile": "seqgan_phase2b_phase3_medium",
+      "path": "legacy/source_trees/GAN_SQLi_Colab/results_seqgan_phase2b_phase3"
+    },
+    {
+      "id": "profile_smoke",
+      "mode": "profile",
+      "profile": "smoke",
+      "path": "legacy/source_trees/GAN_SQLi_Colab/results_smoke"
+    },
+    {
+      "id": "run_info_phase2b_delta",
+      "mode": "delta_profile",
+      "profile": "run_info_copy_20260714",
+      "path": "legacy/source_trees/GAN_SQLi_Colab_run_info_copy_20260714/results_phase2b_smote_gan_ctgan_cpu",
+      "reference": "legacy/source_trees/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu"
+    },
+    {
+      "id": "run_info_seqgan_delta",
+      "mode": "delta_profile",
+      "profile": "run_info_copy_20260714",
+      "path": "legacy/source_trees/GAN_SQLi_Colab_run_info_copy_20260714/results_seqgan_phase2b_phase3",
+      "reference": "legacy/source_trees/GAN_SQLi_Colab/results_seqgan_phase2b_phase3"
+    },
+    {
+      "id": "export_20260714_225854",
+      "mode": "export",
+      "profile": "result_20260714_225854",
+      "path": "legacy/root_result/result-20260714T225854Z-1-001/result"
+    },
+    {
+      "id": "export_20260714_225930",
+      "mode": "export",
+      "profile": "result_20260714_225930",
+      "path": "legacy/root_result/result-20260714T225930Z-1-001/result"
+    },
+    {
+      "id": "export_20260714_230032",
+      "mode": "export",
+      "profile": "result_20260714_230032",
+      "path": "legacy/root_result/result-20260714T230032Z-1-001/result"
+    },
+    {
+      "id": "export_20260714_230037_a",
+      "mode": "export",
+      "profile": "result_20260714_230037_a",
+      "path": "legacy/root_result/result-20260714T230037Z-1-001/result"
+    },
+    {
+      "id": "export_20260714_230037_b",
+      "mode": "export",
+      "profile": "result_20260714_230037_b",
+      "path": "legacy/root_result/result-20260714T230037Z-1-001 (1)/result"
+    },
+    {
+      "id": "export_20260714_230037_c",
+      "mode": "export",
+      "profile": "result_20260714_230037_c",
+      "path": "legacy/root_result/result-20260714T230037Z-1-001 (2)/result"
+    }
+  ]
+}

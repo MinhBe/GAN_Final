@@ -1,0 +1,31 @@
+{
+  "method": "gan",
+  "dataset": "data/prepared/phase2b/boolean/E/R500/attack_train.csv",
+  "family": "boolean",
+  "seed": 88,
+  "device": "cpu",
+  "n_train_attack": 31,
+  "n_samples_requested": 500,
+  "n_samples_generated": 500,
+  "n_unique_generated_payloads": 2,
+  "input_family_counts": {
+    "boolean": 31
+  },
+  "output_family_counts": {
+    "boolean": 500
+  },
+  "epochs": 15,
+  "batch_size": 64,
+  "noise_dim": 16,
+  "hidden_dim": 64,
+  "learning_rate": 0.0002,
+  "feature_count": 88,
+  "final_losses": {
+    "boolean": {
+      "generator_loss": 0.7010091543197632,
+      "discriminator_loss": 1.352309226989746
+    }
+  },
+  "duplicates_preserved": true,
+  "stop_reason": "completed"
+}

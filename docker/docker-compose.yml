@@ -1,0 +1,61 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend.Dockerfile
+    expose:
+      - "8080"
+    init: true
+    read_only: true
+    tmpfs:
+      - /tmp
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - import urllib.request; urllib.request.urlopen('http://127.0.0.1:8080/health', timeout=2).read()
+      interval: 5s
+      timeout: 3s
+      retries: 10
+      start_period: 3s
+    networks:
+      - waf_internal
+
+  waf:
+    image: owasp/modsecurity-crs:4.25.1-nginx-202607160307
+    depends_on:
+      backend:
+        condition: service_healthy
+    environment:
+      BACKEND: http://backend:8080
+      PORT: "8080"
+      SERVER_NAME: localhost
+      NGINX_ALWAYS_TLS_REDIRECT: "off"
+      MODSEC_RULE_ENGINE: "On"
+      MODSEC_REQ_BODY_ACCESS: "On"
+      # The campaign records every response in its own CSV. Disabling the
+      # verbose ModSecurity audit stream avoids hundreds of thousands of JSON
+      # records in Docker's log while leaving rule evaluation/blocking enabled.
+      MODSEC_AUDIT_ENGINE: "Off"
+      MODSEC_AUDIT_LOG: /dev/null
+      BLOCKING_PARANOIA: "1"
+      DETECTION_PARANOIA: "1"
+      ANOMALY_INBOUND: "5"
+      ANOMALY_OUTBOUND: "4"
+      ALLOWED_METHODS: GET HEAD POST OPTIONS
+      PROXY_TIMEOUT: 30s
+    ports:
+      - "127.0.0.1:${WAF_PORT:-8080}:8080"
+    networks:
+      - waf_internal
+      - waf_edge
+
+networks:
+  waf_internal:
+    internal: true
+  waf_edge:

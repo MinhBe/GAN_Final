@@ -1,0 +1,353 @@
+{
+  "schema_version": 4,
+  "seed": 88,
+  "source": {
+    "source": "data/SQLiV3.csv.zip",
+    "snapshot": "data/prepared/raw/SQLiV3.csv.zip",
+    "sha256": "5eba2294fba5e8c8f84d1f04b3e4fb1dfc4739fc086a19396fd5908440089933",
+    "bytes": 438020
+  },
+  "parse": {
+    "source_name": "SQLiV3.csv.zip:SQLiV3.csv",
+    "encoding": "utf-8-sig",
+    "delimiter": ",",
+    "records_seen": 30920,
+    "header_rows_removed": 1,
+    "invalid_label_rows_removed": 0,
+    "empty_payload_rows_removed": 1,
+    "normalized_duplicate_rows_removed": 95,
+    "conflict_groups_removed": 2,
+    "conflict_rows_removed": 10,
+    "retained_rows": 30813,
+    "retained_normal_rows": 19504,
+    "retained_attack_rows": 11309
+  },
+  "family_counts": {
+    "error": 1295,
+    "time": 1482,
+    "union": 2097,
+    "boolean": 4586,
+    "other": 1849
+  },
+  "split_counts": {
+    "normal_train": 15604,
+    "normal_test": 3900,
+    "boolean_train_pool": 3669,
+    "union_train_pool": 1678,
+    "time_train_pool": 1186,
+    "error_train_pool": 1036,
+    "other_train_pool": 1480,
+    "boolean_holdout": 917,
+    "union_holdout": 419,
+    "time_holdout": 296,
+    "error_holdout": 259,
+    "other_holdout": 369
+  },
+  "phase2a": {
+    "ratio": 20,
+    "target_attack_count": 780,
+    "normal_train_count": 15604,
+    "feasible": false,
+    "report": "data/prepared/phase2a/preflight.csv",
+    "cells": [
+      {
+        "family": "boolean",
+        "scenario": "A",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 3669,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "boolean",
+        "scenario": "B",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 3669,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "boolean",
+        "scenario": "C",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 3669,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "boolean",
+        "scenario": "D",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1842,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "boolean",
+        "scenario": "E",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 3669,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "boolean",
+        "scenario": "F",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 3669,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "union",
+        "scenario": "A",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1678,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "union",
+        "scenario": "B",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1678,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "union",
+        "scenario": "C",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1678,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "union",
+        "scenario": "D",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 864,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "union",
+        "scenario": "E",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1678,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "union",
+        "scenario": "F",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1678,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "time",
+        "scenario": "A",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1186,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "time",
+        "scenario": "B",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1186,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "time",
+        "scenario": "C",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1186,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "time",
+        "scenario": "D",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 597,
+        "selected": 0,
+        "status": "insufficient_pool"
+      },
+      {
+        "family": "time",
+        "scenario": "E",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1186,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "time",
+        "scenario": "F",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1186,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "error",
+        "scenario": "A",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1036,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "error",
+        "scenario": "B",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1036,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "error",
+        "scenario": "C",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1036,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "error",
+        "scenario": "D",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 522,
+        "selected": 0,
+        "status": "insufficient_pool"
+      },
+      {
+        "family": "error",
+        "scenario": "E",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1036,
+        "selected": 780,
+        "status": "ready"
+      },
+      {
+        "family": "error",
+        "scenario": "F",
+        "ratio": 20,
+        "target": 780,
+        "capacity": 1036,
+        "selected": 780,
+        "status": "ready"
+      }
+    ]
+  },
+  "files": [
+    {
+      "path": "data/prepared/canonical_dataset.csv",
+      "rows": 30813,
+      "sha256": "a8e06d72df00f9178a915e7f6e498d530c204d3f98444ef4326888ab57f9fcdd"
+    },
+    {
+      "path": "data/prepared/phase1/attack_holdout.csv",
+      "rows": 2260,
+      "sha256": "de4bccf46a858fef2e532b80a180a6f12032c01ae0d2d17c4acee269c5fcd1bd"
+    },
+    {
+      "path": "data/prepared/phase1/attack_train.csv",
+      "rows": 9049,
+      "sha256": "19093b3e220657b36e0aee400e1bb6f308574ae0e5003173ae2ff8d7f3c26753"
+    },
+    {
+      "path": "data/prepared/seqgan_variants.csv",
+      "rows": 8,
+      "sha256": "36aaa114d2942451dc8cebe4a7619aea061e9c90d6ce83d74b5c0ca45774b073"
+    },
+    {
+      "path": "data/prepared/splits/boolean_holdout.csv",
+      "rows": 917,
+      "sha256": "f5e852eff35e7e3320fa2224148e98c5e19fc1af59842890484e2c3f69e603db"
+    },
+    {
+      "path": "data/prepared/splits/boolean_train_pool.csv",
+      "rows": 3669,
+      "sha256": "06c8d7a932838956ae98762dd0ddfb9360110a3c5510afc44d800c454c39bb5f"
+    },
+    {
+      "path": "data/prepared/splits/error_holdout.csv",
+      "rows": 259,
+      "sha256": "9a8a6ae49976f90ff02ac0c6a1897983a2897dbfcf5f62742a19410b783d5cbf"
+    },
+    {
+      "path": "data/prepared/splits/error_train_pool.csv",
+      "rows": 1036,
+      "sha256": "e28869a7b57829c2de9f1ea2c3f8f91f616f5c695215d9bed702e549fdcd653b"
+    },
+    {
+      "path": "data/prepared/splits/normal_test.csv",
+      "rows": 3900,
+      "sha256": "cb5f5a979d5120017b7c85074dbcbee230941c7415e7147f714ea779b0c039b6"
+    },
+    {
+      "path": "data/prepared/splits/normal_train.csv",
+      "rows": 15604,
+      "sha256": "c0af391a48cfc1b3538a823954edb51c4bff6bd5a98bd1a091d11d4c1703eda6"
+    },
+    {
+      "path": "data/prepared/splits/other_holdout.csv",
+      "rows": 369,
+      "sha256": "b662abdbcd70eb37f04746a6af248a9e4cb3ca17d438d60f6b887380ab78ae75"
+    },
+    {
+      "path": "data/prepared/splits/other_train_pool.csv",
+      "rows": 1480,
+      "sha256": "fd43a4cf6d85fef2675633a43a95adac65148a62ad1d157b59858aad68c5d8d3"
+    },
+    {
+      "path": "data/prepared/splits/time_holdout.csv",
+      "rows": 296,
+      "sha256": "21193d98657e82d7b5c9d3f7539ca33e3020c0c075c374e9f53f3a7221981751"
+    },
+    {
+      "path": "data/prepared/splits/time_train_pool.csv",
+      "rows": 1186,
+      "sha256": "8b05d67d4cfc0633e4e8f86686d8156979e4bdff139ee54500e7df9e68834c76"
+    },
+    {
+      "path": "data/prepared/splits/union_holdout.csv",
+      "rows": 419,
+      "sha256": "d5911da8db3c6280fa0eac573740c7b9a663486e9997ad09ada274a27fc3c060"
+    },
+    {
+      "path": "data/prepared/splits/union_train_pool.csv",
+      "rows": 1678,
+      "sha256": "01b01a6769cf36439a5a76dd9a051a9ed1b3d91602b9e8087301ba69500984c4"
+    }
+  ]
+}

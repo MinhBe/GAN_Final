@@ -1,0 +1,9 @@
+id,sequence_length,generator_pretrain_epochs,sql_reward,tokenizer_mode
+V1,20,120,False,raw_character
+V2,160,120,False,sql_aware
+V3,20,160,False,sql_aware
+V4,160,160,False,raw_character
+V5,20,120,True,sql_aware
+V6,160,120,True,raw_character
+V7,20,160,True,raw_character
+V8,160,160,True,sql_aware

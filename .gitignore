@@ -1,0 +1,20 @@
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+tmp/
+outputs*/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Migration/runtime scratch only. Research results and model artifacts are
+# intentionally tracked, with binary/large classes routed through Git LFS.
+provenance/*.tmp
+reports/_scratch/

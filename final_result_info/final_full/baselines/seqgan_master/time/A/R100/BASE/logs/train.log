@@ -1,0 +1,502 @@
+
+[1/3] pretrain G
+G epoch=1/120 loss=4.5107
+G epoch=2/120 loss=4.1161
+G epoch=3/120 loss=3.6098
+G epoch=4/120 loss=3.0878
+G epoch=5/120 loss=2.7744
+G epoch=6/120 loss=2.6313
+G epoch=7/120 loss=2.5510
+G epoch=8/120 loss=2.4629
+G epoch=9/120 loss=2.4284
+G epoch=10/120 loss=2.3161
+G epoch=11/120 loss=2.2637
+G epoch=12/120 loss=2.1823
+G epoch=13/120 loss=2.1258
+G epoch=14/120 loss=2.0299
+G epoch=15/120 loss=1.9807
+G epoch=16/120 loss=1.9628
+G epoch=17/120 loss=1.9380
+G epoch=18/120 loss=1.8346
+G epoch=19/120 loss=1.8638
+G epoch=20/120 loss=1.7802
+G epoch=21/120 loss=1.7611
+G epoch=22/120 loss=1.7533
+G epoch=23/120 loss=1.6013
+G epoch=24/120 loss=1.6341
+G epoch=25/120 loss=1.6062
+G epoch=26/120 loss=1.5759
+G epoch=27/120 loss=1.5318
+G epoch=28/120 loss=1.5015
+G epoch=29/120 loss=1.4220
+G epoch=30/120 loss=1.3832
+G epoch=31/120 loss=1.3841
+G epoch=32/120 loss=1.3340
+G epoch=33/120 loss=1.3037
+G epoch=34/120 loss=1.3016
+G epoch=35/120 loss=1.2936
+G epoch=36/120 loss=1.2211
+G epoch=37/120 loss=1.2064
+G epoch=38/120 loss=1.1837
+G epoch=39/120 loss=1.1669
+G epoch=40/120 loss=1.1029
+G epoch=41/120 loss=1.1314
+G epoch=42/120 loss=1.0907
+G epoch=43/120 loss=1.0813
+G epoch=44/120 loss=1.0640
+G epoch=45/120 loss=1.0482
+G epoch=46/120 loss=0.9954
+G epoch=47/120 loss=0.9867
+G epoch=48/120 loss=1.0021
+G epoch=49/120 loss=0.9857
+G epoch=50/120 loss=0.9166
+G epoch=51/120 loss=0.9151
+G epoch=52/120 loss=0.9100
+G epoch=53/120 loss=0.9304
+G epoch=54/120 loss=0.9098
+G epoch=55/120 loss=0.8971
+G epoch=56/120 loss=0.8652
+G epoch=57/120 loss=0.8437
+G epoch=58/120 loss=0.8396
+G epoch=59/120 loss=0.8257
+G epoch=60/120 loss=0.8312
+G epoch=61/120 loss=0.8117
+G epoch=62/120 loss=0.7969
+G epoch=63/120 loss=0.7825
+G epoch=64/120 loss=0.7510
+G epoch=65/120 loss=0.7532
+G epoch=66/120 loss=0.7541
+G epoch=67/120 loss=0.7758
+G epoch=68/120 loss=0.7398
+G epoch=69/120 loss=0.7521
+G epoch=70/120 loss=0.7241
+G epoch=71/120 loss=0.7196
+G epoch=72/120 loss=0.7226
+G epoch=73/120 loss=0.7186
+G epoch=74/120 loss=0.7122
+G epoch=75/120 loss=0.6854
+G epoch=76/120 loss=0.6982
+G epoch=77/120 loss=0.6752
+G epoch=78/120 loss=0.6709
+G epoch=79/120 loss=0.6486
+G epoch=80/120 loss=0.6484
+G epoch=81/120 loss=0.6531
+G epoch=82/120 loss=0.6503
+G epoch=83/120 loss=0.6418
+G epoch=84/120 loss=0.6322
+G epoch=85/120 loss=0.6171
+G epoch=86/120 loss=0.6162
+G epoch=87/120 loss=0.6202
+G epoch=88/120 loss=0.6215
+G epoch=89/120 loss=0.6152
+G epoch=90/120 loss=0.5924
+G epoch=91/120 loss=0.5955
+G epoch=92/120 loss=0.6067
+G epoch=93/120 loss=0.5872
+G epoch=94/120 loss=0.5927
+G epoch=95/120 loss=0.5821
+G epoch=96/120 loss=0.5616
+G epoch=97/120 loss=0.5591
+G epoch=98/120 loss=0.5506
+G epoch=99/120 loss=0.5423
+G epoch=100/120 loss=0.5472
+G epoch=101/120 loss=0.5512
+G epoch=102/120 loss=0.5367
+G epoch=103/120 loss=0.5306
+G epoch=104/120 loss=0.5509
+G epoch=105/120 loss=0.5441
+G epoch=106/120 loss=0.5353
+G epoch=107/120 loss=0.5313
+G epoch=108/120 loss=0.5233
+G epoch=109/120 loss=0.5187
+G epoch=110/120 loss=0.5093
+G epoch=111/120 loss=0.5148
+G epoch=112/120 loss=0.5076
+G epoch=113/120 loss=0.5272
+G epoch=114/120 loss=0.5102
+G epoch=115/120 loss=0.5038
+G epoch=116/120 loss=0.5002
+G epoch=117/120 loss=0.4970
+G epoch=118/120 loss=0.4899
+G epoch=119/120 loss=0.4892
+G epoch=120/120 loss=0.5053
+
+[2/3] pretrain D
+D step=1/50 epoch=1/3 loss=0.7810 l2=0.2000 label_smoothing=0.000
+D step=1/50 epoch=2/3 loss=0.7447 l2=0.2000 label_smoothing=0.000
+D step=1/50 epoch=3/3 loss=0.7187 l2=0.2000 label_smoothing=0.000
+D step=2/50 epoch=1/3 loss=0.7232 l2=0.2000 label_smoothing=0.000
+D step=2/50 epoch=2/3 loss=0.6980 l2=0.2000 label_smoothing=0.000
+D step=2/50 epoch=3/3 loss=0.6580 l2=0.2000 label_smoothing=0.000
+D step=3/50 epoch=1/3 loss=0.6367 l2=0.2000 label_smoothing=0.000
+D step=3/50 epoch=2/3 loss=0.6181 l2=0.2000 label_smoothing=0.000
+D step=3/50 epoch=3/3 loss=0.5794 l2=0.2000 label_smoothing=0.000
+D step=4/50 epoch=1/3 loss=0.6085 l2=0.2000 label_smoothing=0.000
+D step=4/50 epoch=2/3 loss=0.5694 l2=0.2000 label_smoothing=0.000
+D step=4/50 epoch=3/3 loss=0.5274 l2=0.2000 label_smoothing=0.000
+D step=5/50 epoch=1/3 loss=0.5234 l2=0.2000 label_smoothing=0.000
+D step=5/50 epoch=2/3 loss=0.4780 l2=0.2000 label_smoothing=0.000
+D step=5/50 epoch=3/3 loss=0.4352 l2=0.2000 label_smoothing=0.000
+D step=6/50 epoch=1/3 loss=0.4670 l2=0.2000 label_smoothing=0.000
+D step=6/50 epoch=2/3 loss=0.4374 l2=0.2000 label_smoothing=0.000
+D step=6/50 epoch=3/3 loss=0.3873 l2=0.2000 label_smoothing=0.000
+D step=7/50 epoch=1/3 loss=0.4441 l2=0.2000 label_smoothing=0.000
+D step=7/50 epoch=2/3 loss=0.3999 l2=0.2000 label_smoothing=0.000
+D step=7/50 epoch=3/3 loss=0.3493 l2=0.2000 label_smoothing=0.000
+D step=8/50 epoch=1/3 loss=0.4264 l2=0.2000 label_smoothing=0.000
+D step=8/50 epoch=2/3 loss=0.3729 l2=0.2000 label_smoothing=0.000
+D step=8/50 epoch=3/3 loss=0.3405 l2=0.2000 label_smoothing=0.000
+D step=9/50 epoch=1/3 loss=0.3880 l2=0.2000 label_smoothing=0.000
+D step=9/50 epoch=2/3 loss=0.3416 l2=0.2000 label_smoothing=0.000
+D step=9/50 epoch=3/3 loss=0.3018 l2=0.2000 label_smoothing=0.000
+D step=10/50 epoch=1/3 loss=0.3235 l2=0.2000 label_smoothing=0.000
+D step=10/50 epoch=2/3 loss=0.2895 l2=0.2000 label_smoothing=0.000
+D step=10/50 epoch=3/3 loss=0.2703 l2=0.2000 label_smoothing=0.000
+D step=11/50 epoch=1/3 loss=0.3251 l2=0.2000 label_smoothing=0.000
+D step=11/50 epoch=2/3 loss=0.2827 l2=0.2000 label_smoothing=0.000
+D step=11/50 epoch=3/3 loss=0.2585 l2=0.2000 label_smoothing=0.000
+D step=12/50 epoch=1/3 loss=0.3036 l2=0.2000 label_smoothing=0.000
+D step=12/50 epoch=2/3 loss=0.2966 l2=0.2000 label_smoothing=0.000
+D step=12/50 epoch=3/3 loss=0.2588 l2=0.2000 label_smoothing=0.000
+D step=13/50 epoch=1/3 loss=0.2961 l2=0.2000 label_smoothing=0.000
+D step=13/50 epoch=2/3 loss=0.2695 l2=0.2000 label_smoothing=0.000
+D step=13/50 epoch=3/3 loss=0.2475 l2=0.2000 label_smoothing=0.000
+D step=14/50 epoch=1/3 loss=0.2751 l2=0.2000 label_smoothing=0.000
+D step=14/50 epoch=2/3 loss=0.2497 l2=0.2000 label_smoothing=0.000
+D step=14/50 epoch=3/3 loss=0.2187 l2=0.2000 label_smoothing=0.000
+D step=15/50 epoch=1/3 loss=0.2963 l2=0.2000 label_smoothing=0.000
+D step=15/50 epoch=2/3 loss=0.2531 l2=0.2000 label_smoothing=0.000
+D step=15/50 epoch=3/3 loss=0.2333 l2=0.2000 label_smoothing=0.000
+D step=16/50 epoch=1/3 loss=0.2470 l2=0.2000 label_smoothing=0.000
+D step=16/50 epoch=2/3 loss=0.2193 l2=0.2000 label_smoothing=0.000
+D step=16/50 epoch=3/3 loss=0.2014 l2=0.2000 label_smoothing=0.000
+D step=17/50 epoch=1/3 loss=0.3021 l2=0.2000 label_smoothing=0.000
+D step=17/50 epoch=2/3 loss=0.2693 l2=0.2000 label_smoothing=0.000
+D step=17/50 epoch=3/3 loss=0.2337 l2=0.2000 label_smoothing=0.000
+D step=18/50 epoch=1/3 loss=0.2741 l2=0.2000 label_smoothing=0.000
+D step=18/50 epoch=2/3 loss=0.2475 l2=0.2000 label_smoothing=0.000
+D step=18/50 epoch=3/3 loss=0.2180 l2=0.2000 label_smoothing=0.000
+D step=19/50 epoch=1/3 loss=0.3088 l2=0.2000 label_smoothing=0.000
+D step=19/50 epoch=2/3 loss=0.2640 l2=0.2000 label_smoothing=0.000
+D step=19/50 epoch=3/3 loss=0.2367 l2=0.2000 label_smoothing=0.000
+D step=20/50 epoch=1/3 loss=0.2927 l2=0.2000 label_smoothing=0.000
+D step=20/50 epoch=2/3 loss=0.2654 l2=0.2000 label_smoothing=0.000
+D step=20/50 epoch=3/3 loss=0.2276 l2=0.2000 label_smoothing=0.000
+D step=21/50 epoch=1/3 loss=0.3653 l2=0.2000 label_smoothing=0.000
+D step=21/50 epoch=2/3 loss=0.2932 l2=0.2000 label_smoothing=0.000
+D step=21/50 epoch=3/3 loss=0.2485 l2=0.2000 label_smoothing=0.000
+D step=22/50 epoch=1/3 loss=0.2514 l2=0.2000 label_smoothing=0.000
+D step=22/50 epoch=2/3 loss=0.2167 l2=0.2000 label_smoothing=0.000
+D step=22/50 epoch=3/3 loss=0.1827 l2=0.2000 label_smoothing=0.000
+D step=23/50 epoch=1/3 loss=0.2484 l2=0.2000 label_smoothing=0.000
+D step=23/50 epoch=2/3 loss=0.2169 l2=0.2000 label_smoothing=0.000
+D step=23/50 epoch=3/3 loss=0.1910 l2=0.2000 label_smoothing=0.000
+D step=24/50 epoch=1/3 loss=0.2378 l2=0.2000 label_smoothing=0.000
+D step=24/50 epoch=2/3 loss=0.2088 l2=0.2000 label_smoothing=0.000
+D step=24/50 epoch=3/3 loss=0.1924 l2=0.2000 label_smoothing=0.000
+D step=25/50 epoch=1/3 loss=0.2843 l2=0.2000 label_smoothing=0.000
+D step=25/50 epoch=2/3 loss=0.2499 l2=0.2000 label_smoothing=0.000
+D step=25/50 epoch=3/3 loss=0.2282 l2=0.2000 label_smoothing=0.000
+D step=26/50 epoch=1/3 loss=0.1978 l2=0.2000 label_smoothing=0.000
+D step=26/50 epoch=2/3 loss=0.1836 l2=0.2000 label_smoothing=0.000
+D step=26/50 epoch=3/3 loss=0.1714 l2=0.2000 label_smoothing=0.000
+D step=27/50 epoch=1/3 loss=0.2377 l2=0.2000 label_smoothing=0.000
+D step=27/50 epoch=2/3 loss=0.1950 l2=0.2000 label_smoothing=0.000
+D step=27/50 epoch=3/3 loss=0.1751 l2=0.2000 label_smoothing=0.000
+D step=28/50 epoch=1/3 loss=0.2748 l2=0.2000 label_smoothing=0.000
+D step=28/50 epoch=2/3 loss=0.2172 l2=0.2000 label_smoothing=0.000
+D step=28/50 epoch=3/3 loss=0.1574 l2=0.2000 label_smoothing=0.000
+D step=29/50 epoch=1/3 loss=0.2488 l2=0.2000 label_smoothing=0.000
+D step=29/50 epoch=2/3 loss=0.2143 l2=0.2000 label_smoothing=0.000
+D step=29/50 epoch=3/3 loss=0.1847 l2=0.2000 label_smoothing=0.000
+D step=30/50 epoch=1/3 loss=0.3022 l2=0.2000 label_smoothing=0.000
+D step=30/50 epoch=2/3 loss=0.2471 l2=0.2000 label_smoothing=0.000
+D step=30/50 epoch=3/3 loss=0.2274 l2=0.2000 label_smoothing=0.000
+D step=31/50 epoch=1/3 loss=0.2391 l2=0.2000 label_smoothing=0.000
+D step=31/50 epoch=2/3 loss=0.2167 l2=0.2000 label_smoothing=0.000
+D step=31/50 epoch=3/3 loss=0.1864 l2=0.2000 label_smoothing=0.000
+D step=32/50 epoch=1/3 loss=0.1923 l2=0.2000 label_smoothing=0.000
+D step=32/50 epoch=2/3 loss=0.1848 l2=0.2000 label_smoothing=0.000
+D step=32/50 epoch=3/3 loss=0.1700 l2=0.2000 label_smoothing=0.000
+D step=33/50 epoch=1/3 loss=0.2709 l2=0.2000 label_smoothing=0.000
+D step=33/50 epoch=2/3 loss=0.2503 l2=0.2000 label_smoothing=0.000
+D step=33/50 epoch=3/3 loss=0.2028 l2=0.2000 label_smoothing=0.000
+D step=34/50 epoch=1/3 loss=0.2562 l2=0.2000 label_smoothing=0.000
+D step=34/50 epoch=2/3 loss=0.2263 l2=0.2000 label_smoothing=0.000
+D step=34/50 epoch=3/3 loss=0.1994 l2=0.2000 label_smoothing=0.000
+D step=35/50 epoch=1/3 loss=0.2036 l2=0.2000 label_smoothing=0.000
+D step=35/50 epoch=2/3 loss=0.1837 l2=0.2000 label_smoothing=0.000
+D step=35/50 epoch=3/3 loss=0.1687 l2=0.2000 label_smoothing=0.000
+D step=36/50 epoch=1/3 loss=0.2463 l2=0.2000 label_smoothing=0.000
+D step=36/50 epoch=2/3 loss=0.2065 l2=0.2000 label_smoothing=0.000
+D step=36/50 epoch=3/3 loss=0.1775 l2=0.2000 label_smoothing=0.000
+D step=37/50 epoch=1/3 loss=0.1732 l2=0.2000 label_smoothing=0.000
+D step=37/50 epoch=2/3 loss=0.1531 l2=0.2000 label_smoothing=0.000
+D step=37/50 epoch=3/3 loss=0.1382 l2=0.2000 label_smoothing=0.000
+D step=38/50 epoch=1/3 loss=0.1748 l2=0.2000 label_smoothing=0.000
+D step=38/50 epoch=2/3 loss=0.1540 l2=0.2000 label_smoothing=0.000
+D step=38/50 epoch=3/3 loss=0.1387 l2=0.2000 label_smoothing=0.000
+D step=39/50 epoch=1/3 loss=0.1565 l2=0.2000 label_smoothing=0.000
+D step=39/50 epoch=2/3 loss=0.1448 l2=0.2000 label_smoothing=0.000
+D step=39/50 epoch=3/3 loss=0.1266 l2=0.2000 label_smoothing=0.000
+D step=40/50 epoch=1/3 loss=0.1971 l2=0.2000 label_smoothing=0.000
+D step=40/50 epoch=2/3 loss=0.1727 l2=0.2000 label_smoothing=0.000
+D step=40/50 epoch=3/3 loss=0.1594 l2=0.2000 label_smoothing=0.000
+D step=41/50 epoch=1/3 loss=0.2043 l2=0.2000 label_smoothing=0.000
+D step=41/50 epoch=2/3 loss=0.1901 l2=0.2000 label_smoothing=0.000
+D step=41/50 epoch=3/3 loss=0.1664 l2=0.2000 label_smoothing=0.000
+D step=42/50 epoch=1/3 loss=0.2317 l2=0.2000 label_smoothing=0.000
+D step=42/50 epoch=2/3 loss=0.2028 l2=0.2000 label_smoothing=0.000
+D step=42/50 epoch=3/3 loss=0.1715 l2=0.2000 label_smoothing=0.000
+D step=43/50 epoch=1/3 loss=0.2154 l2=0.2000 label_smoothing=0.000
+D step=43/50 epoch=2/3 loss=0.1836 l2=0.2000 label_smoothing=0.000
+D step=43/50 epoch=3/3 loss=0.1463 l2=0.2000 label_smoothing=0.000
+D step=44/50 epoch=1/3 loss=0.2360 l2=0.2000 label_smoothing=0.000
+D step=44/50 epoch=2/3 loss=0.1949 l2=0.2000 label_smoothing=0.000
+D step=44/50 epoch=3/3 loss=0.1648 l2=0.2000 label_smoothing=0.000
+D step=45/50 epoch=1/3 loss=0.2222 l2=0.2000 label_smoothing=0.000
+D step=45/50 epoch=2/3 loss=0.1916 l2=0.2000 label_smoothing=0.000
+D step=45/50 epoch=3/3 loss=0.1664 l2=0.2000 label_smoothing=0.000
+D step=46/50 epoch=1/3 loss=0.1783 l2=0.2000 label_smoothing=0.000
+D step=46/50 epoch=2/3 loss=0.1599 l2=0.2000 label_smoothing=0.000
+D step=46/50 epoch=3/3 loss=0.1423 l2=0.2000 label_smoothing=0.000
+D step=47/50 epoch=1/3 loss=0.2003 l2=0.2000 label_smoothing=0.000
+D step=47/50 epoch=2/3 loss=0.1676 l2=0.2000 label_smoothing=0.000
+D step=47/50 epoch=3/3 loss=0.1353 l2=0.2000 label_smoothing=0.000
+D step=48/50 epoch=1/3 loss=0.1815 l2=0.2000 label_smoothing=0.000
+D step=48/50 epoch=2/3 loss=0.1609 l2=0.2000 label_smoothing=0.000
+D step=48/50 epoch=3/3 loss=0.1476 l2=0.2000 label_smoothing=0.000
+D step=49/50 epoch=1/3 loss=0.2332 l2=0.2000 label_smoothing=0.000
+D step=49/50 epoch=2/3 loss=0.1859 l2=0.2000 label_smoothing=0.000
+D step=49/50 epoch=3/3 loss=0.1741 l2=0.2000 label_smoothing=0.000
+D step=50/50 epoch=1/3 loss=0.2094 l2=0.2000 label_smoothing=0.000
+D step=50/50 epoch=2/3 loss=0.1627 l2=0.2000 label_smoothing=0.000
+D step=50/50 epoch=3/3 loss=0.1400 l2=0.2000 label_smoothing=0.000
+
+[3/3] adversarial
+generator_reward_mode=off reward_alpha=1.000 d_steps=5 d_epochs=3
+D step=1/5 epoch=1/3 loss=0.1238 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.1134 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.0728 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.0932 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.0969 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.0768 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.0556 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0578 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.0545 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.0875 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.0691 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.0609 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.0843 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.0676 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.0523 l2=0.2000 label_smoothing=0.000
+ADV epoch=1/200 g_loss=0.0430 d_loss=0.0778 reward=0.0869 reward_var=0.0215 unique=0.9800
+D step=1/5 epoch=1/3 loss=0.1977 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.0776 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.0736 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.0822 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.0762 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.0612 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.0874 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0721 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.0640 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.0541 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.0534 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.0508 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.0872 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.0814 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.0678 l2=0.2000 label_smoothing=0.000
+ADV epoch=2/200 g_loss=0.0550 d_loss=0.0791 reward=0.1405 reward_var=0.0423 unique=0.7200
+D step=1/5 epoch=1/3 loss=0.0756 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.0559 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.0491 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.0496 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.0465 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.0448 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.0558 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0451 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.0462 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.0391 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.0348 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.0352 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.0385 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.0374 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.0322 l2=0.2000 label_smoothing=0.000
+ADV epoch=3/200 g_loss=0.0578 d_loss=0.0457 reward=0.1531 reward_var=0.0375 unique=0.9400
+D step=1/5 epoch=1/3 loss=0.1041 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.1145 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.0810 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.1061 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.0847 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.0939 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.0852 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0778 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.0812 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.0826 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.0693 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.0661 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.0659 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.0641 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.0633 l2=0.2000 label_smoothing=0.000
+ADV epoch=4/200 g_loss=0.0354 d_loss=0.0827 reward=0.1012 reward_var=0.0218 unique=0.6600
+D step=1/5 epoch=1/3 loss=0.1434 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.1205 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.1006 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.1636 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.1179 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.1295 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.1280 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0888 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.1100 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.0943 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.0854 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.0947 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.0796 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.0801 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.0719 l2=0.2000 label_smoothing=0.000
+ADV epoch=5/200 g_loss=0.0202 d_loss=0.1072 reward=0.0571 reward_var=0.0089 unique=0.7000
+D step=1/5 epoch=1/3 loss=0.1362 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.1400 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.1112 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.1276 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.1209 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.1130 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.1014 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0942 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.0875 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.1198 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.1029 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.1023 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.1218 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.1188 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.1151 l2=0.2000 label_smoothing=0.000
+ADV epoch=6/200 g_loss=0.0197 d_loss=0.1142 reward=0.0743 reward_var=0.0144 unique=0.6800
+D step=1/5 epoch=1/3 loss=0.0706 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.0695 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.0645 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.0841 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.0774 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.0703 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.0765 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0613 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.0633 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.0806 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.0812 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.0767 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.0609 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.0663 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.0612 l2=0.2000 label_smoothing=0.000
+ADV epoch=7/200 g_loss=0.0136 d_loss=0.0710 reward=0.0506 reward_var=0.0056 unique=0.6400
+D step=1/5 epoch=1/3 loss=0.0575 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.0330 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.0259 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.0654 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.0680 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.0598 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.0386 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0341 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.0391 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.0500 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.0402 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.0459 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.0274 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.0237 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.0285 l2=0.2000 label_smoothing=0.000
+ADV epoch=8/200 g_loss=0.0326 d_loss=0.0425 reward=0.1244 reward_var=0.0307 unique=0.6800
+D step=1/5 epoch=1/3 loss=0.0266 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.0303 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.0235 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.0526 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.0296 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.0267 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.0438 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0362 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.0300 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.0227 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.0211 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.0212 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.0316 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.0267 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.0201 l2=0.2000 label_smoothing=0.000
+ADV epoch=9/200 g_loss=0.0543 d_loss=0.0295 reward=0.2245 reward_var=0.0666 unique=0.7000
+D step=1/5 epoch=1/3 loss=0.0314 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.0213 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.0203 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.0296 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.0272 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.0249 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.0285 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0239 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.0275 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.0305 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.0318 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.0305 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.0262 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.0272 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.0257 l2=0.2000 label_smoothing=0.000
+ADV epoch=10/200 g_loss=0.0324 d_loss=0.0271 reward=0.1285 reward_var=0.0258 unique=0.6600
+D step=1/5 epoch=1/3 loss=0.0284 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.0179 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.0184 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.0536 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.0472 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.0382 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.0278 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0223 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.0232 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.0218 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.0210 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.0228 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.0217 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.0188 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.0235 l2=0.2000 label_smoothing=0.000
+ADV epoch=11/200 g_loss=0.0145 d_loss=0.0271 reward=0.0579 reward_var=0.0088 unique=0.6400
+D step=1/5 epoch=1/3 loss=0.0298 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.0135 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.0135 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.0166 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.0111 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.0125 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.0265 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0225 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.0220 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.0330 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.0289 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.0322 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.0558 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.0360 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.0454 l2=0.2000 label_smoothing=0.000
+ADV epoch=12/200 g_loss=0.0110 d_loss=0.0266 reward=0.0258 reward_var=0.0039 unique=0.7000
+D step=1/5 epoch=1/3 loss=0.0581 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.0607 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.0521 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.0752 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.0725 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.0658 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.0475 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0475 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.0437 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.0710 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.0733 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.0690 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.0503 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.0458 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.0392 l2=0.2000 label_smoothing=0.000
+ADV epoch=13/200 g_loss=0.0073 d_loss=0.0581 reward=0.0278 reward_var=0.0086 unique=0.5800
+D step=1/5 epoch=1/3 loss=0.0914 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=2/3 loss=0.0554 l2=0.2000 label_smoothing=0.000
+D step=1/5 epoch=3/3 loss=0.0499 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=1/3 loss=0.0862 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=2/3 loss=0.0845 l2=0.2000 label_smoothing=0.000
+D step=2/5 epoch=3/3 loss=0.0724 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=1/3 loss=0.1105 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=2/3 loss=0.0883 l2=0.2000 label_smoothing=0.000
+D step=3/5 epoch=3/3 loss=0.0917 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=1/3 loss=0.0762 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=2/3 loss=0.0658 l2=0.2000 label_smoothing=0.000
+D step=4/5 epoch=3/3 loss=0.0646 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=1/3 loss=0.1112 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=2/3 loss=0.0962 l2=0.2000 label_smoothing=0.000
+D step=5/5 epoch=3/3 loss=0.1005 l2=0.2000 label_smoothing=0.000
+ADV epoch=14/200 g_loss=0.0077 d_loss=0.0830 reward=0.0321 reward_var=0.0097 unique=0.5200
+saved 2000 raw samples to /content/drive/MyDrive/GAN_for_SQLi - 1/result/final/seqgan_master/time/A/R100/generated_payloads.csv
