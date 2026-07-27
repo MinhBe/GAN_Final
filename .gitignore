@@ -14,6 +14,9 @@ outputs*/
 .DS_Store
 Thumbs.db
 
+# Kept locally; the repository contains a lossless split ZIP distribution.
+/waf_evaluation/waf_evaluation/campaign/full/waf_probe_results.csv
+
 # Migration/runtime scratch only. Research results and model artifacts are
 # intentionally tracked, with binary/large classes routed through Git LFS.
 provenance/*.tmp
