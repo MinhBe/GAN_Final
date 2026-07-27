@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "run_id": "final__seqgan_master__boolean__E__R100",
+  "phase": "final",
+  "method": "seqgan_master",
+  "family": "boolean",
+  "scenario": "E",
+  "ratio": "100",
+  "variant_id": "",
+  "seed": 88,
+  "status": "completed",
+  "started_at": "2026-07-16T02:26:12.974776+00:00",
+  "config": "/content/colab_configs/experiment_refinement_master_R100.yaml",
+  "config_sha256": "7c8b0232f89f47487a1cf445c6384a5dc9c9d9d1ffb744edc31bdaec0f083d3f",
+  "config_digest": "6b1970452d1a3f48fbc89ccf7f92804f107715bbbbf3dc6587f7a885bb5b630c",
+  "source_sha256": "6e78897c071cb582f4cbc603d97ccf22089147af7bb5fcec6f49b1f0063273d7",
+  "environment": {
+    "python": "3.12.13",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "packages": {
+      "numpy": "2.0.2",
+      "pandas": "2.2.2",
+      "scikit-learn": "1.6.1",
+      "torch": "2.11.0+cu128",
+      "sqlparse": "0.5.5",
+      "PyYAML": "6.0.3"
+    }
+  },
+  "inputs": {
+    "dataset": {
+      "path": "data/prepared/frozen/boolean/E/attack_train.csv",
+      "sha256": "e937e31e5ab6af77d32ff09675c99371db2d8fb0b034486fe1935da5a5562f2d"
+    },
+    "holdout": {
+      "path": "data/prepared/splits/boolean_holdout.csv",
+      "sha256": "f5e852eff35e7e3320fa2224148e98c5e19fc1af59842890484e2c3f69e603db"
+    }
+  },
+  "commands": {
+    "train": "/usr/bin/python3 scripts/run_pipeline.py --model seqgan_master -- --dataset data/prepared/frozen/boolean/E/attack_train.csv --out-dir \"/content/drive/MyDrive/GAN_for_SQLi - 1/result/final/seqgan_master/boolean/E/R100\" --family boolean --n-samples 2000 --seed 88 --holdout-ref data/prepared/splits/boolean_holdout.csv --scenario E --phase final --ratio 100 --sequence-length 20 --g-pretrain-epochs 120 --d-pretrain-steps 50 --d-pretrain-epochs 3 --adv-epochs 200 --g-steps 1 --d-steps 5 --d-epochs 3 --rollout-num 16",
+    "quality": "/usr/bin/python3 common/quality_metrics.py score --generated \"/content/drive/MyDrive/GAN_for_SQLi - 1/result/final/seqgan_master/boolean/E/R100/generated_payloads.csv\" --method seqgan_master --family boolean --scenario E --ratio 100 --train-ref data/prepared/frozen/boolean/E/attack_train.csv --holdout-ref data/prepared/splits/boolean_holdout.csv --seed 88 --requested-count 2000 --generation-kind direct --self-bleu-sample-size 200 --out \"/content/drive/MyDrive/GAN_for_SQLi - 1/result/final/seqgan_master/boolean/E/R100/quality_metrics.json\"",
+    "rf": "/usr/bin/python3 export/classifier_export/rf_eval.py --normal-train data/prepared/splits/normal_train.csv --normal-test data/prepared/splits/normal_test.csv --attack-train data/prepared/frozen/boolean/E/attack_train.csv --attack-holdout data/prepared/splits/boolean_holdout.csv --generated \"/content/drive/MyDrive/GAN_for_SQLi - 1/result/final/seqgan_master/boolean/E/R100/generated_payloads.csv\" --seed 88 --n-estimators 300 --out \"/content/drive/MyDrive/GAN_for_SQLi - 1/result/final/seqgan_master/boolean/E/R100/rf_metrics.json\""
+  },
+  "ended_at": "2026-07-16T02:27:21.165121+00:00"
+}

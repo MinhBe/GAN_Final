@@ -1,0 +1,1018 @@
+
+[1/3] pretrain G
+G epoch=1/160 loss=4.9318
+G epoch=2/160 loss=4.8484
+G epoch=3/160 loss=4.7671
+G epoch=4/160 loss=4.6735
+G epoch=5/160 loss=4.5583
+G epoch=6/160 loss=4.4150
+G epoch=7/160 loss=4.2400
+G epoch=8/160 loss=4.0358
+G epoch=9/160 loss=3.8209
+G epoch=10/160 loss=3.6257
+G epoch=11/160 loss=3.4473
+G epoch=12/160 loss=3.2718
+G epoch=13/160 loss=3.1097
+G epoch=14/160 loss=2.9736
+G epoch=15/160 loss=2.8561
+G epoch=16/160 loss=2.7505
+G epoch=17/160 loss=2.6551
+G epoch=18/160 loss=2.5676
+G epoch=19/160 loss=2.4796
+G epoch=20/160 loss=2.3881
+G epoch=21/160 loss=2.2988
+G epoch=22/160 loss=2.2149
+G epoch=23/160 loss=2.1345
+G epoch=24/160 loss=2.0569
+G epoch=25/160 loss=1.9823
+G epoch=26/160 loss=1.9100
+G epoch=27/160 loss=1.8389
+G epoch=28/160 loss=1.7689
+G epoch=29/160 loss=1.7012
+G epoch=30/160 loss=1.6373
+G epoch=31/160 loss=1.5772
+G epoch=32/160 loss=1.5198
+G epoch=33/160 loss=1.4642
+G epoch=34/160 loss=1.4103
+G epoch=35/160 loss=1.3583
+G epoch=36/160 loss=1.3085
+G epoch=37/160 loss=1.2610
+G epoch=38/160 loss=1.2156
+G epoch=39/160 loss=1.1723
+G epoch=40/160 loss=1.1311
+G epoch=41/160 loss=1.0922
+G epoch=42/160 loss=1.0551
+G epoch=43/160 loss=1.0195
+G epoch=44/160 loss=0.9856
+G epoch=45/160 loss=0.9535
+G epoch=46/160 loss=0.9232
+G epoch=47/160 loss=0.8943
+G epoch=48/160 loss=0.8669
+G epoch=49/160 loss=0.8408
+G epoch=50/160 loss=0.8159
+G epoch=51/160 loss=0.7920
+G epoch=52/160 loss=0.7689
+G epoch=53/160 loss=0.7467
+G epoch=54/160 loss=0.7253
+G epoch=55/160 loss=0.7050
+G epoch=56/160 loss=0.6856
+G epoch=57/160 loss=0.6670
+G epoch=58/160 loss=0.6493
+G epoch=59/160 loss=0.6322
+G epoch=60/160 loss=0.6160
+G epoch=61/160 loss=0.6004
+G epoch=62/160 loss=0.5855
+G epoch=63/160 loss=0.5713
+G epoch=64/160 loss=0.5576
+G epoch=65/160 loss=0.5445
+G epoch=66/160 loss=0.5320
+G epoch=67/160 loss=0.5202
+G epoch=68/160 loss=0.5089
+G epoch=69/160 loss=0.4979
+G epoch=70/160 loss=0.4872
+G epoch=71/160 loss=0.4768
+G epoch=72/160 loss=0.4665
+G epoch=73/160 loss=0.4565
+G epoch=74/160 loss=0.4472
+G epoch=75/160 loss=0.4382
+G epoch=76/160 loss=0.4296
+G epoch=77/160 loss=0.4213
+G epoch=78/160 loss=0.4134
+G epoch=79/160 loss=0.4059
+G epoch=80/160 loss=0.3988
+G epoch=81/160 loss=0.3919
+G epoch=82/160 loss=0.3852
+G epoch=83/160 loss=0.3788
+G epoch=84/160 loss=0.3728
+G epoch=85/160 loss=0.3670
+G epoch=86/160 loss=0.3615
+G epoch=87/160 loss=0.3561
+G epoch=88/160 loss=0.3508
+G epoch=89/160 loss=0.3458
+G epoch=90/160 loss=0.3409
+G epoch=91/160 loss=0.3363
+G epoch=92/160 loss=0.3317
+G epoch=93/160 loss=0.3273
+G epoch=94/160 loss=0.3230
+G epoch=95/160 loss=0.3189
+G epoch=96/160 loss=0.3149
+G epoch=97/160 loss=0.3111
+G epoch=98/160 loss=0.3073
+G epoch=99/160 loss=0.3037
+G epoch=100/160 loss=0.3002
+G epoch=101/160 loss=0.2969
+G epoch=102/160 loss=0.2935
+G epoch=103/160 loss=0.2906
+G epoch=104/160 loss=0.2871
+G epoch=105/160 loss=0.2845
+G epoch=106/160 loss=0.2815
+G epoch=107/160 loss=0.2787
+G epoch=108/160 loss=0.2756
+G epoch=109/160 loss=0.2730
+G epoch=110/160 loss=0.2702
+G epoch=111/160 loss=0.2677
+G epoch=112/160 loss=0.2649
+G epoch=113/160 loss=0.2628
+G epoch=114/160 loss=0.2602
+G epoch=115/160 loss=0.2580
+G epoch=116/160 loss=0.2558
+G epoch=117/160 loss=0.2537
+G epoch=118/160 loss=0.2516
+G epoch=119/160 loss=0.2497
+G epoch=120/160 loss=0.2476
+G epoch=121/160 loss=0.2459
+G epoch=122/160 loss=0.2441
+G epoch=123/160 loss=0.2423
+G epoch=124/160 loss=0.2407
+G epoch=125/160 loss=0.2391
+G epoch=126/160 loss=0.2375
+G epoch=127/160 loss=0.2360
+G epoch=128/160 loss=0.2346
+G epoch=129/160 loss=0.2332
+G epoch=130/160 loss=0.2318
+G epoch=131/160 loss=0.2305
+G epoch=132/160 loss=0.2293
+G epoch=133/160 loss=0.2279
+G epoch=134/160 loss=0.2269
+G epoch=135/160 loss=0.2261
+G epoch=136/160 loss=0.2250
+G epoch=137/160 loss=0.2234
+G epoch=138/160 loss=0.2224
+G epoch=139/160 loss=0.2209
+G epoch=140/160 loss=0.2198
+G epoch=141/160 loss=0.2184
+G epoch=142/160 loss=0.2169
+G epoch=143/160 loss=0.2165
+G epoch=144/160 loss=0.2208
+G epoch=145/160 loss=0.2218
+G epoch=146/160 loss=0.2207
+G epoch=147/160 loss=0.2308
+G epoch=148/160 loss=0.2291
+G epoch=149/160 loss=0.2269
+G epoch=150/160 loss=0.2280
+G epoch=151/160 loss=0.2198
+G epoch=152/160 loss=0.2196
+G epoch=153/160 loss=0.2174
+G epoch=154/160 loss=0.2159
+G epoch=155/160 loss=0.2135
+G epoch=156/160 loss=0.2103
+G epoch=157/160 loss=0.2099
+G epoch=158/160 loss=0.2077
+G epoch=159/160 loss=0.2067
+G epoch=160/160 loss=0.2039
+
+[2/3] pretrain D
+
+[3/3] adversarial
+generator_reward_mode=on reward_alpha=0.700 d_steps=5 d_epochs=3
+ADV epoch=1/200 g_loss=0.2798 d_loss=0.0000 reward=0.5982 reward_var=0.0012 unique=0.8400
+ADV epoch=2/200 g_loss=0.3020 d_loss=0.0000 reward=0.5956 reward_var=0.0015 unique=0.9200
+ADV epoch=3/200 g_loss=0.3443 d_loss=0.0000 reward=0.5935 reward_var=0.0026 unique=0.9200
+ADV epoch=4/200 g_loss=0.3587 d_loss=0.0000 reward=0.6014 reward_var=0.0014 unique=0.9200
+ADV epoch=5/200 g_loss=0.3839 d_loss=0.0000 reward=0.6019 reward_var=0.0016 unique=0.8600
+ADV epoch=6/200 g_loss=0.3923 d_loss=0.0000 reward=0.6077 reward_var=0.0009 unique=0.9200
+ADV epoch=7/200 g_loss=0.3955 d_loss=0.0000 reward=0.6049 reward_var=0.0011 unique=0.8800
+ADV epoch=8/200 g_loss=0.3511 d_loss=0.0000 reward=0.5959 reward_var=0.0020 unique=0.6800
+ADV epoch=9/200 g_loss=0.3834 d_loss=0.0000 reward=0.5996 reward_var=0.0022 unique=0.9200
+ADV epoch=10/200 g_loss=0.3881 d_loss=0.0000 reward=0.5978 reward_var=0.0028 unique=0.9000
+ADV epoch=11/200 g_loss=0.4279 d_loss=0.0000 reward=0.6014 reward_var=0.0026 unique=0.8600
+ADV epoch=12/200 g_loss=0.4086 d_loss=0.0000 reward=0.6038 reward_var=0.0025 unique=0.8200
+ADV epoch=13/200 g_loss=0.3900 d_loss=0.0000 reward=0.5855 reward_var=0.0047 unique=0.7800
+ADV epoch=14/200 g_loss=0.3651 d_loss=0.0000 reward=0.5887 reward_var=0.0046 unique=0.6600
+ADV epoch=15/200 g_loss=0.3805 d_loss=0.0000 reward=0.6093 reward_var=0.0016 unique=0.7800
+ADV epoch=16/200 g_loss=0.3770 d_loss=0.0000 reward=0.6007 reward_var=0.0038 unique=0.7000
+ADV epoch=17/200 g_loss=0.3887 d_loss=0.0000 reward=0.6206 reward_var=0.0014 unique=0.7400
+ADV epoch=18/200 g_loss=0.4122 d_loss=0.0000 reward=0.6235 reward_var=0.0011 unique=0.6800
+ADV epoch=19/200 g_loss=0.4289 d_loss=0.0000 reward=0.6271 reward_var=0.0014 unique=0.6600
+ADV epoch=20/200 g_loss=0.4308 d_loss=0.0000 reward=0.6300 reward_var=0.0007 unique=0.7400
+ADV epoch=21/200 g_loss=0.4510 d_loss=0.0000 reward=0.6303 reward_var=0.0007 unique=0.7400
+ADV epoch=22/200 g_loss=0.4562 d_loss=0.0000 reward=0.6268 reward_var=0.0013 unique=0.8000
+ADV epoch=23/200 g_loss=0.4813 d_loss=0.0000 reward=0.6275 reward_var=0.0011 unique=0.7200
+ADV epoch=24/200 g_loss=0.5049 d_loss=0.0000 reward=0.6289 reward_var=0.0005 unique=0.6600
+ADV epoch=25/200 g_loss=0.4964 d_loss=0.0000 reward=0.6286 reward_var=0.0007 unique=0.7200
+ADV epoch=26/200 g_loss=0.5240 d_loss=0.0000 reward=0.6261 reward_var=0.0006 unique=0.8200
+ADV epoch=27/200 g_loss=0.5442 d_loss=0.0000 reward=0.6236 reward_var=0.0006 unique=0.8800
+ADV epoch=28/200 g_loss=0.5712 d_loss=0.0000 reward=0.6242 reward_var=0.0005 unique=0.8000
+ADV epoch=29/200 g_loss=0.5879 d_loss=0.0000 reward=0.6220 reward_var=0.0004 unique=0.8400
+ADV epoch=30/200 g_loss=0.6059 d_loss=0.0000 reward=0.6188 reward_var=0.0004 unique=0.8800
+ADV epoch=31/200 g_loss=0.6325 d_loss=0.0000 reward=0.6177 reward_var=0.0004 unique=0.8800
+ADV epoch=32/200 g_loss=0.6251 d_loss=0.0000 reward=0.6156 reward_var=0.0004 unique=0.9400
+ADV epoch=33/200 g_loss=0.6329 d_loss=0.0000 reward=0.6136 reward_var=0.0005 unique=0.9400
+ADV epoch=34/200 g_loss=0.6265 d_loss=0.0000 reward=0.6113 reward_var=0.0007 unique=0.9800
+ADV epoch=35/200 g_loss=0.6559 d_loss=0.0000 reward=0.6102 reward_var=0.0005 unique=1.0000
+ADV epoch=36/200 g_loss=0.6439 d_loss=0.0000 reward=0.6098 reward_var=0.0006 unique=1.0000
+ADV epoch=37/200 g_loss=0.6430 d_loss=0.0000 reward=0.6089 reward_var=0.0004 unique=0.9800
+ADV epoch=38/200 g_loss=0.6532 d_loss=0.0000 reward=0.6098 reward_var=0.0003 unique=1.0000
+ADV epoch=39/200 g_loss=0.6584 d_loss=0.0000 reward=0.6069 reward_var=0.0004 unique=1.0000
+ADV epoch=40/200 g_loss=0.6583 d_loss=0.0000 reward=0.6060 reward_var=0.0005 unique=0.9800
+ADV epoch=41/200 g_loss=0.6530 d_loss=0.0000 reward=0.6061 reward_var=0.0003 unique=0.9800
+ADV epoch=42/200 g_loss=0.6517 d_loss=0.0000 reward=0.6056 reward_var=0.0003 unique=0.9600
+ADV epoch=43/200 g_loss=0.6502 d_loss=0.0000 reward=0.6053 reward_var=0.0003 unique=1.0000
+ADV epoch=44/200 g_loss=0.6546 d_loss=0.0000 reward=0.6044 reward_var=0.0004 unique=1.0000
+ADV epoch=45/200 g_loss=0.6555 d_loss=0.0000 reward=0.6047 reward_var=0.0003 unique=1.0000
+ADV epoch=46/200 g_loss=0.6500 d_loss=0.0000 reward=0.6039 reward_var=0.0003 unique=1.0000
+ADV epoch=47/200 g_loss=0.6534 d_loss=0.0000 reward=0.6044 reward_var=0.0003 unique=1.0000
+ADV epoch=48/200 g_loss=0.6542 d_loss=0.0000 reward=0.6052 reward_var=0.0003 unique=0.9800
+ADV epoch=49/200 g_loss=0.6544 d_loss=0.0000 reward=0.6042 reward_var=0.0003 unique=1.0000
+ADV epoch=50/200 g_loss=0.6513 d_loss=0.0000 reward=0.6052 reward_var=0.0002 unique=1.0000
+ADV epoch=51/200 g_loss=0.6487 d_loss=0.0000 reward=0.6051 reward_var=0.0003 unique=1.0000
+ADV epoch=52/200 g_loss=0.6453 d_loss=0.0000 reward=0.6061 reward_var=0.0003 unique=0.9800
+ADV epoch=53/200 g_loss=0.6497 d_loss=0.0000 reward=0.6069 reward_var=0.0002 unique=0.9600
+ADV epoch=54/200 g_loss=0.6395 d_loss=0.0000 reward=0.6065 reward_var=0.0002 unique=1.0000
+ADV epoch=55/200 g_loss=0.6447 d_loss=0.0000 reward=0.6067 reward_var=0.0002 unique=0.9600
+ADV epoch=56/200 g_loss=0.6435 d_loss=0.0000 reward=0.6054 reward_var=0.0002 unique=0.9800
+ADV epoch=57/200 g_loss=0.6441 d_loss=0.0000 reward=0.6061 reward_var=0.0003 unique=0.9800
+ADV epoch=58/200 g_loss=0.6506 d_loss=0.0000 reward=0.6055 reward_var=0.0002 unique=0.9400
+ADV epoch=59/200 g_loss=0.6599 d_loss=0.0000 reward=0.6054 reward_var=0.0002 unique=1.0000
+ADV epoch=60/200 g_loss=0.6593 d_loss=0.0000 reward=0.6049 reward_var=0.0002 unique=1.0000
+ADV epoch=61/200 g_loss=0.6593 d_loss=0.0000 reward=0.6055 reward_var=0.0002 unique=1.0000
+ADV epoch=62/200 g_loss=0.6671 d_loss=0.0000 reward=0.6048 reward_var=0.0002 unique=1.0000
+ADV epoch=63/200 g_loss=0.6784 d_loss=0.0000 reward=0.6037 reward_var=0.0002 unique=1.0000
+ADV epoch=64/200 g_loss=0.6839 d_loss=0.0000 reward=0.6016 reward_var=0.0004 unique=1.0000
+ADV epoch=65/200 g_loss=0.6891 d_loss=0.0000 reward=0.6021 reward_var=0.0002 unique=1.0000
+ADV epoch=66/200 g_loss=0.7006 d_loss=0.0000 reward=0.6007 reward_var=0.0003 unique=1.0000
+ADV epoch=67/200 g_loss=0.7045 d_loss=0.0000 reward=0.6001 reward_var=0.0002 unique=1.0000
+ADV epoch=68/200 g_loss=0.7135 d_loss=0.0000 reward=0.5989 reward_var=0.0002 unique=0.9600
+ADV epoch=69/200 g_loss=0.7003 d_loss=0.0000 reward=0.5974 reward_var=0.0003 unique=1.0000
+ADV epoch=70/200 g_loss=0.7195 d_loss=0.0000 reward=0.5976 reward_var=0.0002 unique=1.0000
+ADV epoch=71/200 g_loss=0.7056 d_loss=0.0000 reward=0.5974 reward_var=0.0002 unique=1.0000
+ADV epoch=72/200 g_loss=0.6930 d_loss=0.0000 reward=0.5965 reward_var=0.0002 unique=0.9800
+ADV epoch=73/200 g_loss=0.7062 d_loss=0.0000 reward=0.5965 reward_var=0.0002 unique=1.0000
+ADV epoch=74/200 g_loss=0.7021 d_loss=0.0000 reward=0.5973 reward_var=0.0001 unique=0.9800
+ADV epoch=75/200 g_loss=0.7061 d_loss=0.0000 reward=0.5955 reward_var=0.0002 unique=1.0000
+ADV epoch=76/200 g_loss=0.7141 d_loss=0.0000 reward=0.5955 reward_var=0.0003 unique=1.0000
+ADV epoch=77/200 g_loss=0.7085 d_loss=0.0000 reward=0.5930 reward_var=0.0006 unique=1.0000
+ADV epoch=78/200 g_loss=0.7198 d_loss=0.0000 reward=0.5918 reward_var=0.0008 unique=1.0000
+ADV epoch=79/200 g_loss=0.7269 d_loss=0.0000 reward=0.5924 reward_var=0.0007 unique=1.0000
+ADV epoch=80/200 g_loss=0.7310 d_loss=0.0000 reward=0.5933 reward_var=0.0008 unique=1.0000
+ADV epoch=81/200 g_loss=0.7419 d_loss=0.0000 reward=0.5944 reward_var=0.0005 unique=1.0000
+ADV epoch=82/200 g_loss=0.7414 d_loss=0.0000 reward=0.5905 reward_var=0.0010 unique=1.0000
+ADV epoch=83/200 g_loss=0.7382 d_loss=0.0000 reward=0.5926 reward_var=0.0008 unique=1.0000
+ADV epoch=84/200 g_loss=0.7329 d_loss=0.0000 reward=0.5924 reward_var=0.0009 unique=1.0000
+ADV epoch=85/200 g_loss=0.7337 d_loss=0.0000 reward=0.5935 reward_var=0.0008 unique=1.0000
+ADV epoch=86/200 g_loss=0.7357 d_loss=0.0000 reward=0.5940 reward_var=0.0009 unique=1.0000
+ADV epoch=87/200 g_loss=0.7395 d_loss=0.0000 reward=0.5967 reward_var=0.0005 unique=1.0000
+ADV epoch=88/200 g_loss=0.7320 d_loss=0.0000 reward=0.5949 reward_var=0.0010 unique=0.9800
+ADV epoch=89/200 g_loss=0.7272 d_loss=0.0000 reward=0.5960 reward_var=0.0006 unique=1.0000
+ADV epoch=90/200 g_loss=0.7237 d_loss=0.0000 reward=0.5952 reward_var=0.0009 unique=1.0000
+ADV epoch=91/200 g_loss=0.7282 d_loss=0.0000 reward=0.5985 reward_var=0.0005 unique=1.0000
+ADV epoch=92/200 g_loss=0.7172 d_loss=0.0000 reward=0.5955 reward_var=0.0011 unique=1.0000
+ADV epoch=93/200 g_loss=0.7189 d_loss=0.0000 reward=0.5959 reward_var=0.0009 unique=1.0000
+ADV epoch=94/200 g_loss=0.7181 d_loss=0.0000 reward=0.5989 reward_var=0.0007 unique=1.0000
+ADV epoch=95/200 g_loss=0.7104 d_loss=0.0000 reward=0.5972 reward_var=0.0008 unique=1.0000
+ADV epoch=96/200 g_loss=0.7117 d_loss=0.0000 reward=0.6012 reward_var=0.0005 unique=1.0000
+ADV epoch=97/200 g_loss=0.7140 d_loss=0.0000 reward=0.5979 reward_var=0.0009 unique=1.0000
+ADV epoch=98/200 g_loss=0.7125 d_loss=0.0000 reward=0.5998 reward_var=0.0008 unique=1.0000
+ADV epoch=99/200 g_loss=0.7141 d_loss=0.0000 reward=0.6010 reward_var=0.0005 unique=1.0000
+ADV epoch=100/200 g_loss=0.7158 d_loss=0.0000 reward=0.6021 reward_var=0.0005 unique=0.9800
+ADV epoch=101/200 g_loss=0.7168 d_loss=0.0000 reward=0.6012 reward_var=0.0006 unique=1.0000
+ADV epoch=102/200 g_loss=0.7051 d_loss=0.0000 reward=0.6019 reward_var=0.0006 unique=1.0000
+ADV epoch=103/200 g_loss=0.7018 d_loss=0.0000 reward=0.6002 reward_var=0.0007 unique=1.0000
+ADV epoch=104/200 g_loss=0.6958 d_loss=0.0000 reward=0.6017 reward_var=0.0004 unique=1.0000
+ADV epoch=105/200 g_loss=0.6894 d_loss=0.0000 reward=0.5988 reward_var=0.0008 unique=1.0000
+ADV epoch=106/200 g_loss=0.6811 d_loss=0.0000 reward=0.6016 reward_var=0.0005 unique=0.9600
+ADV epoch=107/200 g_loss=0.6767 d_loss=0.0000 reward=0.6010 reward_var=0.0006 unique=0.9200
+ADV epoch=108/200 g_loss=0.6846 d_loss=0.0000 reward=0.6051 reward_var=0.0003 unique=0.9000
+ADV epoch=109/200 g_loss=0.6829 d_loss=0.0000 reward=0.6046 reward_var=0.0002 unique=0.9400
+ADV epoch=110/200 g_loss=0.6747 d_loss=0.0000 reward=0.6050 reward_var=0.0002 unique=0.9400
+ADV epoch=111/200 g_loss=0.6696 d_loss=0.0000 reward=0.6025 reward_var=0.0005 unique=1.0000
+ADV epoch=112/200 g_loss=0.6763 d_loss=0.0000 reward=0.6050 reward_var=0.0004 unique=0.9600
+ADV epoch=113/200 g_loss=0.6783 d_loss=0.0000 reward=0.6044 reward_var=0.0004 unique=0.9800
+ADV epoch=114/200 g_loss=0.6803 d_loss=0.0000 reward=0.6047 reward_var=0.0004 unique=0.9400
+ADV epoch=115/200 g_loss=0.6837 d_loss=0.0000 reward=0.6072 reward_var=0.0003 unique=1.0000
+ADV epoch=116/200 g_loss=0.6930 d_loss=0.0000 reward=0.6075 reward_var=0.0002 unique=0.9600
+ADV epoch=117/200 g_loss=0.6885 d_loss=0.0000 reward=0.6075 reward_var=0.0004 unique=0.9600
+ADV epoch=118/200 g_loss=0.7081 d_loss=0.0000 reward=0.6087 reward_var=0.0003 unique=1.0000
+ADV epoch=119/200 g_loss=0.7222 d_loss=0.0000 reward=0.6078 reward_var=0.0005 unique=1.0000
+ADV epoch=120/200 g_loss=0.7256 d_loss=0.0000 reward=0.6096 reward_var=0.0003 unique=0.9600
+ADV epoch=121/200 g_loss=0.7433 d_loss=0.0000 reward=0.6091 reward_var=0.0004 unique=1.0000
+ADV epoch=122/200 g_loss=0.7403 d_loss=0.0000 reward=0.6104 reward_var=0.0003 unique=1.0000
+ADV epoch=123/200 g_loss=0.7655 d_loss=0.0000 reward=0.6085 reward_var=0.0005 unique=1.0000
+ADV epoch=124/200 g_loss=0.7564 d_loss=0.0000 reward=0.6121 reward_var=0.0002 unique=1.0000
+ADV epoch=125/200 g_loss=0.7571 d_loss=0.0000 reward=0.6109 reward_var=0.0003 unique=0.9000
+ADV epoch=126/200 g_loss=0.7539 d_loss=0.0000 reward=0.6112 reward_var=0.0003 unique=1.0000
+ADV epoch=127/200 g_loss=0.7592 d_loss=0.0000 reward=0.6123 reward_var=0.0003 unique=0.9600
+ADV epoch=128/200 g_loss=0.7516 d_loss=0.0000 reward=0.6125 reward_var=0.0002 unique=0.9200
+ADV epoch=129/200 g_loss=0.7407 d_loss=0.0000 reward=0.6125 reward_var=0.0003 unique=1.0000
+ADV epoch=130/200 g_loss=0.7404 d_loss=0.0000 reward=0.6136 reward_var=0.0003 unique=1.0000
+ADV epoch=131/200 g_loss=0.7271 d_loss=0.0000 reward=0.6136 reward_var=0.0002 unique=1.0000
+ADV epoch=132/200 g_loss=0.7154 d_loss=0.0000 reward=0.6145 reward_var=0.0001 unique=1.0000
+ADV epoch=133/200 g_loss=0.7106 d_loss=0.0000 reward=0.6132 reward_var=0.0003 unique=1.0000
+ADV epoch=134/200 g_loss=0.7030 d_loss=0.0000 reward=0.6133 reward_var=0.0002 unique=1.0000
+ADV epoch=135/200 g_loss=0.6963 d_loss=0.0000 reward=0.6143 reward_var=0.0002 unique=1.0000
+ADV epoch=136/200 g_loss=0.6877 d_loss=0.0000 reward=0.6156 reward_var=0.0001 unique=1.0000
+ADV epoch=137/200 g_loss=0.6709 d_loss=0.0000 reward=0.6148 reward_var=0.0001 unique=1.0000
+ADV epoch=138/200 g_loss=0.6710 d_loss=0.0000 reward=0.6149 reward_var=0.0001 unique=1.0000
+ADV epoch=139/200 g_loss=0.6618 d_loss=0.0000 reward=0.6154 reward_var=0.0001 unique=1.0000
+ADV epoch=140/200 g_loss=0.6669 d_loss=0.0000 reward=0.6154 reward_var=0.0001 unique=0.9800
+ADV epoch=141/200 g_loss=0.6494 d_loss=0.0000 reward=0.6154 reward_var=0.0002 unique=1.0000
+ADV epoch=142/200 g_loss=0.6515 d_loss=0.0000 reward=0.6154 reward_var=0.0001 unique=0.9600
+ADV epoch=143/200 g_loss=0.6582 d_loss=0.0000 reward=0.6161 reward_var=0.0002 unique=0.9400
+ADV epoch=144/200 g_loss=0.6510 d_loss=0.0000 reward=0.6157 reward_var=0.0001 unique=0.9800
+ADV epoch=145/200 g_loss=0.6513 d_loss=0.0000 reward=0.6168 reward_var=0.0001 unique=0.9800
+ADV epoch=146/200 g_loss=0.6564 d_loss=0.0000 reward=0.6168 reward_var=0.0001 unique=0.9800
+ADV epoch=147/200 g_loss=0.6561 d_loss=0.0000 reward=0.6173 reward_var=0.0002 unique=0.9600
+ADV epoch=148/200 g_loss=0.6576 d_loss=0.0000 reward=0.6186 reward_var=0.0001 unique=1.0000
+ADV epoch=149/200 g_loss=0.6598 d_loss=0.0000 reward=0.6184 reward_var=0.0001 unique=0.9800
+ADV epoch=150/200 g_loss=0.6611 d_loss=0.0000 reward=0.6192 reward_var=0.0001 unique=1.0000
+ADV epoch=151/200 g_loss=0.6605 d_loss=0.0000 reward=0.6189 reward_var=0.0001 unique=0.9800
+ADV epoch=152/200 g_loss=0.6615 d_loss=0.0000 reward=0.6201 reward_var=0.0001 unique=1.0000
+ADV epoch=153/200 g_loss=0.6550 d_loss=0.0000 reward=0.6197 reward_var=0.0001 unique=1.0000
+ADV epoch=154/200 g_loss=0.6637 d_loss=0.0000 reward=0.6205 reward_var=0.0001 unique=0.9800
+ADV epoch=155/200 g_loss=0.6746 d_loss=0.0000 reward=0.6204 reward_var=0.0001 unique=0.9600
+ADV epoch=156/200 g_loss=0.6715 d_loss=0.0000 reward=0.6204 reward_var=0.0002 unique=0.9200
+ADV epoch=157/200 g_loss=0.6830 d_loss=0.0000 reward=0.6205 reward_var=0.0002 unique=0.9400
+ADV epoch=158/200 g_loss=0.6809 d_loss=0.0000 reward=0.6212 reward_var=0.0001 unique=1.0000
+ADV epoch=159/200 g_loss=0.6870 d_loss=0.0000 reward=0.6210 reward_var=0.0002 unique=1.0000
+ADV epoch=160/200 g_loss=0.6840 d_loss=0.0000 reward=0.6210 reward_var=0.0002 unique=0.9400
+ADV epoch=161/200 g_loss=0.6938 d_loss=0.0000 reward=0.6224 reward_var=0.0001 unique=0.9400
+ADV epoch=162/200 g_loss=0.6983 d_loss=0.0000 reward=0.6204 reward_var=0.0002 unique=0.9400
+ADV epoch=163/200 g_loss=0.6896 d_loss=0.0000 reward=0.6199 reward_var=0.0002 unique=0.9800
+ADV epoch=164/200 g_loss=0.7007 d_loss=0.0000 reward=0.6195 reward_var=0.0002 unique=0.9400
+ADV epoch=165/200 g_loss=0.6959 d_loss=0.0000 reward=0.6197 reward_var=0.0002 unique=0.9800
+
+
+===== NEW SESSION 2026-07-18T05:47:55.263608 =====
+
+[1/3] pretrain G
+G epoch=1/160 loss=4.9318
+G epoch=2/160 loss=4.8484
+G epoch=3/160 loss=4.7671
+G epoch=4/160 loss=4.6735
+G epoch=5/160 loss=4.5583
+G epoch=6/160 loss=4.4150
+G epoch=7/160 loss=4.2400
+G epoch=8/160 loss=4.0358
+G epoch=9/160 loss=3.8209
+G epoch=10/160 loss=3.6257
+G epoch=11/160 loss=3.4473
+G epoch=12/160 loss=3.2718
+G epoch=13/160 loss=3.1097
+G epoch=14/160 loss=2.9736
+G epoch=15/160 loss=2.8561
+G epoch=16/160 loss=2.7505
+G epoch=17/160 loss=2.6551
+G epoch=18/160 loss=2.5676
+G epoch=19/160 loss=2.4796
+G epoch=20/160 loss=2.3881
+G epoch=21/160 loss=2.2988
+G epoch=22/160 loss=2.2149
+G epoch=23/160 loss=2.1345
+G epoch=24/160 loss=2.0569
+G epoch=25/160 loss=1.9823
+G epoch=26/160 loss=1.9100
+G epoch=27/160 loss=1.8389
+G epoch=28/160 loss=1.7689
+G epoch=29/160 loss=1.7012
+G epoch=30/160 loss=1.6373
+G epoch=31/160 loss=1.5772
+G epoch=32/160 loss=1.5198
+G epoch=33/160 loss=1.4642
+G epoch=34/160 loss=1.4103
+G epoch=35/160 loss=1.3583
+G epoch=36/160 loss=1.3085
+G epoch=37/160 loss=1.2610
+G epoch=38/160 loss=1.2156
+G epoch=39/160 loss=1.1723
+G epoch=40/160 loss=1.1311
+G epoch=41/160 loss=1.0922
+G epoch=42/160 loss=1.0551
+G epoch=43/160 loss=1.0195
+G epoch=44/160 loss=0.9856
+G epoch=45/160 loss=0.9535
+G epoch=46/160 loss=0.9232
+G epoch=47/160 loss=0.8943
+G epoch=48/160 loss=0.8669
+G epoch=49/160 loss=0.8408
+G epoch=50/160 loss=0.8159
+G epoch=51/160 loss=0.7920
+G epoch=52/160 loss=0.7689
+G epoch=53/160 loss=0.7467
+G epoch=54/160 loss=0.7253
+G epoch=55/160 loss=0.7050
+G epoch=56/160 loss=0.6856
+G epoch=57/160 loss=0.6670
+G epoch=58/160 loss=0.6493
+G epoch=59/160 loss=0.6322
+G epoch=60/160 loss=0.6160
+G epoch=61/160 loss=0.6004
+G epoch=62/160 loss=0.5855
+G epoch=63/160 loss=0.5713
+G epoch=64/160 loss=0.5576
+G epoch=65/160 loss=0.5445
+G epoch=66/160 loss=0.5320
+G epoch=67/160 loss=0.5202
+G epoch=68/160 loss=0.5089
+G epoch=69/160 loss=0.4979
+G epoch=70/160 loss=0.4872
+G epoch=71/160 loss=0.4768
+G epoch=72/160 loss=0.4665
+G epoch=73/160 loss=0.4565
+G epoch=74/160 loss=0.4472
+G epoch=75/160 loss=0.4382
+G epoch=76/160 loss=0.4296
+G epoch=77/160 loss=0.4213
+G epoch=78/160 loss=0.4134
+G epoch=79/160 loss=0.4059
+G epoch=80/160 loss=0.3988
+G epoch=81/160 loss=0.3919
+G epoch=82/160 loss=0.3852
+G epoch=83/160 loss=0.3788
+G epoch=84/160 loss=0.3728
+G epoch=85/160 loss=0.3671
+G epoch=86/160 loss=0.3615
+G epoch=87/160 loss=0.3561
+G epoch=88/160 loss=0.3508
+G epoch=89/160 loss=0.3458
+G epoch=90/160 loss=0.3409
+G epoch=91/160 loss=0.3363
+G epoch=92/160 loss=0.3317
+G epoch=93/160 loss=0.3273
+G epoch=94/160 loss=0.3230
+G epoch=95/160 loss=0.3189
+G epoch=96/160 loss=0.3149
+G epoch=97/160 loss=0.3111
+G epoch=98/160 loss=0.3073
+G epoch=99/160 loss=0.3037
+G epoch=100/160 loss=0.3003
+G epoch=101/160 loss=0.2969
+G epoch=102/160 loss=0.2938
+G epoch=103/160 loss=0.2902
+G epoch=104/160 loss=0.2873
+G epoch=105/160 loss=0.2845
+G epoch=106/160 loss=0.2814
+G epoch=107/160 loss=0.2782
+G epoch=108/160 loss=0.2756
+G epoch=109/160 loss=0.2727
+G epoch=110/160 loss=0.2700
+G epoch=111/160 loss=0.2673
+G epoch=112/160 loss=0.2650
+G epoch=113/160 loss=0.2625
+G epoch=114/160 loss=0.2602
+G epoch=115/160 loss=0.2578
+G epoch=116/160 loss=0.2557
+G epoch=117/160 loss=0.2536
+G epoch=118/160 loss=0.2516
+G epoch=119/160 loss=0.2495
+G epoch=120/160 loss=0.2477
+G epoch=121/160 loss=0.2457
+G epoch=122/160 loss=0.2440
+G epoch=123/160 loss=0.2424
+G epoch=124/160 loss=0.2406
+G epoch=125/160 loss=0.2391
+G epoch=126/160 loss=0.2374
+G epoch=127/160 loss=0.2360
+G epoch=128/160 loss=0.2346
+G epoch=129/160 loss=0.2331
+G epoch=130/160 loss=0.2318
+G epoch=131/160 loss=0.2304
+G epoch=132/160 loss=0.2291
+G epoch=133/160 loss=0.2279
+G epoch=134/160 loss=0.2266
+G epoch=135/160 loss=0.2255
+G epoch=136/160 loss=0.2244
+G epoch=137/160 loss=0.2232
+G epoch=138/160 loss=0.2218
+G epoch=139/160 loss=0.2206
+G epoch=140/160 loss=0.2194
+G epoch=141/160 loss=0.2182
+G epoch=142/160 loss=0.2179
+G epoch=143/160 loss=0.2193
+G epoch=144/160 loss=0.2194
+G epoch=145/160 loss=0.2162
+G epoch=146/160 loss=0.2176
+G epoch=147/160 loss=0.2122
+G epoch=148/160 loss=0.2131
+G epoch=149/160 loss=0.2104
+G epoch=150/160 loss=0.2084
+G epoch=151/160 loss=0.2094
+G epoch=152/160 loss=0.2073
+G epoch=153/160 loss=0.2082
+G epoch=154/160 loss=0.2056
+G epoch=155/160 loss=0.2039
+G epoch=156/160 loss=0.2032
+G epoch=157/160 loss=0.2011
+G epoch=158/160 loss=0.2002
+G epoch=159/160 loss=0.1990
+G epoch=160/160 loss=0.1979
+
+[2/3] pretrain D
+
+[3/3] adversarial
+generator_reward_mode=on reward_alpha=0.700 d_steps=5 d_epochs=3
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/train.py", line 452, in <module>
+    main()
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/train.py", line 448, in main
+    run_training(build_parser().parse_args())
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/train.py", line 266, in run_training
+    adversarial_stats = adv_train(
+                        ^^^^^^^^^^
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/adversarial.py", line 224, in adv_train
+    discriminator_reward = rollout.get_reward(sequences.detach(), mask=mask.detach())
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/torch/utils/_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/rollout.py", line 79, in get_reward
+    tails = self.beta.continue_batched(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/torch/utils/_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/generator.py", line 176, in continue_batched
+    prob = F.softmax(logits / max(temperature, 1e-6), dim=-1)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/torch/nn/functional.py", line 2122, in softmax
+    def softmax(
+    
+KeyboardInterrupt
+
+
+===== NEW SESSION 2026-07-18T05:51:50.516186 =====
+
+[1/3] pretrain G
+G epoch=1/160 loss=4.9318
+G epoch=2/160 loss=4.8484
+G epoch=3/160 loss=4.7671
+G epoch=4/160 loss=4.6735
+G epoch=5/160 loss=4.5583
+G epoch=6/160 loss=4.4150
+G epoch=7/160 loss=4.2400
+G epoch=8/160 loss=4.0358
+G epoch=9/160 loss=3.8209
+G epoch=10/160 loss=3.6257
+G epoch=11/160 loss=3.4473
+G epoch=12/160 loss=3.2718
+G epoch=13/160 loss=3.1097
+G epoch=14/160 loss=2.9736
+G epoch=15/160 loss=2.8561
+G epoch=16/160 loss=2.7505
+G epoch=17/160 loss=2.6551
+G epoch=18/160 loss=2.5676
+G epoch=19/160 loss=2.4796
+G epoch=20/160 loss=2.3881
+G epoch=21/160 loss=2.2988
+G epoch=22/160 loss=2.2149
+G epoch=23/160 loss=2.1345
+G epoch=24/160 loss=2.0569
+G epoch=25/160 loss=1.9823
+G epoch=26/160 loss=1.9100
+G epoch=27/160 loss=1.8389
+G epoch=28/160 loss=1.7689
+G epoch=29/160 loss=1.7012
+G epoch=30/160 loss=1.6373
+G epoch=31/160 loss=1.5772
+G epoch=32/160 loss=1.5198
+G epoch=33/160 loss=1.4642
+G epoch=34/160 loss=1.4103
+G epoch=35/160 loss=1.3583
+G epoch=36/160 loss=1.3085
+G epoch=37/160 loss=1.2610
+G epoch=38/160 loss=1.2156
+G epoch=39/160 loss=1.1723
+G epoch=40/160 loss=1.1311
+G epoch=41/160 loss=1.0922
+G epoch=42/160 loss=1.0551
+G epoch=43/160 loss=1.0195
+G epoch=44/160 loss=0.9856
+G epoch=45/160 loss=0.9535
+G epoch=46/160 loss=0.9232
+G epoch=47/160 loss=0.8943
+G epoch=48/160 loss=0.8669
+G epoch=49/160 loss=0.8408
+G epoch=50/160 loss=0.8159
+G epoch=51/160 loss=0.7920
+G epoch=52/160 loss=0.7689
+G epoch=53/160 loss=0.7467
+G epoch=54/160 loss=0.7253
+G epoch=55/160 loss=0.7050
+G epoch=56/160 loss=0.6856
+G epoch=57/160 loss=0.6670
+G epoch=58/160 loss=0.6493
+G epoch=59/160 loss=0.6322
+G epoch=60/160 loss=0.6160
+G epoch=61/160 loss=0.6004
+G epoch=62/160 loss=0.5855
+G epoch=63/160 loss=0.5713
+G epoch=64/160 loss=0.5576
+G epoch=65/160 loss=0.5445
+G epoch=66/160 loss=0.5320
+G epoch=67/160 loss=0.5202
+G epoch=68/160 loss=0.5089
+G epoch=69/160 loss=0.4979
+G epoch=70/160 loss=0.4872
+G epoch=71/160 loss=0.4768
+G epoch=72/160 loss=0.4665
+G epoch=73/160 loss=0.4565
+G epoch=74/160 loss=0.4472
+G epoch=75/160 loss=0.4382
+G epoch=76/160 loss=0.4296
+G epoch=77/160 loss=0.4213
+G epoch=78/160 loss=0.4134
+G epoch=79/160 loss=0.4059
+G epoch=80/160 loss=0.3988
+G epoch=81/160 loss=0.3919
+G epoch=82/160 loss=0.3852
+G epoch=83/160 loss=0.3788
+G epoch=84/160 loss=0.3728
+G epoch=85/160 loss=0.3670
+G epoch=86/160 loss=0.3615
+G epoch=87/160 loss=0.3561
+G epoch=88/160 loss=0.3508
+G epoch=89/160 loss=0.3458
+G epoch=90/160 loss=0.3409
+G epoch=91/160 loss=0.3363
+G epoch=92/160 loss=0.3317
+G epoch=93/160 loss=0.3273
+G epoch=94/160 loss=0.3230
+G epoch=95/160 loss=0.3189
+G epoch=96/160 loss=0.3149
+G epoch=97/160 loss=0.3111
+G epoch=98/160 loss=0.3073
+G epoch=99/160 loss=0.3037
+G epoch=100/160 loss=0.3002
+G epoch=101/160 loss=0.2969
+G epoch=102/160 loss=0.2935
+G epoch=103/160 loss=0.2906
+G epoch=104/160 loss=0.2870
+G epoch=105/160 loss=0.2845
+G epoch=106/160 loss=0.2815
+G epoch=107/160 loss=0.2787
+G epoch=108/160 loss=0.2756
+G epoch=109/160 loss=0.2731
+G epoch=110/160 loss=0.2702
+G epoch=111/160 loss=0.2677
+G epoch=112/160 loss=0.2650
+G epoch=113/160 loss=0.2628
+G epoch=114/160 loss=0.2603
+G epoch=115/160 loss=0.2580
+G epoch=116/160 loss=0.2558
+G epoch=117/160 loss=0.2537
+G epoch=118/160 loss=0.2516
+G epoch=119/160 loss=0.2497
+G epoch=120/160 loss=0.2476
+G epoch=121/160 loss=0.2459
+G epoch=122/160 loss=0.2442
+G epoch=123/160 loss=0.2423
+G epoch=124/160 loss=0.2407
+G epoch=125/160 loss=0.2391
+G epoch=126/160 loss=0.2375
+G epoch=127/160 loss=0.2360
+G epoch=128/160 loss=0.2346
+G epoch=129/160 loss=0.2332
+G epoch=130/160 loss=0.2318
+G epoch=131/160 loss=0.2305
+G epoch=132/160 loss=0.2293
+G epoch=133/160 loss=0.2279
+G epoch=134/160 loss=0.2270
+G epoch=135/160 loss=0.2262
+G epoch=136/160 loss=0.2251
+G epoch=137/160 loss=0.2235
+G epoch=138/160 loss=0.2223
+G epoch=139/160 loss=0.2210
+G epoch=140/160 loss=0.2198
+G epoch=141/160 loss=0.2186
+G epoch=142/160 loss=0.2170
+G epoch=143/160 loss=0.2163
+G epoch=144/160 loss=0.2193
+G epoch=145/160 loss=0.2219
+G epoch=146/160 loss=0.2216
+G epoch=147/160 loss=0.2457
+G epoch=148/160 loss=0.2265
+G epoch=149/160 loss=0.2235
+G epoch=150/160 loss=0.2253
+G epoch=151/160 loss=0.2208
+G epoch=152/160 loss=0.2216
+G epoch=153/160 loss=0.2165
+G epoch=154/160 loss=0.2148
+G epoch=155/160 loss=0.2135
+G epoch=156/160 loss=0.2096
+G epoch=157/160 loss=0.2094
+G epoch=158/160 loss=0.2084
+G epoch=159/160 loss=0.2067
+G epoch=160/160 loss=0.2058
+
+[2/3] pretrain D
+
+[3/3] adversarial
+generator_reward_mode=on reward_alpha=0.700 d_steps=5 d_epochs=3
+ADV epoch=1/200 g_loss=0.2763 d_loss=0.0000 reward=0.5987 reward_var=0.0011 unique=0.9200
+ADV epoch=2/200 g_loss=0.3057 d_loss=0.0000 reward=0.5928 reward_var=0.0022 unique=0.8800
+ADV epoch=3/200 g_loss=0.3278 d_loss=0.0000 reward=0.5953 reward_var=0.0018 unique=0.9800
+ADV epoch=4/200 g_loss=0.3484 d_loss=0.0000 reward=0.5981 reward_var=0.0014 unique=0.9400
+ADV epoch=5/200 g_loss=0.3592 d_loss=0.0000 reward=0.5993 reward_var=0.0012 unique=0.8000
+ADV epoch=6/200 g_loss=0.3841 d_loss=0.0000 reward=0.6017 reward_var=0.0014 unique=0.8400
+ADV epoch=7/200 g_loss=0.3786 d_loss=0.0000 reward=0.6053 reward_var=0.0009 unique=0.8800
+ADV epoch=8/200 g_loss=0.4010 d_loss=0.0000 reward=0.6091 reward_var=0.0007 unique=0.7200
+ADV epoch=9/200 g_loss=0.4007 d_loss=0.0000 reward=0.6095 reward_var=0.0011 unique=0.8200
+ADV epoch=10/200 g_loss=0.4308 d_loss=0.0000 reward=0.6149 reward_var=0.0011 unique=0.9000
+ADV epoch=11/200 g_loss=0.4122 d_loss=0.0000 reward=0.6161 reward_var=0.0010 unique=0.7200
+ADV epoch=12/200 g_loss=0.4066 d_loss=0.0000 reward=0.6197 reward_var=0.0007 unique=0.6800
+
+
+===== NEW SESSION 2026-07-18T08:55:18.033750 =====
+
+[3/3] adversarial
+generator_reward_mode=on reward_alpha=0.700 d_steps=5 d_epochs=3
+Resumed adversarial checkpoint /content/drive/MyDrive/GAN/GAN_for_SQLi/result/phase2b_batch6x/_checkpoints_rerun_13/time_A_R500_V8_B6X/latest_adversarial.pt at epoch 11
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/train.py", line 452, in <module>
+    main()
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/train.py", line 448, in main
+    run_training(build_parser().parse_args())
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/train.py", line 266, in run_training
+    adversarial_stats = adv_train(
+                        ^^^^^^^^^^
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/adversarial.py", line 224, in adv_train
+    discriminator_reward = rollout.get_reward(sequences.detach(), mask=mask.detach())
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/torch/utils/_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/rollout.py", line 87, in get_reward
+    scores = self.discriminator.prob_real(completed).view(B, rollout_num)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/discriminator.py", line 128, in prob_real
+    return F.softmax(self.forward(input_ids), dim=1)[:, 1]
+                     ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/discriminator.py", line 121, in forward
+    h = h.masked_fill(fill_mask.unsqueeze(1), torch.finfo(h.dtype).min)
+                      ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+
+===== NEW SESSION 2026-07-18T08:57:49.422293 =====
+
+[3/3] adversarial
+generator_reward_mode=on reward_alpha=0.700 d_steps=5 d_epochs=3
+Resumed adversarial checkpoint /content/drive/MyDrive/GAN/GAN_for_SQLi/result/phase2b_batch6x/_checkpoints_rerun_13/time_A_R500_V8_B6X/latest_adversarial.pt at epoch 11
+ADV epoch=11/200 g_loss=0.4281 d_loss=0.0000 reward=0.6184 reward_var=0.0005 unique=0.8400
+ADV epoch=12/200 g_loss=0.3989 d_loss=0.0000 reward=0.6188 reward_var=0.0008 unique=0.7800
+ADV epoch=13/200 g_loss=0.4241 d_loss=0.0000 reward=0.6221 reward_var=0.0010 unique=0.7800
+ADV epoch=14/200 g_loss=0.4061 d_loss=0.0000 reward=0.6260 reward_var=0.0008 unique=0.8000
+ADV epoch=15/200 g_loss=0.4237 d_loss=0.0000 reward=0.6270 reward_var=0.0010 unique=0.7000
+ADV epoch=16/200 g_loss=0.4213 d_loss=0.0000 reward=0.6309 reward_var=0.0010 unique=0.7800
+ADV epoch=17/200 g_loss=0.3952 d_loss=0.0000 reward=0.6310 reward_var=0.0013 unique=0.6000
+ADV epoch=18/200 g_loss=0.4153 d_loss=0.0000 reward=0.6351 reward_var=0.0008 unique=0.5800
+ADV epoch=19/200 g_loss=0.3753 d_loss=0.0000 reward=0.6389 reward_var=0.0007 unique=0.5600
+ADV epoch=20/200 g_loss=0.3705 d_loss=0.0000 reward=0.6406 reward_var=0.0010 unique=0.5000
+ADV epoch=21/200 g_loss=0.3714 d_loss=0.0000 reward=0.6430 reward_var=0.0008 unique=0.5600
+ADV epoch=22/200 g_loss=0.3478 d_loss=0.0000 reward=0.6452 reward_var=0.0008 unique=0.5800
+ADV epoch=23/200 g_loss=0.3427 d_loss=0.0000 reward=0.6459 reward_var=0.0009 unique=0.5800
+ADV epoch=24/200 g_loss=0.3095 d_loss=0.0000 reward=0.6477 reward_var=0.0012 unique=0.5000
+ADV epoch=25/200 g_loss=0.2994 d_loss=0.0000 reward=0.6476 reward_var=0.0009 unique=0.3800
+ADV epoch=26/200 g_loss=0.3006 d_loss=0.0000 reward=0.6499 reward_var=0.0007 unique=0.4800
+ADV epoch=27/200 g_loss=0.2790 d_loss=0.0000 reward=0.6485 reward_var=0.0012 unique=0.5200
+ADV epoch=28/200 g_loss=0.2775 d_loss=0.0000 reward=0.6520 reward_var=0.0010 unique=0.3000
+ADV epoch=29/200 g_loss=0.2488 d_loss=0.0000 reward=0.6499 reward_var=0.0020 unique=0.3200
+ADV epoch=30/200 g_loss=0.2430 d_loss=0.0000 reward=0.6557 reward_var=0.0007 unique=0.3800
+ADV epoch=31/200 g_loss=0.2373 d_loss=0.0000 reward=0.6550 reward_var=0.0012 unique=0.2600
+ADV epoch=32/200 g_loss=0.2436 d_loss=0.0000 reward=0.6544 reward_var=0.0012 unique=0.4000
+ADV epoch=33/200 g_loss=0.2056 d_loss=0.0000 reward=0.6596 reward_var=0.0006 unique=0.2400
+ADV epoch=34/200 g_loss=0.1999 d_loss=0.0000 reward=0.6608 reward_var=0.0005 unique=0.3600
+ADV epoch=35/200 g_loss=0.1911 d_loss=0.0000 reward=0.6602 reward_var=0.0008 unique=0.3400
+ADV epoch=36/200 g_loss=0.1882 d_loss=0.0000 reward=0.6604 reward_var=0.0008 unique=0.2400
+ADV epoch=37/200 g_loss=0.1463 d_loss=0.0000 reward=0.6607 reward_var=0.0009 unique=0.2000
+ADV epoch=38/200 g_loss=0.1775 d_loss=0.0000 reward=0.6624 reward_var=0.0006 unique=0.3200
+ADV epoch=39/200 g_loss=0.1699 d_loss=0.0000 reward=0.6635 reward_var=0.0006 unique=0.2000
+ADV epoch=40/200 g_loss=0.1743 d_loss=0.0000 reward=0.6639 reward_var=0.0005 unique=0.1600
+ADV epoch=41/200 g_loss=0.1851 d_loss=0.0000 reward=0.6635 reward_var=0.0006 unique=0.1800
+ADV epoch=42/200 g_loss=0.1907 d_loss=0.0000 reward=0.6609 reward_var=0.0009 unique=0.2600
+ADV epoch=43/200 g_loss=0.1984 d_loss=0.0000 reward=0.6601 reward_var=0.0009 unique=0.4400
+ADV epoch=44/200 g_loss=0.2480 d_loss=0.0000 reward=0.6583 reward_var=0.0010 unique=0.2800
+ADV epoch=45/200 g_loss=0.1990 d_loss=0.0000 reward=0.6611 reward_var=0.0006 unique=0.4000
+ADV epoch=46/200 g_loss=0.2330 d_loss=0.0000 reward=0.6601 reward_var=0.0008 unique=0.2400
+ADV epoch=47/200 g_loss=0.1968 d_loss=0.0000 reward=0.6611 reward_var=0.0008 unique=0.3600
+ADV epoch=48/200 g_loss=0.2080 d_loss=0.0000 reward=0.6635 reward_var=0.0006 unique=0.2800
+ADV epoch=49/200 g_loss=0.2380 d_loss=0.0000 reward=0.6617 reward_var=0.0008 unique=0.3000
+ADV epoch=50/200 g_loss=0.2139 d_loss=0.0000 reward=0.6650 reward_var=0.0006 unique=0.3200
+ADV epoch=51/200 g_loss=0.1898 d_loss=0.0000 reward=0.6653 reward_var=0.0006 unique=0.3400
+ADV epoch=52/200 g_loss=0.1888 d_loss=0.0000 reward=0.6653 reward_var=0.0009 unique=0.2800
+ADV epoch=53/200 g_loss=0.1649 d_loss=0.0000 reward=0.6669 reward_var=0.0005 unique=0.2400
+ADV epoch=54/200 g_loss=0.1607 d_loss=0.0000 reward=0.6680 reward_var=0.0005 unique=0.3000
+ADV epoch=55/200 g_loss=0.1592 d_loss=0.0000 reward=0.6680 reward_var=0.0004 unique=0.2200
+ADV epoch=56/200 g_loss=0.1465 d_loss=0.0000 reward=0.6686 reward_var=0.0005 unique=0.3400
+ADV epoch=57/200 g_loss=0.1494 d_loss=0.0000 reward=0.6689 reward_var=0.0003 unique=0.2200
+ADV epoch=58/200 g_loss=0.1552 d_loss=0.0000 reward=0.6678 reward_var=0.0005 unique=0.2600
+ADV epoch=59/200 g_loss=0.1215 d_loss=0.0000 reward=0.6692 reward_var=0.0005 unique=0.2600
+ADV epoch=60/200 g_loss=0.1150 d_loss=0.0000 reward=0.6709 reward_var=0.0001 unique=0.1600
+ADV epoch=61/200 g_loss=0.1157 d_loss=0.0000 reward=0.6692 reward_var=0.0004 unique=0.1600
+ADV epoch=62/200 g_loss=0.1114 d_loss=0.0000 reward=0.6695 reward_var=0.0003 unique=0.2000
+ADV epoch=63/200 g_loss=0.1210 d_loss=0.0000 reward=0.6687 reward_var=0.0004 unique=0.1200
+ADV epoch=64/200 g_loss=0.0930 d_loss=0.0000 reward=0.6716 reward_var=0.0001 unique=0.2200
+ADV epoch=65/200 g_loss=0.0906 d_loss=0.0000 reward=0.6709 reward_var=0.0002 unique=0.1800
+ADV epoch=66/200 g_loss=0.0722 d_loss=0.0000 reward=0.6712 reward_var=0.0002 unique=0.1200
+ADV epoch=67/200 g_loss=0.0935 d_loss=0.0000 reward=0.6708 reward_var=0.0001 unique=0.2400
+ADV epoch=68/200 g_loss=0.0703 d_loss=0.0000 reward=0.6724 reward_var=0.0000 unique=0.1200
+ADV epoch=69/200 g_loss=0.0665 d_loss=0.0000 reward=0.6716 reward_var=0.0001 unique=0.1400
+ADV epoch=70/200 g_loss=0.0644 d_loss=0.0000 reward=0.6725 reward_var=0.0001 unique=0.1000
+ADV epoch=71/200 g_loss=0.0753 d_loss=0.0000 reward=0.6720 reward_var=0.0001 unique=0.1000
+ADV epoch=72/200 g_loss=0.0615 d_loss=0.0000 reward=0.6723 reward_var=0.0001 unique=0.0400
+ADV epoch=73/200 g_loss=0.0438 d_loss=0.0000 reward=0.6725 reward_var=0.0001 unique=0.1600
+ADV epoch=74/200 g_loss=0.0601 d_loss=0.0000 reward=0.6712 reward_var=0.0003 unique=0.0800
+ADV epoch=75/200 g_loss=0.0567 d_loss=0.0000 reward=0.6722 reward_var=0.0001 unique=0.1400
+ADV epoch=76/200 g_loss=0.0713 d_loss=0.0000 reward=0.6718 reward_var=0.0001 unique=0.1200
+ADV epoch=77/200 g_loss=0.0638 d_loss=0.0000 reward=0.6723 reward_var=0.0000 unique=0.2200
+ADV epoch=78/200 g_loss=0.0794 d_loss=0.0000 reward=0.6713 reward_var=0.0002 unique=0.1600
+ADV epoch=79/200 g_loss=0.0736 d_loss=0.0000 reward=0.6717 reward_var=0.0001 unique=0.1600
+ADV epoch=80/200 g_loss=0.0707 d_loss=0.0000 reward=0.6722 reward_var=0.0001 unique=0.1400
+ADV epoch=81/200 g_loss=0.0862 d_loss=0.0000 reward=0.6716 reward_var=0.0001 unique=0.1200
+ADV epoch=82/200 g_loss=0.0805 d_loss=0.0000 reward=0.6712 reward_var=0.0001 unique=0.1200
+ADV epoch=83/200 g_loss=0.1103 d_loss=0.0000 reward=0.6709 reward_var=0.0002 unique=0.1600
+ADV epoch=84/200 g_loss=0.1119 d_loss=0.0000 reward=0.6709 reward_var=0.0001 unique=0.2000
+ADV epoch=85/200 g_loss=0.1262 d_loss=0.0000 reward=0.6690 reward_var=0.0003 unique=0.2000
+ADV epoch=86/200 g_loss=0.1074 d_loss=0.0000 reward=0.6704 reward_var=0.0001 unique=0.2000
+ADV epoch=87/200 g_loss=0.1448 d_loss=0.0000 reward=0.6695 reward_var=0.0001 unique=0.2200
+ADV epoch=88/200 g_loss=0.1666 d_loss=0.0000 reward=0.6687 reward_var=0.0001 unique=0.2000
+ADV epoch=89/200 g_loss=0.1660 d_loss=0.0000 reward=0.6673 reward_var=0.0001 unique=0.3600
+ADV epoch=90/200 g_loss=0.2068 d_loss=0.0000 reward=0.6660 reward_var=0.0002 unique=0.2400
+ADV epoch=91/200 g_loss=0.2214 d_loss=0.0000 reward=0.6653 reward_var=0.0002 unique=0.2600
+ADV epoch=92/200 g_loss=0.2443 d_loss=0.0000 reward=0.6630 reward_var=0.0002 unique=0.4600
+ADV epoch=93/200 g_loss=0.2811 d_loss=0.0000 reward=0.6592 reward_var=0.0003 unique=0.4800
+ADV epoch=94/200 g_loss=0.3138 d_loss=0.0000 reward=0.6562 reward_var=0.0003 unique=0.6000
+ADV epoch=95/200 g_loss=0.3334 d_loss=0.0000 reward=0.6525 reward_var=0.0003 unique=0.6400
+ADV epoch=96/200 g_loss=0.3411 d_loss=0.0000 reward=0.6475 reward_var=0.0004 unique=0.8600
+ADV epoch=97/200 g_loss=0.3454 d_loss=0.0000 reward=0.6435 reward_var=0.0004 unique=0.7600
+ADV epoch=98/200 g_loss=0.3753 d_loss=0.0000 reward=0.6398 reward_var=0.0004 unique=0.9400
+ADV epoch=99/200 g_loss=0.3837 d_loss=0.0000 reward=0.6367 reward_var=0.0005 unique=0.8600
+ADV epoch=100/200 g_loss=0.3756 d_loss=0.0000 reward=0.6363 reward_var=0.0003 unique=0.7000
+ADV epoch=101/200 g_loss=0.3590 d_loss=0.0000 reward=0.6378 reward_var=0.0003 unique=0.7600
+ADV epoch=102/200 g_loss=0.3396 d_loss=0.0000 reward=0.6394 reward_var=0.0003 unique=0.7200
+ADV epoch=103/200 g_loss=0.3264 d_loss=0.0000 reward=0.6404 reward_var=0.0003 unique=0.6200
+ADV epoch=104/200 g_loss=0.3057 d_loss=0.0000 reward=0.6448 reward_var=0.0002 unique=0.6000
+ADV epoch=105/200 g_loss=0.3111 d_loss=0.0000 reward=0.6448 reward_var=0.0003 unique=0.5000
+ADV epoch=106/200 g_loss=0.2902 d_loss=0.0000 reward=0.6475 reward_var=0.0002 unique=0.4600
+ADV epoch=107/200 g_loss=0.2791 d_loss=0.0000 reward=0.6495 reward_var=0.0002 unique=0.5200
+ADV epoch=108/200 g_loss=0.3001 d_loss=0.0000 reward=0.6493 reward_var=0.0003 unique=0.6800
+ADV epoch=109/200 g_loss=0.3215 d_loss=0.0000 reward=0.6505 reward_var=0.0002 unique=0.5400
+ADV epoch=110/200 g_loss=0.3921 d_loss=0.0000 reward=0.6494 reward_var=0.0003 unique=0.5200
+ADV epoch=111/200 g_loss=0.3528 d_loss=0.0000 reward=0.6498 reward_var=0.0003 unique=0.6400
+ADV epoch=112/200 g_loss=0.3695 d_loss=0.0000 reward=0.6497 reward_var=0.0002 unique=0.6000
+ADV epoch=113/200 g_loss=0.3591 d_loss=0.0000 reward=0.6505 reward_var=0.0001 unique=0.6000
+ADV epoch=114/200 g_loss=0.3424 d_loss=0.0000 reward=0.6495 reward_var=0.0003 unique=0.5200
+ADV epoch=115/200 g_loss=0.3563 d_loss=0.0000 reward=0.6502 reward_var=0.0001 unique=0.6200
+ADV epoch=116/200 g_loss=0.3411 d_loss=0.0000 reward=0.6497 reward_var=0.0002 unique=0.5200
+ADV epoch=117/200 g_loss=0.3445 d_loss=0.0000 reward=0.6496 reward_var=0.0003 unique=0.6000
+ADV epoch=118/200 g_loss=0.3357 d_loss=0.0000 reward=0.6496 reward_var=0.0003 unique=0.5400
+ADV epoch=119/200 g_loss=0.3567 d_loss=0.0000 reward=0.6504 reward_var=0.0001 unique=0.6800
+ADV epoch=120/200 g_loss=0.3440 d_loss=0.0000 reward=0.6507 reward_var=0.0001 unique=0.6000
+ADV epoch=121/200 g_loss=0.3673 d_loss=0.0000 reward=0.6503 reward_var=0.0001 unique=0.6000
+ADV epoch=122/200 g_loss=0.3752 d_loss=0.0000 reward=0.6506 reward_var=0.0001 unique=0.6800
+ADV epoch=123/200 g_loss=0.3997 d_loss=0.0000 reward=0.6505 reward_var=0.0001 unique=0.6200
+ADV epoch=124/200 g_loss=0.4137 d_loss=0.0000 reward=0.6505 reward_var=0.0001 unique=0.7200
+ADV epoch=125/200 g_loss=0.4568 d_loss=0.0000 reward=0.6496 reward_var=0.0001 unique=0.8400
+ADV epoch=126/200 g_loss=0.4945 d_loss=0.0000 reward=0.6482 reward_var=0.0003 unique=0.9200
+ADV epoch=127/200 g_loss=0.5544 d_loss=0.0000 reward=0.6478 reward_var=0.0002 unique=0.8600
+ADV epoch=128/200 g_loss=0.5712 d_loss=0.0000 reward=0.6461 reward_var=0.0002 unique=0.9600
+ADV epoch=129/200 g_loss=0.5991 d_loss=0.0000 reward=0.6436 reward_var=0.0003 unique=0.9000
+ADV epoch=130/200 g_loss=0.5926 d_loss=0.0000 reward=0.6427 reward_var=0.0002 unique=0.9000
+ADV epoch=131/200 g_loss=0.6140 d_loss=0.0000 reward=0.6428 reward_var=0.0003 unique=0.8800
+ADV epoch=132/200 g_loss=0.6506 d_loss=0.0000 reward=0.6405 reward_var=0.0002 unique=0.9800
+ADV epoch=133/200 g_loss=0.6227 d_loss=0.0000 reward=0.6399 reward_var=0.0002 unique=0.9800
+ADV epoch=134/200 g_loss=0.6523 d_loss=0.0000 reward=0.6395 reward_var=0.0002 unique=0.9400
+ADV epoch=135/200 g_loss=0.6227 d_loss=0.0000 reward=0.6382 reward_var=0.0002 unique=0.9800
+ADV epoch=136/200 g_loss=0.6458 d_loss=0.0000 reward=0.6386 reward_var=0.0002 unique=0.9800
+ADV epoch=137/200 g_loss=0.6580 d_loss=0.0000 reward=0.6381 reward_var=0.0002 unique=0.9200
+ADV epoch=138/200 g_loss=0.6394 d_loss=0.0000 reward=0.6386 reward_var=0.0003 unique=0.9200
+ADV epoch=139/200 g_loss=0.6415 d_loss=0.0000 reward=0.6394 reward_var=0.0003 unique=1.0000
+ADV epoch=140/200 g_loss=0.6064 d_loss=0.0000 reward=0.6410 reward_var=0.0002 unique=0.8800
+ADV epoch=141/200 g_loss=0.6239 d_loss=0.0000 reward=0.6412 reward_var=0.0003 unique=0.9400
+ADV epoch=142/200 g_loss=0.6187 d_loss=0.0000 reward=0.6402 reward_var=0.0003 unique=0.9400
+ADV epoch=143/200 g_loss=0.6330 d_loss=0.0000 reward=0.6417 reward_var=0.0002 unique=0.9000
+ADV epoch=144/200 g_loss=0.6051 d_loss=0.0000 reward=0.6407 reward_var=0.0003 unique=0.8600
+ADV epoch=145/200 g_loss=0.6079 d_loss=0.0000 reward=0.6414 reward_var=0.0002 unique=0.9200
+ADV epoch=146/200 g_loss=0.6085 d_loss=0.0000 reward=0.6408 reward_var=0.0002 unique=0.8800
+ADV epoch=147/200 g_loss=0.5829 d_loss=0.0000 reward=0.6402 reward_var=0.0002 unique=0.9600
+ADV epoch=148/200 g_loss=0.5978 d_loss=0.0000 reward=0.6392 reward_var=0.0002 unique=0.9800
+ADV epoch=149/200 g_loss=0.6036 d_loss=0.0000 reward=0.6397 reward_var=0.0002 unique=0.9800
+ADV epoch=150/200 g_loss=0.6017 d_loss=0.0000 reward=0.6390 reward_var=0.0002 unique=0.9600
+ADV epoch=151/200 g_loss=0.5803 d_loss=0.0000 reward=0.6399 reward_var=0.0001 unique=0.9400
+ADV epoch=152/200 g_loss=0.5900 d_loss=0.0000 reward=0.6400 reward_var=0.0001 unique=0.9600
+ADV epoch=153/200 g_loss=0.5743 d_loss=0.0000 reward=0.6408 reward_var=0.0002 unique=0.9400
+ADV epoch=154/200 g_loss=0.5806 d_loss=0.0000 reward=0.6402 reward_var=0.0002 unique=0.9400
+ADV epoch=155/200 g_loss=0.5555 d_loss=0.0000 reward=0.6417 reward_var=0.0001 unique=0.9000
+ADV epoch=156/200 g_loss=0.5549 d_loss=0.0000 reward=0.6420 reward_var=0.0001 unique=0.9400
+ADV epoch=157/200 g_loss=0.5513 d_loss=0.0000 reward=0.6423 reward_var=0.0001 unique=0.8800
+ADV epoch=158/200 g_loss=0.5349 d_loss=0.0000 reward=0.6423 reward_var=0.0001 unique=0.9400
+ADV epoch=159/200 g_loss=0.5160 d_loss=0.0000 reward=0.6426 reward_var=0.0001 unique=0.9800
+ADV epoch=160/200 g_loss=0.5067 d_loss=0.0000 reward=0.6430 reward_var=0.0001 unique=0.9000
+ADV epoch=161/200 g_loss=0.5057 d_loss=0.0000 reward=0.6428 reward_var=0.0002 unique=0.9800
+ADV epoch=162/200 g_loss=0.4943 d_loss=0.0000 reward=0.6423 reward_var=0.0002 unique=0.9400
+ADV epoch=163/200 g_loss=0.4928 d_loss=0.0000 reward=0.6430 reward_var=0.0001 unique=1.0000
+ADV epoch=164/200 g_loss=0.4650 d_loss=0.0000 reward=0.6428 reward_var=0.0001 unique=0.8600
+ADV epoch=165/200 g_loss=0.4699 d_loss=0.0000 reward=0.6431 reward_var=0.0001 unique=0.9600
+ADV epoch=166/200 g_loss=0.4849 d_loss=0.0000 reward=0.6418 reward_var=0.0002 unique=0.9400
+ADV epoch=167/200 g_loss=0.4889 d_loss=0.0000 reward=0.6425 reward_var=0.0001 unique=0.9600
+ADV epoch=168/200 g_loss=0.4891 d_loss=0.0000 reward=0.6418 reward_var=0.0001 unique=0.9800
+ADV epoch=169/200 g_loss=0.4996 d_loss=0.0000 reward=0.6408 reward_var=0.0001 unique=0.9400
+
+
+===== NEW SESSION 2026-07-19T09:05:26.382167 =====
+
+[3/3] adversarial
+generator_reward_mode=on reward_alpha=0.700 d_steps=5 d_epochs=3
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/train.py", line 452, in <module>
+    main()
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/train.py", line 448, in main
+    run_training(build_parser().parse_args())
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/train.py", line 266, in run_training
+    adversarial_stats = adv_train(
+                        ^^^^^^^^^^
+  File "/content/GAN_for_SQLi_rerun_13/models/seqgan_improved/runtime/adversarial.py", line 181, in adv_train
+    optimizer = optim.Adam(generator.parameters(), lr=gen_lr)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/torch/optim/adam.py", line 102, in __init__
+    super().__init__(params, defaults)
+  File "/usr/local/lib/python3.12/dist-packages/torch/optim/optimizer.py", line 408, in __init__
+    self.add_param_group(cast(dict, param_group))
+  File "/usr/local/lib/python3.12/dist-packages/torch/_compile.py", line 47, in inner
+    import torch._dynamo
+  File "/usr/local/lib/python3.12/dist-packages/torch/_dynamo/__init__.py", line 13, in <module>
+    from . import (
+  File "/usr/local/lib/python3.12/dist-packages/torch/_dynamo/aot_compile.py", line 15, in <module>
+    from torch._dynamo.convert_frame import GraphRuntimeEnv
+  File "/usr/local/lib/python3.12/dist-packages/torch/_dynamo/convert_frame.py", line 62, in <module>
+    from torch._dynamo.symbolic_convert import TensorifyState
+  File "/usr/local/lib/python3.12/dist-packages/torch/_dynamo/symbolic_convert.py", line 54, in <module>
+    from torch._dynamo.exc import ObservedException, TensorifyScalarRestartAnalysis
+  File "/usr/local/lib/python3.12/dist-packages/torch/_dynamo/exc.py", line 44, in <module>
+    from .utils import counters
+  File "/usr/local/lib/python3.12/dist-packages/torch/_dynamo/utils.py", line 70, in <module>
+    import torch.fx.experimental.symbolic_shapes
+  File "/usr/local/lib/python3.12/dist-packages/torch/fx/experimental/symbolic_shapes.py", line 3, in <module>
+    import sympy
+  File "/usr/local/lib/python3.12/dist-packages/sympy/__init__.py", line 77, in <module>
+    from .polys import (Poly, PurePoly, poly_from_expr, parallel_poly_from_expr,
+  File "/usr/local/lib/python3.12/dist-packages/sympy/polys/__init__.py", line 79, in <module>
+    from .polyfuncs import (symmetrize, horner, interpolate,
+  File "/usr/local/lib/python3.12/dist-packages/sympy/polys/polyfuncs.py", line 10, in <module>
+    from sympy.polys.specialpolys import (
+  File "/usr/local/lib/python3.12/dist-packages/sympy/polys/specialpolys.py", line 298, in <module>
+    from sympy.polys.rings import ring
+  File "/usr/local/lib/python3.12/dist-packages/sympy/polys/rings.py", line 31, in <module>
+    from sympy.printing.defaults import DefaultPrinting
+  File "/usr/local/lib/python3.12/dist-packages/sympy/printing/__init__.py", line 11, in <module>
+    from .pycode import pycode
+  File "/usr/local/lib/python3.12/dist-packages/sympy/printing/pycode.py", line 11, in <module>
+    from .codeprinter import CodePrinter
+  File "/usr/local/lib/python3.12/dist-packages/sympy/printing/codeprinter.py", line 13, in <module>
+    from sympy.functions.elementary.complexes import re
+  File "/usr/local/lib/python3.12/dist-packages/sympy/functions/__init__.py", line 19, in <module>
+    from sympy.functions.elementary.trigonometric import (sin, cos, tan,
+KeyboardInterrupt
+
+
+===== NEW SESSION 2026-07-19T09:05:57.415329 =====
+
+[3/3] adversarial
+generator_reward_mode=on reward_alpha=0.700 d_steps=5 d_epochs=3
+Resumed adversarial checkpoint /content/drive/MyDrive/GAN/GAN_for_SQLi/result/phase2b_batch6x/_checkpoints_rerun_13/time_A_R500_V8_B6X/latest_adversarial.pt at epoch 161
+ADV epoch=161/200 g_loss=0.5066 d_loss=0.0000 reward=0.6431 reward_var=0.0001 unique=0.9400
+ADV epoch=162/200 g_loss=0.4634 d_loss=0.0000 reward=0.6430 reward_var=0.0001 unique=0.9000
+ADV epoch=163/200 g_loss=0.4660 d_loss=0.0000 reward=0.6432 reward_var=0.0001 unique=0.9600
+ADV epoch=164/200 g_loss=0.4440 d_loss=0.0000 reward=0.6430 reward_var=0.0001 unique=0.9400
+ADV epoch=165/200 g_loss=0.4411 d_loss=0.0000 reward=0.6424 reward_var=0.0001 unique=0.9800
+ADV epoch=166/200 g_loss=0.4277 d_loss=0.0000 reward=0.6424 reward_var=0.0001 unique=0.9600
+ADV epoch=167/200 g_loss=0.4342 d_loss=0.0000 reward=0.6417 reward_var=0.0001 unique=0.8800
+ADV epoch=168/200 g_loss=0.4173 d_loss=0.0000 reward=0.6408 reward_var=0.0001 unique=0.9400
+ADV epoch=169/200 g_loss=0.4286 d_loss=0.0000 reward=0.6402 reward_var=0.0001 unique=0.9800
+ADV epoch=170/200 g_loss=0.4299 d_loss=0.0000 reward=0.6392 reward_var=0.0001 unique=0.9400
+ADV epoch=171/200 g_loss=0.4158 d_loss=0.0000 reward=0.6395 reward_var=0.0001 unique=0.9400
+ADV epoch=172/200 g_loss=0.4074 d_loss=0.0000 reward=0.6395 reward_var=0.0001 unique=0.9400
+ADV epoch=173/200 g_loss=0.4200 d_loss=0.0000 reward=0.6388 reward_var=0.0001 unique=0.9400
+ADV epoch=174/200 g_loss=0.3975 d_loss=0.0000 reward=0.6387 reward_var=0.0001 unique=0.8000
+ADV epoch=175/200 g_loss=0.3896 d_loss=0.0000 reward=0.6394 reward_var=0.0001 unique=0.8800
+ADV epoch=176/200 g_loss=0.3939 d_loss=0.0000 reward=0.6382 reward_var=0.0002 unique=0.8600
+ADV epoch=177/200 g_loss=0.3816 d_loss=0.0000 reward=0.6399 reward_var=0.0001 unique=0.9000
+ADV epoch=178/200 g_loss=0.3737 d_loss=0.0000 reward=0.6399 reward_var=0.0001 unique=0.8000
+ADV epoch=179/200 g_loss=0.3874 d_loss=0.0000 reward=0.6399 reward_var=0.0002 unique=0.7000
+ADV epoch=180/200 g_loss=0.3999 d_loss=0.0000 reward=0.6398 reward_var=0.0002 unique=0.8200
+ADV epoch=181/200 g_loss=0.4011 d_loss=0.0000 reward=0.6404 reward_var=0.0001 unique=0.9000
+ADV epoch=182/200 g_loss=0.3935 d_loss=0.0000 reward=0.6410 reward_var=0.0001 unique=0.8800
+ADV epoch=183/200 g_loss=0.4178 d_loss=0.0000 reward=0.6404 reward_var=0.0002 unique=0.9000
+ADV epoch=184/200 g_loss=0.3980 d_loss=0.0000 reward=0.6412 reward_var=0.0001 unique=0.9000
+ADV epoch=185/200 g_loss=0.4091 d_loss=0.0000 reward=0.6411 reward_var=0.0001 unique=0.8200
+ADV epoch=186/200 g_loss=0.3868 d_loss=0.0000 reward=0.6418 reward_var=0.0001 unique=0.8200
+ADV epoch=187/200 g_loss=0.3855 d_loss=0.0000 reward=0.6412 reward_var=0.0002 unique=0.8200
+ADV epoch=188/200 g_loss=0.3918 d_loss=0.0000 reward=0.6420 reward_var=0.0001 unique=0.8600
+ADV epoch=189/200 g_loss=0.3873 d_loss=0.0000 reward=0.6429 reward_var=0.0001 unique=0.7800
+ADV epoch=190/200 g_loss=0.3805 d_loss=0.0000 reward=0.6425 reward_var=0.0001 unique=0.7200
+ADV epoch=191/200 g_loss=0.3958 d_loss=0.0000 reward=0.6429 reward_var=0.0001 unique=0.6600
+ADV epoch=192/200 g_loss=0.3668 d_loss=0.0000 reward=0.6424 reward_var=0.0001 unique=0.7000
+ADV epoch=193/200 g_loss=0.3515 d_loss=0.0000 reward=0.6431 reward_var=0.0001 unique=0.7400
+ADV epoch=194/200 g_loss=0.3685 d_loss=0.0000 reward=0.6435 reward_var=0.0001 unique=0.6800
+ADV epoch=195/200 g_loss=0.3488 d_loss=0.0000 reward=0.6442 reward_var=0.0001 unique=0.6000
+ADV epoch=196/200 g_loss=0.3227 d_loss=0.0000 reward=0.6443 reward_var=0.0001 unique=0.5800
+ADV epoch=197/200 g_loss=0.3147 d_loss=0.0000 reward=0.6443 reward_var=0.0002 unique=0.5400
+ADV epoch=198/200 g_loss=0.3388 d_loss=0.0000 reward=0.6451 reward_var=0.0002 unique=0.5400
+ADV epoch=199/200 g_loss=0.3126 d_loss=0.0000 reward=0.6456 reward_var=0.0001 unique=0.5800
+ADV epoch=200/200 g_loss=0.3232 d_loss=0.0000 reward=0.6462 reward_var=0.0001 unique=0.5600
+saved 2000 raw samples to /content/drive/MyDrive/GAN/GAN_for_SQLi/result/phase2b_batch6x/time/A/R500/V8_B6X/generated_payloads.csv

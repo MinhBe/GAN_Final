@@ -1,0 +1,6 @@
+{
+  "status": "existing",
+  "source": "H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\union\\D\\R100\\V2_B6X\\generated_payloads.csv",
+  "output": "H:\\My Drive\\GAN\\final_result_data\\recovered_b6x\\phase2b\\seqgan_improved\\union\\D\\R100\\V2\\quality_metrics.json",
+  "metric_schema_version": "quality-metrics-v3"
+}
