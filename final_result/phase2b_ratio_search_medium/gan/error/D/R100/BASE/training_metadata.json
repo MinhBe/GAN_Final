@@ -1,0 +1,31 @@
+{
+  "method": "gan",
+  "dataset": "data/prepared/phase2b/error/D/R100/attack_train.csv",
+  "family": "error",
+  "seed": 88,
+  "device": "cpu",
+  "n_train_attack": 156,
+  "n_samples_requested": 500,
+  "n_samples_generated": 500,
+  "n_unique_generated_payloads": 5,
+  "input_family_counts": {
+    "error": 156
+  },
+  "output_family_counts": {
+    "error": 500
+  },
+  "epochs": 15,
+  "batch_size": 64,
+  "noise_dim": 16,
+  "hidden_dim": 64,
+  "learning_rate": 0.0002,
+  "feature_count": 88,
+  "final_losses": {
+    "error": {
+      "generator_loss": 0.6888012290000916,
+      "discriminator_loss": 1.273263931274414
+    }
+  },
+  "duplicates_preserved": true,
+  "stop_reason": "completed"
+}
