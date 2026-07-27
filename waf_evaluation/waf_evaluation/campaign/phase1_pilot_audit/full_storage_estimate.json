@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "pilot": {
+    "records": 13000,
+    "requests_sent": 13000,
+    "results_bytes": 3543212,
+    "audit_files": 13002,
+    "audit_bytes": 56511487
+  },
+  "target": {
+    "records": 827400,
+    "requests_sent": 825899
+  },
+  "rates": {
+    "audit_bytes_per_sent_request": 4347.037461538462,
+    "result_bytes_per_record": 272.55476923076924,
+    "audit_archive_compression_ratio": 0.4003824744516102
+  },
+  "estimated": {
+    "audit_bytes_observed_rate": 3590213892,
+    "audit_bytes_worst_case_all_requests_logged": 3589661637,
+    "result_csv_bytes": 225511816,
+    "audit_archive_bytes": 1437458722,
+    "working_total_bytes": 3815725708
+  },
+  "capacity": {
+    "path": "H:\\My Drive\\GAN\\New folder (2)\\GAN",
+    "free_bytes": 119648006144,
+    "working_total_fits": true,
+    "free_space_after_estimate": 115832280436
+  }
+}

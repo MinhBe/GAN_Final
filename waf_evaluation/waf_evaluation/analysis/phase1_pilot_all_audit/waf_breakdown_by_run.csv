@@ -1,0 +1,5 @@
+campaign,method,family,scenario,ratio,variant,probes,requests_sent,eligible_for_waf_rate,blocked,bypassed,malformed_requests,network_errors,skipped_get_too_long,blocked_rate,bypass_rate,malformed_rate,latency_mean_ms,latency_median_ms,latency_p95_ms
+phase1_survey,ctgan,all,RAW,Rfull,BASE,4000,4000,4000,3794,206,0,0,0,0.9485,0.0515,0.0,11.1116245,7.156499999999999,13.539
+phase1_survey,gan,all,RAW,Rfull,BASE,4000,4000,4000,3684,316,0,0,0,0.921,0.079,0.0,9.632947,7.1265,13.632
+phase1_survey,seqgan_master,all,RAW,Rfull,BASE,1000,1000,1000,298,702,0,0,0,0.298,0.702,0.0,13.043614,7.673,15.8
+phase1_survey,smote,all,RAW,Rfull,BASE,4000,4000,4000,3776,224,0,0,0,0.944,0.056,0.0,10.45926875,7.032,13.325

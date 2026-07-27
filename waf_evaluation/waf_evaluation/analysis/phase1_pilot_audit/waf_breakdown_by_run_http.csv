@@ -1,0 +1,9 @@
+campaign,method,family,scenario,ratio,variant,http_method,probes,requests_sent,eligible_for_waf_rate,blocked,bypassed,malformed_requests,network_errors,skipped_get_too_long,blocked_rate,bypass_rate,malformed_rate,latency_mean_ms,latency_median_ms,latency_p95_ms
+phase1_survey,ctgan,all,RAW,Rfull,BASE,GET,2000,2000,2000,1897,103,0,0,0,0.9485,0.0515,0.0,7.115423,6.3125,11.691
+phase1_survey,ctgan,all,RAW,Rfull,BASE,POST,2000,2000,2000,1897,103,0,0,0,0.9485,0.0515,0.0,7.336302,6.525499999999999,12.128
+phase1_survey,gan,all,RAW,Rfull,BASE,GET,2000,2000,2000,1842,158,0,0,0,0.921,0.079,0.0,7.221970000000001,6.4165,12.49
+phase1_survey,gan,all,RAW,Rfull,BASE,POST,2000,2000,2000,1842,158,0,0,0,0.921,0.079,0.0,7.4069925,6.593999999999999,12.405
+phase1_survey,seqgan_master,all,RAW,Rfull,BASE,GET,500,500,500,149,351,0,0,0,0.298,0.702,0.0,8.14395,7.047000000000001,13.55
+phase1_survey,seqgan_master,all,RAW,Rfull,BASE,POST,500,500,500,149,351,0,0,0,0.298,0.702,0.0,8.26304,7.282500000000001,13.947
+phase1_survey,smote,all,RAW,Rfull,BASE,GET,2000,2000,2000,1888,112,0,0,0,0.944,0.056,0.0,7.1836165,6.3725000000000005,12.34
+phase1_survey,smote,all,RAW,Rfull,BASE,POST,2000,2000,2000,1888,112,0,0,0,0.944,0.056,0.0,7.3622925,6.539,12.488

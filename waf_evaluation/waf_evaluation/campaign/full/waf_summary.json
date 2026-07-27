@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "input_csv": "H:\\My Drive\\GAN\\New folder (2)\\GAN\\waf_evaluation\\input\\all_payloads.csv",
+  "input_csv_sha256": "2755d2497b031e1c777e876d158157b9de768ec36251d505f39e8c6e9adcac06",
+  "target_url": "http://localhost:18080/",
+  "methods": [
+    "GET",
+    "POST"
+  ],
+  "parameter": "payload",
+  "timeout": 5.0,
+  "blocked_statuses": [
+    403
+  ],
+  "seed": 88,
+  "max_payloads": null,
+  "workers": 8,
+  "retries": 2,
+  "selected_payload_count": 413700,
+  "total_probe_count": 827400,
+  "max_get_url_length": 2000,
+  "probe_delay_ms": 20.0,
+  "allow_remote": false,
+  "input_payload_count": 413700,
+  "probe_count": 827400,
+  "request_count": 825899,
+  "eligible_for_waf_rate": 825899,
+  "blocked_count": 585661,
+  "bypass_count": 240238,
+  "malformed_request_count": 0,
+  "network_error_count": 0,
+  "skipped_get_too_long_count": 1501,
+  "blocked_rate": 0.7091193959551955,
+  "bypass_rate": 0.29088060404480454,
+  "malformed_rate": 0.0,
+  "status_counts": {
+    "200": 240238,
+    "403": 585661,
+    "not_sent": 1501
+  },
+  "outcome_counts": {
+    "blocked": 585661,
+    "bypass": 240238,
+    "skipped_get_too_long": 1501
+  },
+  "by_method": {
+    "GET": {
+      "probes": 413700,
+      "requests_sent": 412199,
+      "bypass": 120119,
+      "blocked": 292080,
+      "skipped_get_too_long": 1501,
+      "eligible_for_waf_rate": 412199,
+      "blocked_rate": 0.7085897830902065,
+      "bypass_rate": 0.2914102169097936
+    },
+    "POST": {
+      "probes": 413700,
+      "requests_sent": 413700,
+      "bypass": 120119,
+      "blocked": 293581,
+      "eligible_for_waf_rate": 413700,
+      "blocked_rate": 0.7096470872613004,
+      "bypass_rate": 0.29035291273869956
+    }
+  },
+  "latency_ms": {
+    "mean": 17.993518874583938,
+    "median": 11.932,
+    "p95": 42.008
+  },
+  "started_at": "2026-07-20T22:15:54.126135+00:00",
+  "finished_at": "2026-07-20T23:42:59.693382+00:00"
+}

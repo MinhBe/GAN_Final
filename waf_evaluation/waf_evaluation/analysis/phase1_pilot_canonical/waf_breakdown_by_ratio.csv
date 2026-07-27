@@ -1,0 +1,2 @@
+ratio,probes,requests_sent,eligible_for_waf_rate,blocked,bypassed,malformed_requests,network_errors,skipped_get_too_long,blocked_rate,bypass_rate,malformed_rate,latency_mean_ms,latency_median_ms,latency_p95_ms
+Rfull,13000,13000,13000,11552,1448,0,0,0,0.8886153846153846,0.11138461538461539,0.0,10.11959876923077,6.666,13.346

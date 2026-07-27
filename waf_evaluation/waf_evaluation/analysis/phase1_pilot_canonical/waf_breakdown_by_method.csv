@@ -1,0 +1,5 @@
+method,probes,requests_sent,eligible_for_waf_rate,blocked,bypassed,malformed_requests,network_errors,skipped_get_too_long,blocked_rate,bypass_rate,malformed_rate,latency_mean_ms,latency_median_ms,latency_p95_ms
+ctgan,4000,4000,4000,3794,206,0,0,0,0.9485,0.0515,0.0,11.6783205,6.6545000000000005,13.259
+gan,4000,4000,4000,3684,316,0,0,0,0.921,0.079,0.0,9.61358125,6.61,13.372
+seqgan_master,1000,1000,1000,298,702,0,0,0,0.298,0.702,0.0,14.344492,7.254,14.732
+smote,4000,4000,4000,3776,224,0,0,0,0.944,0.056,0.0,8.01067125,6.6015,13.064

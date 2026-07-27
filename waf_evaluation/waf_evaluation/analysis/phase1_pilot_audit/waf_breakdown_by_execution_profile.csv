@@ -1,0 +1,3 @@
+execution_profile,probes,requests_sent,eligible_for_waf_rate,blocked,bypassed,malformed_requests,network_errors,skipped_get_too_long,blocked_rate,bypass_rate,malformed_rate,latency_mean_ms,latency_median_ms,latency_p95_ms
+full,12000,12000,12000,11254,746,0,0,0,0.9378333333333333,0.06216666666666667,0.0,7.271099416666667,6.47,12.215
+medium,1000,1000,1000,298,702,0,0,0,0.298,0.702,0.0,8.203495,7.1945,13.74
