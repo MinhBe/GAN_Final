@@ -1,0 +1,12 @@
+selection_id,family,scenario,variant,selection_role,source_thesis_table,canonical_status
+1,boolean,D,V8,cấu hình neo,Bảng 3.12,retained
+2,boolean,D,V7,ứng viên địa phương Boolean/D,Bảng 3.12,retained
+3,boolean,E,V2,ứng viên địa phương Boolean/E,Bảng 3.12,retained
+4,error,B,V8,cấu hình neo và ứng viên địa phương Error/B,Bảng 3.12,retained
+5,error,D,V8,cấu hình neo,Bảng 3.12,retained
+6,error,D,V4,ứng viên địa phương Error/D,Bảng 3.12,retained
+7,time,A,V8,cấu hình neo và ứng viên địa phương Time/A,Bảng 3.12,retained
+8,time,D,V8,cấu hình neo và ứng viên địa phương Time/D,Bảng 3.12,retained
+9,union,D,V8,cấu hình neo,Bảng 3.12,retained
+10,union,D,V2,ứng viên địa phương Union/D,Bảng 3.12,retained
+11,union,F,V3,ứng viên địa phương Union/F,Bảng 3.12,retained

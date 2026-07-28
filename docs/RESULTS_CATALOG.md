@@ -28,8 +28,8 @@ This catalog indexes every directory containing either `run_manifest.json` or
 | --- | --- |
 | CTGAN | 225 |
 | SMOTE | 225 |
-| SeqGAN Improved | 220 |
-| SeqGAN Master | 184 |
+| SeqGAN cải tiến (`seqgan_improved`) | 220 |
+| SeqGAN cơ sở (`seqgan_master`) | 184 |
 | Vanilla GAN | 228 |
 
 ## Manifest status

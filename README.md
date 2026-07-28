@@ -33,7 +33,9 @@ across `H:\My Drive\GAN`.
 
 The canonical implementation is the former `GAN_for_SQLi` tree. It defines
 Phase 1, Phase 2A, Phase 2B, Phase 3 and final comparison across SMOTE,
-Vanilla GAN, CTGAN, SeqGAN Master and SeqGAN Improved. The original detailed
+Vanilla GAN, CTGAN, SeqGAN cơ sở and SeqGAN cải tiến. The technical identifiers
+remain `seqgan_master` and `seqgan_improved` for artifact compatibility. The
+original detailed
 README is preserved at
 [`docs/ORIGINAL_GAN_FOR_SQLi_README.md`](docs/ORIGINAL_GAN_FOR_SQLi_README.md).
 That preserved file is historical evidence; the current operational README
@@ -60,7 +62,7 @@ epochs.
 
 ### Intentional early stopping is not a missing scenario
 
-SeqGAN Improved monitors `discriminator_reward_mean`. The default runtime stops
+SeqGAN cải tiến (`seqgan_improved`) monitors `discriminator_reward_mean`. The default runtime stops
 after 3 consecutive adversarial epochs below `0.05` and records
 `stop_reason=vanishing_reward`. In console output these values can appear as a
 repeated `0.000`/`0.0000`. Continuing such a run was judged unlikely to improve
@@ -77,9 +79,59 @@ Phase 2A's historical `1:20` preflight was infeasible for all six scenarios.
 The current canonical configuration uses `1:50` without replacement. This data
 capacity decision is separate from SeqGAN's reward-based early stopping.
 
-## Final-only WAF campaign
+## Thesis terminology and result scope
 
-The implemented firewall campaign is deliberately limited to generated data
+The thesis is the normative scientific description. The canonical mappings,
+metric denominators and provenance rules are defined in:
+
+- [`docs/TERMINOLOGY_VI.md`](docs/TERMINOLOGY_VI.md)
+- [`docs/METHOD_IMPLEMENTATION_MAP.md`](docs/METHOD_IMPLEMENTATION_MAP.md)
+- [`docs/RESULT_SCHEMA.md`](docs/RESULT_SCHEMA.md)
+- [`docs/THESIS_CODE_TRACEABILITY.md`](docs/THESIS_CODE_TRACEABILITY.md)
+- [`docs/EXPERIMENT_PROVENANCE.md`](docs/EXPERIMENT_PROVENANCE.md)
+- [`final_result_info/_index/thesis_table_manifest.csv`](final_result_info/_index/thesis_table_manifest.csv)
+- [`final_result_info/_index/thesis_run_traceability.csv`](final_result_info/_index/thesis_run_traceability.csv)
+
+SMOTE, Vanilla GAN and CTGAN synthesize feature-space rows and then retrieve the
+nearest real payload from the training subset of the same SQLi family. Their
+final text output is therefore a **retrieved payload**, not a directly generated
+new SQL string. SeqGAN cơ sở and SeqGAN cải tiến generate discrete sequences
+directly. Validation is a role assigned to a subset drawn from training data;
+the repository does not claim a physically independent validation dataset.
+
+## WAF campaigns and thesis scope
+
+The final thesis uses the **full 489-run WAF campaign**, not the smaller
+final-only subcampaign described below. Its canonical scope is:
+
+| Result | Count | Rate over eligible requests |
+|---|---:|---:|
+| Generated/retrieved payload rows | 413,700 | — |
+| Planned GET + POST probes | 827,400 | — |
+| Eligible requests sent | 825,899 | 100% |
+| GET probes not sent because the encoded URL was too long | 1,501 | excluded |
+| Requests blocked by the WAF | 585,661 | 70.91% |
+| Requests not blocked by the WAF | 240,238 | 29.09% |
+
+The source for thesis Tables 3.19–3.21 is
+[`waf_evaluation/waf_evaluation/campaign/full/waf_summary.json`](waf_evaluation/waf_evaluation/campaign/full/waf_summary.json).
+The run-level reconstruction and the Pearson coefficients reported in Figure
+3.12 are recorded in
+[`run_quality_waf_correlation.csv`](waf_evaluation/waf_evaluation/campaign/full/run_quality_waf_correlation.csv)
+and
+[`correlation_summary_canonical.json`](waf_evaluation/waf_evaluation/campaign/full/correlation_summary_canonical.json).
+Historical fields `bypass`/`bypass_rate` in the immutable campaign artifact map
+to `not_blocked`/`waf_not_blocked_rate`; they do not mean successful DBMS
+exploitation.
+
+### Historical final-only subcampaign
+
+The 192,000-payload/384,000-probe campaign is a retained final-baseline
+subcampaign. It is useful as historical evidence, but it is **not** the source
+for the final thesis WAF tables and must not be mixed with the 827,400-probe
+full campaign.
+
+This historical subcampaign is deliberately limited to generated data
 whose archive entry matches:
 
 ```text
@@ -113,19 +165,20 @@ owasp/modsecurity-crs@sha256:a7d2e948d26ec310a127b261e4b9010ff2467b9f5f7eaed4921
 |---|---:|---:|
 | HTTP probes | 384,000 | 100% |
 | Blocked (`403`) | 293,840 | 76.52% |
-| Passed WAF (`200`) | 90,160 | 23.48% |
+| Requests not blocked by WAF (`200`) | 90,160 | 23.48% |
 | Network errors | 0 | 0% |
 
-| Generator | Probes | Blocked | Passed | Block rate |
+| Method | Probes | Blocked | Not blocked | Block rate |
 |---|---:|---:|---:|---:|
 | CTGAN | 96,000 | 95,762 | 238 | 99.75% |
 | Vanilla GAN | 96,000 | 95,954 | 46 | 99.95% |
-| SeqGAN Master | 96,000 | 6,462 | 89,538 | 6.73% |
+| SeqGAN cơ sở (`seqgan_master`) | 96,000 | 6,462 | 89,538 | 6.73% |
 | SMOTE | 96,000 | 95,662 | 338 | 99.65% |
 
-An HTTP 200 response is a **WAF bypass candidate**, not proof of successful SQL
-injection. The protected backend is an inert local echo service and does not
-execute payloads against a database. SeqGAN Master's low block rate must
+An HTTP 200 response is a **candidate not blocked by the WAF**, not proof of
+successful SQL injection. The protected backend is an inert local echo service
+and does not execute payloads against a database. The low block rate of SeqGAN
+cơ sở must
 therefore be interpreted together with SQL structural validity and collapse
 metrics; malformed or non-SQL output can also avoid CRS signatures.
 
@@ -159,7 +212,7 @@ python scripts/summarize_waf_results.py `
   --waf-image "owasp/modsecurity-crs@sha256:a7d2e948d26ec310a127b261e4b9010ff2467b9f5f7eaed4921450bb7865ba08"
 ```
 
-See the full report at
+See the historical final-only report at
 [`result/waf/final_full/analysis/WAF_FINAL_FULL_REPORT.md`](result/waf/final_full/analysis/WAF_FINAL_FULL_REPORT.md).
 
 ## Start here

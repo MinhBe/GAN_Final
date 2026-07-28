@@ -1,4 +1,0 @@
-
-# All artifacts in this snapshot are below GitHub's 100 MB per-file limit.
-# Keep them in regular Git so the repository is self-contained and does not
-# depend on Git LFS storage.

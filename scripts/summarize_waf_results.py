@@ -28,14 +28,20 @@ class Aggregate:
     def metrics(self) -> dict[str, int | float]:
         ordered = sorted(self.latencies)
         p95_index = max(0, math.ceil(len(ordered) * 0.95) - 1) if ordered else 0
-        bypassed = self.probes - self.blocked - self.network_errors
+        eligible_requests = self.probes - self.network_errors
+        not_blocked = eligible_requests - self.blocked
         return {
             "probes": self.probes,
+            "eligible_requests": eligible_requests,
             "blocked": self.blocked,
-            "bypassed": bypassed,
+            "not_blocked": not_blocked,
+            "waf_not_blocked_rate": not_blocked / eligible_requests if eligible_requests else 0.0,
+            # Historical aliases retained for readers of existing artifacts.
+            "bypassed": not_blocked,
             "network_errors": self.network_errors,
-            "blocked_rate": self.blocked / self.probes if self.probes else 0.0,
-            "bypass_rate": bypassed / self.probes if self.probes else 0.0,
+            "blocked_rate": self.blocked / eligible_requests if eligible_requests else 0.0,
+            "bypass_rate": not_blocked / eligible_requests if eligible_requests else 0.0,
+            "rate_denominator": "eligible_requests_with_http_status",
             "latency_mean_ms": statistics.fmean(ordered) if ordered else 0.0,
             "latency_median_ms": statistics.median(ordered) if ordered else 0.0,
             "latency_p95_ms": ordered[p95_index] if ordered else 0.0,
@@ -86,7 +92,10 @@ def write_breakdown(
 ) -> None:
     metric_fields = [
         "probes",
+        "eligible_requests",
         "blocked",
+        "not_blocked",
+        "waf_not_blocked_rate",
         "bypassed",
         "network_errors",
         "blocked_rate",
@@ -106,13 +115,13 @@ def write_breakdown(
 
 def markdown_table(rows: list[dict[str, object]], dimension: str) -> list[str]:
     lines = [
-        f"| {dimension} | Probes | Blocked | Bypassed | Block rate |",
+        f"| {dimension} | Probes | Blocked | Not blocked | Block rate |",
         "|---|---:|---:|---:|---:|",
     ]
     for row in rows:
         lines.append(
             f"| {row[dimension]} | {int(row['probes']):,} | "
-            f"{int(row['blocked']):,} | {int(row['bypassed']):,} | "
+            f"{int(row['blocked']):,} | {int(row['not_blocked']):,} | "
             f"{float(row['blocked_rate']):.2%} |"
         )
     return lines
@@ -261,14 +270,14 @@ def summarize(
         "",
         f"- Blocked: {int(overall_metrics['blocked']):,} "
         f"({float(overall_metrics['blocked_rate']):.2%}).",
-        f"- Bypassed with HTTP 200: {int(overall_metrics['bypassed']):,} "
-        f"({float(overall_metrics['bypass_rate']):.2%}).",
+        f"- Requests not blocked by the WAF: {int(overall_metrics['not_blocked']):,} "
+        f"({float(overall_metrics['waf_not_blocked_rate']):.2%}).",
         f"- Network errors: {int(overall_metrics['network_errors']):,}.",
         f"- Latency: mean {float(overall_metrics['latency_mean_ms']):.3f} ms, "
         f"median {float(overall_metrics['latency_median_ms']):.3f} ms, "
         f"p95 {float(overall_metrics['latency_p95_ms']):.3f} ms.",
         "",
-        "An HTTP 200 row is a WAF bypass candidate, not proof that the payload",
+        "An HTTP 200 row is a candidate not blocked by the WAF, not proof that the payload",
         "successfully exploited a database. The backend is an inert local echo service.",
         "",
         "## By model",

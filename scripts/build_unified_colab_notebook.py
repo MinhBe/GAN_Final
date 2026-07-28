@@ -269,7 +269,7 @@ Chỉ đổi `False` thành `True` trong **một** ô rồi chạy riêng ô đ�
     activation_cell("RUN_PHASE_2A", "phase2a", "PHASE 2A"),
     markdown("### Phase 2B — 224 run và ratio selection"),
     activation_cell("RUN_PHASE_2B", "phase2b", "PHASE 2B"),
-    markdown("### Phase 3 — 64 SeqGAN Improved run và variant ranking"),
+    markdown("### Phase 3 — 64 lượt chạy SeqGAN cải tiến và xếp hạng biến thể"),
     activation_cell("RUN_PHASE_3", "phase3", "PHASE 3"),
     markdown("### Final — 40 independent comparison run và tổng hợp"),
     activation_cell("RUN_PHASE_FINAL", "final", "FINAL"),

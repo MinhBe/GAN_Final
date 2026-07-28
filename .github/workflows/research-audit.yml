@@ -1,0 +1,42 @@
+name: Research terminology and provenance audit
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            README.md
+            COLAB_GUIDE.md
+            GAN_SQLi_Colab.ipynb
+            common
+            configs
+            models
+            scripts
+            docker
+            docs
+            reports
+            tests
+            final_result_info/_index
+            final_result_info/_provenance/decision_artifacts
+            waf_evaluation/waf_evaluation/campaign/full/correlation_summary_canonical.json
+            waf_evaluation/waf_evaluation/campaign/full/run_quality_waf_correlation.csv
+            waf_evaluation/waf_evaluation/campaign/full/waf_summary_canonical.json
+            waf_evaluation/waf_evaluation/campaign/full/thesis_waf_tables_canonical.json
+          lfs: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Compile audit sources
+        run: python -m py_compile scripts/audit_terminology.py scripts/audit_provenance.py scripts/build_thesis_evidence.py scripts/summarize_waf_results.py common/quality_metrics.py
+      - name: Enforce thesis terminology
+        run: python scripts/audit_terminology.py
+      - name: Check schemas and provenance contracts
+        run: python -m unittest discover -s tests -v
+      - name: Check campaign-aware provenance index
+        run: python scripts/audit_provenance.py

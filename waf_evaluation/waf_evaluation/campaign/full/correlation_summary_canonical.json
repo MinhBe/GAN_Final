@@ -1,0 +1,33 @@
+{
+  "schema_version": "thesis-quality-waf-correlation-v1",
+  "thesis_figure_id": "Hình 3.12",
+  "thesis_section": "3.4.3",
+  "run_count": 489,
+  "eligible_request_count": 825899,
+  "blocked_request_count": 585661,
+  "not_blocked_request_count": 240238,
+  "not_sent_too_long_count": 1501,
+  "denominator_policy": "blocked + not_blocked; excludes not_sent_too_long, format errors and network errors",
+  "correlation_method": "Pearson correlation across campaign-aware run_key rows",
+  "correlations_with_waf_not_blocked_rate": {
+    "garbage_rate": 0.8790475467293815,
+    "sql_structure_rate": -0.8790475467293817,
+    "family_motif_coverage": -0.6262592060353825,
+    "family_motif_hit_rate": -0.9013132082918406
+  },
+  "historical_alias": {
+    "bypass_rate": "waf_not_blocked_rate"
+  },
+  "inputs": {
+    "waf_probe_results": {
+      "path": "waf_evaluation/waf_evaluation/campaign/full/waf_probe_results.csv (restore from ZIP)",
+      "sha256": "1e2472a9bbba53ee33b1084fea1a8deda9fb0f59168b943b7d5cdca959790cc7"
+    },
+    "waf_source_manifest": {
+      "path": "waf_evaluation/waf_evaluation/input/all_payloads_sources.csv",
+      "sha256": "f278229f1ed5563c62fb0ba568e0f0e69941c997e086d6fb81d98b6b06a5df9f"
+    },
+    "quality_metrics": "one quality_metrics.json per run; hashes are recorded in run_quality_waf_correlation.csv"
+  },
+  "derived_csv": "waf_evaluation/waf_evaluation/campaign/full/run_quality_waf_correlation.csv"
+}

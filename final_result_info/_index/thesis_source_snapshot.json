@@ -1,0 +1,22 @@
+{
+  "schema_version": "thesis-source-snapshot-v1",
+  "audit_base_commit": "5e2c4d7302ce9f75dbe1849c8431ac3eaca270ff",
+  "thesis": {
+    "filename": "27_07 Luận văn Thạc sĩ Phạm Đỗ Anh Minh.docx",
+    "sha256": "a603c9157bcbec9b7c56eb60cb1e47de9fbcceeb5e562b9aab6e7dd72c4e8eb9",
+    "table_count": 42,
+    "chapter_3_table_ids": [
+      "Bảng 3.1", "Bảng 3.2", "Bảng 3.3", "Bảng 3.4", "Bảng 3.5", "Bảng 3.6", "Bảng 3.7",
+      "Bảng 3.8", "Bảng 3.9", "Bảng 3.10", "Bảng 3.11", "Bảng 3.12", "Bảng 3.13", "Bảng 3.14",
+      "Bảng 3.15", "Bảng 3.16", "Bảng 3.17", "Bảng 3.18", "Bảng 3.19", "Bảng 3.20", "Bảng 3.21"
+    ]
+  },
+  "presentation": {
+    "filename": "25_07 Báo cáo Đề án thạc sĩ.pptx",
+    "sha256": "fc7488fd4f0dd29336352791e8ff07e8bd4628ce6476e94a8eeaf5d00440e74f",
+    "slide_count": 44,
+    "source_deck_unchanged": true,
+    "terminology_observation": "Slide 44 còn dùng nhãn hiển thị Garbage rate và not blocked; số liệu khớp luận văn."
+  },
+  "scope_rule": "Luận văn là nguồn mô tả khoa học chuẩn; hai tệp nguồn không bị sửa trong đợt đồng bộ repository."
+}

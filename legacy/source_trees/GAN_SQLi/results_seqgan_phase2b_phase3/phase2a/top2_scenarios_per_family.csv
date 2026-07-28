@@ -1,9 +1,0 @@
-family,scenario,rank,source
-boolean,E,1,smote_ctgan_borda_R50_mini
-boolean,D,2,smote_ctgan_borda_R50_mini
-error,D,1,smote_ctgan_borda_R50_mini
-error,B,2,smote_ctgan_borda_R50_mini
-time,A,1,smote_ctgan_borda_R50_mini
-time,D,2,smote_ctgan_borda_R50_mini
-union,D,1,smote_ctgan_borda_R50_mini
-union,F,2,smote_ctgan_borda_R50_mini

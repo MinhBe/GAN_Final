@@ -21,7 +21,7 @@ SEED = 88
 FAMILIES = ("boolean", "union", "time", "error")
 RETRIEVAL_METHODS = frozenset({"smote", "gan", "ctgan", "vanilla_gan"})
 NORMALIZATION_VERSION = "nfkc_html_percent1_casefold_ws_quotes_v1"
-METRIC_SCHEMA_VERSION = "quality-metrics-v3"
+METRIC_SCHEMA_VERSION = "quality-metrics-v4"
 
 MOTIF_PATTERNS = {
     "boolean": {
@@ -501,6 +501,8 @@ def overlap_stats(
         "holdout_reference_count": len(holdout),
         "exact_input_overlap": _overlap_rate(payloads, train, str),
         "normalized_input_overlap": _overlap_rate(payloads, train, normalize_payload),
+        "exact_holdout_overlap": _overlap_rate(payloads, holdout, str),
+        # Historical alias retained for existing aggregators and artifacts.
         "holdout_overlap": _overlap_rate(payloads, holdout, str),
         "normalized_holdout_overlap": _overlap_rate(payloads, holdout, normalize_payload),
     }
@@ -563,6 +565,7 @@ def compute_quality_metrics(
     generation_kind: str = "auto",
 ) -> dict[str, object]:
     values = [str(payload) for payload in payloads if payload is not None and str(payload) != ""]
+    empty_payload_count = len(payloads) - len(values)
     normalized_method = method.casefold().replace("-", "_")
     retrieval = normalized_method in RETRIEVAL_METHODS if generation_kind == "auto" else generation_kind == "retrieval"
     row: dict[str, object] = {
@@ -584,6 +587,9 @@ def compute_quality_metrics(
     row["self_bleu"] = self_bleu(values, sample_size=self_bleu_sample_size, seed=seed)
     row["self_bleu_char"] = row["self_bleu"]
     row["requested_count"] = requested_count
+    row["requested_samples"] = requested_count
+    row["actual_samples"] = len(values)
+    row["empty_payload_count"] = empty_payload_count
     row["generated_count_fraction"] = (
         len(values) / requested_count if requested_count is not None and requested_count > 0 else None
     )

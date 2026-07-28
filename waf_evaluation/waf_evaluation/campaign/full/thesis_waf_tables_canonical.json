@@ -1,0 +1,33 @@
+{
+  "schema_version": "thesis-waf-tables-v1",
+  "source_run_level_csv": {
+    "path": "waf_evaluation/waf_evaluation/campaign/full/run_quality_waf_correlation.csv",
+    "sha256": "006f1cb435f1813afcda8cddc2a55809f1963e0c75ce55453d22f73a5df6c312"
+  },
+  "aggregation_policy": {
+    "waf_rate": "sum counts first, then divide not_blocked_requests by eligible_requests",
+    "quality_rate": "arithmetic mean across campaign-aware run_key rows in the group",
+    "unique_field_for_tables_3_15_to_3_17_and_3_21": "normalized_unique_rate"
+  },
+  "table_3_19": {
+    "payload_count": 413700,
+    "planned_probe_count": 827400,
+    "eligible_request_count": 825899,
+    "not_sent_too_long_count": 1501,
+    "blocked_request_count": 585661,
+    "not_blocked_request_count": 240238
+  },
+  "table_3_20": [
+    {"method_id": "smote", "method_display_vi": "SMOTE", "eligible_requests": 96000, "blocked_requests": 95662, "not_blocked_requests": 338, "blocked_rate": 0.9964791666666667, "waf_not_blocked_rate": 0.0035208333333333332},
+    {"method_id": "gan", "method_display_vi": "Vanilla GAN", "eligible_requests": 96000, "blocked_requests": 95954, "not_blocked_requests": 46, "blocked_rate": 0.9995208333333333, "waf_not_blocked_rate": 0.0004791666666666667},
+    {"method_id": "ctgan", "method_display_vi": "CTGAN", "eligible_requests": 96000, "blocked_requests": 95762, "not_blocked_requests": 238, "blocked_rate": 0.9975208333333334, "waf_not_blocked_rate": 0.0024791666666666664},
+    {"method_id": "seqgan_master", "method_display_vi": "SeqGAN cơ sở", "eligible_requests": 96000, "blocked_requests": 6462, "not_blocked_requests": 89538, "blocked_rate": 0.0673125, "waf_not_blocked_rate": 0.9326875},
+    {"method_id": "seqgan_improved", "method_display_vi": "SeqGAN cải tiến", "eligible_requests": 130499, "blocked_requests": 78177, "not_blocked_requests": 52322, "not_sent_too_long_count": 1501, "blocked_rate": 0.5990620617782512, "waf_not_blocked_rate": 0.4009379382217488}
+  ],
+  "table_3_21": [
+    {"family": "boolean", "run_count": 9, "sql_structure_rate": 0.8071522427880606, "normalized_unique_rate": 0.8735445778444778, "eligible_requests": 34499, "not_sent_too_long_count": 1501, "waf_not_blocked_rate": 0.5804805936403954},
+    {"family": "error", "run_count": 9, "sql_structure_rate": 0.7833333333333333, "normalized_unique_rate": 0.7991111111111111, "eligible_requests": 36000, "not_sent_too_long_count": 0, "waf_not_blocked_rate": 0.4613333333333333},
+    {"family": "time", "run_count": 6, "sql_structure_rate": 0.9168805367261762, "normalized_unique_rate": 0.6643490115336869, "eligible_requests": 24000, "not_sent_too_long_count": 0, "waf_not_blocked_rate": 0.11416666666666667},
+    {"family": "union", "run_count": 9, "sql_structure_rate": 0.8081111111111112, "normalized_unique_rate": 0.6133333333333333, "eligible_requests": 36000, "not_sent_too_long_count": 0, "waf_not_blocked_rate": 0.3596666666666667}
+  ]
+}

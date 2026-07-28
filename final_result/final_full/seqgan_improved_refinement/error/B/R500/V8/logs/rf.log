@@ -1,7 +1,0 @@
-{
-  "status": "existing",
-  "source": "H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\error\\B\\R500\\V8_B6X\\generated_payloads.csv",
-  "output": "H:\\My Drive\\GAN\\final_result_data\\recovered_b6x\\phase2b\\seqgan_improved\\error\\B\\R500\\V8\\rf_metrics.json",
-  "seed": 88,
-  "n_estimators": 300
-}

@@ -1,4 +1,0 @@
-phase,run_id,method,family,scenario,ratio,return_code,started_at,ended_at,elapsed_seconds,shard_matrix,scheduler_log
-phase1,phase1__ctgan__all__raw__Rfull,ctgan,all,raw,full,0,2026-07-14T01:21:19.894574+00:00,2026-07-14T01:26:46.132869+00:00,326.238,/content/parallel_shards_cpu20/phase1/shard_0000.csv,/content/parallel_shards_cpu20/phase1/shard_0000_ctgan.log
-phase1,phase1__gan__all__raw__Rfull,gan,all,raw,full,0,2026-07-14T01:21:19.893727+00:00,2026-07-14T01:22:54.610759+00:00,94.717,/content/parallel_shards_cpu20/phase1/shard_0001.csv,/content/parallel_shards_cpu20/phase1/shard_0001_gan.log
-phase1,phase1__smote__all__raw__Rfull,smote,all,raw,full,0,2026-07-14T01:21:19.898059+00:00,2026-07-14T01:22:14.988716+00:00,55.091,/content/parallel_shards_cpu20/phase1/shard_0002.csv,/content/parallel_shards_cpu20/phase1/shard_0002_smote.log
