@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "audit_root": "C:\\Users\\Admin\\waf_patch_work\\pilot_audit_raw",
+  "audit_entry_count": 13001,
+  "audit_bytes": 51783192,
+  "entries_with_probe_index": 13001,
+  "entries_with_rule_ids": 13001,
+  "parse_error_count": 0,
+  "output_csv": "C:\\Users\\Admin\\waf_patch_work\\pilot_outputs\\audit_rule_hits.csv",
+  "archive": "C:\\Users\\Admin\\waf_patch_work\\pilot_outputs\\audit_raw.zip",
+  "archive_bytes": 22626209,
+  "workers": 16,
+  "compresslevel": 6,
+  "merged_results": "C:\\Users\\Admin\\waf_patch_work\\pilot_outputs\\waf_probe_results_with_rules.csv",
+  "merge": {
+    "probe_result_count": 13000,
+    "probe_results_with_audit": 13000,
+    "probe_results_without_audit": 0
+  },
+  "raw_logs_deleted": false
+}

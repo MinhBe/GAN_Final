@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "run_id": "phase2a__seqgan_master__union__B__R50",
+  "phase": "phase2a",
+  "method": "seqgan_master",
+  "family": "union",
+  "scenario": "B",
+  "ratio": "50",
+  "variant_id": "",
+  "seed": 88,
+  "status": "completed",
+  "started_at": "2026-07-14T02:14:25.632645+00:00",
+  "config": "/content/colab_configs/experiment_seqgan_only_mini.yaml",
+  "config_sha256": "9f50ac2a70a5e0e6fcc5c72ce3b87ac2e5f8bfabea26f06cfd7da0fd5f56eecb",
+  "config_digest": "a08ef824692030b5dc93422dcb2a74e650ba276872bc8fa1c38115b8ceca1720",
+  "source_sha256": "6e78897c071cb582f4cbc603d97ccf22089147af7bb5fcec6f49b1f0063273d7",
+  "environment": {
+    "python": "3.12.13",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "packages": {
+      "numpy": "2.0.2",
+      "pandas": "2.2.2",
+      "scikit-learn": "1.6.1",
+      "torch": "2.11.0+cu128",
+      "sqlparse": "0.5.5",
+      "PyYAML": "6.0.3"
+    }
+  },
+  "inputs": {
+    "dataset": {
+      "path": "data/prepared/phase2a/union/B/attack_train.csv",
+      "sha256": "a7788afbc902a12280ef4e660d3ec33e70c2bc2ee775f6bf2b123272a6b03f37"
+    },
+    "holdout": {
+      "path": "data/prepared/splits/union_holdout.csv",
+      "sha256": "d5911da8db3c6280fa0eac573740c7b9a663486e9997ad09ada274a27fc3c060"
+    }
+  },
+  "commands": {
+    "train": "/usr/bin/python3 scripts/run_pipeline.py --model seqgan_master -- --dataset data/prepared/phase2a/union/B/attack_train.csv --out-dir /content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_seqgan_only_mini/phase2a/seqgan_master/union/B/R50 --family union --n-samples 200 --seed 88 --holdout-ref data/prepared/splits/union_holdout.csv --scenario B --phase phase2a --ratio 50 --sequence-length 20 --g-pretrain-epochs 15 --d-pretrain-steps 8 --d-pretrain-epochs 2 --adv-epochs 6 --g-steps 1 --d-steps 3 --d-epochs 1 --rollout-num 3",
+    "quality": "/usr/bin/python3 common/quality_metrics.py score --generated /content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_seqgan_only_mini/phase2a/seqgan_master/union/B/R50/generated_payloads.csv --method seqgan_master --family union --scenario B --ratio 50 --train-ref data/prepared/phase2a/union/B/attack_train.csv --holdout-ref data/prepared/splits/union_holdout.csv --seed 88 --requested-count 200 --generation-kind direct --self-bleu-sample-size 20 --out /content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_seqgan_only_mini/phase2a/seqgan_master/union/B/R50/quality_metrics.json",
+    "rf": "/usr/bin/python3 export/classifier_export/rf_eval.py --normal-train data/prepared/splits/normal_train.csv --normal-test data/prepared/splits/normal_test.csv --attack-train data/prepared/phase2a/union/B/attack_train.csv --attack-holdout data/prepared/splits/union_holdout.csv --generated /content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_seqgan_only_mini/phase2a/seqgan_master/union/B/R50/generated_payloads.csv --seed 88 --n-estimators 30 --out /content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_seqgan_only_mini/phase2a/seqgan_master/union/B/R50/rf_metrics.json"
+  },
+  "ended_at": "2026-07-14T02:21:59.825444+00:00"
+}

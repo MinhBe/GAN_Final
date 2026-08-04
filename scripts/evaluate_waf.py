@@ -150,36 +150,23 @@ def summarize(
     for method in sorted({str(row["method"]) for row in records}):
         rows = [row for row in records if row["method"] == method]
         method_blocked = sum(bool(row["blocked"]) for row in rows)
-        method_errors = sum(row["status"] is None for row in rows)
-        method_eligible = len(rows) - method_errors
         method_summary[method] = {
             "probes": len(rows),
-            "eligible_requests": method_eligible,
             "blocked": method_blocked,
-            "not_blocked": method_eligible - method_blocked,
-            "blocked_rate": method_blocked / method_eligible if method_eligible else 0.0,
-            "waf_not_blocked_rate": (method_eligible - method_blocked) / method_eligible
-            if method_eligible else 0.0,
+            "blocked_rate": method_blocked / len(rows) if rows else 0.0,
         }
     latencies = sorted(float(row["latency_ms"]) for row in records)
     p95_index = max(0, math.ceil(len(latencies) * 0.95) - 1) if latencies else 0
     return {
-        "schema_version": 2,
+        "schema_version": 1,
         "seed": seed,
         "target_url": target_url,
         "blocked_statuses": sorted(blocked_statuses),
         "input_payload_count": input_payload_count,
         "selected_payload_count": selected_payload_count,
         "probe_count": len(records),
-        "eligible_request_count": len(records) - error_count,
         "blocked_count": blocked_count,
-        "waf_not_blocked_count": len(records) - error_count - blocked_count,
-        "blocked_rate": blocked_count / (len(records) - error_count)
-        if len(records) - error_count else 0.0,
-        "waf_not_blocked_rate": (len(records) - error_count - blocked_count)
-        / (len(records) - error_count)
-        if len(records) - error_count else 0.0,
-        "rate_denominator": "eligible_requests_with_http_status",
+        "blocked_rate": blocked_count / len(records) if records else 0.0,
         "network_error_count": error_count,
         "status_counts": dict(sorted(status_counts.items())),
         "by_method": method_summary,

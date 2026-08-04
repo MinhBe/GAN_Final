@@ -1,0 +1,500 @@
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'csmu'  =  'csmu
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'csmu'  =  'csmu
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'   )    )     )   and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'csmu'  =  'csmu
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'csmu'  =  'csmu
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'csmu'  =  'csmu
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'   )    )     )   and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'csmu'  =  'csmu
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'csmu'  =  'csmu
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'csmu'  =  'csmu
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'csmu'  =  'csmu
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'csmu'  =  'csmu
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as omtb where 1183  =  1183 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'csmu'  =  'csmu
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1"  )   as yecj where 1194  =  1194 and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   

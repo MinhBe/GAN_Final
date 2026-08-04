@@ -176,7 +176,7 @@ def model_train_command(method: str, dataset: Path, holdout: Path, out_dir: Path
         ])
     elif method == "seqgan_improved":
         if variant is None:
-            raise PipelineError("SeqGAN cải tiến (seqgan_improved) requires a variant")
+            raise PipelineError("SeqGAN cải tiến requires a variant")
         block = cfg["generation"]["seqgan_improved"]
         reward_mode = "on" if bool(variant["sql_reward"]) else "off"
         parts.extend([
@@ -326,7 +326,7 @@ def phase3_matrix(cfg: dict) -> list[RunSpec]:
 def selected_variant(cfg: dict) -> dict:
     path = results_root(cfg) / "phase3" / "selected_seqgan_variant.json"
     if not path.exists():
-        raise PipelineError("Selected SeqGAN cải tiến (seqgan_improved) variant is missing")
+        raise PipelineError("Selected SeqGAN cải tiến variant is missing")
     selected = json.loads(path.read_text(encoding="utf-8"))
     variant_id = str(selected.get("selected_variant", selected.get("variant_id", "")))
     for variant in cfg["phase3"]["variants"]:

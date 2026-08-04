@@ -1,0 +1,43 @@
+{
+  "format_version": 1,
+  "source": "waf_probe_results.csv",
+  "source_bytes": 219539689,
+  "source_sha256": "1e2472a9bbba53ee33b1084fea1a8deda9fb0f59168b943b7d5cdca959790cc7",
+  "header": [
+    "probe_index",
+    "source_row",
+    "method",
+    "payload",
+    "url",
+    "status",
+    "blocked",
+    "outcome",
+    "request_sent",
+    "url_length",
+    "latency_ms",
+    "attempts",
+    "error"
+  ],
+  "logical_data_rows": 827400,
+  "reassembly": "Concatenate part001 in full, then append part002 and part003 without their first header record.",
+  "parts": [
+    {
+      "path": "waf_probe_results.part001.csv",
+      "bytes": 73180081,
+      "sha256": "bb24d0490c6d208cb8109aa54366bb09f45929ca9366f1e6521b114d27543339",
+      "logical_data_rows": 275929
+    },
+    {
+      "path": "waf_probe_results.part002.csv",
+      "bytes": 73180002,
+      "sha256": "33db6b00ae7ed631a643ad305dc303c9ac43d404f57967e858605da226014a52",
+      "logical_data_rows": 275385
+    },
+    {
+      "path": "waf_probe_results.part003.csv",
+      "bytes": 73179838,
+      "sha256": "2e6c4732c16d22e25e10e97fe179af50c2521a9480f283350badefcc0428d835",
+      "logical_data_rows": 276086
+    }
+  ]
+}

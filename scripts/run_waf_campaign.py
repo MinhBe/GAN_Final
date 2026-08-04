@@ -272,32 +272,19 @@ def summarize_results(
     by_method = {
         method: {
             **dict(counts),
-            "eligible_requests": counts["probes"] - counts["network_errors"],
-            "not_blocked": counts["probes"] - counts["network_errors"] - counts["blocked"],
-            "blocked_rate": counts["blocked"] / (counts["probes"] - counts["network_errors"])
-            if counts["probes"] - counts["network_errors"] else 0.0,
-            "waf_not_blocked_rate": (counts["probes"] - counts["network_errors"] - counts["blocked"])
-            / (counts["probes"] - counts["network_errors"])
-            if counts["probes"] - counts["network_errors"] else 0.0,
+            "blocked_rate": counts["blocked"] / counts["probes"] if counts["probes"] else 0.0,
         }
         for method, counts in sorted(method_counts.items())
     }
     latencies.sort()
     p95_index = max(0, math.ceil(len(latencies) * 0.95) - 1) if latencies else 0
     return {
-        "schema_version": 3,
+        "schema_version": 2,
         **config,
         "input_payload_count": input_payload_count,
         "probe_count": probe_count,
-        "eligible_request_count": probe_count - network_error_count,
         "blocked_count": blocked_count,
-        "waf_not_blocked_count": probe_count - network_error_count - blocked_count,
-        "blocked_rate": blocked_count / (probe_count - network_error_count)
-        if probe_count - network_error_count else 0.0,
-        "waf_not_blocked_rate": (probe_count - network_error_count - blocked_count)
-        / (probe_count - network_error_count)
-        if probe_count - network_error_count else 0.0,
-        "rate_denominator": "eligible_requests_with_http_status",
+        "blocked_rate": blocked_count / probe_count if probe_count else 0.0,
         "network_error_count": network_error_count,
         "status_counts": dict(sorted(status_counts.items())),
         "by_method": by_method,

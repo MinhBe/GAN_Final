@@ -1,0 +1,19 @@
+{
+  "status": "complete",
+  "created_at": "2026-07-20T12:34:05.822022+00:00",
+  "source": "H:\\My Drive\\GAN\\GAN\\final_result",
+  "target": "H:\\My Drive\\GAN\\GAN\\final_result_info",
+  "copied_source_files": 5244,
+  "excluded_files": 485,
+  "key_information_counts": {
+    "run_manifest.json": 489,
+    "training_metadata.json": 489,
+    "quality_metrics.json": 489,
+    "rf_metrics.json": 489,
+    "generated_payloads.csv": 489,
+    "generated_feature_vectors.csv": 489,
+    "epoch_metrics.csv": 195
+  },
+  "disallowed_files_in_target": 0,
+  "source_untouched": true
+}
