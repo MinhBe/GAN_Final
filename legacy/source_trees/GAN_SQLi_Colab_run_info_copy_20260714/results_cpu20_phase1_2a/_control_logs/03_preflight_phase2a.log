@@ -1,0 +1,225 @@
+{
+  "ratio": 50,
+  "target_attack_count": 312,
+  "normal_train_count": 15604,
+  "feasible": true,
+  "report": "data/prepared/phase2a/preflight.csv",
+  "cells": [
+    {
+      "family": "boolean",
+      "scenario": "A",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 3669,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "boolean",
+      "scenario": "B",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 3669,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "boolean",
+      "scenario": "C",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 3669,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "boolean",
+      "scenario": "D",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1842,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "boolean",
+      "scenario": "E",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 3669,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "boolean",
+      "scenario": "F",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 3669,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "union",
+      "scenario": "A",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1678,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "union",
+      "scenario": "B",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1678,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "union",
+      "scenario": "C",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1678,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "union",
+      "scenario": "D",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 864,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "union",
+      "scenario": "E",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1678,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "union",
+      "scenario": "F",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1678,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "time",
+      "scenario": "A",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1186,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "time",
+      "scenario": "B",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1186,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "time",
+      "scenario": "C",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1186,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "time",
+      "scenario": "D",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 597,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "time",
+      "scenario": "E",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1186,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "time",
+      "scenario": "F",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1186,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "error",
+      "scenario": "A",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1036,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "error",
+      "scenario": "B",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1036,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "error",
+      "scenario": "C",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1036,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "error",
+      "scenario": "D",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 522,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "error",
+      "scenario": "E",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1036,
+      "selected": 312,
+      "status": "ready"
+    },
+    {
+      "family": "error",
+      "scenario": "F",
+      "ratio": 50,
+      "target": 312,
+      "capacity": 1036,
+      "selected": 312,
+      "status": "ready"
+    }
+  ]
+}

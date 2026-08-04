@@ -1,0 +1,1185 @@
+{
+  "phase": "phase2b",
+  "selected": 147,
+  "completed": [
+    {
+      "run_id": "phase2b__smote__boolean__D__R10",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:14:12.440855+00:00",
+      "ended_at": "2026-07-14T04:14:43.991881+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_000_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__boolean__D__R100",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:14:59.544116+00:00",
+      "ended_at": "2026-07-14T04:15:15.605009+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_001_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__boolean__D__R20",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:15:31.148919+00:00",
+      "ended_at": "2026-07-14T04:15:47.173436+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_002_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__boolean__D__R200",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:16:02.706807+00:00",
+      "ended_at": "2026-07-14T04:16:19.246655+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_003_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__boolean__D__R50",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:16:18.744740+00:00",
+      "ended_at": "2026-07-14T04:16:35.289485+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_004_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__boolean__D__R500",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:16:34.787408+00:00",
+      "ended_at": "2026-07-14T04:16:51.338004+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_005_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__boolean__D__Rfull",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:16:50.835949+00:00",
+      "ended_at": "2026-07-14T04:17:22.971840+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_006_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__boolean__E__R10",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:17:22.464449+00:00",
+      "ended_at": "2026-07-14T04:17:54.623881+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_007_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__boolean__E__R100",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:17:54.119409+00:00",
+      "ended_at": "2026-07-14T04:18:10.678863+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_008_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__boolean__E__R20",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:18:10.173218+00:00",
+      "ended_at": "2026-07-14T04:18:27.238625+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_009_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__boolean__E__R200",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:18:26.219807+00:00",
+      "ended_at": "2026-07-14T04:18:58.855330+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_010_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__boolean__E__R50",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:18:26.736122+00:00",
+      "ended_at": "2026-07-14T04:18:58.859006+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_011_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__boolean__E__R500",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:18:58.352086+00:00",
+      "ended_at": "2026-07-14T04:19:15.420259+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_012_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__boolean__E__Rfull",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:19:14.400338+00:00",
+      "ended_at": "2026-07-14T04:19:47.047237+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_013_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__error__B__R100",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:19:14.916060+00:00",
+      "ended_at": "2026-07-14T04:19:47.050576+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_014_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__error__B__R20",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:19:46.545045+00:00",
+      "ended_at": "2026-07-14T04:20:03.619841+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_015_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__error__B__R200",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:20:02.599124+00:00",
+      "ended_at": "2026-07-14T04:20:35.274089+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_016_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__error__B__R50",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:20:03.115234+00:00",
+      "ended_at": "2026-07-14T04:20:35.278025+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_017_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__error__B__R500",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:20:34.769696+00:00",
+      "ended_at": "2026-07-14T04:20:51.899568+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_018_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__error__B__Rfull",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:20:50.868391+00:00",
+      "ended_at": "2026-07-14T04:21:23.509354+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_019_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__error__D__R100",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:20:51.395905+00:00",
+      "ended_at": "2026-07-14T04:21:23.512883+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_020_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__error__D__R200",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:21:23.006710+00:00",
+      "ended_at": "2026-07-14T04:21:40.100915+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_021_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__error__D__R50",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:21:39.067470+00:00",
+      "ended_at": "2026-07-14T04:22:11.731678+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_022_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__error__D__R500",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:21:39.597293+00:00",
+      "ended_at": "2026-07-14T04:22:11.734713+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_023_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__error__D__Rfull",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:22:11.229722+00:00",
+      "ended_at": "2026-07-14T04:22:44.378847+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_024_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__time__A__R100",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:22:27.284911+00:00",
+      "ended_at": "2026-07-14T04:22:44.381201+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_025_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__time__A__R20",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:22:43.354284+00:00",
+      "ended_at": "2026-07-14T04:23:16.592921+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_026_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__time__A__R200",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:22:43.871531+00:00",
+      "ended_at": "2026-07-14T04:23:16.596583+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_027_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__time__A__R50",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:23:15.569041+00:00",
+      "ended_at": "2026-07-14T04:23:48.807840+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_028_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__time__A__R500",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:23:16.087669+00:00",
+      "ended_at": "2026-07-14T04:23:48.809045+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_029_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__time__A__Rfull",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:23:47.730272+00:00",
+      "ended_at": "2026-07-14T04:24:20.959480+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_030_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__time__D__R100",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:23:48.301205+00:00",
+      "ended_at": "2026-07-14T04:24:20.969480+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_031_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__time__D__R200",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:24:19.940345+00:00",
+      "ended_at": "2026-07-14T04:24:53.101029+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_032_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__time__D__R50",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:24:20.456222+00:00",
+      "ended_at": "2026-07-14T04:24:53.104089+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_033_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__time__D__R500",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:24:52.083190+00:00",
+      "ended_at": "2026-07-14T04:25:25.241844+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_034_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__time__D__Rfull",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:24:52.598877+00:00",
+      "ended_at": "2026-07-14T04:25:25.246832+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_035_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__union__D__R100",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:25:24.217820+00:00",
+      "ended_at": "2026-07-14T04:25:57.420839+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_036_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__union__D__R20",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:25:24.737912+00:00",
+      "ended_at": "2026-07-14T04:25:57.423692+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_037_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__union__D__R200",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:25:56.400544+00:00",
+      "ended_at": "2026-07-14T04:26:29.617713+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_038_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__union__D__R50",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:25:56.915796+00:00",
+      "ended_at": "2026-07-14T04:26:29.620480+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_039_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__union__D__R500",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:26:28.581301+00:00",
+      "ended_at": "2026-07-14T04:27:01.747657+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_040_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__union__D__Rfull",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:26:29.111415+00:00",
+      "ended_at": "2026-07-14T04:27:01.753024+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_041_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__union__F__R10",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:27:00.715134+00:00",
+      "ended_at": "2026-07-14T04:27:33.889027+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_042_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__union__F__R100",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:27:01.242961+00:00",
+      "ended_at": "2026-07-14T04:27:33.892669+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_043_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__union__F__R20",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:27:32.868849+00:00",
+      "ended_at": "2026-07-14T04:28:06.017543+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_044_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__union__F__R200",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:27:33.386061+00:00",
+      "ended_at": "2026-07-14T04:28:06.021404+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_045_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__union__F__R50",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:28:04.998407+00:00",
+      "ended_at": "2026-07-14T04:28:38.155907+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_046_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__union__F__R500",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:28:05.513091+00:00",
+      "ended_at": "2026-07-14T04:28:38.161266+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_047_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__smote__union__F__Rfull",
+      "method": "smote",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:28:37.134990+00:00",
+      "ended_at": "2026-07-14T04:29:09.786823+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_048_smote.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__D__R10",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:28:37.650863+00:00",
+      "ended_at": "2026-07-14T04:29:25.860454+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_049_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__D__R100",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:29:09.280901+00:00",
+      "ended_at": "2026-07-14T04:29:41.926821+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_050_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__D__R20",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:29:25.355586+00:00",
+      "ended_at": "2026-07-14T04:29:57.991007+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_051_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__D__R200",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:29:41.423269+00:00",
+      "ended_at": "2026-07-14T04:30:14.084921+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_052_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__D__R50",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:29:57.487881+00:00",
+      "ended_at": "2026-07-14T04:30:30.160194+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_053_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__D__R500",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:30:13.581871+00:00",
+      "ended_at": "2026-07-14T04:30:46.233703+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_054_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__D__Rfull",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:30:29.655894+00:00",
+      "ended_at": "2026-07-14T04:31:17.861786+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_055_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__E__R10",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:30:45.730950+00:00",
+      "ended_at": "2026-07-14T04:31:33.935664+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_056_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__E__R100",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:31:17.360110+00:00",
+      "ended_at": "2026-07-14T04:31:50.018853+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_057_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__E__R20",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:31:33.433160+00:00",
+      "ended_at": "2026-07-14T04:32:06.102853+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_058_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__E__R200",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:31:49.516973+00:00",
+      "ended_at": "2026-07-14T04:32:22.172938+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_059_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__E__R50",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:32:05.597934+00:00",
+      "ended_at": "2026-07-14T04:32:38.238219+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_060_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__E__R500",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:32:21.669908+00:00",
+      "ended_at": "2026-07-14T04:32:54.351019+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_061_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__boolean__E__Rfull",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:32:37.735919+00:00",
+      "ended_at": "2026-07-14T04:33:26.499544+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_062_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__error__B__R100",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:32:53.848133+00:00",
+      "ended_at": "2026-07-14T04:33:26.503112+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_063_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__error__B__R20",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:33:25.478501+00:00",
+      "ended_at": "2026-07-14T04:33:58.641842+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_064_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__error__B__R200",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:33:25.996891+00:00",
+      "ended_at": "2026-07-14T04:33:58.646712+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_065_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__error__B__R50",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:33:57.622094+00:00",
+      "ended_at": "2026-07-14T04:34:30.807975+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_066_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__error__B__R500",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:33:58.139898+00:00",
+      "ended_at": "2026-07-14T04:34:30.817492+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_067_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__error__D__R100",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:34:30.306013+00:00",
+      "ended_at": "2026-07-14T04:35:02.440048+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_069_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__error__B__Rfull",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:34:29.783939+00:00",
+      "ended_at": "2026-07-14T04:35:18.515068+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_068_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__error__D__R200",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:35:01.936874+00:00",
+      "ended_at": "2026-07-14T04:35:34.590415+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_070_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__error__D__R50",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:35:18.011926+00:00",
+      "ended_at": "2026-07-14T04:35:50.668190+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_071_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__error__D__R500",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:35:34.085876+00:00",
+      "ended_at": "2026-07-14T04:36:06.805936+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_072_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__error__D__Rfull",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:35:50.163917+00:00",
+      "ended_at": "2026-07-14T04:36:22.867833+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_073_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__time__A__R100",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:36:06.301111+00:00",
+      "ended_at": "2026-07-14T04:36:38.961838+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_074_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__time__A__R20",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:36:22.363925+00:00",
+      "ended_at": "2026-07-14T04:36:55.032708+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_075_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__time__A__R200",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:36:38.457903+00:00",
+      "ended_at": "2026-07-14T04:37:11.115928+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_076_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__time__A__R50",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:36:54.528086+00:00",
+      "ended_at": "2026-07-14T04:37:27.200920+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_077_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__time__A__R500",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:37:10.608871+00:00",
+      "ended_at": "2026-07-14T04:37:43.286055+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_078_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__time__A__Rfull",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:37:26.688888+00:00",
+      "ended_at": "2026-07-14T04:37:59.347965+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_079_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__time__D__R100",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:37:42.780932+00:00",
+      "ended_at": "2026-07-14T04:38:15.416916+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_080_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__time__D__R200",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:37:58.842878+00:00",
+      "ended_at": "2026-07-14T04:38:31.520820+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_081_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__time__D__R50",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:38:14.913883+00:00",
+      "ended_at": "2026-07-14T04:38:47.602827+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_082_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__time__D__R500",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:38:31.016542+00:00",
+      "ended_at": "2026-07-14T04:39:03.716305+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_083_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__time__D__Rfull",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:38:47.098095+00:00",
+      "ended_at": "2026-07-14T04:39:19.851379+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_084_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__union__D__R100",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:39:03.211885+00:00",
+      "ended_at": "2026-07-14T04:39:35.928382+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_085_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__union__D__R20",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:39:19.349865+00:00",
+      "ended_at": "2026-07-14T04:39:52.025892+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_086_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__union__D__R200",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:39:35.424190+00:00",
+      "ended_at": "2026-07-14T04:40:08.120012+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_087_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__union__D__R50",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:39:51.522872+00:00",
+      "ended_at": "2026-07-14T04:40:24.237211+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_088_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__union__D__R500",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:40:07.616916+00:00",
+      "ended_at": "2026-07-14T04:40:40.308392+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_089_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__union__D__Rfull",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:40:23.734906+00:00",
+      "ended_at": "2026-07-14T04:40:56.403835+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_090_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__union__F__R10",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:40:39.806878+00:00",
+      "ended_at": "2026-07-14T04:41:12.474908+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_091_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__union__F__R100",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:40:55.899025+00:00",
+      "ended_at": "2026-07-14T04:41:28.546702+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_092_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__union__F__R20",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:41:11.968864+00:00",
+      "ended_at": "2026-07-14T04:41:44.629898+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_093_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__union__F__R200",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:41:28.041900+00:00",
+      "ended_at": "2026-07-14T04:42:00.707892+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_094_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__union__F__R50",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:41:44.128131+00:00",
+      "ended_at": "2026-07-14T04:42:16.792926+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_095_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__union__F__R500",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:42:00.203257+00:00",
+      "ended_at": "2026-07-14T04:42:32.875475+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_096_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__gan__union__F__Rfull",
+      "method": "gan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:42:16.289899+00:00",
+      "ended_at": "2026-07-14T04:42:48.955762+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_097_gan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__D__R100",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:42:48.448978+00:00",
+      "ended_at": "2026-07-14T04:43:51.708830+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_099_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__D__R10",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:42:32.369109+00:00",
+      "ended_at": "2026-07-14T04:44:38.891656+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_098_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__D__R20",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:43:51.202945+00:00",
+      "ended_at": "2026-07-14T04:45:10.514395+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_100_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__D__R200",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:44:38.388929+00:00",
+      "ended_at": "2026-07-14T04:45:26.585531+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_101_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__D__R50",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:45:10.012176+00:00",
+      "ended_at": "2026-07-14T04:45:58.232359+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_102_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__D__R500",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:45:26.081080+00:00",
+      "ended_at": "2026-07-14T04:46:29.898544+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_103_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__E__R10",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:46:29.396292+00:00",
+      "ended_at": "2026-07-14T04:48:50.034408+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_105_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__D__Rfull",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:45:57.728892+00:00",
+      "ended_at": "2026-07-14T04:49:22.187819+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_104_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__E__R100",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:49:21.167178+00:00",
+      "ended_at": "2026-07-14T04:50:24.510190+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_106_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__E__R20",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:49:21.684062+00:00",
+      "ended_at": "2026-07-14T04:50:41.104665+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_107_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__E__R200",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:50:40.082645+00:00",
+      "ended_at": "2026-07-14T04:51:44.483829+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_108_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__E__R50",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:50:40.600231+00:00",
+      "ended_at": "2026-07-14T04:51:44.485501+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_109_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__E__R500",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:51:43.457578+00:00",
+      "ended_at": "2026-07-14T04:52:46.720327+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_110_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__error__B__R100",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:53:17.827926+00:00",
+      "ended_at": "2026-07-14T04:54:20.683689+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_112_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__boolean__E__Rfull",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:51:43.979116+00:00",
+      "ended_at": "2026-07-14T04:54:52.855650+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_111_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__error__B__R200",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:54:52.352916+00:00",
+      "ended_at": "2026-07-14T04:55:55.324090+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_114_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__error__B__R20",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:54:51.837940+00:00",
+      "ended_at": "2026-07-14T04:56:12.060580+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_113_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__error__B__R50",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:56:10.904915+00:00",
+      "ended_at": "2026-07-14T04:57:15.327913+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_115_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__error__B__R500",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:56:11.558904+00:00",
+      "ended_at": "2026-07-14T04:57:15.335757+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_116_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__error__D__R100",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:57:14.824079+00:00",
+      "ended_at": "2026-07-14T04:58:17.612236+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_118_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__error__B__Rfull",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:57:14.308094+00:00",
+      "ended_at": "2026-07-14T04:58:49.797385+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_117_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__error__D__R200",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:58:48.765516+00:00",
+      "ended_at": "2026-07-14T04:59:53.048510+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_119_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__error__D__R50",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:58:49.291893+00:00",
+      "ended_at": "2026-07-14T04:59:53.053875+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_120_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__error__D__R500",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:59:52.022284+00:00",
+      "ended_at": "2026-07-14T05:00:55.827829+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_121_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__error__D__Rfull",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T04:59:52.544902+00:00",
+      "ended_at": "2026-07-14T05:01:43.685366+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_122_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__time__A__R100",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:00:55.322864+00:00",
+      "ended_at": "2026-07-14T05:01:43.687786+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_123_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__time__A__R200",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:01:43.180958+00:00",
+      "ended_at": "2026-07-14T05:02:46.470978+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_125_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__time__A__R20",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:01:42.634529+00:00",
+      "ended_at": "2026-07-14T05:03:02.537833+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_124_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__time__A__R50",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:02:45.966897+00:00",
+      "ended_at": "2026-07-14T05:03:34.222938+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_126_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__time__A__R500",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:03:02.034941+00:00",
+      "ended_at": "2026-07-14T05:03:50.324240+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_127_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__time__D__R100",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:03:49.818082+00:00",
+      "ended_at": "2026-07-14T05:04:52.582989+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_129_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__time__A__Rfull",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:03:33.715094+00:00",
+      "ended_at": "2026-07-14T05:05:09.181844+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_128_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__time__D__R200",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:05:08.153659+00:00",
+      "ended_at": "2026-07-14T05:06:12.557943+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_130_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__time__D__R50",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:05:08.673209+00:00",
+      "ended_at": "2026-07-14T05:06:12.561360+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_131_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__time__D__R500",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:06:11.535943+00:00",
+      "ended_at": "2026-07-14T05:07:15.341829+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_132_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__time__D__Rfull",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:06:12.051271+00:00",
+      "ended_at": "2026-07-14T05:07:46.995265+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_133_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__union__D__R100",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:07:14.836179+00:00",
+      "ended_at": "2026-07-14T05:08:03.074870+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_134_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__union__D__R20",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:07:46.489938+00:00",
+      "ended_at": "2026-07-14T05:09:06.384665+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_135_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__union__D__R200",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:08:02.570084+00:00",
+      "ended_at": "2026-07-14T05:09:06.391703+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_136_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__union__D__R50",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:09:05.367995+00:00",
+      "ended_at": "2026-07-14T05:10:09.807818+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_137_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__union__D__R500",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:09:05.882068+00:00",
+      "ended_at": "2026-07-14T05:10:09.808986+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_138_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__union__D__Rfull",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:10:08.752594+00:00",
+      "ended_at": "2026-07-14T05:12:15.043897+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_139_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__union__F__R10",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:10:09.300882+00:00",
+      "ended_at": "2026-07-14T05:12:15.049019+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_140_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__union__F__R100",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:12:14.536937+00:00",
+      "ended_at": "2026-07-14T05:12:47.186542+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_141_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__union__F__R200",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:12:46.685077+00:00",
+      "ended_at": "2026-07-14T05:13:49.464741+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_143_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__union__F__R20",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:12:46.165752+00:00",
+      "ended_at": "2026-07-14T05:14:06.048931+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_142_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__union__F__R50",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:14:05.030896+00:00",
+      "ended_at": "2026-07-14T05:15:08.850904+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_144_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__union__F__R500",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:14:05.544124+00:00",
+      "ended_at": "2026-07-14T05:15:08.853441+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_145_ctgan.stdout.log"
+    },
+    {
+      "run_id": "phase2b__ctgan__union__F__Rfull",
+      "method": "ctgan",
+      "return_code": 0,
+      "started_at": "2026-07-14T05:15:08.346109+00:00",
+      "ended_at": "2026-07-14T05:16:26.583610+00:00",
+      "log": "/content/drive/MyDrive/GAN/GAN_SQLi_Colab/results_phase2b_smote_gan_ctgan_cpu/_scheduler_audit/phase2b/shard_146_ctgan.stdout.log"
+    }
+  ],
+  "failed": [],
+  "running": [],
+  "pending": []
+}

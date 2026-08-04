@@ -1,0 +1,14 @@
+{
+  "phase": "phase1",
+  "selected": 1,
+  "completed": [
+    {
+      "run_id": "phase1__seqgan_master__all__raw__Rfull",
+      "return_code": 0,
+      "log": "/content/parallel_shards/seqgan_phase2b_phase3/phase1/shard_000.stdout.log"
+    }
+  ],
+  "failed": [],
+  "running": [],
+  "pending": []
+}

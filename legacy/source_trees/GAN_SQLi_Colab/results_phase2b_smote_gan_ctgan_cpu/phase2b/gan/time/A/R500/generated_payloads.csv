@@ -1,0 +1,501 @@
+id,label,payload_type,payload,retrieval_method,retrieval_source_id,retrieval_distance
+GAN_000001,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.1854391941659905
+GAN_000002,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.98779323404625
+GAN_000003,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.384319104707277
+GAN_000004,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.116168865562087
+GAN_000005,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.103953220188895
+GAN_000006,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.073646763686923
+GAN_000007,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.194797716158749
+GAN_000008,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.157161204741479
+GAN_000009,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.212705567044025
+GAN_000010,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.351593746514188
+GAN_000011,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.036990505387663
+GAN_000012,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.022914435955968
+GAN_000013,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.248059073154594
+GAN_000014,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.038864034454873
+GAN_000015,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.2347508569953165
+GAN_000016,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.143801609019156
+GAN_000017,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.150131589855298
+GAN_000018,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.170668308326709
+GAN_000019,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.342643216208623
+GAN_000020,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.250055819765521
+GAN_000021,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.006534488194077
+GAN_000022,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.210092339477195
+GAN_000023,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1814360667499395
+GAN_000024,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.072256988640724
+GAN_000025,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.179973588511391
+GAN_000026,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.017164623368796
+GAN_000027,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.386207444689143
+GAN_000028,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.236119125770783
+GAN_000029,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9831941263798782
+GAN_000030,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9858918403656034
+GAN_000031,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.134198339851283
+GAN_000032,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.239428274849634
+GAN_000033,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.171482726350934
+GAN_000034,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.288640109202637
+GAN_000035,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.038354740084994
+GAN_000036,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.191641628075123
+GAN_000037,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.033220770815156
+GAN_000038,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.01385262352397
+GAN_000039,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.2127051986367015
+GAN_000040,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.264263444320917
+GAN_000041,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.232000855666492
+GAN_000042,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.981707123840277
+GAN_000043,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.227701618116704
+GAN_000044,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.13770492293866
+GAN_000045,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.256488742970556
+GAN_000046,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.083024534095709
+GAN_000047,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.110907683692656
+GAN_000048,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.2011667780534365
+GAN_000049,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1265789472089995
+GAN_000050,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9719856832105958
+GAN_000051,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.136500879667255
+GAN_000052,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1631808754738735
+GAN_000053,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.138821345951515
+GAN_000054,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.2650071564106495
+GAN_000055,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0745898449509514
+GAN_000056,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1208366434443615
+GAN_000057,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.248202954617969
+GAN_000058,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.270000857851232
+GAN_000059,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.203682494545467
+GAN_000060,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.213621205171605
+GAN_000061,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.231669718676801
+GAN_000062,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.058123040905215
+GAN_000063,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.013487783093864
+GAN_000064,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.958327603832252
+GAN_000065,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9975581430163105
+GAN_000066,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.075102868493731
+GAN_000067,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.378304948201094
+GAN_000068,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.014473116712995
+GAN_000069,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1619895290815725
+GAN_000070,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.134724904493528
+GAN_000071,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.11292371412825
+GAN_000072,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.128513930457537
+GAN_000073,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.169808805678142
+GAN_000074,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.171993036126051
+GAN_000075,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.105805381900444
+GAN_000076,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.100174501406339
+GAN_000077,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9808901417796334
+GAN_000078,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9851023455420918
+GAN_000079,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.234509124947916
+GAN_000080,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.005297171704265
+GAN_000081,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.167527066485317
+GAN_000082,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.247209298494259
+GAN_000083,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.129482322144752
+GAN_000084,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.125268361251318
+GAN_000085,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1204570278511925
+GAN_000086,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.292441630202103
+GAN_000087,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.164168509718737
+GAN_000088,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.059905396239941
+GAN_000089,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.195687481863628
+GAN_000090,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.060707979469172
+GAN_000091,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.154254744545665
+GAN_000092,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.169427234684875
+GAN_000093,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.964318541544252
+GAN_000094,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.04472524994601
+GAN_000095,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9603092872652415
+GAN_000096,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.257679512226198
+GAN_000097,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.309061001786958
+GAN_000098,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.231292168461561
+GAN_000099,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.184963771524052
+GAN_000100,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.243909384848962
+GAN_000101,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.280636669809022
+GAN_000102,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.988699299334606
+GAN_000103,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.33290628501636
+GAN_000104,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.226052383111406
+GAN_000105,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.297290955283525
+GAN_000106,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.148392157631894
+GAN_000107,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.178070185912596
+GAN_000108,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.135478904337375
+GAN_000109,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.2452533808720165
+GAN_000110,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.269963158861235
+GAN_000111,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.248951543763802
+GAN_000112,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.169925217621481
+GAN_000113,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.108023170602361
+GAN_000114,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1005292404740565
+GAN_000115,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0299628682679645
+GAN_000116,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.290486748666274
+GAN_000117,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.212688132467628
+GAN_000118,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.230854256590847
+GAN_000119,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.1810665571574415
+GAN_000120,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1401846464333865
+GAN_000121,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.098594957377103
+GAN_000122,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.150277960357262
+GAN_000123,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.150472618354839
+GAN_000124,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.396223520382087
+GAN_000125,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.23762679966699
+GAN_000126,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.109552378572265
+GAN_000127,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.199489939027985
+GAN_000128,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.039092549690676
+GAN_000129,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.12020515720697
+GAN_000130,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.194617797015566
+GAN_000131,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.209902096724715
+GAN_000132,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.024172000826034
+GAN_000133,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.188974873578869
+GAN_000134,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.143879893333171
+GAN_000135,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.175280218466325
+GAN_000136,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.247344012251006
+GAN_000137,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9780618524887066
+GAN_000138,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.183574357137303
+GAN_000139,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.064774272256663
+GAN_000140,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.184374404778118
+GAN_000141,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.172460148465638
+GAN_000142,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9165406071333186
+GAN_000143,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.117110294425002
+GAN_000144,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.004522432310404
+GAN_000145,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1249882087015
+GAN_000146,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.325168909679167
+GAN_000147,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.331789557249585
+GAN_000148,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.2498812048270596
+GAN_000149,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.23344312799735
+GAN_000150,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.000982545146565
+GAN_000151,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.316750177985866
+GAN_000152,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.277663137533291
+GAN_000153,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.002733148471419
+GAN_000154,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.169924621709515
+GAN_000155,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.188627414834214
+GAN_000156,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.109040276421322
+GAN_000157,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.108645221282861
+GAN_000158,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.071305977418288
+GAN_000159,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.249675268695283
+GAN_000160,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.080923162718422
+GAN_000161,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.069499649760128
+GAN_000162,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.23178067152688
+GAN_000163,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.106657671107123
+GAN_000164,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.10628724969569
+GAN_000165,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.124377931196078
+GAN_000166,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9855947497788824
+GAN_000167,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.176726872161932
+GAN_000168,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.184016271147954
+GAN_000169,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.181492901536566
+GAN_000170,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.244029934495011
+GAN_000171,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.255835515888074
+GAN_000172,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.016493952444641
+GAN_000173,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.230236442391106
+GAN_000174,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.144084087620261
+GAN_000175,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.330036017030905
+GAN_000176,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9463331558158714
+GAN_000177,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.164452893302475
+GAN_000178,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0872121247092235
+GAN_000179,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.214469790956558
+GAN_000180,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.366629461160779
+GAN_000181,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0090116186042035
+GAN_000182,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.181047898087267
+GAN_000183,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.104789085904482
+GAN_000184,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0931947236990744
+GAN_000185,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.235475927822748
+GAN_000186,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9757781281882787
+GAN_000187,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.275727525952047
+GAN_000188,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.958982596832124
+GAN_000189,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.122312779157721
+GAN_000190,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.090964005806125
+GAN_000191,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.273492404269509
+GAN_000192,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.302165263946728
+GAN_000193,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.343653627644033
+GAN_000194,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.221059683797064
+GAN_000195,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.214028210200716
+GAN_000196,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.055516859123125
+GAN_000197,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.169699937194454
+GAN_000198,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.106190364296871
+GAN_000199,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.179208267845753
+GAN_000200,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.175908233280138
+GAN_000201,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.229294639053478
+GAN_000202,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1196385269732705
+GAN_000203,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.970613786189501
+GAN_000204,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1269237721035585
+GAN_000205,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.130080411654039
+GAN_000206,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.104280894836899
+GAN_000207,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.172329496298973
+GAN_000208,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.045432296107621
+GAN_000209,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.180674780318236
+GAN_000210,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.143892546386248
+GAN_000211,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.149924988213025
+GAN_000212,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.120966863101734
+GAN_000213,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.3155039804550315
+GAN_000214,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.246865183205135
+GAN_000215,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.248011669961036
+GAN_000216,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.060033949576987
+GAN_000217,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.295745582613562
+GAN_000218,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.322586699629746
+GAN_000219,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.942895138774915
+GAN_000220,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.997738192367341
+GAN_000221,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.172211280036184
+GAN_000222,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.151347688024334
+GAN_000223,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.106080453261494
+GAN_000224,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.137632027113501
+GAN_000225,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.910178704180992
+GAN_000226,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.24152718659481
+GAN_000227,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0821656931083705
+GAN_000228,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1121515780681825
+GAN_000229,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.127454943627986
+GAN_000230,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1150173080400165
+GAN_000231,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.102438076967513
+GAN_000232,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.137028077356634
+GAN_000233,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.184250759459462
+GAN_000234,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.2288559738578595
+GAN_000235,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.209828087886157
+GAN_000236,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.168274146101824
+GAN_000237,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.131174568179487
+GAN_000238,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.217745983994992
+GAN_000239,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.131837661774323
+GAN_000240,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.053295303944333
+GAN_000241,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.153018930425657
+GAN_000242,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.046463939733253
+GAN_000243,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.105618057529081
+GAN_000244,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.067523170519698
+GAN_000245,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.127582402143895
+GAN_000246,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.242017521415298
+GAN_000247,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.271947991432567
+GAN_000248,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1801579426885755
+GAN_000249,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.174320099839054
+GAN_000250,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.142580283994431
+GAN_000251,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.16152753801266
+GAN_000252,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.161012320711573
+GAN_000253,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.243103703587845
+GAN_000254,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.196024401386605
+GAN_000255,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.287083285967522
+GAN_000256,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.15661561299859
+GAN_000257,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0007507311978205
+GAN_000258,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.10413210983679
+GAN_000259,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.108579717888987
+GAN_000260,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.213347203918557
+GAN_000261,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1915910718922875
+GAN_000262,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.134057032063828
+GAN_000263,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.194302496993103
+GAN_000264,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.174475461533798
+GAN_000265,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.189623607610479
+GAN_000266,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.107482502572223
+GAN_000267,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0921969750436835
+GAN_000268,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0232139788351144
+GAN_000269,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9893751328905025
+GAN_000270,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.018431092227893
+GAN_000271,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1840705060558046
+GAN_000272,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.092894949286242
+GAN_000273,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.13267118342256
+GAN_000274,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.330877580229742
+GAN_000275,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.214708142214915
+GAN_000276,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.045436480693323
+GAN_000277,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.020534487079867
+GAN_000278,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.041606017212488
+GAN_000279,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.243764244189278
+GAN_000280,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.277789686627565
+GAN_000281,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.080453202192469
+GAN_000282,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.152211714416653
+GAN_000283,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.153201859023478
+GAN_000284,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.162309592793207
+GAN_000285,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.07545189982524
+GAN_000286,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.027507571964121
+GAN_000287,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.231047762249255
+GAN_000288,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1363527843585235
+GAN_000289,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.270970693007399
+GAN_000290,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9109140131524405
+GAN_000291,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.220031530256448
+GAN_000292,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.159023680318535
+GAN_000293,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.058479243662078
+GAN_000294,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.1823394822748385
+GAN_000295,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.142301284101126
+GAN_000296,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.05514966757433
+GAN_000297,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.1646371606548325
+GAN_000298,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.129551160540086
+GAN_000299,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.068304440212604
+GAN_000300,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.185150125351997
+GAN_000301,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.2523963463391805
+GAN_000302,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.152087366213537
+GAN_000303,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.116184165946585
+GAN_000304,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.08577040061303
+GAN_000305,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.146835060843918
+GAN_000306,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.160380628641949
+GAN_000307,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.000009488512049
+GAN_000308,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.083875712267189
+GAN_000309,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.322914537501195
+GAN_000310,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.26312549037287
+GAN_000311,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.933758266333952
+GAN_000312,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.174263712504301
+GAN_000313,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.19949404435798
+GAN_000314,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9653165386347498
+GAN_000315,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.087716171115704
+GAN_000316,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.025335012660491
+GAN_000317,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.237551142203011
+GAN_000318,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9786030130411687
+GAN_000319,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.12139347368125
+GAN_000320,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.017616713002374
+GAN_000321,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.195487089743584
+GAN_000322,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.231780562923802
+GAN_000323,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.12580409539913
+GAN_000324,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.046073371816173
+GAN_000325,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.191452746934105
+GAN_000326,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.934638764820686
+GAN_000327,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.126311488915895
+GAN_000328,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.217268389472367
+GAN_000329,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.231513383963024
+GAN_000330,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.009438897469228
+GAN_000331,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.181571002773435
+GAN_000332,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.254326861435824
+GAN_000333,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.141793395635787
+GAN_000334,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.106069463518367
+GAN_000335,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.050607266555766
+GAN_000336,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.191586641264561
+GAN_000337,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.246522990466633
+GAN_000338,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.042995647664263
+GAN_000339,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.016421272036109
+GAN_000340,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.242262295015599
+GAN_000341,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.108421039136244
+GAN_000342,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.211205749494205
+GAN_000343,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.079202144251414
+GAN_000344,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0494445511102874
+GAN_000345,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.186330433517636
+GAN_000346,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.033120240617451
+GAN_000347,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.163230997683896
+GAN_000348,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.239445312820719
+GAN_000349,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0592108729376015
+GAN_000350,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.042770814527375
+GAN_000351,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.183694163974
+GAN_000352,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.248957250472937
+GAN_000353,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.161618038486355
+GAN_000354,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.033159181864746
+GAN_000355,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.114367273395658
+GAN_000356,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.195017436929463
+GAN_000357,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.118563925351981
+GAN_000358,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1562819837529705
+GAN_000359,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.107016631289697
+GAN_000360,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.011058103278698
+GAN_000361,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.119091086596233
+GAN_000362,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9273850454029158
+GAN_000363,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.110333019567481
+GAN_000364,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.081052380888257
+GAN_000365,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.067351894770513
+GAN_000366,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.115169745589128
+GAN_000367,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.18308462460377
+GAN_000368,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.190686666556969
+GAN_000369,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0665801188534205
+GAN_000370,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.088829129097775
+GAN_000371,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.144120736312997
+GAN_000372,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.242258938543958
+GAN_000373,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9931613313485705
+GAN_000374,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.180319076939763
+GAN_000375,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.995727225285283
+GAN_000376,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.105227091388258
+GAN_000377,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.13694382793817
+GAN_000378,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.065185469751061
+GAN_000379,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.151615381360272
+GAN_000380,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.323161968064254
+GAN_000381,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.044351443712586
+GAN_000382,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.129531745485831
+GAN_000383,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.140947322675375
+GAN_000384,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.218778751230855
+GAN_000385,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.226029748385126
+GAN_000386,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0661696402670815
+GAN_000387,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.136742733524499
+GAN_000388,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.137152316602587
+GAN_000389,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.092076700128862
+GAN_000390,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.902661674507536
+GAN_000391,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9450214966164414
+GAN_000392,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.104527722685832
+GAN_000393,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.116524251267623
+GAN_000394,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.20709336515342
+GAN_000395,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.165621090516257
+GAN_000396,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.235954869405745
+GAN_000397,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0606404909887726
+GAN_000398,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.06842880757683
+GAN_000399,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.152040992387323
+GAN_000400,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.218559304928778
+GAN_000401,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.032818969428662
+GAN_000402,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.121451638624166
+GAN_000403,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.217083002490878
+GAN_000404,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.214512640676907
+GAN_000405,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.120629563791916
+GAN_000406,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.166229442189063
+GAN_000407,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.076568780681872
+GAN_000408,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.282677354950542
+GAN_000409,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.050591877437926
+GAN_000410,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.077070867289238
+GAN_000411,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.170914372320717
+GAN_000412,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.124998549611836
+GAN_000413,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9528708247813555
+GAN_000414,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.094236409165355
+GAN_000415,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.119926342759606
+GAN_000416,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.125401709378381
+GAN_000417,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.077671346443388
+GAN_000418,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.157917976029196
+GAN_000419,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.237045685875957
+GAN_000420,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.079374599718488
+GAN_000421,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.075858735871328
+GAN_000422,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.124676866904494
+GAN_000423,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.3590201821333
+GAN_000424,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.311237040619839
+GAN_000425,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.053172743045712
+GAN_000426,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.123033485376465
+GAN_000427,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.144115161498503
+GAN_000428,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.186105420483975
+GAN_000429,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0612760325868384
+GAN_000430,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9965193650637687
+GAN_000431,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.342331526021725
+GAN_000432,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.2275933189101265
+GAN_000433,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.196190365175666
+GAN_000434,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.999034123228163
+GAN_000435,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.051564852806318
+GAN_000436,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.063824702018365
+GAN_000437,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.41706535527729
+GAN_000438,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.235289443155466
+GAN_000439,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.049851331802002
+GAN_000440,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.8930733326178015
+GAN_000441,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.144144777809102
+GAN_000442,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.089870746238609
+GAN_000443,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.201233268995287
+GAN_000444,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.059303286247098
+GAN_000445,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.1721924800827175
+GAN_000446,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.136129009795962
+GAN_000447,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.167977902366078
+GAN_000448,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.142818184117817
+GAN_000449,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.203240827148665
+GAN_000450,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.324196234683817
+GAN_000451,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.04586377799922
+GAN_000452,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.099916239612098
+GAN_000453,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.127874879733054
+GAN_000454,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.163931373704533
+GAN_000455,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.150499131463827
+GAN_000456,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.19157137372334
+GAN_000457,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1207481461564885
+GAN_000458,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.042151186155082
+GAN_000459,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.9162082734381256
+GAN_000460,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.204103702634008
+GAN_000461,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.249153607347047
+GAN_000462,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.092121290005222
+GAN_000463,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.097143929799556
+GAN_000464,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.123739442282169
+GAN_000465,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.046700940565145
+GAN_000466,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.312124819730595
+GAN_000467,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.253065568710136
+GAN_000468,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.194514417626697
+GAN_000469,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.113902328262562
+GAN_000470,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.203530146911851
+GAN_000471,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.123586609890873
+GAN_000472,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.082470591771514
+GAN_000473,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.0858104335380085
+GAN_000474,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.929707729656166
+GAN_000475,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.2361686855656036
+GAN_000476,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.129758436650792
+GAN_000477,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.320169614985708
+GAN_000478,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.169890818396725
+GAN_000479,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.078332247744619
+GAN_000480,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.180878650834526
+GAN_000481,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.208580143198354
+GAN_000482,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.202591224033259
+GAN_000483,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1872410757690615
+GAN_000484,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.1139643672638195
+GAN_000485,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.19617234937685
+GAN_000486,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.108413096549715
+GAN_000487,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.3529314363460125
+GAN_000488,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.291824449648176
+GAN_000489,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,3.950460967418069
+GAN_000490,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.086750251350708
+GAN_000491,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.187958734264626
+GAN_000492,attack,time,1 or pg_sleep  (  __TIME__  )  --,nearest_attack_euclidean,R000002,4.227802758127657
+GAN_000493,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.048472524088813
+GAN_000494,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.15102119889919
+GAN_000495,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.053690547533265
+GAN_000496,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.163861679818834
+GAN_000497,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.138369427075025
+GAN_000498,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.247212101195008
+GAN_000499,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.164763841864145
+GAN_000500,attack,time," )    )   ,waitfor delay '0:0:__TIME__'--",nearest_attack_euclidean,R000020,4.033054781604656

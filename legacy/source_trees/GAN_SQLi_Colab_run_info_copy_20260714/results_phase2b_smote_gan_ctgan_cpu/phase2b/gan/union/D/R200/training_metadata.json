@@ -1,0 +1,31 @@
+{
+  "method": "gan",
+  "dataset": "data/prepared/phase2b/union/D/R200/attack_train.csv",
+  "family": "union",
+  "seed": 88,
+  "device": "cpu",
+  "n_train_attack": 78,
+  "n_samples_requested": 500,
+  "n_samples_generated": 500,
+  "n_unique_generated_payloads": 6,
+  "input_family_counts": {
+    "union": 78
+  },
+  "output_family_counts": {
+    "union": 500
+  },
+  "epochs": 15,
+  "batch_size": 64,
+  "noise_dim": 16,
+  "hidden_dim": 64,
+  "learning_rate": 0.0002,
+  "feature_count": 88,
+  "final_losses": {
+    "union": {
+      "generator_loss": 0.7013586163520813,
+      "discriminator_loss": 1.3398064374923706
+    }
+  },
+  "duplicates_preserved": true,
+  "stop_reason": "completed"
+}

@@ -1,0 +1,21 @@
+{
+  "method": "smote",
+  "dataset": "data/prepared/phase2b/union/D/R20/attack_train.csv",
+  "family": "union",
+  "seed": 88,
+  "config": "medium",
+  "n_train_attack": 780,
+  "n_samples_requested": 500,
+  "n_samples_generated": 500,
+  "n_unique_generated_payloads": 361,
+  "input_family_counts": {
+    "union": 780
+  },
+  "output_family_counts": {
+    "union": 500
+  },
+  "k_neighbors": 5,
+  "feature_count": 70,
+  "duplicates_preserved": true,
+  "stop_reason": "completed"
+}

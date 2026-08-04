@@ -1,0 +1,5 @@
+{
+  "selected_global_ratio": "200",
+  "selection_method": "auto_composite_score",
+  "note": "Auto-selected tu composite score (family_motif_hit_rate + unique_rate - garbage_rate - model_collapse_rate) tren seqgan_master; bypass select-ratio chinh thuc (can du 4 method)."
+}

