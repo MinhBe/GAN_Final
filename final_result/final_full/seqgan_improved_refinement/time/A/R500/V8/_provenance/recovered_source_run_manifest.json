@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "run_id": "seqgan_improved__phase2b__time__A__500__V8_B6X__sql_aware__len160__gpre160__reward_on__seed88",
+  "phase": "phase2b",
+  "method": "seqgan_improved",
+  "family": "time",
+  "scenario": "A",
+  "ratio": "500",
+  "variant_id": "V8",
+  "seed": 88,
+  "status": "completed",
+  "started_at": "2026-07-19T09:06:00.884905+00:00",
+  "ended_at": "2026-07-19T14:14:31.848480+00:00",
+  "config": "seqgan_improved",
+  "inputs": {
+    "dataset": {
+      "path": "H:\\My Drive\\GAN\\GAN\\data\\prepared\\phase2b\\time\\A\\R500\\attack_train.csv",
+      "sha256": "9611433df95f7f02e17826519a487e60f96ee9296c2531f07e16bf8fa3ce7e58"
+    },
+    "holdout": {
+      "path": "H:\\My Drive\\GAN\\GAN\\data\\prepared\\splits\\time_holdout.csv",
+      "sha256": "21193d98657e82d7b5c9d3f7539ca33e3020c0c075c374e9f53f3a7221981751"
+    }
+  },
+  "training": {
+    "execution_profile": "full_resume_b6x",
+    "planned_adversarial_epochs": 200,
+    "actual_adversarial_epochs": 200,
+    "resume_segment_epochs": 40,
+    "epoch_log_rows": 377,
+    "unique_epoch_count": 200,
+    "stop_reason": "completed"
+  },
+  "commands": {
+    "train": "reconstructed_from_training_metadata_and_epoch_log",
+    "quality": "derived quality_metrics.json from H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\time\\A\\R500\\V8_B6X\\generated_payloads.csv",
+    "rf": "derived rf_metrics.json from H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\time\\A\\R500\\V8_B6X\\generated_payloads.csv"
+  },
+  "artifacts": {
+    "source_run_dir": "H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\time\\A\\R500\\V8_B6X",
+    "recovery_overlay_dir": "H:\\My Drive\\GAN\\final_result_data\\recovered_b6x\\phase2b\\seqgan_improved\\time\\A\\R500\\V8",
+    "source_artifacts": [
+      {
+        "relative_path": "training_metadata.json",
+        "source_path": "H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\time\\A\\R500\\V8_B6X\\training_metadata.json",
+        "size_bytes": 3855,
+        "sha256": "6c867fc70f7934b1a825141b5b35bfc86b570329c388cd7ece86c30ad7b8f605"
+      },
+      {
+        "relative_path": "generated_payloads.csv",
+        "source_path": "H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\time\\A\\R500\\V8_B6X\\generated_payloads.csv",
+        "size_bytes": 323608,
+        "sha256": "3d5a066ef9bfa403f77436fad25fdc530a96c626f99baefd4a6d5a3c8c336482"
+      },
+      {
+        "relative_path": "generated_feature_vectors.csv",
+        "source_path": "H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\time\\A\\R500\\V8_B6X\\generated_feature_vectors.csv",
+        "size_bytes": 944724,
+        "sha256": "7db1d7e0d790d0bf69fec69c5a0ddfbdba0d8b5ac49863a1097fe9f00a5d3763"
+      },
+      {
+        "relative_path": "tokenizer.json",
+        "source_path": "H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\time\\A\\R500\\V8_B6X\\tokenizer.json",
+        "size_bytes": 2385,
+        "sha256": "d3f95edf3e111d426f7ce6276458597419ed29a4aeb785809f25ee7611bcbb9c"
+      },
+      {
+        "relative_path": "generator.pt",
+        "source_path": "H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\time\\A\\R500\\V8_B6X\\generator.pt",
+        "size_bytes": 71921,
+        "sha256": "5f4dac43b20e0b238cfa5e0a69f4cd94002c1b1e6d29b08fd6e3a194a383a844"
+      },
+      {
+        "relative_path": "discriminator.pt",
+        "source_path": "H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\time\\A\\R500\\V8_B6X\\discriminator.pt",
+        "size_bytes": 1970340,
+        "sha256": "4e3ae9e755cce61fe23435af3045a97118154dbe903a0618fdcbae95fe7841e5"
+      },
+      {
+        "relative_path": "logs/epoch_metrics.csv",
+        "source_path": "H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\time\\A\\R500\\V8_B6X\\logs\\epoch_metrics.csv",
+        "size_bytes": 2377161,
+        "sha256": "fe1341321fb41623c37cd19a6b3efdc621cbd0f56e952b1ea04196fdff73afe0"
+      },
+      {
+        "relative_path": "logs/train_rerun.log",
+        "source_path": "H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\time\\A\\R500\\V8_B6X\\logs\\train_rerun.log",
+        "size_bytes": 56221,
+        "sha256": "dc44c626cf3f4487a0e999aa3a2e5c0a31a2e3da1d24c73e5d20ffcee203bf0d"
+      }
+    ],
+    "derived_quality_metrics": "H:\\My Drive\\GAN\\final_result_data\\recovered_b6x\\phase2b\\seqgan_improved\\time\\A\\R500\\V8\\quality_metrics.json",
+    "derived_rf_metrics": "H:\\My Drive\\GAN\\final_result_data\\recovered_b6x\\phase2b\\seqgan_improved\\time\\A\\R500\\V8\\rf_metrics.json"
+  },
+  "reconstruction": {
+    "reconstructed": true,
+    "reason": "Original B6X directory had metadata/payload/model/epoch log but no run_manifest, quality_metrics or rf_metrics.",
+    "resume_variant_id": "V8_B6X",
+    "scientific_variant_id": "V8",
+    "source_directory_untouched": true,
+    "method": "Manifest reconstructed from training_metadata.json and logs/epoch_metrics.csv; quality/RF recomputed deterministically."
+  },
+  "environment": {
+    "python": "3.12.13",
+    "torch": "2.11.0+cu128",
+    "pandas": "2.2.2",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35"
+  }
+}

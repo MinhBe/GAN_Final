@@ -1,0 +1,59 @@
+{
+  "schema_version": 2,
+  "run_id": "final_full__seqgan_improved_refinement__union__D__R200__V2",
+  "phase": "final_full",
+  "campaign": "seqgan_improved_refinement",
+  "method": "seqgan_improved",
+  "family": "union",
+  "scenario": "D",
+  "ratio": "200",
+  "variant_id": "V2",
+  "seed": 88,
+  "status": "completed",
+  "execution_profile": "full_resume_b6x",
+  "source_execution": {
+    "run_id": "seqgan_improved__phase2b__union__D__200__V2_B6X__sql_aware__len160__gpre120__reward_off__seed88",
+    "phase": "phase2b",
+    "variant_id": "V2",
+    "status": "completed",
+    "source_run_dir": "H:\\My Drive\\GAN\\GAN_for_SQLi\\result\\phase2b_batch6x\\union\\D\\R200\\V2_B6X",
+    "source_manifest": "H:\\My Drive\\GAN\\final_result_data\\recovered_b6x\\phase2b\\seqgan_improved\\union\\D\\R200\\V2\\run_manifest.json",
+    "source_untouched": true
+  },
+  "inputs": {
+    "dataset": {
+      "path": "H:\\My Drive\\GAN\\GAN\\data\\prepared\\phase2b\\union\\D\\R200\\attack_train.csv",
+      "sha256": "9affe995ddafbef859ac4194dd70331dc7b17b3a94218fadfe9f08b77b6ddbc8"
+    },
+    "holdout": {
+      "path": "H:\\My Drive\\GAN\\GAN\\data\\prepared\\splits\\union_holdout.csv",
+      "sha256": "d5911da8db3c6280fa0eac573740c7b9a663486e9997ad09ada274a27fc3c060"
+    }
+  },
+  "training": {
+    "execution_profile": "full_resume_b6x",
+    "planned_adversarial_epochs": 200,
+    "actual_adversarial_epochs": 200,
+    "resume_segment_epochs": 40,
+    "epoch_log_rows": 374,
+    "unique_epoch_count": 200,
+    "stop_reason": "completed"
+  },
+  "commands": {
+    "train": "reconstructed_from_training_metadata_and_epoch_log",
+    "quality": "derived quality_metrics.json from H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\union\\D\\R200\\V2_B6X\\generated_payloads.csv",
+    "rf": "derived rf_metrics.json from H:\\My Drive\\GAN\\GAN_SQLi_Colab\\result\\phase2b_batch6x\\union\\D\\R200\\V2_B6X\\generated_payloads.csv"
+  },
+  "reconstruction": {
+    "reconstructed": true,
+    "reason": "Original B6X directory had metadata/payload/model/epoch log but no run_manifest, quality_metrics or rf_metrics.",
+    "resume_variant_id": "V2_B6X",
+    "scientific_variant_id": "V2",
+    "source_directory_untouched": true,
+    "method": "Manifest reconstructed from training_metadata.json and logs/epoch_metrics.csv; quality/RF recomputed deterministically."
+  },
+  "canonicalization": {
+    "reason": "The full 33-run targeted refinement is a separate campaign from the official 64-run Phase 3 medium test.",
+    "b6x_is_recovery_of_missing_full_run": true
+  }
+}
